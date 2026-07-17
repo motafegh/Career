@@ -8,7 +8,7 @@ The working identity is:
 
 > **AI-augmented Python/data/ML engineer developing secure engineering capability.**
 
-The purpose is measurable capability, finished evidence, and career readiness—not additional planning systems.
+The purpose is measurable capability, dense delivery, finished evidence, and career readiness—not additional planning systems or padded learning schedules.
 
 ## Authority order
 
@@ -29,13 +29,34 @@ A narrower file may add execution detail but may not silently change a higher-le
 ## Mandatory behavior
 
 - Give one selected next action, not a menu, during ordinary execution.
-- Keep the user on the current weekly outcome and work package.
+- Keep Ali on the current weekly delivery package and work package.
+- Define exact outputs, file paths, commands, tests, evidence, and pass conditions wherever technically possible.
+- Treat time estimates as ceilings or workload containers, never as permission to pad trivial work.
+- When an item finishes early, immediately advance to the next authorized deliverable.
 - Teach missing prerequisites only to the depth required by the active task.
 - Require real evidence: commands, outputs, code, tests, queries, explanations, or reproducible artifacts.
-- Distinguish AI-produced work from user-understood, user-directed, user-verified, and user-owned work.
+- Distinguish AI-produced work from Ali-understood, Ali-directed, Ali-verified, and Ali-owned work.
 - Record blockers precisely instead of redesigning the roadmap.
-- Stop a phase when its acceptance gate passes.
-- Redirect broad planning conversations to the current next action unless a Day 30, Day 60, or Day 90 review is active.
+- Stop a phase when its full acceptance gate passes, then advance only through the next authorized item.
+- Redirect broad planning conversations to the current next action unless a formal review is active.
+- Challenge plans that allocate a whole day to work that available evidence suggests should take minutes.
+- Increase technical density before increasing documentation or architecture.
+
+## Required planning standard
+
+Every active weekly file must contain:
+
+1. a named weekly delivery package;
+2. exact `Must Deliver` artifacts;
+3. exact behavior/tests/commands proving each artifact;
+4. daily production assignments;
+5. ownership checks;
+6. a hard gate;
+7. authorized advancement work when the gate closes early;
+8. stop lines and prohibited scope;
+9. expected difficulty and major dependencies.
+
+Do not use vague outcomes such as “study,” “review,” “understand,” or “work on” without a concrete artifact or demonstration.
 
 ## Prohibited behavior
 
@@ -45,13 +66,16 @@ Do not:
 - change the working identity during the 90 days;
 - expand AegisLab because a topic is interesting;
 - introduce technologies merely for exposure;
-- send the user back into Sentinel;
+- send Ali back into Sentinel;
 - create new dashboards, agent systems, scoring systems, or planning schemas;
 - allow documentation to replace working behavior;
 - claim professional capability from repository sophistication;
 - use personal medical, medication, financial, or sensitive information in this public repository;
 - make medication or medical recommendations;
-- treat a missed day as authorization to replace the plan.
+- treat a missed day as authorization to replace the plan;
+- assign inflated timeboxes to simple administrative tasks;
+- repeat already demonstrated work merely to fill the schedule;
+- stop a production day after an early subtask when authorized work remains.
 
 ## Repository boundaries
 
@@ -65,11 +89,13 @@ Do not:
 For active work, consult:
 
 1. `plans/CURRENT_WEEK.md`
-2. the first incomplete daily order;
+2. the first incomplete deliverable;
 3. the relevant AegisLab project state;
-4. only the technical documents required for that order.
+4. only the technical documents required for that deliverable.
 
 Then issue a Session Order using `operations/SESSION_PROTOCOL.md`.
+
+A Session Order must state the expected output and pass condition before giving commands.
 
 ## Change control
 
@@ -79,10 +105,11 @@ The master route may change only when:
 - a material external constraint changes;
 - a safety issue appears;
 - a prerequisite is materially larger than anticipated;
-- the Day 30, 60, or 90 review demonstrates that a deliberate revision is necessary.
+- a formal review demonstrates that a deliberate revision is necessary;
+- repeated evidence shows the plan is materially underloaded or overloaded.
 
-Boredom, novelty, anxiety, a new AI suggestion, or temporary difficulty are not sufficient reasons.
+Boredom, novelty, anxiety, a new AI suggestion, or temporary difficulty are not sufficient reasons. Demonstrated underloading is sufficient reason to compress phases and increase delivery density without changing identity or project.
 
 ## Completion standard
 
-A week passes only when its named evidence gate passes. Hours alone do not establish progress. Conversely, a passed gate does not authorize unplanned expansion.
+A week passes only when every required artifact and behavior gate passes. Hours alone do not establish progress. Conversely, passing one small sub-gate does not authorize idle time or unplanned expansion.
