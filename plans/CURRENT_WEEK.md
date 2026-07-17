@@ -1,269 +1,471 @@
-# Current Week — Preparation and Week 1
+# Current Week — Preparation + Week 1 Delivery Sprint
 
-**Active dates:** 2026-07-18 to 2026-07-26  
-**Execution week:** Week 1, 2026-07-20 to 2026-07-26  
-**Weekly focused minimum:** 15 hours  
+**Preparation:** 2026-07-18 to 2026-07-19  
+**Execution week:** 2026-07-20 to 2026-07-26  
+**Required production time:** 24 focused hours  
 **Primary repository:** `motafegh/AegisLab`
 
-## Controlling outcome
+## Weekly delivery package
 
-> Complete server-log lifecycle correlation for the current namespace SSH scenario and demonstrate a reduced-prompt cross-source explanation.
+> **Close the namespace SSH learning slice and deliver Python Intake v0: two sanitized SSH authentication fixtures, a typed normalized event, a parser for success/failure records, and a CLI that emits normalized JSON with passing tests.**
 
-## Week 1 gate
+This week is intentionally demanding. Namespace-only work must not consume the whole week.
+
+## Must Deliver
+
+### A. Namespace Closure Pack
+
+Create or update these AegisLab artifacts using equivalent existing locations only when the repository already has a stronger canonical path:
+
+```text
+docs/scenarios/ssh-auth-v0.md
+docs/evidence/week-01/namespace-ssh-evidence-map.md
+docs/evidence/week-01/fault-report.md
+docs/evidence/week-01/ownership-check.md
+docs/evidence/week-01/truth/normal.json
+docs/evidence/week-01/truth/repeated-failure.json
+tests/fixtures/sshd/success.log
+tests/fixtures/sshd/unauthorized_key.log
+```
+
+Required scenario contract:
+
+- **Normal case:** one successful public-key authentication by the authorized client identity.
+- **Repeated-failure case:** exactly **5** authentication attempts using the valid but unauthorized client key, from the controlled client to the controlled target, within a **60-second** scenario window.
+- Both cases require explicit start/end markers, actor, target, expected outcome, expected count, truth source, abort conditions, cleanup, and known limitations.
+- Truth must be maintained separately from parser or detector output.
+
+Required evidence map:
+
+```text
+claim
+→ truth evidence
+→ client evidence
+→ server-log evidence
+→ process evidence
+→ socket evidence
+→ packet evidence
+→ confidence
+→ limitation
+```
+
+Required bounded fault:
+
+- the intended authorized client key is used;
+- the lab `sshd` is deliberately pointed at an incorrect or unavailable authorization-file path;
+- Ali predicts the layer and expected evidence before execution;
+- the resulting failure is diagnosed from client/server/process/socket evidence;
+- the configuration is repaired;
+- the authorized success case is revalidated.
+
+Do not change the ordinary host SSH service. Do not commit keys or secrets.
+
+### B. Python Intake v0
+
+Required project paths:
+
+```text
+pyproject.toml
+src/aegislab/__init__.py
+src/aegislab/event.py
+src/aegislab/sshd_parser.py
+src/aegislab/cli.py
+tests/unit/test_event.py
+tests/unit/test_sshd_parser.py
+tests/integration/test_cli_parse.py
+```
+
+Equivalent paths are allowed only when AegisLab already has an accepted Python package structure. Do not create competing package layouts.
+
+Required normalized event fields:
+
+```text
+schema_version
+observed_at
+environment
+source
+service
+event_type
+outcome
+auth_method
+principal
+remote_address
+remote_port
+process_id
+raw_record
+parse_warnings
+```
+
+Week 1 permitted values:
+
+- `service = "sshd"`
+- `event_type = "authentication"`
+- `outcome = "success" | "failure"`
+- `auth_method`, `principal`, address, port, and PID may be optional only when the raw record genuinely lacks them; missing values must not be invented.
+- `raw_record` preserves the sanitized original line.
+- `parse_warnings` records nonfatal uncertainty.
+
+Required CLI behavior:
+
+```bash
+python -m aegislab.cli parse tests/fixtures/sshd/success.log
+python -m aegislab.cli parse tests/fixtures/sshd/unauthorized_key.log
+```
+
+Each command must emit normalized JSON Lines to standard output. Recognized authentication records must not be replaced by prose. Diagnostic text goes to standard error.
+
+### C. Required test behavior
+
+At minimum, tests must prove:
+
+1. valid event construction;
+2. invalid `outcome` is rejected;
+3. success record maps timestamp, principal, authentication method, remote address, remote port, and PID where present;
+4. unauthorized-key failure maps outcome, principal, remote address, remote port, and PID where present;
+5. raw record is preserved;
+6. missing optional data is not fabricated;
+7. unrelated non-authentication log lines are not falsely normalized as authentication events;
+8. success CLI command emits valid JSON;
+9. failure CLI command emits valid JSON;
+10. CLI output agrees with direct parser output.
+
+The exact number of tests may exceed ten. Ten passing tests alone do not pass the gate unless the required behavior is covered.
+
+## Week 1 hard gate
 
 The week passes only when all are true:
 
-- one complete successful SSH connection lifecycle is identified in foreground `sshd` logs;
-- important log lines are mapped to client output, process ancestry, sockets, namespace membership, and packet evidence where available;
-- evidence-source limitations are explicit;
-- uncertain timestamp or identity matches remain labeled uncertain;
-- the learner explains the lifecycle with materially reduced prompting;
-- AegisLab current state and learning state are updated only from demonstrated evidence.
+- normal and five-attempt repeated-failure scenario contracts are versioned;
+- truth records are independent from observed parser/detector output;
+- one complete successful lifecycle and the bounded failure case are defensibly mapped across available evidence sources;
+- the authorization-path fault is predicted, reproduced, diagnosed, repaired, and revalidated;
+- namespace-only work is explicitly closed at the current depth;
+- sanitized success and unauthorized-key fixtures are committed;
+- the Python package imports cleanly;
+- both CLI commands emit valid normalized JSON;
+- all required tests pass;
+- Ali explains each event field and parser flow with reduced prompting;
+- Ali intentionally modifies one parser mapping or accepted record variant and adds/updates its test;
+- no private key, credential, sensitive personal data, or unsafe host configuration enters the repository.
 
 ## Explicitly out of scope
 
-- Docker work;
-- VM work;
-- Python evidence pipeline implementation;
+- Docker and VM work;
+- SQLite persistence;
+- detector implementation;
+- RAG, agents, Kafka, Kubernetes, cloud deployment, or web APIs;
 - deeper SSH cryptography;
-- new AegisLab architecture or roadmap;
-- new study-guide framework;
+- broad AegisLab architecture changes;
+- new teaching/governance frameworks;
 - Sentinel work;
-- career planning discussion.
+- career replanning.
 
-## Preparation — Saturday, 2026-07-18
+---
 
-**Maximum:** 2 focused hours
+# Preparation — Saturday, 2026-07-18
 
-### Order P1 — Read the control system once — 30 minutes
+**Maximum:** 45 minutes total. Finish faster when possible.
 
-Read:
+## P1 — Control acknowledgment — maximum 10 minutes
+
+Read only:
 
 1. Career `README.md`
 2. `governance/EXECUTION_CONTRACT.md`
-3. `strategy/STRATEGY_AND_SCOPE.md`
-4. this file
+3. this file
 
-Evidence:
+Record four lines in the daily log:
 
-- one short note stating the fixed identity, weekly minimum, primary project, and Week 1 outcome.
+```text
+Identity:
+Weekly minimum:
+Week 1 delivery package:
+Sentinel status:
+```
 
-Stop line:
+## P2 — Workspace confirmation — maximum 15 minutes
 
-- do not edit the system unless a factual error prevents execution.
+Record:
 
-### Order P2 — Inspect and freeze current project positions — 45 minutes
+- current AegisLab branch;
+- current commit SHA;
+- current worktree path;
+- current `PROJECT_STATE.md` path;
+- current SSH reconstruction runbook path;
+- current namespace SSH worklog path.
 
-- Confirm AegisLab `PROJECT_STATE.md` is current enough to resume.
-- Confirm Sentinel is not open as an active workstream.
-- Do not inspect Sentinel internals.
+No technical execution.
 
-Evidence:
+## P3 — Monday entry point — maximum 15 minutes
 
-- current AegisLab commit or project-state reference;
-- one sentence: “Sentinel is an autonomous research archive and is not active this week.”
+Record:
 
-### Order P3 — Prepare Week 1 workspace — 45 minutes
+- command used to inspect namespaces;
+- command used to inspect the lab `sshd` process/listener;
+- path or command for foreground server logs;
+- exact command/runbook section used to rebuild missing temporary state;
+- exact first Monday action.
 
-- Identify the current AegisLab branch/worktree.
-- Confirm the latest relevant SSH worklog and reconstruction runbook.
-- Identify where foreground `sshd` logs are expected to exist or how they will be regenerated.
-- Record the exact first Monday command or inspection action.
+## P4 — Commit preparation note — maximum 5 minutes
 
-Do not rebuild the lab today unless required only to verify the resume path.
+Commit only the public-safe preparation log if changed.
 
-## Preparation — Sunday, 2026-07-19
+**Saturday stop line:** no namespace rebuild, no Python setup, no plan editing.
 
-**Maximum:** 20 minutes
+---
 
-- Reopen this file.
+# Sunday, 2026-07-19
+
+**Maximum:** 15 minutes.
+
 - Confirm Monday's first action.
-- Prepare the session-start message.
+- Prepare the Session Start message.
+- Confirm the two expected scenario case IDs.
 - No technical implementation.
 
 ---
 
-## Monday, 2026-07-20 — Establish the evidence timeline
+# Monday, 2026-07-20 — Execute and Define the Canonical Cases
 
-**Mode requirement:** Green 3h; Yellow 2h; Red 0h with state note
+**Required:** 4 focused hours  
+**Daily deliverables:** scenario contract, two truth records, sanitized success/failure fixtures, initial evidence map
 
-### Block A — 90 minutes
+## Delivery order
 
-1. Inspect current WSL, namespaces, lab paths, and `sshd` state.
-2. Rebuild only missing runtime layers using the existing runbook.
-3. Start foreground lab `sshd` with preserved logging if needed.
-4. Execute one bounded successful SSH connection.
-5. Preserve client output and the complete matching server-log segment.
+1. **Inspect and restore only missing runtime state.** Maximum investigation budget: 20 minutes before invoking the blocker protocol.
+2. Execute the normal case with explicit start/end timestamps and preserve:
+   - client command/output;
+   - foreground `sshd` log segment;
+   - endpoints;
+   - relevant process/socket state;
+   - cleanup result.
+3. Execute exactly five unauthorized-key attempts within the bounded window and preserve the corresponding evidence.
+4. Sanitize and commit one representative success log fixture and one unauthorized-key failure fixture.
+5. Write `ssh-auth-v0.md` with actors, target, identities, semantics, counts, timing, markers, truth source, abort conditions, cleanup, and limitations.
+6. Write separate `normal.json` and `repeated-failure.json` truth records.
+7. Start the cross-source evidence map with the decisive authentication and disconnect claims.
+8. Run a secrets/private-key check on staged files before commit.
 
-Expected evidence:
+## Monday proof
 
-- runtime inspection;
-- client endpoint and server endpoint;
-- start/end timestamps;
-- foreground server-log file or captured output;
-- exact connection selected for Week 1 analysis.
+- normal case has exactly one intended success;
+- repeated-failure truth records exactly five intended unauthorized-key attempts;
+- truth files do not copy conclusions from parser/detector output;
+- fixtures contain no private keys or sensitive paths beyond safe lab context;
+- scenario contract is sufficient to rerun both cases.
 
-### Block B — 90 minutes
+## Monday stop line
 
-1. Put the selected events into chronological order.
-2. Mark connection establishment, host verification, authentication, session establishment, and disconnect where visible.
-3. Separate observed facts from interpretations.
-4. Commit or preserve sanitized evidence and a brief worklog update.
-
-Stop line:
-
-- do not begin broad correlation with packets/processes until the server-log timeline is complete.
-
-Pass condition:
-
-- one successful connection has a bounded, preserved, timestamped client/server-log timeline.
+Do not begin Python code until the scenario contract, truth records, fixtures, and initial evidence map are committed.
 
 ---
 
-## Tuesday, 2026-07-21 — Interpret server logs
+# Tuesday, 2026-07-21 — Diagnose the Fault and Close Namespace Scope
 
-### Block A — 90 minutes
+**Required:** 4 focused hours  
+**Daily deliverables:** completed evidence map, fault report, ownership check, namespace closure commit
 
-1. Read each important server-log line.
-2. Identify emitting process/PID where available.
-3. Explain practical meaning and lifecycle position.
-4. Mark lines that do not prove the assumed interpretation.
+## Delivery order
 
-### Block B — 90 minutes
+1. Complete the normal/failure evidence map across truth, client, server log, process, socket, and packet evidence.
+2. Before changing configuration, write the fault prediction:
+   - changed layer;
+   - expected client symptom;
+   - expected server-log evidence;
+   - what TCP/socket evidence should still prove;
+   - repair condition.
+3. Point the lab server at an incorrect/unavailable authorization-file path using the lab-specific configuration only.
+4. Validate configuration syntax where applicable, run the intended authorized-key attempt, and preserve evidence.
+5. Diagnose the failure layer without changing unrelated network or identity state.
+6. Repair the authorization path and revalidate a successful authorized login.
+7. Write `fault-report.md` with prediction, evidence, rejected hypotheses, cause, repair, and validation.
+8. Complete a reduced-prompt explanation covering:
+   - actor/target and four-tuple;
+   - host identity versus client authentication identity;
+   - `known_hosts` versus `authorized_keys`;
+   - listener and per-connection processes;
+   - what client/log/process/socket/packet evidence proves;
+   - encrypted visibility boundary;
+   - fault-layer diagnosis.
+9. Record corrections and assistance in `ownership-check.md`.
+10. Update AegisLab project/learning state only from demonstrated evidence and declare namespace-only work closed.
 
-1. Map server-log stages to client debug output.
-2. Identify client-only, server-only, and shared claims.
-3. Write a concise evidence table:
+## Tuesday proof
 
-```text
-claim | client evidence | server-log evidence | confidence | limitation
+- fault reproduced with the intended authorized key;
+- evidence shows why the problem was authorization configuration rather than DNS, routing, TCP reachability, or server identity;
+- repaired case succeeds;
+- Ali's explanation requires materially less step-by-step prompting than reconstruction work;
+- remaining SSH depth is explicitly deferred.
+
+## Tuesday stop line
+
+After namespace closure is committed, no more namespace-only experimentation this week.
+
+---
+
+# Wednesday, 2026-07-22 — Build Python Package and Event Contract
+
+**Required:** 4 focused hours  
+**Daily deliverables:** importable package, project config, typed event model, parser/CLI skeleton, first tests
+
+## Delivery order
+
+1. Inspect the repository for an existing accepted Python package/test structure. Reuse it when present.
+2. Create or update `pyproject.toml` with only dependencies/tools required now.
+3. Create the importable `aegislab` package and test directories.
+4. Implement the typed normalized authentication event with the exact Week 1 fields.
+5. Add minimum construction/validation behavior for allowed outcome and service/event constants.
+6. Create parser and CLI function boundaries without implementing unrelated formats.
+7. Add tests for valid construction and invalid outcome.
+8. Run package import and test commands from the repository root.
+9. Write a brief field contract in code docstrings or an existing technical specification; do not create a large architecture document.
+
+## Wednesday proof
+
+```bash
+python -c "import aegislab"
+pytest -q
 ```
 
-Pass condition:
+Both commands succeed from the declared development environment.
 
-- authentication and disconnect stages are mapped without treating either side as complete truth.
+Ali must explain:
 
----
+- why the model exists;
+- difference between raw record and normalized fields;
+- which fields are required versus optional;
+- why absent data must not be invented.
 
-## Wednesday, 2026-07-22 — Correlate processes, sockets, and namespaces
+## Wednesday stop line
 
-### Block A — 90 minutes
-
-1. Re-establish a bounded connection if live evidence is required.
-2. capture listener, privileged child, authenticated child, and client process relationships;
-3. capture both socket-table perspectives;
-4. capture namespace PID membership.
-
-### Block B — 90 minutes
-
-1. Correlate PIDs, endpoints, and timestamps with Tuesday's log timeline.
-2. State what process evidence proves.
-3. State what socket evidence proves.
-4. State what namespace membership proves.
-5. Record unresolved ambiguity.
-
-Pass condition:
-
-- one cross-source process/socket/log map exists and endpoints/PIDs are not guessed.
+Do not add database, detector, API, or generic framework abstractions.
 
 ---
 
-## Thursday, 2026-07-23 — Add packet evidence and test understanding
+# Thursday, 2026-07-23 — Implement SSH Authentication Parsing
 
-### Block A — 90 minutes
+**Required:** 4 focused hours  
+**Daily deliverables:** working success/failure parser and required unit tests
 
-1. Use preserved packet evidence if it matches the selected connection reliably.
-2. Otherwise predict and capture one narrow new SSH connection.
-3. Identify TCP establishment, SSH identification, encrypted traffic, and teardown.
-4. Map only defensible packet events to the host/log timeline.
+## Delivery order
 
-### Block B — 90 minutes
+1. Inspect the exact sanitized fixture line formats.
+2. Write expected normalized outputs before implementing parsing.
+3. Implement parsing for the required accepted-public-key success format.
+4. Implement parsing for the required unauthorized/public-key failure format present in the fixture.
+5. Preserve timestamp, PID, user/principal, address, port, authentication method, and raw line where available.
+6. Return no authentication event for unrelated lines; do not guess.
+7. Add tests for all parser requirements listed above.
+8. Run tests after each behavior family.
+9. Deliberately alter one fixture value and confirm the output changes as predicted.
+10. Commit only after direct parser tests pass.
 
-Complete a reduced-prompt explanation covering:
+## Thursday proof
 
-- client `ssh`;
-- listener and per-connection `sshd` processes;
-- client/server four-tuple;
-- host key and client authentication key;
-- `known_hosts` and `authorized_keys`;
-- what client, log, process, socket, namespace, and packet evidence each prove;
-- what remains invisible after encryption;
-- what happens during teardown.
+- parser output matches prewritten expected events;
+- no values are fabricated;
+- unrelated lines do not become auth events;
+- raw source is preserved;
+- direct parser tests pass.
 
-Pass condition:
+## Thursday stop line
 
-- explanation is accurate at current depth and major corrections are recorded.
-
----
-
-## Friday, 2026-07-24 — Close Week 1 gate
-
-### Block A — 90 minutes
-
-Produce one concise AegisLab cross-source evidence map for the selected connection.
-
-Required structure:
-
-1. scenario and endpoints;
-2. chronological lifecycle;
-3. evidence-source table;
-4. decisive observations;
-5. uncertainty and limitations;
-6. current learner ownership level;
-7. remaining work for the canonical normal/failure cases.
-
-### Block B — 90 minutes
-
-1. Run the final Week 1 evidence check.
-2. Correct unsupported claims.
-3. Update AegisLab `PROJECT_STATE.md` and current learning state only if evidence changed.
-4. Commit the bounded Week 1 result.
-5. Update Career `tracking/PROGRESS_LEDGER.md`.
-
-Pass condition:
-
-- every Week 1 gate item is satisfied.
+Do not generalize into a full syslog framework or support every OpenSSH message.
 
 ---
 
-## Saturday, 2026-07-25 — Buffer
+# Friday, 2026-07-24 — Build CLI and Integration Path
 
-Mandatory only when:
+**Required:** 4 focused hours  
+**Daily deliverables:** working CLI for both fixtures, JSON output contract, integration tests
 
-- focused hours are below the adjusted weekly requirement; or
-- the Week 1 gate is incomplete.
+## Delivery order
 
-Maximum: 3 focused hours.
+1. Implement the exact `parse` CLI subcommand.
+2. Read a supplied file line by line.
+3. Emit one JSON object per recognized authentication event to standard output.
+4. Send diagnostics to standard error.
+5. Define deterministic serialization for timestamps, warnings, and optional fields.
+6. Add success-fixture and failure-fixture integration tests.
+7. Verify CLI output deserializes and equals direct parser output.
+8. Run both required commands manually.
+9. Run full Week 1 test suite.
+10. Record exact commands and outputs in the worklog without copying unnecessary raw logs.
 
-Allowed:
+## Friday proof
 
-- complete missing evidence;
-- fix one factual mapping;
-- finish reduced-prompt explanation;
-- run the gate;
-- update records.
+```bash
+python -m aegislab.cli parse tests/fixtures/sshd/success.log
+python -m aegislab.cli parse tests/fixtures/sshd/unauthorized_key.log
+pytest -q
+```
 
-Not allowed:
+- both CLI commands exit successfully;
+- standard output contains valid JSON Lines;
+- output fields match direct parser behavior;
+- all required tests pass.
 
-- begin Week 2 scenario design;
-- polish beyond gate requirements.
+## Friday stop line
 
-## Sunday, 2026-07-26 — Weekly closure
+Do not add batch directories, SQLite, detector logic, or presentation polish.
 
-**Time:** 20 minutes
+---
 
-1. Calculate focused time.
-2. Mark Week 1 Pass, Partial, Blocked, or Failed.
-3. Link AegisLab evidence/commit.
-4. Record the single Week 2 entry action.
-5. Replace this file with the activated Week 2 order only after closure.
+# Saturday, 2026-07-25 — Ownership Modification and Full Gate
+
+**Required:** 4 focused hours  
+**Daily deliverables:** Ali-owned parser change, full gate report, clean commit
+
+## Delivery order
+
+1. Start from a clean checkout/worktree state and rerun the declared commands.
+2. Ali selects one authorized ownership change:
+   - add support for one second real success/failure line variant already present in preserved evidence; or
+   - intentionally change one existing field mapping/normalization rule with a justified contract update.
+3. Before implementation, Ali predicts affected outputs and tests.
+4. Ali directs or performs the change and adds/updates tests.
+5. Introduce one bounded parser defect or changed fixture and diagnose the failed test from evidence.
+6. Repair and rerun the complete suite.
+7. Complete the event-field/parser-flow explanation without reading generated prose.
+8. Run a staged-file secret/sensitive-data inspection.
+9. Produce a concise Week 1 gate report linking every Must Deliver artifact and proof.
+10. Update Career daily/weekly evidence and commit.
+
+## Authorized advancement after full gate passes early
+
+Only when every Week 1 gate item passes:
+
+- create Week 2 validation error categories;
+- define the quarantine model skeleton;
+- add no more than the first malformed-record test.
+
+Do not begin SQLite or Docker.
+
+## Saturday hard gate
+
+Mark Week 1 **Pass** only when every item in the Week 1 hard gate is evidenced. Hours without artifacts do not pass. Early completion of a subtask does not end the production day.
+
+---
+
+# Sunday, 2026-07-26 — Closure and Week 2 Activation
+
+**Required:** 30 minutes, not technical hours
+
+1. Calculate actual focused time and capacity adjustments.
+2. Mark every Must Deliver item Pass/Fail with a link.
+3. Record test command and result.
+4. Record Ali's ownership modification and diagnosis result.
+5. Mark the week Pass, Partial, Blocked, or Failed.
+6. Carry only the exact blocking item when necessary.
+7. Activate Week 2.
 
 ## Deferred ideas
 
-Record new ideas below as one sentence only. Do not develop them.
+New ideas receive one sentence only.
 
 - None.
 
 ## Exact next action
 
-Complete **Preparation Order P1**. If already completed, execute the first incomplete order in sequence.
+On Saturday, July 18, complete **P1–P4 in no more than 45 minutes total**. The first technical action remains Monday's runtime inspection and canonical case execution.
