@@ -2,33 +2,49 @@
 
 ## 1. Production-day minimum
 
-Monday through Friday require **3 focused hours per day** in Green mode.
+Monday through Saturday require **4 focused hours per day** in Green mode.
 
 Default structure:
 
 | Time | Block | Duration | Purpose |
 |---|---|---:|---|
-| 13:45–14:00 | Open | 15 min | Read current order, inspect state, define expected evidence |
-| 14:00–15:30 | Block A | 90 min | Primary implementation, experiment, or prerequisite repair |
-| 18:00–20:30 | Dog walk/mobile window | not automatically counted | Review, teach-back, evidence reading, or one concrete blocker only |
-| 20:45–22:15 | Block B | 90 min | Complete work, test, interpret, commit, and log |
+| 13:45–14:00 | Open | 15 min | Read the first incomplete deliverable, inspect state, define expected proof |
+| 14:00–16:00 | Block A | 120 min | Primary implementation, experiment, or bounded prerequisite repair |
+| 18:00–20:30 | Dog walk/mobile window | not automatically counted | Required teach-back, evidence review, or one concrete blocker only |
+| 20:30–22:30 | Block B | 120 min | Complete behavior, test, interpret, commit, and log |
 
-The 15-minute opening is included within Block A preparation and does not add to the 3-hour quota.
+The opening procedure is included in Block A. No planned project work begins after 22:45.
 
-No planned project work begins after 22:30. Preserve sleep and continuity rather than extending a weak session indefinitely.
+At least **3 hours per Green day** must normally involve direct laptop/terminal technical production. Mobile work can contribute at most 1 hour and only when the active weekly plan names a concrete mobile-suitable deliverable.
 
-## 2. What counts as focused time
+## 2. Delivery-first rule
+
+Each day has named outputs in `plans/CURRENT_WEEK.md`.
+
+Ali does not spend an assigned duration merely because it appears in the plan. When a task finishes:
+
+1. run the required proof;
+2. preserve the result;
+3. continue to the next authorized item;
+4. keep working until the daily quota is met or an explicit stop line is reached.
+
+A 10-minute task receives approximately 10 minutes, not 45. A technically difficult task may consume the remaining block when evidence justifies it.
+
+The managing agent must not use broad verbs such as “study,” “review,” or “understand” without naming the artifact, test, explanation, or modification that proves completion.
+
+## 3. What counts as focused time
 
 Counts:
 
 - writing or modifying active code;
 - running and interpreting experiments;
-- writing tests;
+- writing or strengthening tests;
 - debugging from evidence;
 - SQL work tied to the active gate;
 - focused prerequisite repair required by the current task;
 - creating sanitized fixtures;
-- producing an explanation required by the gate;
+- creating required scenario truth/evidence artifacts;
+- producing an explanation required by an ownership gate;
 - technically necessary documentation derived from completed behavior.
 
 Does not count by default:
@@ -38,76 +54,76 @@ Does not count by default:
 - browsing unrelated technologies;
 - passive videos;
 - rereading plans;
-- formatting documentation;
+- formatting or polishing documentation;
 - Sentinel inspection beyond the archive allowance;
 - discussing future phases;
-- time when attention is substantially elsewhere.
+- time when attention is substantially elsewhere;
+- waiting for a command or tool without using the time on another authorized step.
 
-Mobile work counts only when the current weekly plan permits it and the session produces a preserved note, explanation, decision, or next technical action.
+Mobile work counts only when the current weekly plan permits it and the session produces a preserved explanation, evidence annotation, decision, or exact next technical action.
 
-## 3. Capacity modes and exact quotas
+## 4. Capacity modes and exact quotas
 
 ### Green
 
-- Daily minimum: **3 hours**
-- Structure: two 90-minute blocks
+- Daily minimum: **4 hours**
+- Structure: two 120-minute blocks
 - Work type: full active order
+- Maximum planned load: 5 focused hours
 
 ### Yellow
 
-- Daily minimum: **2 hours**
-- Structure: two 60-minute blocks or one 120-minute block
-- Missing 1 hour is assigned to Saturday
-- Work type: tests, fixtures, review, small repair, derived documentation, bounded SQL
+- Daily minimum: **2.5 hours**
+- Structure: one 90-minute and one 60-minute block, or one 150-minute block
+- Missing 1.5 hours becomes weekly recovery work
+- Work type: tests, fixtures, parser/validation, evidence review, small repair, derived documentation, bounded SQL
 - No architecture changes or risky environment modifications
 
 ### Red
 
 - Daily minimum: **0 hours**
 - Required action: one brief public-safe state note
-- No debt and no compensatory overwork
+- No unsafe debt or compensatory overwork
 - Resume the same next action later
 
-## 4. Weekly hour enforcement
+## 5. Weekly hour enforcement
 
 ### Required total
 
-- Standard week: **15 focused hours**
-- A single Yellow day changes weekday completion to 14 hours and creates 1 mandatory Saturday hour.
-- Multiple Yellow days create matching Saturday debt up to the 3-hour Saturday cap.
-- Red days reduce the expected total by 3 hours each and require evaluator review when repeated.
+- Standard week: **24 focused hours**
+- One Yellow day creates 1.5 recovery hours.
+- Yellow recovery may be completed by adding up to 60 minutes to later Green days or through Saturday's remaining capacity.
+- Red days reduce the adjusted weekly target by 4 hours each.
+- No day exceeds 5 focused hours for recovery.
 
 ### Saturday
 
-Saturday is mandatory when:
+Saturday is a normal production day, not merely a buffer.
 
-- hours are below the adjusted weekly requirement; or
-- the weekly evidence gate is incomplete.
+Saturday priorities:
 
-Maximum: **3 focused hours**.
+1. finish the weekly Must Deliver package;
+2. run the full weekly gate;
+3. repair missing tests/evidence;
+4. perform the authorized advancement item if the gate passed early;
+5. close and commit the week.
 
-Saturday priority:
-
-1. gate blocker;
-2. missing test/evidence;
-3. hour debt;
-4. weekly closure.
-
-Do not start next week's work on Saturday.
+Do not begin an unlisted future technology or feature.
 
 ### Sunday
 
-Mandatory 20-minute procedure:
+Mandatory 30-minute procedure:
 
 1. calculate focused hours;
 2. mark weekly gate Pass, Partial, Blocked, or Failed;
 3. link evidence;
-4. identify the first next action;
-5. activate the next `CURRENT_WEEK.md` version.
+4. complete the weekly ownership check;
+5. identify the first next action;
+6. activate the next `CURRENT_WEEK.md` version.
 
-No implementation unless a safety-critical cleanup remains.
+No implementation unless safety-critical cleanup remains.
 
-## 5. Exact session start
+## 6. Exact session start
 
 Before focused work, record:
 
@@ -117,44 +133,45 @@ Date: YYYY-MM-DD
 Mode: Green | Yellow | Red
 Sleep/function: public-safe summary
 Available focused minutes:
-Current weekly order:
-First expected evidence:
+Current deliverable:
+First expected artifact or proof:
 ```
 
-Do not begin with a broad question such as “What should I do?” The first incomplete order is already controlling.
+Do not begin with “What should I do?” The first incomplete deliverable is already controlling.
 
-## 6. Exact session end
+## 7. Exact session end
 
 Record:
 
 ```text
 SESSION END
 Focused minutes:
-Completed behavior:
+Deliverables completed:
 Evidence or commit:
-Tests/output:
-What I can explain:
+Commands/tests and results:
+What Ali can explain or modify:
+AI assistance used:
 Unresolved blocker:
-Exact next action:
+Exact next deliverable:
 ```
 
 Update the progress ledger only from this evidence.
 
-## 7. Distraction protocol
+## 8. Distraction protocol
 
 When a new idea, project, course, tool, or architecture appears:
 
 1. write one sentence under Deferred in the current weekly file;
 2. spend no more than five minutes on it;
-3. return to the active command;
+3. return to the active deliverable;
 4. do not ask another agent to expand the idea.
 
-## 8. Difficulty protocol
+## 9. Difficulty protocol
 
 ### Confused
 
 - Inspect evidence for 15 minutes.
-- State symptom, expected behavior, actual behavior, and one hypothesis.
+- State expected behavior, actual behavior, decisive output, and one hypothesis.
 - Request bounded AI help.
 
 ### Blocked
@@ -167,18 +184,18 @@ When a new idea, project, course, tool, or architecture appears:
 
 Use remaining focused time in this order:
 
-1. run or strengthen required tests;
-2. perform the required teach-back;
-3. clean and commit the active work;
-4. prepare the next listed action;
-5. stop.
+1. run the named proof again from a clean or changed case;
+2. complete the next Must Deliver item;
+3. perform the required ownership modification or diagnosis;
+4. complete the authorized advancement item;
+5. clean and commit;
+6. stop after the daily quota or explicit stop line.
 
-Do not pull work from a later week unless the current gate has passed and the weekly file explicitly authorizes it.
+## 10. Documentation ceiling
 
-## 9. Documentation ceiling
+Except during portfolio closure:
 
-Except during Week 12:
-
-- documentation may consume at most **20% of focused weekly time**;
+- documentation may consume at most **15% of focused weekly time**;
+- evidence, scenario contracts, truth records, and technically required interfaces are not counted as presentation documentation;
 - existing plans are edited only when actual evidence changed;
 - polished prose cannot compensate for missing behavior or tests.
