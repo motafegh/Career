@@ -22,14 +22,16 @@ For this period:
 - Sentinel is an autonomous research archive and receives at most 0–3% of total focused time.
 - All other repositories are inactive historical work.
 
-## Minimum execution requirement
+## Execution requirement
 
-- **Monday–Friday:** 3 focused hours per day.
-- **Weekly committed baseline:** 15 focused hours.
-- **Saturday:** mandatory catch-up or gate-closure block, up to 3 hours, only when required.
-- **Sunday:** 20-minute review and next-week activation; not counted toward focused hours.
-
-Health and safety exceptions are defined in the execution contract. Missed work does not authorize a new plan, project, or career discussion.
+- **Monday–Saturday:** 4 focused hours per day in Green mode.
+- **Standard weekly minimum:** 24 focused hours.
+- **Yellow mode:** 2.5 focused hours; the missing 1.5 hours becomes weekly recovery work.
+- **Red mode:** 0 technical hours, state preserved, no unsafe compensatory work.
+- **Sunday:** 30-minute evidence review and next-week activation; not counted as focused time.
+- Every production day must end with a named deliverable, verified behavior, test result, evidence artifact, or diagnosed failure.
+- Timeboxes are ceilings and workload containers, not permission to pad trivial work.
+- When an assigned item finishes early, Ali immediately continues to the next authorized deliverable in `plans/CURRENT_WEEK.md`.
 
 ## Start here
 
@@ -69,11 +71,11 @@ Career/
 
 ## Separation of responsibilities
 
-- **Career repository:** controls direction, time, gates, reporting, and career actions.
-- **AegisLab repository:** contains technical implementation, tests, experiments, worklogs, and project evidence.
+- **Career repository:** controls direction, minimum workload, deliverables, gates, reporting, and career actions.
+- **AegisLab repository:** contains technical implementation, tests, experiments, fixtures, evidence, and worklogs.
 - **Sentinel repository:** autonomous research archive; it cannot create tasks for this program.
 - **Private evaluator context:** contains sensitive personal, medical, medication, financial, and routine information. It must not be copied into this public repository.
 
 ## Current action
 
-Open [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md) and execute the first incomplete order. Do not design another system.
+Open [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md) and execute the first incomplete deliverable. Do not design another system.
