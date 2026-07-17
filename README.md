@@ -41,9 +41,10 @@ Read and obey these files in order:
 2. [`strategy/STRATEGY_AND_SCOPE.md`](strategy/STRATEGY_AND_SCOPE.md)
 3. [`plans/90_DAY_MASTER_PLAN.md`](plans/90_DAY_MASTER_PLAN.md)
 4. [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md)
-5. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
+5. [`plans/daily/week-01/README.md`](plans/daily/week-01/README.md)
+6. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
 
-During normal work, read only `CURRENT_WEEK.md` and the current AegisLab technical state. Do not repeatedly reread the full system.
+During normal work, read only the current dated daily plan, the current AegisLab technical state, and the exact referenced runbook sections. Do not repeatedly reread the full system.
 
 ## Repository map
 
@@ -61,7 +62,19 @@ Career/
 │   ├── MONTHLY_PLAN.md
 │   ├── WEEKLY_PLAN.md
 │   ├── DAILY_OPERATING_PLAN.md
-│   └── CURRENT_WEEK.md
+│   ├── CURRENT_WEEK.md
+│   └── daily/
+│       └── week-01/
+│           ├── README.md
+│           ├── 2026-07-18.md
+│           ├── 2026-07-19.md
+│           ├── 2026-07-20.md
+│           ├── 2026-07-21.md
+│           ├── 2026-07-22.md
+│           ├── 2026-07-23.md
+│           ├── 2026-07-24.md
+│           ├── 2026-07-25.md
+│           └── 2026-07-26.md
 ├── operations/
 │   └── SESSION_PROTOCOL.md
 └── tracking/
@@ -78,4 +91,4 @@ Career/
 
 ## Current action
 
-Open [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md) and execute the first incomplete deliverable. Do not design another system.
+Open the current dated file under [`plans/daily/week-01/`](plans/daily/week-01/) and execute the first incomplete deliverable. Do not design another system.
