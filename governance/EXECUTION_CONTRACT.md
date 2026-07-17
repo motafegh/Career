@@ -7,9 +7,9 @@
 
 ## 1. Commitment
 
-For the full execution period, Ali follows the route, priorities, weekly outcomes, gates, and work rules recorded in this repository.
+For the full execution period, Ali follows the route, priorities, weekly deliverables, gates, and work rules recorded in this repository.
 
-The program is intentionally directive because open choices, repeated redesign, and prolonged discussion have previously displaced execution.
+The program is intentionally directive because open choices, repeated redesign, padded learning schedules, and prolonged discussion have previously displaced execution.
 
 This contract does not transfer personal responsibility to an AI. Ali retains authority over health, safety, legal matters, finances, privacy, and whether an instruction is safe to execute.
 
@@ -42,37 +42,41 @@ Sentinel work:
 - cannot block AegisLab;
 - cannot create learning tasks;
 - cannot change this plan;
-- is not counted as the user's demonstrated capability unless separately assessed.
+- is not counted as Ali's demonstrated capability unless separately assessed.
 
 ### Other projects
 
 All other repositories are inactive historical evidence. No revival during this program.
 
-## 4. Exact time requirement
+## 4. Exact workload requirement
 
-### Normal requirement
+### Standard production week
 
-- Monday: 3 focused hours
-- Tuesday: 3 focused hours
-- Wednesday: 3 focused hours
-- Thursday: 3 focused hours
-- Friday: 3 focused hours
-- Weekly committed minimum: **15 focused hours**
+- Monday: **4 focused hours**
+- Tuesday: **4 focused hours**
+- Wednesday: **4 focused hours**
+- Thursday: **4 focused hours**
+- Friday: **4 focused hours**
+- Saturday: **4 focused hours**
+- Standard weekly minimum: **24 focused hours**
+- Sunday: **30-minute closure and activation review**, not counted toward technical hours
 
-Dog walking, AI conversation, reading, videos, and planning count only when the active plan explicitly classifies them as focused work and they produce evidence.
+This is a substantial but realistic workload for Ali's current no-job/no-study situation and stated goal of building a 4–5-hour daily work engine.
 
-### Saturday
+Dog walking, AI conversation, reading, videos, and planning count only when the active plan explicitly classifies them as focused work and they produce required evidence. At least **3 of each Green day's 4 hours** must normally involve laptop/terminal implementation, experiment, testing, debugging, data work, or technically necessary artifact production.
 
-Saturday is a mandatory buffer when either condition is true:
+### Timebox interpretation
 
-1. weekly focused time is below 15 hours; or
-2. the weekly gate has not passed.
+A time estimate is a ceiling, planning container, or maximum investigation budget. It is not an instruction to spend that amount on a trivial task.
 
-Saturday work is capped at 3 focused hours. If both hours and gate are complete, Saturday has no required technical work.
+When an item completes early:
 
-### Sunday
+1. verify the deliverable;
+2. preserve evidence;
+3. continue immediately to the next authorized item in `plans/CURRENT_WEEK.md`;
+4. stop only when the daily 4-hour requirement is met or the weekly file gives an explicit stop line.
 
-Sunday requires a 20-minute weekly closure and activation review. It does not count toward the 15-hour technical minimum.
+No task is considered substantial merely because a large timebox was assigned.
 
 ## 5. Capacity modes
 
@@ -82,13 +86,13 @@ The mode is selected honestly at session start.
 
 Condition: normal usable functioning.
 
-Requirement: **3 focused hours**, normally two 90-minute blocks.
+Requirement: **4 focused hours**, normally two 120-minute blocks.
 
 ### Yellow mode
 
 Condition: poor sleep, marked grogginess, unstable concentration, or reduced but usable functioning.
 
-Requirement: **2 focused hours** of low-risk execution. The missing hour moves to Saturday.
+Requirement: **2.5 focused hours** of low-risk execution. The missing **1.5 hours** becomes weekly recovery work.
 
 Allowed work:
 
@@ -97,7 +101,8 @@ Allowed work:
 - evidence review;
 - SQL practice tied to the active slice;
 - documentation derived from completed behavior;
-- small bounded repairs.
+- small bounded repairs;
+- parser/validation work that does not require architecture changes.
 
 No consequential architecture decision.
 
@@ -105,47 +110,61 @@ No consequential architecture decision.
 
 Condition: functioning is too impaired for safe, reliable technical work or there is a significant health/personal disruption.
 
-Requirement: **0 technical hours**. Record the interruption, preserve state, and resume the same next action later. No compensatory overwork.
+Requirement: **0 technical hours**. Record the interruption, preserve state, and resume the same next action later. No unsafe compensatory overwork.
 
-Red mode is an exception, not a loophole. Repeated red days trigger evaluator review, not self-punishment or plan replacement.
+Red mode is an exception, not a loophole. Repeated Red days trigger evaluator review, not self-punishment or plan replacement.
 
-## 6. Daily execution rule
+### Recovery rule
 
-Every production day must end with at least one concrete result:
+- Yellow-hour deficit is recovered within the same week when safe, normally on Saturday or by adding up to 60 minutes to later Green days.
+- A Red day reduces the adjusted weekly minimum by 4 hours.
+- Recovery work never exceeds **5 focused hours in one day**.
+- Hours are secondary to deliverables: completing 24 hours without the weekly gate is failure; passing a gate early does not permit idle padding.
+
+## 6. Daily delivery rule
+
+Every production day must end with one or more exact outputs named by `plans/CURRENT_WEEK.md`.
+
+Acceptable outputs include:
 
 - working behavior;
-- a test;
-- a query;
-- a reproducible fixture;
-- a diagnosed failure;
-- an evidence map;
-- a demonstrated explanation;
-- a committed technical artifact.
+- passing or intentionally failing test with interpreted result;
+- query and verified result;
+- reproducible fixture;
+- scenario contract;
+- evidence map;
+- parser/model/CLI behavior;
+- diagnosed and repaired failure;
+- committed technical artifact;
+- reduced-prompt ownership demonstration.
 
-Time spent without a concrete result may still be necessary, but must be labeled investigation rather than completion.
+Time spent without a concrete result may still be necessary, but must be labeled investigation and cannot silently satisfy a delivery gate.
 
 ## 7. Weekly gate rule
 
 A week passes only when:
 
-1. its named outcome exists;
-2. acceptance evidence is preserved;
-3. limitations and remaining gaps are explicit;
-4. the next week does not depend on an unacknowledged failure.
+1. every **Must Deliver** item in `plans/CURRENT_WEEK.md` exists;
+2. the named commands/tests/gates pass;
+3. evidence is committed or linked;
+4. limitations and assistance level are explicit;
+5. Ali completes the required explanation/modification/diagnosis check;
+6. the next week does not depend on an unacknowledged failure.
 
-A passed gate ends the work. Do not polish or expand it without a listed requirement.
+A passed gate ends optional polishing, but Ali continues to the next **authorized advancement deliverable** when focused hours remain. This is controlled advancement, not scope expansion.
 
 ## 8. Anti-rabbit-hole rules
 
 - One active project.
-- One weekly outcome.
-- One active work package.
+- One weekly delivery package.
+- One active work package at a time.
 - One next action per session.
 - New ideas receive one sentence in a deferred list and no more than five minutes of discussion.
 - Missing prerequisites receive a bounded repair, initially capped at 90 minutes.
 - A technical blocker is investigated before code or configuration is changed.
 - A missed day resumes at the same next action.
 - A failed week causes scope reduction or blocker repair, not a new roadmap.
+- Small tasks must be completed quickly and followed by the next authorized deliverable.
 
 ## 9. Prohibited activities
 
@@ -159,17 +178,22 @@ Until Day 90, do not:
 - begin VM reproduction before the Python vertical slice and Docker stage pass;
 - return to broad Sentinel participation;
 - spend a full week only on plans, profiles, or documentation;
-- claim production readiness or professional mastery without evidence.
+- claim production readiness or professional mastery without evidence;
+- inflate a small learning checkpoint into a full-day task;
+- stop early merely because one subtask finished.
 
 ## 10. Review points
 
-Formal route reviews occur only on:
+Formal route reviews occur on:
 
+- **Day 14 workload calibration:** 2026-08-02
 - **Day 30:** 2026-08-18
 - **Day 60:** 2026-09-17
 - **Day 90:** 2026-10-17
 
-Weekly reviews may adjust daily execution inside the fixed route. They do not reopen identity, project selection, or long-term direction.
+Day 14 reviews workload realism and delivery density only. It does not reopen identity or project selection.
+
+Weekly reviews may adjust exact daily execution inside the fixed route. They do not reopen identity, primary project, or long-term direction.
 
 ## 11. Change criteria
 
@@ -179,7 +203,8 @@ A master-plan change requires one of:
 - material external constraint;
 - safety or legal issue;
 - a prerequisite exceeding the allocated scope by a material amount;
-- strong evidence at a formal review point.
+- strong evidence at a formal review point;
+- repeated proof that delivery density is materially too low or unrealistically high.
 
 Any change must state:
 
@@ -191,12 +216,12 @@ Any change must state:
 
 ## 12. Breach response
 
-If Ali starts another project, returns to open-ended planning, or repeatedly ignores the active order:
+If Ali starts another project, returns to open-ended planning, pads trivial work, or repeatedly ignores the active order:
 
 1. stop the competing activity;
 2. record what happened without moral judgment;
 3. reopen `plans/CURRENT_WEEK.md`;
-4. resume the first incomplete order;
+4. resume the first incomplete deliverable;
 5. use the evaluator only to diagnose recurrence after execution has resumed.
 
 No restart from Day 1 unless the program was materially interrupted for reasons outside ordinary execution.
