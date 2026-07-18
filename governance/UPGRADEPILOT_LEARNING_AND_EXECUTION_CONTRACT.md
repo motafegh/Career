@@ -4,7 +4,7 @@
 **Recorded:** 2026-07-19  
 **Status:** Approved and controlling operating contract  
 **Authority:** Controls the UpgradePilot learning and execution method; subordinate to `EXECUTION_CONTRACT.md`, `../strategy/STRATEGY_AND_SCOPE.md`, `../UpgradePilot.md`, and `../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`  
-**Activation effect:** This contract controls working behavior. It does not by itself authorize implementation, repository creation, architecture design, corpus acquisition, a roadmap, a milestone plan, a session plan, or an experiment.
+**Activation effect:** This contract controls working behavior. It does not by itself authorize implementation, repository creation, architecture design, corpus acquisition, a milestone plan, a session plan, or an experiment.
 
 ## 1. Purpose
 
@@ -21,7 +21,7 @@ It ensures that:
 - architecture and advanced systems enter only through approved evidence gates;
 - planning, detached courses, and documentation do not displace execution.
 
-This is not a roadmap, technical architecture, curriculum, milestone schedule, first-session plan, or implementation-repository specification.
+This is not a technical architecture, curriculum, milestone schedule, first-session plan, or implementation-repository specification.
 
 ## 2. Authority and conflict resolution
 
@@ -33,11 +33,12 @@ When instructions conflict, use this order:
 4. [`../UpgradePilot.md`](../UpgradePilot.md);
 5. [`../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md);
 6. this contract;
-7. the approved UpgradePilot roadmap and milestone artifacts;
-8. [`../operations/SESSION_PROTOCOL.md`](../operations/SESSION_PROTOCOL.md);
-9. current inspected project evidence and technical state;
-10. other repository documents;
-11. suggestions from any AI assistant.
+7. [`../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md);
+8. the approved staged milestone plan and active weekly package;
+9. [`../operations/SESSION_PROTOCOL.md`](../operations/SESSION_PROTOCOL.md);
+10. current inspected project evidence and technical state;
+11. other repository documents;
+12. suggestions from any AI assistant.
 
 A lower-level artifact may add operational detail but may not weaken or redefine a higher-level rule.
 
@@ -48,7 +49,8 @@ Controlled responsibilities:
 - `UpgradePilot.md` controls the mission, user, supported decision, frozen boundary, outcome classes, evidence doctrine, advanced-systems ambition, and planning order.
 - The capability specification controls D0–D5 depth, prerequisites, diagnostics, readiness, deferrals, and capability evidence.
 - This contract controls the Ali–AI working relationship and execution method.
-- Roadmaps and milestone plans schedule work but may not weaken teaching, ownership, evidence, or scope controls.
+- The master roadmap controls stage order, capacity, reviews, fallbacks, and Day-90 outcomes.
+- Milestone and weekly plans add exact execution detail but may not weaken teaching, ownership, evidence, or scope controls.
 - `SESSION_PROTOCOL.md` supplies the lower-level format after technical execution is authorized.
 
 When a conflict appears:
@@ -167,8 +169,6 @@ The AI is responsible for:
 The AI must not praise exposure, successful command execution, repository size, or AI-generated sophistication as mastery.
 
 ## 8. Standard session lifecycle
-
-Future session plans and Session Orders use this lifecycle.
 
 ### 8.1 Orient
 
@@ -446,12 +446,11 @@ Documentation should control, explain, or preserve real work. It must not substi
 
 This contract does not authorize technical implementation by itself.
 
-Implementation may begin only after these artifacts are approved:
+The master roadmap is approved. Implementation may begin only after these remaining artifacts are approved:
 
-- Revised UpgradePilot 90-Day Master Roadmap;
-- staged milestone plan;
-- evidence and progress tracker;
-- first-session plan.
+- UpgradePilot Staged Milestone Plan;
+- UpgradePilot evidence and progress tracker;
+- UpgradePilot first-session plan.
 
 The first technical stage remains:
 
@@ -463,10 +462,11 @@ No implementation repository, architecture, corpus campaign, model experiment, c
 
 **Audit result:** Passed.  
 **Approval result:** Approved and controlling.  
-**Blocking contradictions:** None found.
+**Blocking contradictions:** None found.  
+**Approved master route:** `../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`
 
 The next authorized planning artifact is:
 
-> **Revised UpgradePilot 90-Day Master Roadmap**
+> **UpgradePilot Staged Milestone Plan**
 
-The roadmap may schedule work but may not weaken this contract or authorize implementation without the later milestone, tracker, and first-session artifacts.
+After that, only the evidence/progress tracker and first-session plan remain before G1 technical execution.
