@@ -19,7 +19,7 @@ This repository is public. It must contain only information appropriate for publ
 
 The repository may record only generalized facts necessary for execution, such as:
 
-- the 15-hour weekly baseline;
+- the 24-hour standard weekly requirement and recorded capacity-mode adjustments;
 - normal afternoon/evening work blocks;
 - Green, Yellow, and Red capacity modes;
 - project and career priorities;
@@ -28,13 +28,16 @@ The repository may record only generalized facts necessary for execution, such a
 
 ## Technical evidence handling
 
-Before committing AegisLab-derived evidence:
+Before committing UpgradePilot-derived evidence or selectively reused AegisLab/Sentinel evidence after authorization:
 
 1. remove credentials and private keys;
 2. replace runtime-specific secrets with placeholders;
 3. avoid committing large raw packet captures unless explicitly justified and reviewed;
-4. inspect logs for usernames, hostnames, IP addresses, paths, fingerprints, and tokens;
-5. preserve only the minimum evidence required to reproduce or explain the result.
+4. inspect logs, repository records, CI evidence, and other source material for usernames, hostnames, IP addresses, paths, fingerprints, tokens, and private data;
+5. preserve only the minimum evidence required to reproduce or explain the result;
+6. do not treat public availability as automatic permission to republish unnecessary personal or sensitive content.
+
+This rule does not authorize UpgradePilot implementation or evidence acquisition before the required planning artifacts approve it.
 
 ## Public writing standard
 
