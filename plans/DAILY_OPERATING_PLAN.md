@@ -2,54 +2,58 @@
 
 ## Current activation status
 
-This file preserves general workload and session rules, but it does **not** authorize technical execution by itself.
+This file preserves general workload and session rules. Active work is selected by the approved milestone, tracker, and session/weekly plans.
 
 - UpgradePilot is the selected primary flagship under [`../UpgradePilot.md`](../UpgradePilot.md).
 - [`../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
 - [`UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved master route.
-- UpgradePilot implementation has not started.
+- [`UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) is the approved milestone plan.
+- [`../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active tracker.
+- [`UPGRADEPILOT_FIRST_SESSION_PLAN.md`](UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the active first-session plan.
+- R0 planning closure has passed.
+- Technical execution is authorized for UP-S01.
+- Technical implementation has not started; UP-S01 is manual evidence work.
 - The existing AegisLab `CURRENT_WEEK.md` and daily route are deferred and non-controlling.
-- No active UpgradePilot weekly or daily execution plan exists yet.
-- Until the staged milestone plan, evidence/progress tracker, and first-session plan are approved, apply these rules only to the currently authorized planning artifact.
-- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
+- The exact next action is to start UP-S01.
 
 ## 1. Production-day minimum
 
-Monday through Saturday require **4 focused hours per day** in Green mode when the approved execution route is active. During an authorized planning hold, the controlling artifact may define a narrower workload.
+Monday through Saturday require **4 focused hours per day** in Green mode when the approved execution route is active.
 
-Default structure after technical execution is activated:
+Default structure:
 
 | Time | Block | Duration | Purpose |
 |---|---|---:|---|
 | 13:45–14:00 | Open | 15 min | Read the first incomplete deliverable, inspect state, define expected proof |
-| 14:00–16:00 | Block A | 120 min | Primary implementation, experiment, or bounded prerequisite repair |
+| 14:00–16:00 | Block A | 120 min | Primary implementation, evidence investigation, experiment, or bounded prerequisite repair |
 | 18:00–20:30 | Dog walk/mobile window | not automatically counted | Required teach-back, evidence review, or one concrete blocker only |
-| 20:30–22:30 | Block B | 120 min | Complete behavior, test, interpret, commit, and log |
+| 20:30–22:30 | Block B | 120 min | Complete behavior/evidence, test or changed case, interpret, commit, and log |
 
 The opening procedure is included in Block A. No planned project work begins after 22:45.
 
-At least **3 hours per Green day** must normally involve direct laptop/terminal technical production after implementation is authorized. Mobile work can contribute at most 1 hour and only when an active approved plan names a concrete mobile-suitable deliverable.
+At least **3 hours per Green day** must normally involve direct laptop/terminal technical production after implementation begins. During UP-S01, direct public-evidence inspection and production of the required evidence artifact count as technical production. Mobile work can contribute at most 1 hour and only when an active approved plan names a concrete mobile-suitable deliverable.
 
 ## 2. Delivery-first rule
 
-Each day has named outputs in the active approved UpgradePilot planning or weekly artifact. Deferred AegisLab plans are not active output sources.
+Each day has named outputs in the active approved UpgradePilot session or weekly artifact. Deferred AegisLab plans are not active output sources.
 
 Ali does not spend an assigned duration merely because it appears in the plan. When a task finishes:
 
-1. run the required proof;
+1. run or perform the required proof;
 2. preserve the result;
 3. continue to the next authorized item;
 4. keep working until the daily quota is met or an explicit stop line is reached.
 
 A 10-minute task receives approximately 10 minutes, not 45. A technically difficult task may consume the remaining block when evidence justifies it.
 
-The managing agent must not use broad verbs such as “study,” “review,” or “understand” without naming the artifact, test, explanation, or modification that proves completion.
+The managing agent must not use broad verbs such as “study,” “review,” or “understand” without naming the artifact, test, explanation, changed case, or modification that proves completion.
 
 ## 3. What counts as focused time
 
-After technical execution is authorized, counts include:
+Counts include:
 
-- writing or modifying active code;
+- inspecting and preserving real public evidence required by the active gate;
+- writing or modifying active code after implementation is authorized;
 - running and interpreting experiments;
 - writing or strengthening tests;
 - debugging from evidence;
@@ -60,15 +64,23 @@ After technical execution is authorized, counts include:
 - producing an explanation required by an ownership gate;
 - technically necessary documentation derived from completed behavior.
 
-During the current planning hold, only work required to create and validate the named authorized planning artifact counts. Implementation-like work does not become authorized merely because it produces an artifact.
+For UP-S01, focused work includes:
+
+- verifying PR identity and revisions;
+- interpreting the bounded diff;
+- inspecting package, release, repository, and available CI evidence;
+- recording provenance and evidence states;
+- producing the manual evidence report;
+- completing the changed-evidence variant;
+- updating the active tracker.
 
 Does not count by default:
 
 - broad AI conversation;
-- roadmap or career discussion outside the authorized artifact;
+- roadmap or career discussion outside the active artifact;
 - browsing unrelated technologies;
 - passive videos;
-- rereading plans;
+- rereading plans without an execution need;
 - formatting or polishing documentation;
 - Sentinel inspection beyond the archive allowance;
 - discussing future phases outside the authorized artifact;
@@ -81,18 +93,20 @@ Mobile work counts only when the current approved artifact permits it and the se
 
 ### Green
 
-- Daily minimum: **4 hours** after full execution activation, unless the current approved planning artifact defines a smaller preparation scope
-- Structure: two 120-minute blocks during technical execution
+- Daily minimum: **4 hours**
+- Structure: two 120-minute blocks
 - Work type: full active order
 - Maximum planned load: 5 focused hours
+- UP-S01 stop line may end the session before four hours when its pass gate is complete and no named advancement item is authorized
 
 ### Yellow
 
-- Daily minimum: **2.5 hours** after full execution activation
+- Daily minimum: **2.5 hours**
 - Structure: one 90-minute and one 60-minute block, or one 150-minute block
 - Missing 1.5 hours becomes weekly recovery work
-- Work type: tests, fixtures, parser/validation, evidence review, small repair, derived documentation, bounded SQL after implementation is authorized
+- Work type: evidence review, tests, fixtures, parser/validation, small repair, derived documentation, bounded SQL when authorized
 - No architecture changes or risky environment modifications
+- Use the Yellow outcome defined by the active session plan
 
 ### Red
 
@@ -105,7 +119,7 @@ Mobile work counts only when the current approved artifact permits it and the se
 
 ### Required total
 
-After an UpgradePilot execution week is activated:
+After an UpgradePilot execution week is active:
 
 - Standard week: **24 focused hours**
 - One Yellow day creates 1.5 recovery hours.
@@ -115,7 +129,7 @@ After an UpgradePilot execution week is activated:
 
 ### Saturday
 
-Saturday is a normal production day after weekly execution is activated.
+Saturday is a normal production day.
 
 Priorities:
 
@@ -146,13 +160,15 @@ Before focused work, record:
 
 ```text
 START DAY <program day>
-Date: YYYY-MM-DD
+Actual date: YYYY-MM-DD
 Mode: Green | Yellow | Red
 Sleep/function: public-safe summary
 Available focused minutes:
 Current deliverable:
 First expected artifact or proof:
 ```
+
+For UP-S01, use the exact start message in `UPGRADEPILOT_FIRST_SESSION_PLAN.md`.
 
 Do not begin with “What should I do?” The first incomplete deliverable in the current approved artifact is controlling.
 
@@ -165,7 +181,7 @@ SESSION END
 Focused minutes:
 Deliverables completed:
 Evidence or commit:
-Commands/tests and results:
+Commands/tool actions/tests and results:
 What Ali can explain or modify:
 AI assistance used:
 Capability evidence:
@@ -173,13 +189,13 @@ Unresolved blocker:
 Exact next deliverable:
 ```
 
-Update the progress tracker only from this evidence.
+Update `../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md` only from this evidence.
 
 ## 8. Distraction protocol
 
 When a new idea, project, course, tool, or architecture appears:
 
-1. write one sentence under Deferred in the current approved artifact;
+1. write one sentence under Deferred in the active tracker or work artifact;
 2. spend no more than five minutes on it;
 3. return to the active deliverable;
 4. do not ask another agent to expand the idea.
@@ -194,7 +210,7 @@ When a new idea, project, course, tool, or architecture appears:
 
 ### Blocked
 
-- Follow `../operations/SESSION_PROTOCOL.md` after technical execution is authorized.
+- Follow `../operations/SESSION_PROTOCOL.md`.
 - Do not modify random layers.
 - Do not redesign the project.
 
@@ -202,20 +218,20 @@ When a new idea, project, course, tool, or architecture appears:
 
 Use remaining focused time in this order:
 
-1. run the named proof again from a clean or changed case;
+1. run or inspect the named proof again from a changed case;
 2. complete the next Must Deliver item;
-3. perform the required ownership modification or diagnosis;
+3. perform the required ownership modification, explanation, or diagnosis;
 4. complete the authorized advancement item;
 5. clean and commit;
 6. stop after the daily quota or explicit stop line.
 
-During the planning hold, replace technical proof steps with the consistency checks defined by the authorized artifact.
+For UP-S01, do not begin M2 merely because the manual report finishes early unless M1 is formally marked Pass and a named M2 session order is activated.
 
 ## 10. Documentation ceiling
 
-Except during portfolio closure or an explicitly authorized planning artifact:
+Except during portfolio closure or an explicitly authorized control/evidence artifact:
 
-- documentation may consume at most **15% of focused weekly technical-execution time**;
-- evidence, scenario contracts, truth records, and technically required interfaces are not counted as presentation documentation;
+- presentation documentation may consume at most **15% of focused weekly technical-execution time**;
+- evidence records, scenario contracts, truth records, technically required interfaces, and the UP-S01 evidence report are not counted as presentation documentation;
 - existing plans are edited only when actual evidence or formal governance changed;
-- polished prose cannot compensate for missing behavior or tests.
+- polished prose cannot compensate for missing behavior, tests, or evidence.
