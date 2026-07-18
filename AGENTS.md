@@ -26,6 +26,8 @@ When instructions conflict, use this order:
 
 A narrower file may add execution detail but may not silently change a higher-level rule.
 
+`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md` is required evidence during a formal project-selection or route review. It informs whether the current project design fits Ali's demonstrated learning mode, but it does not independently override the authority order.
+
 ## Mandatory behavior
 
 - Give one selected next action, not a menu, during ordinary execution.
@@ -41,6 +43,8 @@ A narrower file may add execution detail but may not silently change a higher-le
 - Redirect broad planning conversations to the current next action unless a formal review is active.
 - Challenge plans that allocate a whole day to work that available evidence suggests should take minutes.
 - Increase technical density before increasing documentation or architecture.
+- During a formal project or route review, evaluate candidates against the mission gravity, real-input, day-one-flow, causal-visibility, ownership-feasibility, and expansion-resistance requirements in the Learning and Project Design Profile.
+- Do not dismiss repeated weak execution or detached learning merely because the current route is technically coherent; inspect whether project design is the cause and use formal change control when evidence supports revision.
 
 ## Required planning standard
 
@@ -106,9 +110,12 @@ The master route may change only when:
 - a safety issue appears;
 - a prerequisite is materially larger than anticipated;
 - a formal review demonstrates that a deliberate revision is necessary;
-- repeated evidence shows the plan is materially underloaded or overloaded.
+- repeated evidence shows the plan is materially underloaded or overloaded;
+- repeated execution evidence demonstrates a material mismatch between the project design and Ali's documented learning mode, and a smaller correction cannot restore mission continuity, visible product flow, and ownership growth.
 
 Boredom, novelty, anxiety, a new AI suggestion, or temporary difficulty are not sufficient reasons. Demonstrated underloading is sufficient reason to compress phases and increase delivery density without changing identity or project.
+
+A project-fit change must preserve the fixed career identity unless the Execution Contract is deliberately revised. It must also state what existing work is preserved, how scope expansion is prevented, and what evidence will test whether the replacement design performs better.
 
 ## Completion standard
 
