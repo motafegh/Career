@@ -25,13 +25,14 @@ Operational meaning:
 - Machine learning: analytical specialization
 - Security: application domain and quality layer
 - AI: assistance, acceleration, review, and collaboration
-- Systems/Linux/networking: learned when required by the active AegisLab slice
+- Systems/Linux/networking: learned when required by the active product
+- Distributed, cloud, agentic, orchestration, and MLOps systems: planned strategic exposure governed by `strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`, with permanent adoption determined by product evidence
 
 ## 3. Fixed project allocation
 
 ### Primary project
 
-AegisLab receives at least **97%** of focused technical time.
+AegisLab receives at least **97%** of focused technical time until a formal project-selection decision changes the primary-project allocation under Section 11.
 
 ### Research archive
 
@@ -39,14 +40,14 @@ Sentinel receives **0–3%** of focused time and never more than one 30-minute i
 
 Sentinel work:
 
-- cannot block AegisLab;
-- cannot create learning tasks;
+- cannot block the active primary project;
+- cannot create unapproved learning tasks;
 - cannot change this plan;
 - is not counted as Ali's demonstrated capability unless separately assessed.
 
 ### Other projects
 
-All other repositories are inactive historical evidence. No revival during this program.
+All other repositories are inactive historical evidence unless one is deliberately selected or a new bounded primary repository is authorized through the formal project-selection process.
 
 ## 4. Exact workload requirement
 
@@ -136,7 +137,8 @@ Acceptable outputs include:
 - parser/model/CLI behavior;
 - diagnosed and repaired failure;
 - committed technical artifact;
-- reduced-prompt ownership demonstration.
+- reduced-prompt ownership demonstration;
+- an authorized advanced-systems exposure artifact with comparison and decision evidence.
 
 Time spent without a concrete result may still be necessary, but must be labeled investigation and cannot silently satisfy a delivery gate.
 
@@ -155,27 +157,31 @@ A passed gate ends optional polishing, but Ali continues to the next **authorize
 
 ## 8. Anti-rabbit-hole rules
 
-- One active project.
+- One active primary project.
 - One weekly delivery package.
 - One active work package at a time.
 - One next action per session.
-- New ideas receive one sentence in a deferred list and no more than five minutes of discussion.
+- Ordinary new ideas receive one sentence in a deferred list and no more than five minutes of discussion.
+- A named advanced-systems objective may receive a bounded exposure package only when authorized by the weekly plan and governed by `strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`.
+- Only one major advanced-systems exposure package is normally active at a time.
 - Missing prerequisites receive a bounded repair, initially capped at 90 minutes.
 - A technical blocker is investigated before code or configuration is changed.
 - A missed day resumes at the same next action.
-- A failed week causes scope reduction or blocker repair, not a new roadmap.
+- A failed week causes scope reduction or blocker repair, not an automatic new roadmap.
 - Small tasks must be completed quickly and followed by the next authorized deliverable.
+- A technology pilot does not silently become permanent architecture.
 
 ## 9. Prohibited activities
 
 Until Day 90, do not:
 
-- create a new primary repository;
+- create or activate a new primary repository outside a formal project-selection decision;
 - adopt a new career identity;
-- start a general course unrelated to an active blocker;
-- add Kafka, Kubernetes, RAG, agents, LLM investigators, distributed services, or advanced MLOps to the active Core;
-- perform advanced ML before the rule baseline and leakage-safe data exist;
-- begin VM reproduction before the Python vertical slice and Docker stage pass;
+- start a general course unrelated to an active product, blocker, or authorized exposure package;
+- add Kubernetes, microservices, distributed queues, multi-cloud deployment, autonomous multi-agent systems, or advanced MLOps ad hoc or outside the Advanced Systems Exposure and Adoption Policy;
+- adopt any of those technologies permanently without a simpler baseline, project evidence, operational-cost analysis, and an explicit adoption decision;
+- perform advanced ML before a real analytical question, defensible data or truth, and a measured baseline exist;
+- begin unrelated VM reproduction before the selected product route authorizes it;
 - return to broad Sentinel participation;
 - spend a full week only on plans, profiles, or documentation;
 - claim production readiness or professional mastery without evidence;
@@ -186,25 +192,30 @@ Until Day 90, do not:
 
 Formal route reviews occur on:
 
+- **Preparation project-selection review:** active on 2026-07-18 to 2026-07-19
 - **Day 14 workload calibration:** 2026-08-02
 - **Day 30:** 2026-08-18
 - **Day 60:** 2026-09-17
 - **Day 90:** 2026-10-17
 
-Day 14 reviews workload realism and delivery density only. It does not reopen identity or project selection.
+The preparation review is authorized because repository and execution evidence demonstrated a material mismatch between the environment-first route and Ali's mission-driven learning mode. It may select or redefine the primary project before Day 1 while preserving the fixed career identity, workload expectations, evidence standards, safety boundaries, and ownership requirements.
 
-Weekly reviews may adjust exact daily execution inside the fixed route. They do not reopen identity, primary project, or long-term direction.
+Day 14 reviews workload realism, delivery density, mission continuity, and whether the selected project is producing real product pursuit. It does not casually reopen the identity.
+
+Weekly reviews may adjust exact daily execution inside the selected route. They do not silently replace the project or expand the permanent architecture.
 
 ## 11. Change criteria
 
-A master-plan change requires one of:
+A master-plan or primary-project change requires one of:
 
 - demonstrated technical infeasibility;
 - material external constraint;
 - safety or legal issue;
 - a prerequisite exceeding the allocated scope by a material amount;
 - strong evidence at a formal review point;
-- repeated proof that delivery density is materially too low or unrealistically high.
+- repeated proof that delivery density is materially too low or unrealistically high;
+- repeated evidence that the project design conflicts with Ali's documented mission-driven learning mode;
+- evidence that the current route cannot provide the approved advanced-systems exposure objectives without becoming artificial or fragmented.
 
 Any change must state:
 
@@ -212,16 +223,21 @@ Any change must state:
 - affected gate;
 - smallest necessary modification;
 - what remains fixed;
-- new deadline or scope consequence.
+- new deadline or scope consequence;
+- how existing work is preserved;
+- how Sentinel-style expansion is prevented;
+- how success of the revised design will be tested.
 
 ## 12. Breach response
 
-If Ali starts another project, returns to open-ended planning, pads trivial work, or repeatedly ignores the active order:
+If Ali starts an unapproved competing project, returns to open-ended planning, pads trivial work, or repeatedly ignores the active order:
 
-1. stop the competing activity;
+1. stop the competing or unbounded activity;
 2. record what happened without moral judgment;
 3. reopen `plans/CURRENT_WEEK.md`;
-4. resume the first incomplete deliverable;
-5. use the evaluator only to diagnose recurrence after execution has resumed.
+4. resume the first incomplete authorized deliverable;
+5. use the evaluator to diagnose recurrence after execution has resumed.
 
-No restart from Day 1 unless the program was materially interrupted for reasons outside ordinary execution.
+An authorized preparation-stage project-selection review or approved advanced-systems exposure package is not a breach.
+
+No restart from Day 1 unless the program was materially interrupted or the formal preparation review deliberately establishes a revised Day 1 route.
