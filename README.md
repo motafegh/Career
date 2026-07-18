@@ -31,7 +31,8 @@ For this period:
 - UpgradePilot implementation has not started.
 - No UpgradePilot implementation repository, roadmap, milestone plan, weekly plan, session plan, architecture, or advanced-systems package is active yet.
 - Existing AegisLab plan files are historical and must not be executed.
-- The next authorized action is to create the **UpgradePilot capability and prerequisite specification**.
+- [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is approved and controlling for capability and prerequisite decisions.
+- The next authorized action is to create the **UpgradePilot Learning and Execution Contract**.
 
 ## Execution requirement
 
@@ -54,9 +55,10 @@ Read and obey these files in order:
 4. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — Ali's mission-driven learning and ownership profile
 5. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — preserved selection criteria and capability requirements; broad selection is closed
 6. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — Kubernetes, microservices, queues, multi-cloud, autonomous multi-agent, and advanced MLOps exposure rules
-7. the approved UpgradePilot capability and prerequisite specification when created
-8. the later approved UpgradePilot master and active weekly plans when created
-9. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) when technical execution is authorized
+7. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) — approved capability depths, prerequisites, gates, diagnostics, deferrals, and ownership evidence
+8. the approved UpgradePilot Learning and Execution Contract when created
+9. the later approved UpgradePilot master and active weekly plans when created
+10. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) when technical execution is authorized
 
 Do not use the existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material until replacement UpgradePilot plans are created and approved.
 
@@ -74,7 +76,8 @@ Career/
 │   ├── STRATEGY_AND_SCOPE.md
 │   ├── LEARNING_AND_PROJECT_DESIGN_PROFILE.md
 │   ├── PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md
-│   └── ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md
+│   ├── ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md
+│   └── UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md
 ├── plans/
 │   ├── 90_DAY_MASTER_PLAN.md          # deferred AegisLab plan
 │   ├── MONTHLY_PLAN.md                # deferred AegisLab plan
@@ -101,4 +104,4 @@ Career/
 
 ## Current action
 
-Create the **UpgradePilot capability and prerequisite specification**. Do not begin implementation, architecture design, roadmap construction, milestone planning, session planning, corpus acquisition, advanced-technology experiments, or creation of an UpgradePilot implementation repository during this action.
+Create the **UpgradePilot Learning and Execution Contract**. Do not begin implementation, architecture design, roadmap construction, milestone planning, session planning, corpus acquisition, advanced-technology experiments, or creation of an UpgradePilot implementation repository during this action.

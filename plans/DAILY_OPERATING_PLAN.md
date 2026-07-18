@@ -9,7 +9,7 @@ This file preserves general workload and session rules, but it does **not** auth
 - The existing AegisLab `CURRENT_WEEK.md` and daily route are deferred and non-controlling.
 - No active UpgradePilot weekly or daily execution plan exists yet.
 - Until the required UpgradePilot planning artifacts are approved, apply these rules only to the currently authorized planning artifact.
-- The next authorized action is the **UpgradePilot capability and prerequisite specification**.
+- The next authorized action is the **UpgradePilot Learning and Execution Contract**.
 
 ## 1. Production-day minimum
 

@@ -8,7 +8,8 @@ This protocol does not authorize UpgradePilot technical implementation by itself
 - UpgradePilot implementation has not started.
 - The existing AegisLab `plans/CURRENT_WEEK.md` and daily route are deferred and non-controlling.
 - No technical Session Order, implementation command, architecture task, corpus acquisition, model experiment, cloud deployment, or advanced-systems package may begin until the required UpgradePilot planning artifacts authorize it.
-- The next authorized action is the **UpgradePilot capability and prerequisite specification**.
+- The approved capability-control artifact is [`../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md).
+- The next authorized action is the **UpgradePilot Learning and Execution Contract**.
 
 During the current planning hold, use the structure of this protocol only when useful for a bounded planning deliverable; do not issue technical execution orders.
 
@@ -200,7 +201,7 @@ When Ali starts broad planning outside the currently authorized artifact, the AI
 This decision is already controlled by the 90-day system. The current deliverable is: <deliverable>. The next action is: <action>.
 ```
 
-During the current governance state, the controlling deliverable is the **UpgradePilot capability and prerequisite specification**. Broad candidate comparison, architecture design, implementation planning beyond that artifact, and execution of AegisLab plans are out of scope.
+During the current governance state, the controlling deliverable is the **UpgradePilot Learning and Execution Contract**. Broad candidate comparison, architecture design, implementation planning beyond that artifact, and execution of AegisLab plans are out of scope.
 
 A brief clarification is allowed only if the current files conflict, are materially underloaded, or lack a technically necessary decision.
 

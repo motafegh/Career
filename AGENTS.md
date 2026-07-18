@@ -19,7 +19,8 @@ The purpose is measurable capability, dense delivery, finished evidence, career 
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, and repositories do not automatically transfer into UpgradePilot.
 - UpgradePilot implementation has not started.
 - No implementation repository, architecture, roadmap, milestone package, weekly plan, session order, data campaign, model experiment, or advanced-systems package is authorized yet.
-- The next authorized action is to create the **UpgradePilot capability and prerequisite specification**.
+- [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved and controlling capability-control artifact.
+- The next authorized action is to create the **UpgradePilot Learning and Execution Contract**.
 
 ## Authority order
 
@@ -29,7 +30,7 @@ When instructions conflict, use this order:
 2. `governance/EXECUTION_CONTRACT.md`
 3. `strategy/STRATEGY_AND_SCOPE.md`
 4. `UpgradePilot.md`
-5. the approved UpgradePilot capability and prerequisite specification when created
+5. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md)
 6. the approved UpgradePilot learning and execution contract when created
 7. the revised UpgradePilot master roadmap and active weekly plan when created
 8. `operations/SESSION_PROTOCOL.md` after technical execution is authorized

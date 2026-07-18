@@ -10,7 +10,8 @@
 - Sentinel remains a research archive and source of selectively reusable lessons.
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, or repositories do not transfer automatically into UpgradePilot.
 - UpgradePilot implementation has not started.
-- The next authorized action is the UpgradePilot capability and prerequisite specification.
+- [`UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved and controlling capability-control artifact.
+- The next authorized action is the UpgradePilot Learning and Execution Contract.
 
 Any pre-selection or “no project selected” wording retained in the companion strategy inputs records their original decision-stage context. It does not reopen selection or override `UpgradePilot.md`.
 

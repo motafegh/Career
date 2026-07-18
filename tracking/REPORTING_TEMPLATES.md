@@ -5,7 +5,7 @@
 >
 > UpgradePilot is the selected primary flagship under [`../UpgradePilot.md`](../UpgradePilot.md). UpgradePilot implementation has not started. The replacement evidence and progress tracker—and any UpgradePilot-specific reporting templates—have not yet been created.
 >
-> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original templates below are preserved unchanged as historical planning material.
+> The next authorized action is to create the **UpgradePilot Learning and Execution Contract**. The original templates below are preserved unchanged as historical planning material.
 
 ---
 

@@ -4,9 +4,9 @@
 
 **Recorded:** 2026-07-19
 
-**Status:** Proposed capability-control artifact; requires approval
+**Status:** Approved and controlling capability-control artifact
 
-**Authority:** Subordinate to the Execution Contract, Strategy and Scope, and the governing UpgradePilot charter
+**Authority:** Controls UpgradePilot capability and prerequisite decisions; subordinate to ../UpgradePilot.md and higher-level governance
 
 **Activation effect:** Defines capability gates only. It does not authorize implementation, repository creation, architecture design, corpus acquisition, a roadmap, a session plan, or an experiment.
 

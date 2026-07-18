@@ -9,7 +9,8 @@
 - **Governing project charter:** `UpgradePilot.md`
 - **Selection status:** Final; broad project comparison closed
 - **Implementation status:** Not started; not yet authorized
-- **Current authorized artifact:** UpgradePilot capability and prerequisite specification
+- **Approved capability-control artifact:** [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md)
+- **Current authorized artifact:** UpgradePilot Learning and Execution Contract
 - **AegisLab status:** Deferred historical technical evidence; execution plans non-controlling
 - **Sentinel status:** Research archive and source of selectively reusable lessons
 - **Automatic transfer rule:** No AegisLab or Sentinel architecture, sequencing, modules, tasks, or repositories transfer automatically

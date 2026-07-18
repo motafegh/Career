@@ -5,7 +5,7 @@
 >
 > UpgradePilot is the formally selected primary 90-day flagship. [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter. Broad project comparison is closed. UpgradePilot implementation has not started, and the replacement UpgradePilot master roadmap has not yet been created.
 >
-> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original AegisLab plan below is preserved as historical planning evidence and does not transfer architecture, sequencing, modules, or tasks into UpgradePilot.
+> The next authorized action is to create the **UpgradePilot Learning and Execution Contract**. The original AegisLab plan below is preserved as historical planning evidence and does not transfer architecture, sequencing, modules, or tasks into UpgradePilot.
 
 ---
 

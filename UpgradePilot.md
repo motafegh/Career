@@ -1087,4 +1087,4 @@ UpgradePilot is the single primary flagship mission. Future work must move from 
 
 The next authorized artifact is:
 
-> **UpgradePilot capability and prerequisite specification.**
+> **UpgradePilot Learning and Execution Contract.**

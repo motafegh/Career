@@ -38,7 +38,8 @@ Operational meaning:
 - UpgradePilot receives the primary technical allocation after its required planning artifacts authorize implementation.
 - Broad project comparison is closed.
 - UpgradePilot implementation has not started.
-- The next authorized action is the UpgradePilot capability and prerequisite specification.
+- The UpgradePilot capability and prerequisite specification is approved and controlling under the governing charter.
+- The next authorized action is the UpgradePilot Learning and Execution Contract.
 
 Until the capability specification and subsequent required planning artifacts are approved, focused technical implementation is not authorized. Work remains limited to the explicitly authorized planning sequence in `UpgradePilot.md`.
 
