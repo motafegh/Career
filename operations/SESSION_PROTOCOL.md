@@ -1,8 +1,20 @@
 # Session and Blocker Protocol
 
+## Current activation status
+
+This protocol does not authorize UpgradePilot technical implementation by itself.
+
+- [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter.
+- UpgradePilot implementation has not started.
+- The existing AegisLab `plans/CURRENT_WEEK.md` and daily route are deferred and non-controlling.
+- No technical Session Order, implementation command, architecture task, corpus acquisition, model experiment, cloud deployment, or advanced-systems package may begin until the required UpgradePilot planning artifacts authorize it.
+- The next authorized action is the **UpgradePilot capability and prerequisite specification**.
+
+During the current planning hold, use the structure of this protocol only when useful for a bounded planning deliverable; do not issue technical execution orders.
+
 ## 1. Session-start message
 
-Ali starts every focused session with:
+After an active UpgradePilot planning or execution artifact defines a focused session, Ali starts with:
 
 ```text
 START DAY <program day>
@@ -15,11 +27,11 @@ Current state: <one sentence>
 First expected proof: <file/test/command/output>
 ```
 
-Do not ask “What should I do?” The controlling item is the first incomplete deliverable in `plans/CURRENT_WEEK.md`.
+Do not ask “What should I do?” The controlling item is the first incomplete deliverable in the current approved UpgradePilot artifact. The deferred AegisLab `plans/CURRENT_WEEK.md` is never controlling.
 
 ## 2. Required AI Session Order
 
-The AI returns one order using this structure:
+After technical execution is explicitly authorized, the AI returns one order using this structure:
 
 ```text
 SESSION ORDER
@@ -57,11 +69,12 @@ Rules:
 - a time budget is a maximum, not a target to fill;
 - when the deliverable finishes early, continue to the named next authorized deliverable;
 - do not assign a full session to administrative work that should take minutes;
-- do not repeat a demonstrated lab merely to consume scheduled time.
+- do not repeat a demonstrated lab merely to consume scheduled time;
+- do not issue implementation commands during the current planning hold.
 
 ## 3. Session-end message
 
-Ali closes every session with:
+Ali closes every authorized focused session with:
 
 ```text
 SESSION END
@@ -87,6 +100,8 @@ The AI judges:
 
 ## 4. Technical blocker protocol
 
+This section applies only after technical execution is authorized.
+
 ### Step 1 — Observe
 
 Before changing code or configuration, record:
@@ -110,10 +125,12 @@ Identify the likely affected layer:
 - network;
 - process/service;
 - file/permission;
+- acquisition;
 - parser;
 - validation;
 - persistence;
-- detection;
+- analysis or recommendation;
+- model or evaluation;
 - test;
 - packaging/CI.
 
@@ -147,7 +164,7 @@ Record what the repair proves and what remains unverified.
 
 ## 5. Missing prerequisite protocol
 
-Initial repair cap: **90 focused minutes**.
+Initial repair cap after technical execution begins: **90 focused minutes**.
 
 The AI must state:
 
@@ -161,9 +178,11 @@ After verification, return immediately to the blocked deliverable.
 
 A prerequisite gap does not authorize a general course or new roadmap.
 
+During creation of the UpgradePilot capability and prerequisite specification, prerequisite analysis follows that artifact's own review requirements rather than this 90-minute technical-repair cap.
+
 ## 6. Environment blocker protocol
 
-If unresolved within one session:
+After implementation is authorized, if an environment blocker remains unresolved within one session:
 
 1. preserve state and evidence;
 2. state whether the environment is required for the current gate;
@@ -175,11 +194,13 @@ If unresolved within one session:
 
 ## 7. Planning-diversion protocol
 
-When Ali starts broad planning outside a formal review point, the AI should respond:
+When Ali starts broad planning outside the currently authorized artifact, the AI should respond:
 
 ```text
 This decision is already controlled by the 90-day system. The current deliverable is: <deliverable>. The next action is: <action>.
 ```
+
+During the current governance state, the controlling deliverable is the **UpgradePilot capability and prerequisite specification**. Broad candidate comparison, architecture design, implementation planning beyond that artifact, and execution of AegisLab plans are out of scope.
 
 A brief clarification is allowed only if the current files conflict, are materially underloaded, or lack a technically necessary decision.
 
@@ -194,7 +215,7 @@ Possible trigger:
 
 Maximum discussion: five minutes.
 
-No design, research, repository, task list, or implementation is created.
+No design, research, repository, task list, or implementation is created outside the authorized artifact.
 
 ## 9. Underloading protocol
 
@@ -204,8 +225,8 @@ When Ali completes a planned item in materially less time than allocated:
 2. record actual time;
 3. do not manufacture more documentation or repetition;
 4. move to the next authorized deliverable;
-5. record the estimate error at weekly closure;
-6. compress similar future work during the next weekly activation.
+5. record the estimate error at weekly closure after weekly execution exists;
+6. compress similar future work during the next authorized planning or weekly activation.
 
 Underloading is a plan defect to correct, not evidence that Ali should stop working.
 
@@ -222,11 +243,13 @@ Schedule consequence:
 What remains fixed:
 ```
 
-Without this evidence, reject the change and resume execution.
+Without this evidence, reject the change and resume the current authorized work.
+
+Changing the selected UpgradePilot mission or boundary additionally requires the formal reframe or termination evidence in `UpgradePilot.md` and the Execution Contract.
 
 ## 11. AI implementation boundary
 
-AI may:
+After implementation is authorized, AI may:
 
 - teach;
 - propose bounded structure;
@@ -248,3 +271,5 @@ For learning-critical components, Ali must progressively:
 - state limitations.
 
 AI-generated complexity alone never passes an ownership gate.
+
+During the current planning hold, AI may help draft, review, reconcile, and validate the authorized planning artifact, but it must not use that work as a pretext to start implementation.
