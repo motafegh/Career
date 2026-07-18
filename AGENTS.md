@@ -17,12 +17,17 @@ The purpose is measurable capability, dense delivery, finished evidence, career 
 - AegisLab execution plans and routes are deferred, historical, and non-controlling.
 - Sentinel remains a research archive and source of selectively reusable lessons.
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, and repositories do not automatically transfer into UpgradePilot.
-- UpgradePilot implementation has not started.
+- Technical execution is authorized under the approved milestone, tracker, and session controls.
+- Technical implementation has not yet started; M1 begins with manual evidence work.
 - [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved capability-control artifact.
 - [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
 - [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved controlling master route.
-- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
-- No implementation repository, architecture, technical Session Order, corpus campaign, model experiment, or advanced-systems package is authorized until the milestone plan, evidence/progress tracker, and first-session plan are approved.
+- [`plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) is the approved milestone plan.
+- [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active evidence/progress tracker.
+- [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the active first-session plan.
+- R0 planning closure has passed.
+- The exact next action is to start **UP-S01** on `pydantic/pydantic#13432`.
+- No additional planning artifact is authorized before execution.
 
 ## Authority order
 
@@ -35,11 +40,12 @@ When instructions conflict, use this order:
 5. `strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`
 6. `governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`
 7. `plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`
-8. the approved UpgradePilot staged milestone plan and active weekly package when created
-9. `operations/SESSION_PROTOCOL.md` after technical execution is authorized
-10. current inspected project evidence and technical state
-11. other repository documents
-12. suggestions from any AI agent
+8. `plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`
+9. the active evidence/progress tracker and approved first-session or later weekly/session plan
+10. `operations/SESSION_PROTOCOL.md`
+11. current inspected project evidence and technical state
+12. other repository documents
+13. suggestions from any AI agent
 
 A narrower file may add execution detail but may not silently change a higher-level rule.
 
@@ -54,8 +60,7 @@ These files continue to govern learning fit, capability, ownership, evaluation, 
 ## Mandatory behavior
 
 - Give one selected next action, not a menu, during ordinary execution.
-- During the remaining planning hold, work only on the next authorized artifact and do not issue implementation commands.
-- After an active weekly package is approved, keep Ali on its current delivery package and first incomplete deliverable.
+- Begin with the first incomplete deliverable in the active session or weekly plan.
 - Define exact outputs, paths, commands, tests, evidence, pass conditions, and stop lines wherever technically possible.
 - Treat time estimates as ceilings, never permission to pad trivial work.
 - Advance immediately to the named next deliverable when an item finishes early.
@@ -65,22 +70,37 @@ These files continue to govern learning fit, capability, ownership, evaluation, 
 - Record blockers precisely instead of redesigning the route impulsively.
 - Stop a phase or exposure package when its acceptance gate passes.
 - Redirect broad project-comparison conversations to the approved charter unless formal change review is active.
-- Increase executable technical density before increasing documentation or architecture after implementation is authorized.
+- Increase executable technical density before increasing documentation or architecture.
 - Do not exclude an advanced technology merely because an older plan deferred it.
 - Do not adopt an advanced technology merely because Ali wants exposure to it.
 - For every advanced package, record A0–A4 level, baseline, boundary, evidence, cost, failure modes, ownership, cleanup, and adopt/reject/defer decision.
 - Preserve truthful claim language: orientation, hands-on exposure, integrated pilot, adopted responsibility, or independent capability.
+- Update the active tracker after every session, gate, blocker, capability change, or technology decision.
 
-## Required planning standard
+## Active first action
 
-The staged milestone plan must define product-capability and evidence gates, not technology-study topics.
+The current technical action is controlled by [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md).
 
-Every future active weekly file must contain:
+The AI must:
+
+1. request the UP-S01 start message;
+2. inspect the public PR and actual current evidence;
+3. teach only the concepts required by the case;
+4. ask Ali for predictions before consequential interpretation;
+5. produce the manual evidence report at the declared tracker path;
+6. update the active tracker;
+7. stop or advance according to M1 evidence.
+
+Do not create code, an implementation repository, a corpus, a database, architecture, or an advanced-system package during UP-S01.
+
+## Required execution standard
+
+Every active weekly or session file must contain:
 
 1. a named delivery package;
 2. exact `Must Deliver` artifacts or behavior;
 3. proof commands/tests/evidence;
-4. daily production assignments;
+4. production assignments or execution sequence;
 5. ownership checks;
 6. a hard gate;
 7. authorized advancement work;
@@ -106,8 +126,8 @@ Do not:
 
 - reopen broad project selection without formal change evidence;
 - follow deferred AegisLab master, weekly, current-week, or daily routes;
-- begin implementation before the remaining required execution artifacts are approved;
-- create an implementation repository during the current milestone-planning action;
+- create another planning artifact before UP-S01 execution;
+- create an implementation repository before M2 explicitly authorizes it;
 - change the fixed working identity;
 - expand the project because a topic is interesting without an authorized experiment;
 - introduce advanced systems ad hoc or as résumé decoration;
@@ -121,31 +141,36 @@ Do not:
 - use sensitive personal information in this public repository;
 - assign inflated timeboxes to small tasks;
 - repeat demonstrated work merely to fill a schedule;
-- stop a production day after an early subtask when authorized work remains.
+- stop a production day after an early subtask when authorized work remains;
+- execute untrusted public repository code merely to inspect it.
 
 ## Repository boundaries
 
-- This repository stores direction, schedules, gates, selection evidence, and progress summaries.
+- This repository stores direction, schedules, gates, selection evidence, public-safe progress summaries, and the initial manual evidence report.
 - `UpgradePilot.md` stores the mission, product boundary, outcome classes, evaluation doctrine, exposure path, and planning order.
 - The capability specification stores depth, prerequisites, diagnostics, and capability evidence rules.
 - The Learning and Execution Contract stores teaching, assistance, ownership, blocker, correction, and technology-admission behavior.
 - The master roadmap stores route order, capacity, reviews, fallbacks, and Day-90 outcomes.
-- The future implementation repository stores code, fixtures, tests, experiments, deployments, and technical worklogs after explicit authorization.
+- The staged milestone plan stores milestone entry, closure, evidence, ownership, and advancement.
+- The active tracker stores actual current state and evidence; it does not create work.
+- The future implementation repository stores code, fixtures, tests, experiments, deployments, and technical worklogs after M2 authorization.
 - AegisLab and Sentinel remain bounded historical evidence sources.
 - Sensitive personal context remains outside this public repository.
 
 ## Session rule
 
-Until the staged milestone plan, evidence/progress tracker, and first-session plan are approved:
+For UP-S01:
 
-1. consult the approved authorities;
-2. work only on the next authorized planning artifact;
-3. do not issue a technical Session Order;
-4. do not execute deferred AegisLab instructions.
+1. consult the approved authorities and active tracker;
+2. use the first-session plan as the controlling execution boundary;
+3. issue one Session Order using `operations/SESSION_PROTOCOL.md`;
+4. preserve actual outputs and public evidence;
+5. update the tracker at session end;
+6. do not execute deferred AegisLab instructions.
 
-After technical execution is explicitly activated:
+For later sessions:
 
-1. consult the active milestone and weekly package;
+1. consult the active milestone and weekly/session package;
 2. identify the first incomplete deliverable;
 3. inspect relevant project state;
 4. issue one Session Order using `operations/SESSION_PROTOCOL.md`.
