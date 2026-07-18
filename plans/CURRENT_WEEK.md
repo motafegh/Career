@@ -1,9 +1,21 @@
+# Deferred AegisLab Current-Week Plan — Historical Only
+
+> [!CAUTION]
+> **This file is deferred, superseded for active execution, and non-controlling. Do not execute any instruction, command, deliverable, gate, branch action, or next action below.**
+>
+> UpgradePilot is the formally selected primary 90-day flagship. [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter. Broad project comparison is closed. UpgradePilot implementation has not started, and no replacement UpgradePilot weekly plan exists yet.
+>
+> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original AegisLab contents below are preserved unchanged as historical planning evidence.
+
+---
+
 # Current Week — Preparation + Week 1 Delivery Sprint
 
+**Historical status:** Deferred by the formal UpgradePilot selection decision; not an active week.  
 **Preparation:** 2026-07-18 to 2026-07-19  
 **Execution week:** 2026-07-20 to 2026-07-26  
 **Required production time:** 24 focused hours  
-**Primary repository:** `motafegh/AegisLab`
+**Historical primary repository:** `motafegh/AegisLab`
 
 ## Weekly delivery package
 
