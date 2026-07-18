@@ -1,4 +1,17 @@
+# Deferred AegisLab 13-Week Delivery Plan — Historical Only
+
+> [!CAUTION]
+> **This plan is deferred, superseded for active execution, and non-controlling. Do not execute its weekly packages, assignments, gates, or carry rules.**
+>
+> UpgradePilot is the formally selected primary 90-day flagship. [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter. The replacement UpgradePilot roadmap, milestones, and weekly plan have not yet been created, and implementation has not started.
+>
+> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original AegisLab weekly plan below is preserved unchanged as historical planning evidence.
+
+---
+
 # Exact 13-Week Delivery Plan
+
+**Historical status:** Deferred by the formal UpgradePilot selection decision; not an active delivery plan.
 
 Each week contains six 4-hour production days, one delivery package, exact Must Deliver outputs, and one hard gate. Daily execution detail for the active week is expanded in `CURRENT_WEEK.md`.
 
