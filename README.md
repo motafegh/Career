@@ -16,11 +16,11 @@ For this period:
 
 - Python and data engineering are the implementation core.
 - Machine learning is the analytical specialization.
-- Security is the application domain and engineering-quality layer.
+- Security is an application and engineering-quality layer.
 - AI is a working multiplier, not evidence of unassisted capability.
-- AegisLab is the only active primary technical project.
-- Sentinel is an autonomous research archive and receives at most 0–3% of total focused time.
-- All other repositories are inactive historical work.
+- Distributed, cloud, orchestration, agentic, and advanced MLOps systems are planned exposure areas governed by explicit evidence and adoption rules.
+- AegisLab remains the active technical repository until the preparation-stage project-selection review records the primary-project decision.
+- Sentinel remains an autonomous research archive unless the formal decision changes its role.
 
 ## Execution requirement
 
@@ -29,9 +29,9 @@ For this period:
 - **Yellow mode:** 2.5 focused hours; the missing 1.5 hours becomes weekly recovery work.
 - **Red mode:** 0 technical hours, state preserved, no unsafe compensatory work.
 - **Sunday:** 30-minute evidence review and next-week activation; not counted as focused time.
-- Every production day must end with a named deliverable, verified behavior, test result, evidence artifact, or diagnosed failure.
+- Every production day must end with a named deliverable, verified behavior, test result, evidence artifact, diagnosed failure, or authorized exposure result.
 - Timeboxes are ceilings and workload containers, not permission to pad trivial work.
-- When an assigned item finishes early, Ali immediately continues to the next authorized deliverable in `plans/CURRENT_WEEK.md`.
+- When an assigned item finishes early, Ali immediately continues to the next authorized deliverable.
 
 ## Start here
 
@@ -39,14 +39,15 @@ Read and obey these files in order:
 
 1. [`governance/EXECUTION_CONTRACT.md`](governance/EXECUTION_CONTRACT.md)
 2. [`strategy/STRATEGY_AND_SCOPE.md`](strategy/STRATEGY_AND_SCOPE.md)
-3. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — required during formal project or route review; not a daily execution document
-4. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — required when discovering, comparing, or selecting project candidates
-5. [`plans/90_DAY_MASTER_PLAN.md`](plans/90_DAY_MASTER_PLAN.md)
-6. [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md)
-7. [`plans/daily/week-01/README.md`](plans/daily/week-01/README.md)
-8. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
+3. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — Ali's mission-driven learning and ownership profile
+4. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — real-problem, mission, novelty, capability, and candidate-selection requirements
+5. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — Kubernetes, microservices, queues, multi-cloud, autonomous multi-agent, and advanced MLOps exposure rules
+6. the active formal-review package or selected project decision when created
+7. [`plans/90_DAY_MASTER_PLAN.md`](plans/90_DAY_MASTER_PLAN.md)
+8. [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md)
+9. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
 
-During normal work, read only the current dated daily plan, the current AegisLab technical state, and the exact referenced runbook sections. Do not repeatedly reread the full system.
+During ordinary production, read only the active weekly package, current technical state, and exact required technical references. During the active preparation-stage project review, use the three strategy decision inputs above.
 
 ## Repository map
 
@@ -60,7 +61,8 @@ Career/
 ├── strategy/
 │   ├── STRATEGY_AND_SCOPE.md
 │   ├── LEARNING_AND_PROJECT_DESIGN_PROFILE.md
-│   └── PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md
+│   ├── PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md
+│   └── ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md
 ├── plans/
 │   ├── 90_DAY_MASTER_PLAN.md
 │   ├── MONTHLY_PLAN.md
@@ -69,16 +71,6 @@ Career/
 │   ├── CURRENT_WEEK.md
 │   └── daily/
 │       └── week-01/
-│           ├── README.md
-│           ├── 2026-07-18.md
-│           ├── 2026-07-19.md
-│           ├── 2026-07-20.md
-│           ├── 2026-07-21.md
-│           ├── 2026-07-22.md
-│           ├── 2026-07-23.md
-│           ├── 2026-07-24.md
-│           ├── 2026-07-25.md
-│           └── 2026-07-26.md
 ├── operations/
 │   └── SESSION_PROTOCOL.md
 └── tracking/
@@ -88,11 +80,12 @@ Career/
 
 ## Separation of responsibilities
 
-- **Career repository:** controls direction, minimum workload, deliverables, gates, reporting, and career actions.
-- **AegisLab repository:** contains technical implementation, tests, experiments, fixtures, evidence, and worklogs.
-- **Sentinel repository:** autonomous research archive; it cannot create tasks for this program.
+- **Career repository:** controls direction, project selection, workload, deliverables, gates, reporting, exposure policy, and career actions.
+- **Selected primary repository:** contains technical implementation, tests, experiments, deployments, evidence, and worklogs.
+- **AegisLab repository:** remains active until the formal project decision changes its state; its existing evidence must be preserved.
+- **Sentinel repository:** remains a research archive unless explicitly reassigned through formal review.
 - **Private evaluator context:** contains sensitive personal, medical, medication, financial, and routine information. It must not be copied into this public repository.
 
 ## Current action
 
-Open the current dated file under [`plans/daily/week-01/`](plans/daily/week-01/) and execute the first incomplete deliverable. Do not design another system.
+Complete the preparation-stage project-selection review using the Learning and Project Design Profile, Project Selection and Capability Specification, and Advanced Systems Exposure and Adoption Policy. Do not resume the obsolete daily route or create a new repository until the primary-project decision is recorded.
