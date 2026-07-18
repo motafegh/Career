@@ -1,10 +1,21 @@
 # Exact Daily Operating Plan
 
+## Current activation status
+
+This file preserves general workload and session rules, but it does **not** authorize technical execution by itself.
+
+- UpgradePilot is the formally selected primary flagship under [`../UpgradePilot.md`](../UpgradePilot.md).
+- UpgradePilot implementation has not started.
+- The existing AegisLab `CURRENT_WEEK.md` and daily route are deferred and non-controlling.
+- No active UpgradePilot weekly or daily execution plan exists yet.
+- Until the required UpgradePilot planning artifacts are approved, apply these rules only to the currently authorized planning artifact.
+- The next authorized action is the **UpgradePilot capability and prerequisite specification**.
+
 ## 1. Production-day minimum
 
-Monday through Saturday require **4 focused hours per day** in Green mode.
+Monday through Saturday require **4 focused hours per day** in Green mode when the approved execution route is active. During an authorized preparation or planning hold, the controlling artifact may define a narrower workload.
 
-Default structure:
+Default structure after technical execution is activated:
 
 | Time | Block | Duration | Purpose |
 |---|---|---:|---|
@@ -15,11 +26,11 @@ Default structure:
 
 The opening procedure is included in Block A. No planned project work begins after 22:45.
 
-At least **3 hours per Green day** must normally involve direct laptop/terminal technical production. Mobile work can contribute at most 1 hour and only when the active weekly plan names a concrete mobile-suitable deliverable.
+At least **3 hours per Green day** must normally involve direct laptop/terminal technical production after implementation is authorized. Mobile work can contribute at most 1 hour and only when the active approved UpgradePilot weekly plan names a concrete mobile-suitable deliverable.
 
 ## 2. Delivery-first rule
 
-Each day has named outputs in `plans/CURRENT_WEEK.md`.
+Each day has named outputs in the active approved UpgradePilot planning or weekly artifact. The deferred AegisLab `plans/CURRENT_WEEK.md` is not an active source of outputs.
 
 Ali does not spend an assigned duration merely because it appears in the plan. When a task finishes:
 
@@ -34,7 +45,7 @@ The managing agent must not use broad verbs such as “study,” “review,” o
 
 ## 3. What counts as focused time
 
-Counts:
+After technical execution is authorized, counts include:
 
 - writing or modifying active code;
 - running and interpreting experiments;
@@ -47,36 +58,38 @@ Counts:
 - producing an explanation required by an ownership gate;
 - technically necessary documentation derived from completed behavior.
 
+During the current planning hold, only work required to create and validate the named authorized planning artifact counts. Implementation-like work does not become authorized merely because it produces an artifact.
+
 Does not count by default:
 
 - broad AI conversation;
-- roadmap or career discussion;
+- roadmap or career discussion outside the authorized artifact;
 - browsing unrelated technologies;
 - passive videos;
 - rereading plans;
 - formatting or polishing documentation;
 - Sentinel inspection beyond the archive allowance;
-- discussing future phases;
+- discussing future phases outside the authorized artifact;
 - time when attention is substantially elsewhere;
 - waiting for a command or tool without using the time on another authorized step.
 
-Mobile work counts only when the current weekly plan permits it and the session produces a preserved explanation, evidence annotation, decision, or exact next technical action.
+Mobile work counts only when the current approved artifact permits it and the session produces a preserved explanation, evidence annotation, decision, or exact next action.
 
 ## 4. Capacity modes and exact quotas
 
 ### Green
 
-- Daily minimum: **4 hours**
-- Structure: two 120-minute blocks
+- Daily minimum: **4 hours** after full execution activation, unless the current approved planning artifact defines a smaller preparation scope
+- Structure: two 120-minute blocks during technical execution
 - Work type: full active order
 - Maximum planned load: 5 focused hours
 
 ### Yellow
 
-- Daily minimum: **2.5 hours**
+- Daily minimum: **2.5 hours** after full execution activation
 - Structure: one 90-minute and one 60-minute block, or one 150-minute block
 - Missing 1.5 hours becomes weekly recovery work
-- Work type: tests, fixtures, parser/validation, evidence review, small repair, derived documentation, bounded SQL
+- Work type: tests, fixtures, parser/validation, evidence review, small repair, derived documentation, bounded SQL after implementation is authorized
 - No architecture changes or risky environment modifications
 
 ### Red
@@ -90,6 +103,8 @@ Mobile work counts only when the current weekly plan permits it and the session 
 
 ### Required total
 
+After an UpgradePilot execution week is activated:
+
 - Standard week: **24 focused hours**
 - One Yellow day creates 1.5 recovery hours.
 - Yellow recovery may be completed by adding up to 60 minutes to later Green days or through Saturday's remaining capacity.
@@ -98,7 +113,7 @@ Mobile work counts only when the current weekly plan permits it and the session 
 
 ### Saturday
 
-Saturday is a normal production day, not merely a buffer.
+After weekly execution is activated, Saturday is a normal production day, not merely a buffer.
 
 Saturday priorities:
 
@@ -112,14 +127,14 @@ Do not begin an unlisted future technology or feature.
 
 ### Sunday
 
-Mandatory 30-minute procedure:
+After an UpgradePilot weekly plan exists, the mandatory 30-minute procedure is:
 
 1. calculate focused hours;
 2. mark weekly gate Pass, Partial, Blocked, or Failed;
 3. link evidence;
 4. complete the weekly ownership check;
 5. identify the first next action;
-6. activate the next `CURRENT_WEEK.md` version.
+6. activate the next approved UpgradePilot weekly version.
 
 No implementation unless safety-critical cleanup remains.
 
@@ -137,7 +152,7 @@ Current deliverable:
 First expected artifact or proof:
 ```
 
-Do not begin with “What should I do?” The first incomplete deliverable is already controlling.
+Do not begin with “What should I do?” The first incomplete deliverable in the current approved artifact is controlling.
 
 ## 7. Exact session end
 
@@ -161,7 +176,7 @@ Update the progress ledger only from this evidence.
 
 When a new idea, project, course, tool, or architecture appears:
 
-1. write one sentence under Deferred in the current weekly file;
+1. write one sentence under Deferred in the current approved artifact;
 2. spend no more than five minutes on it;
 3. return to the active deliverable;
 4. do not ask another agent to expand the idea.
@@ -176,7 +191,7 @@ When a new idea, project, course, tool, or architecture appears:
 
 ### Blocked
 
-- Follow `operations/SESSION_PROTOCOL.md`.
+- Follow `operations/SESSION_PROTOCOL.md` after technical execution is authorized.
 - Do not modify random layers.
 - Do not redesign the project.
 
@@ -191,11 +206,13 @@ Use remaining focused time in this order:
 5. clean and commit;
 6. stop after the daily quota or explicit stop line.
 
+During the current planning hold, replace technical proof steps with the review and consistency checks defined by the authorized planning artifact.
+
 ## 10. Documentation ceiling
 
-Except during portfolio closure:
+Except during portfolio closure or an explicitly authorized planning artifact:
 
-- documentation may consume at most **15% of focused weekly time**;
+- documentation may consume at most **15% of focused weekly technical-execution time**;
 - evidence, scenario contracts, truth records, and technically required interfaces are not counted as presentation documentation;
-- existing plans are edited only when actual evidence changed;
+- existing plans are edited only when actual evidence or formal governance changed;
 - polished prose cannot compensate for missing behavior or tests.
