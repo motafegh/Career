@@ -4,16 +4,18 @@
 
 This file preserves general workload and session rules, but it does **not** authorize technical execution by itself.
 
-- UpgradePilot is the formally selected primary flagship under [`../UpgradePilot.md`](../UpgradePilot.md).
+- UpgradePilot is the selected primary flagship under [`../UpgradePilot.md`](../UpgradePilot.md).
+- [`../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
+- [`UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved master route.
 - UpgradePilot implementation has not started.
 - The existing AegisLab `CURRENT_WEEK.md` and daily route are deferred and non-controlling.
 - No active UpgradePilot weekly or daily execution plan exists yet.
-- Until the required UpgradePilot planning artifacts are approved, apply these rules only to the currently authorized planning artifact.
-- The next authorized action is the **UpgradePilot Learning and Execution Contract**.
+- Until the staged milestone plan, evidence/progress tracker, and first-session plan are approved, apply these rules only to the currently authorized planning artifact.
+- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
 
 ## 1. Production-day minimum
 
-Monday through Saturday require **4 focused hours per day** in Green mode when the approved execution route is active. During an authorized preparation or planning hold, the controlling artifact may define a narrower workload.
+Monday through Saturday require **4 focused hours per day** in Green mode when the approved execution route is active. During an authorized planning hold, the controlling artifact may define a narrower workload.
 
 Default structure after technical execution is activated:
 
@@ -26,11 +28,11 @@ Default structure after technical execution is activated:
 
 The opening procedure is included in Block A. No planned project work begins after 22:45.
 
-At least **3 hours per Green day** must normally involve direct laptop/terminal technical production after implementation is authorized. Mobile work can contribute at most 1 hour and only when the active approved UpgradePilot weekly plan names a concrete mobile-suitable deliverable.
+At least **3 hours per Green day** must normally involve direct laptop/terminal technical production after implementation is authorized. Mobile work can contribute at most 1 hour and only when an active approved plan names a concrete mobile-suitable deliverable.
 
 ## 2. Delivery-first rule
 
-Each day has named outputs in the active approved UpgradePilot planning or weekly artifact. The deferred AegisLab `plans/CURRENT_WEEK.md` is not an active source of outputs.
+Each day has named outputs in the active approved UpgradePilot planning or weekly artifact. Deferred AegisLab plans are not active output sources.
 
 Ali does not spend an assigned duration merely because it appears in the plan. When a task finishes:
 
@@ -54,7 +56,7 @@ After technical execution is authorized, counts include:
 - SQL work tied to the active gate;
 - focused prerequisite repair required by the current task;
 - creating sanitized fixtures;
-- creating required scenario truth/evidence artifacts;
+- creating required truth or evidence artifacts;
 - producing an explanation required by an ownership gate;
 - technically necessary documentation derived from completed behavior.
 
@@ -113,9 +115,9 @@ After an UpgradePilot execution week is activated:
 
 ### Saturday
 
-After weekly execution is activated, Saturday is a normal production day, not merely a buffer.
+Saturday is a normal production day after weekly execution is activated.
 
-Saturday priorities:
+Priorities:
 
 1. finish the weekly Must Deliver package;
 2. run the full weekly gate;
@@ -130,11 +132,11 @@ Do not begin an unlisted future technology or feature.
 After an UpgradePilot weekly plan exists, the mandatory 30-minute procedure is:
 
 1. calculate focused hours;
-2. mark weekly gate Pass, Partial, Blocked, or Failed;
+2. mark the weekly gate Pass, Partial, Blocked, or Failed;
 3. link evidence;
 4. complete the weekly ownership check;
 5. identify the first next action;
-6. activate the next approved UpgradePilot weekly version.
+6. activate the next approved weekly version.
 
 No implementation unless safety-critical cleanup remains.
 
@@ -166,11 +168,12 @@ Evidence or commit:
 Commands/tests and results:
 What Ali can explain or modify:
 AI assistance used:
+Capability evidence:
 Unresolved blocker:
 Exact next deliverable:
 ```
 
-Update the progress ledger only from this evidence.
+Update the progress tracker only from this evidence.
 
 ## 8. Distraction protocol
 
@@ -191,7 +194,7 @@ When a new idea, project, course, tool, or architecture appears:
 
 ### Blocked
 
-- Follow `operations/SESSION_PROTOCOL.md` after technical execution is authorized.
+- Follow `../operations/SESSION_PROTOCOL.md` after technical execution is authorized.
 - Do not modify random layers.
 - Do not redesign the project.
 
@@ -206,7 +209,7 @@ Use remaining focused time in this order:
 5. clean and commit;
 6. stop after the daily quota or explicit stop line.
 
-During the current planning hold, replace technical proof steps with the review and consistency checks defined by the authorized planning artifact.
+During the planning hold, replace technical proof steps with the consistency checks defined by the authorized artifact.
 
 ## 10. Documentation ceiling
 
