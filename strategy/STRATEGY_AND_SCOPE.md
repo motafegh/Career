@@ -1,5 +1,11 @@
 # Strategy and Scope
 
+## Companion decision input
+
+[`LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](LEARNING_AND_PROJECT_DESIGN_PROFILE.md) records evidence about Ali's mission-driven learning mode, project-fit requirements, ownership risks, and candidate-project criteria.
+
+It is required input for any formal project-selection or route review. It does not by itself change the fixed identity, current project allocation, master plan, or weekly execution order. Any resulting change must follow the Execution Contract's change criteria and state the evidence, affected gate, smallest necessary modification, and consequences.
+
 ## 1. Fixed 90-day identity
 
 > **AI-augmented Python/data/ML engineer developing secure engineering capability.**
@@ -174,3 +180,5 @@ Required evidence:
 A proposed activity belongs in the 90-day program only when it directly improves the active weekly gate or one of the capability priorities above.
 
 If it is merely useful, interesting, prestigious, or potentially relevant later, defer it.
+
+During a formal project-selection or route review, also test the proposed direction against the mission gravity, real-input, day-one-flow, causal-visibility, ownership-feasibility, and expansion-resistance criteria in the Learning and Project Design Profile. A direction that is technically aligned but repeatedly produces weak execution or detached learning must be examined rather than protected by the plan's wording alone.
