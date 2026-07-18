@@ -40,10 +40,11 @@ Read and obey these files in order:
 1. [`governance/EXECUTION_CONTRACT.md`](governance/EXECUTION_CONTRACT.md)
 2. [`strategy/STRATEGY_AND_SCOPE.md`](strategy/STRATEGY_AND_SCOPE.md)
 3. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — required during formal project or route review; not a daily execution document
-4. [`plans/90_DAY_MASTER_PLAN.md`](plans/90_DAY_MASTER_PLAN.md)
-5. [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md)
-6. [`plans/daily/week-01/README.md`](plans/daily/week-01/README.md)
-7. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
+4. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — required when discovering, comparing, or selecting project candidates
+5. [`plans/90_DAY_MASTER_PLAN.md`](plans/90_DAY_MASTER_PLAN.md)
+6. [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md)
+7. [`plans/daily/week-01/README.md`](plans/daily/week-01/README.md)
+8. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
 
 During normal work, read only the current dated daily plan, the current AegisLab technical state, and the exact referenced runbook sections. Do not repeatedly reread the full system.
 
@@ -58,7 +59,8 @@ Career/
 │   └── SECURITY_AND_PRIVACY.md
 ├── strategy/
 │   ├── STRATEGY_AND_SCOPE.md
-│   └── LEARNING_AND_PROJECT_DESIGN_PROFILE.md
+│   ├── LEARNING_AND_PROJECT_DESIGN_PROFILE.md
+│   └── PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md
 ├── plans/
 │   ├── 90_DAY_MASTER_PLAN.md
 │   ├── MONTHLY_PLAN.md
