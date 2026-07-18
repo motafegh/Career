@@ -9,11 +9,17 @@
 - AegisLab execution plans are deferred and non-controlling.
 - Sentinel remains a research archive and source of selectively reusable lessons.
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, or repositories do not transfer automatically into UpgradePilot.
-- UpgradePilot implementation has not started.
+- Technical execution is authorized under the approved milestone, tracker, and session controls.
+- Technical implementation has not started; the first active work is G1 manual evidence reality.
 - [`UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved capability-control artifact.
 - [`../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
 - [`../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved controlling master route.
-- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
+- [`../plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](../plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) is the approved milestone plan.
+- [`../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active tracker.
+- [`../plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](../plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the active first-session plan.
+- R0 planning closure has passed.
+- The exact next action is to start UP-S01 on `pydantic/pydantic#13432`.
+- No additional planning artifact is authorized before execution.
 
 Any pre-selection or “no project selected” wording retained in companion strategy inputs records original decision-stage context. It does not reopen selection or override `UpgradePilot.md`.
 
@@ -25,9 +31,9 @@ Any pre-selection or “no project selected” wording retained in companion str
 
 [`ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) requires planned, project-connected exposure to Kubernetes, microservices, distributed queues, multi-cloud systems, autonomous multi-agent architectures, and advanced MLOps while separating hands-on exposure, project pilots, permanent adoption, and mastery claims.
 
-These files remain active constraints on learning, ownership, evaluation, scope, and exposure. They do not independently reopen the completed selection decision or authorize implementation.
+These files remain active constraints on learning, ownership, evaluation, scope, and exposure. They do not independently reopen the completed selection decision or authorize unplanned implementation.
 
-For the six named advanced-systems areas, the Advanced Systems Exposure and Adoption Policy supersedes blanket deferral language in older or lower-level documents. Exposure must still wait for approved milestone and execution authorization.
+For the six named advanced-systems areas, the Advanced Systems Exposure and Adoption Policy supersedes blanket deferral language in older or lower-level documents. Exposure still requires an approved milestone package and prerequisite evidence.
 
 ## 1. Fixed 90-day identity
 
@@ -70,13 +76,13 @@ These are not simultaneous claims of professional mastery. The 90-day program cr
 
 ## 3. Project decisions
 
-### UpgradePilot — formally selected
+### UpgradePilot — formally selected and active
 
 UpgradePilot is the single primary flagship mission. Its mission, user, supported decision, thesis, outcome classes, frozen boundary, evaluation model, advanced-systems exposure path, forbidden scope, termination conditions, and planning order are defined in [`../UpgradePilot.md`](../UpgradePilot.md).
 
 The project-selection comparison stage is complete. RunSleuth and other candidates are not active alternatives.
 
-No implementation repository or technical route is authorized until the remaining execution artifacts are approved.
+Execution now proceeds through the approved milestone and session controls. UP-S01 is manual evidence work. Creation of the implementation repository and code remains a later M2 decision.
 
 ### AegisLab — deferred historical technical evidence
 
@@ -256,10 +262,12 @@ A proposed core activity belongs when it improves the UpgradePilot mission, acti
 
 A proposed advanced-systems activity belongs when it is an authorized package under the exposure policy, contract, roadmap, and milestone plan and produces executable project-connected comparison evidence.
 
-During the current planning hold:
+During active execution:
 
 1. use the approved authority chain;
-2. create only the **UpgradePilot Staged Milestone Plan**;
-3. do not begin technical implementation, architecture design, corpus acquisition, model work, or advanced-systems exposure;
+2. follow the first incomplete deliverable in the active milestone/session package;
+3. preserve evidence and update the active tracker;
 4. do not follow AegisLab plans;
-5. do not reopen candidate comparison without formal change evidence.
+5. do not reopen candidate comparison without formal change evidence;
+6. do not create another planning artifact before UP-S01 execution;
+7. do not begin code, architecture, corpus, model, or advanced-system work outside the active gate.
