@@ -5,7 +5,7 @@
 **Execution period:** 2026-07-20 to 2026-10-17  
 **Status:** Approved and controlling master roadmap  
 **Authority:** Schedules the UpgradePilot route under `../UpgradePilot.md`, the approved capability specification, and the approved Learning and Execution Contract  
-**Activation effect:** Controls stage order, capacity, reviews, fallbacks, and Day-90 outcomes. It does not authorize technical execution until the staged milestone plan, evidence/progress tracker, and first-session plan are approved.
+**Activation effect:** Controls stage order, capacity, reviews, fallbacks, and Day-90 outcomes. Technical execution is active only through approved milestone and session/weekly packages.
 
 ## 1. Purpose
 
@@ -34,9 +34,10 @@ Read conflicts in this order:
 5. `../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`;
 6. `../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`;
 7. this roadmap;
-8. the later staged milestone plan and active weekly package;
-9. `../operations/SESSION_PROTOCOL.md`;
-10. current inspected evidence and technical state.
+8. `UPGRADEPILOT_STAGED_MILESTONE_PLAN.md` and the active weekly/session package;
+9. `../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`;
+10. `../operations/SESSION_PROTOCOL.md`;
+11. current inspected evidence and technical state.
 
 A later milestone or weekly file may add exact deliverables but may not reorder the route, weaken a gate, expand the frozen product boundary, or silently adopt a technology.
 
@@ -94,17 +95,17 @@ When time is lost or a stage overruns:
 
 ## 5. Route overview
 
-| Route | Dates | Maximum focused capacity | Governing capability gate | Primary outcome |
-|---|---|---:|---|---|
-| R0 — Planning closure | Jul 20 | 4 h | Pre-execution authorization | Remaining execution artifacts approved; no further planning hold |
-| R1 — Manual evidence reality | Jul 20–22 | 8 h | G1 | One real Dependabot PR becomes a traceable manual evidence package and weak decision report |
-| R2 — First automated vertical slice | Jul 23–Aug 2 | 36 h | G2 | One reproducible input-to-report path with tests and an Ali-owned changed case |
-| R3 — Reliable evidence system | Aug 3–16 | 48 h | G3 | Reliable acquisition, validation, provenance, replay behavior, relational persistence, and diagnostics |
-| R4 — Repository-specific context | Aug 17–30 | 48 h | G4 | Dependency declaration, path, usage, test, workflow, and explicit reachability evidence |
-| R5 — Deterministic baseline and evaluation | Aug 31–Sep 13 | 48 h | G5 | Versioned baseline, staged corpus, adjudication rules, held-out evaluation, error analysis |
-| R6 — Contextual, learned, graph, and grounded-AI decisions | Sep 14–27 | 48 h | G6 and admitted G7 work | Measured experiments or rigorous rejection decisions against the baseline |
-| R7 — Advanced-systems pilots and operational comparison | Sep 28–Oct 11 | 48 h | G7–G9 | Required A1 exposures, targeted A2 pilots, failure/recovery evidence, adoption decisions |
-| R8 — Final ownership and portfolio closure | Oct 12–17 | 24 h | G10 | Reproducible final system, evidence package, limitations, ownership defense, portfolio and market calibration |
+| Route | Dates | Maximum focused capacity | Governing capability gate | Primary outcome | Current status |
+|---|---|---:|---|---|---|
+| R0 — Planning closure | Jul 20 | 4 h | Pre-execution authorization | Remaining execution artifacts approved; no further planning hold | Pass |
+| R1 — Manual evidence reality | Jul 20–22 | 8 h | G1 | One real Dependabot PR becomes a traceable manual evidence package and weak decision report | Ready |
+| R2 — First automated vertical slice | Jul 23–Aug 2 | 36 h | G2 | One reproducible input-to-report path with tests and an Ali-owned changed case | Not started |
+| R3 — Reliable evidence system | Aug 3–16 | 48 h | G3 | Reliable acquisition, validation, provenance, replay behavior, relational persistence, and diagnostics | Not started |
+| R4 — Repository-specific context | Aug 17–30 | 48 h | G4 | Dependency declaration, path, usage, test, workflow, and explicit reachability evidence | Not started |
+| R5 — Deterministic baseline and evaluation | Aug 31–Sep 13 | 48 h | G5 | Versioned baseline, staged corpus, adjudication rules, held-out evaluation, error analysis | Not started |
+| R6 — Contextual, learned, graph, and grounded-AI decisions | Sep 14–27 | 48 h | G6 and admitted G7 work | Measured experiments or rigorous rejection decisions against the baseline | Not started |
+| R7 — Advanced-systems pilots and operational comparison | Sep 28–Oct 11 | 48 h | G7–G9 | Required A1 exposures, targeted A2 pilots, failure/recovery evidence, adoption decisions | Not started |
+| R8 — Final ownership and portfolio closure | Oct 12–17 | 24 h | G10 | Reproducible final system, evidence package, limitations, ownership defense, portfolio and market calibration | Not started |
 
 The staged milestone plan may split these route blocks into smaller milestones but may not create a longer planning preface before R1.
 
@@ -126,7 +127,9 @@ Gate R0 passes when:
 - no implementation architecture, corpus campaign, model experiment, or infrastructure package has been started;
 - technical execution can begin without another planning document.
 
-**Hard stop:** When R0 passes, planning stops and G1 begins. New planning files require explicit authority.
+**Result:** Pass. The three artifacts are approved, repository entry points are synchronized, and UP-S01 is ready.
+
+**Hard stop:** Planning has stopped. G1 begins with the active first-session plan. New planning files require explicit authority.
 
 ## 7. R1 — Manual evidence reality
 
@@ -502,7 +505,7 @@ When advanced exposure threatens core completion or ownership:
 
 ### 17.6 Mission or feasibility failure
 
-Apply the reframe and termination conditions in `UpgradePilot.md`. Prefer the smallest necessary change. A failed technical hypothesis does not automatically terminate the mission.
+Apply the reframe and termination conditions in `../UpgradePilot.md`. Prefer the smallest necessary change. A failed technical hypothesis does not automatically terminate the mission.
 
 ## 18. Forbidden scope
 
@@ -521,7 +524,7 @@ This roadmap does not authorize:
 - multiple primary databases;
 - service fleets or permanent multi-cloud architecture;
 - production-readiness or safety claims without evidence;
-- planning artifacts beyond the authorized staged milestone plan, tracker, first-session plan, active weekly packages, and evidence-derived operational documentation.
+- planning artifacts beyond approved active weekly/session packages and evidence-derived operational documentation.
 
 ## 19. Advancement and completion law
 
@@ -538,14 +541,15 @@ When a gate passes early, continue to a named advancement item from the staged m
 
 When a gate does not pass by its ceiling, record Partial or Blocked, identify the smallest repair, and use the next formal review or explicit change-control process. Do not silently declare success.
 
-## 20. Roadmap approval and next authorized artifact
+## 20. Current activation
 
 **Audit result:** Passed.  
 **Approval result:** Approved and controlling master roadmap.  
-**Implementation authorization:** Not yet granted.
-
-The next authorized artifact is:
-
-> **UpgradePilot Staged Milestone Plan**
-
-After that, create the UpgradePilot evidence and progress tracker and first-session plan. These three remaining artifacts must be concise, executable, and sufficient to begin G1 without another planning layer.
+**Planning route R0:** Pass.  
+**Current route:** R1 — Manual evidence reality.  
+**Current milestone:** M1 — First manual evidence decision.  
+**Active session:** `UPGRADEPILOT_FIRST_SESSION_PLAN.md` / UP-S01.  
+**Technical execution:** Authorized for the bounded active session.  
+**Technical implementation:** Not started; M2 authorization follows M1.  
+**Exact next action:** Start UP-S01.  
+**No additional planning artifact is authorized before execution.**
