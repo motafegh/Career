@@ -19,8 +19,19 @@ For this period:
 - Security is an application and engineering-quality layer.
 - AI is a working multiplier, not evidence of unassisted capability.
 - Distributed, cloud, orchestration, agentic, and advanced MLOps systems are planned exposure areas governed by explicit evidence and adoption rules.
-- AegisLab remains the active technical repository until the preparation-stage project-selection review records the primary-project decision.
-- Sentinel remains an autonomous research archive unless the formal decision changes its role.
+- **UpgradePilot is the formally selected primary 90-day flagship project.**
+- [`UpgradePilot.md`](UpgradePilot.md) is the governing project charter.
+- Broad project comparison is closed.
+- AegisLab execution plans are deferred and non-controlling; its evidence and selected lessons remain preserved.
+- Sentinel remains an autonomous research archive and source of selectively reusable lessons.
+- Neither AegisLab nor Sentinel architecture, sequencing, modules, or tasks transfer automatically into UpgradePilot.
+
+## Current activation state
+
+- UpgradePilot implementation has not started.
+- No UpgradePilot implementation repository, roadmap, milestone plan, weekly plan, session plan, architecture, or advanced-systems package is active yet.
+- Existing AegisLab plan files are historical and must not be executed.
+- The next authorized action is to create the **UpgradePilot capability and prerequisite specification**.
 
 ## Execution requirement
 
@@ -39,15 +50,15 @@ Read and obey these files in order:
 
 1. [`governance/EXECUTION_CONTRACT.md`](governance/EXECUTION_CONTRACT.md)
 2. [`strategy/STRATEGY_AND_SCOPE.md`](strategy/STRATEGY_AND_SCOPE.md)
-3. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — Ali's mission-driven learning and ownership profile
-4. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — real-problem, mission, novelty, capability, and candidate-selection requirements
-5. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — Kubernetes, microservices, queues, multi-cloud, autonomous multi-agent, and advanced MLOps exposure rules
-6. the active formal-review package or selected project decision when created
-7. [`plans/90_DAY_MASTER_PLAN.md`](plans/90_DAY_MASTER_PLAN.md)
-8. [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md)
-9. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md)
+3. [`UpgradePilot.md`](UpgradePilot.md) — selected-project mission, boundary, outcomes, evaluation, exposure plan, and next planning order
+4. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — Ali's mission-driven learning and ownership profile
+5. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — preserved selection criteria and capability requirements; broad selection is closed
+6. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — Kubernetes, microservices, queues, multi-cloud, autonomous multi-agent, and advanced MLOps exposure rules
+7. the approved UpgradePilot capability and prerequisite specification when created
+8. the later approved UpgradePilot master and active weekly plans when created
+9. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) when technical execution is authorized
 
-During ordinary production, read only the active weekly package, current technical state, and exact required technical references. During the active preparation-stage project review, use the three strategy decision inputs above.
+Do not use the existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material until replacement UpgradePilot plans are created and approved.
 
 ## Repository map
 
@@ -55,6 +66,7 @@ During ordinary production, read only the active weekly package, current technic
 Career/
 ├── README.md
 ├── AGENTS.md
+├── UpgradePilot.md
 ├── governance/
 │   ├── EXECUTION_CONTRACT.md
 │   └── SECURITY_AND_PRIVACY.md
@@ -64,13 +76,13 @@ Career/
 │   ├── PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md
 │   └── ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md
 ├── plans/
-│   ├── 90_DAY_MASTER_PLAN.md
-│   ├── MONTHLY_PLAN.md
-│   ├── WEEKLY_PLAN.md
-│   ├── DAILY_OPERATING_PLAN.md
-│   ├── CURRENT_WEEK.md
+│   ├── 90_DAY_MASTER_PLAN.md          # deferred AegisLab plan
+│   ├── MONTHLY_PLAN.md                # deferred AegisLab plan
+│   ├── WEEKLY_PLAN.md                 # deferred AegisLab plan
+│   ├── DAILY_OPERATING_PLAN.md        # general rules; no active UpgradePilot schedule yet
+│   ├── CURRENT_WEEK.md                # deferred AegisLab week
 │   └── daily/
-│       └── week-01/
+│       └── week-01/                    # deferred AegisLab daily route
 ├── operations/
 │   └── SESSION_PROTOCOL.md
 └── tracking/
@@ -81,11 +93,12 @@ Career/
 ## Separation of responsibilities
 
 - **Career repository:** controls direction, project selection, workload, deliverables, gates, reporting, exposure policy, and career actions.
-- **Selected primary repository:** contains technical implementation, tests, experiments, deployments, evidence, and worklogs.
-- **AegisLab repository:** remains active until the formal project decision changes its state; its existing evidence must be preserved.
-- **Sentinel repository:** remains a research archive unless explicitly reassigned through formal review.
+- **UpgradePilot charter:** controls the selected mission, user decision, product boundary, outcomes, evaluation doctrine, exposure paths, forbidden scope, and planning order.
+- **Future selected primary repository:** will contain UpgradePilot technical implementation, tests, experiments, deployments, evidence, and worklogs after explicit authorization.
+- **AegisLab repository:** deferred historical technical evidence; no existing architecture, sequence, module, or task is automatically active for UpgradePilot.
+- **Sentinel repository:** research archive and source of selectively reusable lessons; no existing architecture, sequence, module, or task is automatically active for UpgradePilot.
 - **Private evaluator context:** contains sensitive personal, medical, medication, financial, and routine information. It must not be copied into this public repository.
 
 ## Current action
 
-Complete the preparation-stage project-selection review using the Learning and Project Design Profile, Project Selection and Capability Specification, and Advanced Systems Exposure and Adoption Policy. Do not resume the obsolete daily route or create a new repository until the primary-project decision is recorded.
+Create the **UpgradePilot capability and prerequisite specification**. Do not begin implementation, architecture design, roadmap construction, milestone planning, session planning, corpus acquisition, advanced-technology experiments, or creation of an UpgradePilot implementation repository during this action.
