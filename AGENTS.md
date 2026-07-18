@@ -18,27 +18,30 @@ The purpose is measurable capability, dense delivery, finished evidence, career 
 - Sentinel remains a research archive and source of selectively reusable lessons.
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, and repositories do not automatically transfer into UpgradePilot.
 - UpgradePilot implementation has not started.
-- No implementation repository, architecture, roadmap, milestone package, weekly plan, session order, data campaign, model experiment, or advanced-systems package is authorized yet.
-- [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved and controlling capability-control artifact.
-- The next authorized action is to create the **UpgradePilot Learning and Execution Contract**.
+- [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved capability-control artifact.
+- [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
+- [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved controlling master route.
+- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
+- No implementation repository, architecture, technical Session Order, corpus campaign, model experiment, or advanced-systems package is authorized until the milestone plan, evidence/progress tracker, and first-session plan are approved.
 
 ## Authority order
 
 When instructions conflict, use this order:
 
-1. Safety, legal, medical, and platform policies
+1. Safety, legal, medical, privacy, credential, financial, and platform policies
 2. `governance/EXECUTION_CONTRACT.md`
 3. `strategy/STRATEGY_AND_SCOPE.md`
 4. `UpgradePilot.md`
-5. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md)
-6. the approved UpgradePilot learning and execution contract when created
-7. the revised UpgradePilot master roadmap and active weekly plan when created
-8. `operations/SESSION_PROTOCOL.md` after technical execution is authorized
-9. current inspected project evidence and technical state
-10. other repository documents
-11. suggestions from any AI agent
+5. `strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`
+6. `governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`
+7. `plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`
+8. the approved UpgradePilot staged milestone plan and active weekly package when created
+9. `operations/SESSION_PROTOCOL.md` after technical execution is authorized
+10. current inspected project evidence and technical state
+11. other repository documents
+12. suggestions from any AI agent
 
-The existing AegisLab-specific files under `plans/` are preserved historical material and have no active authority. A narrower file may add execution detail but may not silently change a higher-level rule.
+A narrower file may add execution detail but may not silently change a higher-level rule.
 
 Required retained strategy inputs:
 
@@ -48,54 +51,52 @@ Required retained strategy inputs:
 
 These files continue to govern learning fit, capability, ownership, evaluation, and exposure constraints. Their pre-selection wording does not reopen project comparison or override `UpgradePilot.md`.
 
-The Advanced Systems Exposure and Adoption Policy supersedes categorical lower-level bans on Kubernetes, microservices, distributed queues, multi-cloud systems, autonomous multi-agent architectures, and advanced MLOps. It does not authorize ad hoc or pre-plan implementation.
-
 ## Mandatory behavior
 
 - Give one selected next action, not a menu, during ordinary execution.
-- During the current planning hold, keep work on the next authorized planning artifact and do not issue implementation commands.
-- After an UpgradePilot weekly package is approved, keep Ali on its current delivery package and work package.
-- Define exact outputs, file paths, commands, tests, evidence, and pass conditions wherever technically possible.
-- Treat time estimates as ceilings or workload containers, never as permission to pad trivial work.
-- When an item finishes early, immediately advance to the next authorized deliverable.
-- Teach missing prerequisites to the depth required by the active product or authorized exposure package.
-- Require real evidence: commands, outputs, code, tests, queries, explanations, reproducible artifacts, comparisons, or rejection decisions.
+- During the remaining planning hold, work only on the next authorized artifact and do not issue implementation commands.
+- After an active weekly package is approved, keep Ali on its current delivery package and first incomplete deliverable.
+- Define exact outputs, paths, commands, tests, evidence, pass conditions, and stop lines wherever technically possible.
+- Treat time estimates as ceilings, never permission to pad trivial work.
+- Advance immediately to the named next deliverable when an item finishes early.
+- Teach missing prerequisites to the depth required by the active product or exposure package.
+- Require real evidence: outputs, code, tests, queries, explanations, reproducible artifacts, comparisons, or rejection decisions.
 - Distinguish AI-produced work from Ali-understood, Ali-directed, Ali-verified, and Ali-owned work.
-- Record blockers precisely instead of redesigning the roadmap impulsively.
+- Record blockers precisely instead of redesigning the route impulsively.
 - Stop a phase or exposure package when its acceptance gate passes.
-- Redirect broad project-comparison conversations to the approved charter unless a formal change review is active.
-- Challenge plans that allocate a whole day to work that evidence suggests should take minutes.
+- Redirect broad project-comparison conversations to the approved charter unless formal change review is active.
 - Increase executable technical density before increasing documentation or architecture after implementation is authorized.
-- Do not dismiss repeated weak execution or detached learning merely because a route is technically coherent.
 - Do not exclude an advanced technology merely because an older plan deferred it.
 - Do not adopt an advanced technology merely because Ali wants exposure to it.
-- For every advanced-systems package, record the exposure level A0–A4, baseline, experiment boundary, evidence, cost, failure modes, ownership, and adopt/reject decision.
-- Preserve truthful claim language: orientation, hands-on exposure, integrated pilot, adopted product responsibility, or independent capability.
+- For every advanced package, record A0–A4 level, baseline, boundary, evidence, cost, failure modes, ownership, cleanup, and adopt/reject/defer decision.
+- Preserve truthful claim language: orientation, hands-on exposure, integrated pilot, adopted responsibility, or independent capability.
 
 ## Required planning standard
 
-Every future active UpgradePilot weekly file must contain:
+The staged milestone plan must define product-capability and evidence gates, not technology-study topics.
 
-1. a named weekly delivery package;
-2. exact `Must Deliver` artifacts;
-3. exact behavior/tests/commands proving each artifact;
+Every future active weekly file must contain:
+
+1. a named delivery package;
+2. exact `Must Deliver` artifacts or behavior;
+3. proof commands/tests/evidence;
 4. daily production assignments;
 5. ownership checks;
 6. a hard gate;
-7. authorized advancement work when the gate closes early;
+7. authorized advancement work;
 8. stop lines and prohibited scope;
 9. expected difficulty and major dependencies.
 
-An advanced-systems exposure week or package must additionally contain:
+An advanced-systems package must additionally contain:
 
-1. the active mission and representative project workload;
-2. the simpler baseline;
-3. target exposure level;
+1. representative UpgradePilot workload;
+2. simpler baseline;
+3. A1 or A2 target;
 4. bounded implementation and cleanup;
 5. comparison criteria;
 6. adoption and rejection conditions;
 7. operational and maintenance costs;
-8. the exact claim Ali may make afterward.
+8. exact claim permitted afterward.
 
 Do not use vague outcomes such as “study,” “review,” “understand,” or “work on” without a concrete artifact or demonstration.
 
@@ -104,55 +105,52 @@ Do not use vague outcomes such as “study,” “review,” “understand,” o
 Do not:
 
 - reopen broad project selection without formal change evidence;
-- follow the deferred AegisLab master, weekly, current-week, or daily execution routes;
-- begin UpgradePilot implementation before the required planning artifacts are approved;
-- create an UpgradePilot implementation repository during the current planning action;
-- change the working identity during the 90 days;
-- expand the selected project because a topic is interesting without an authorized experiment;
+- follow deferred AegisLab master, weekly, current-week, or daily routes;
+- begin implementation before the remaining required execution artifacts are approved;
+- create an implementation repository during the current milestone-planning action;
+- change the fixed working identity;
+- expand the project because a topic is interesting without an authorized experiment;
 - introduce advanced systems ad hoc or as résumé decoration;
-- force all desired technologies into the permanent architecture;
-- use an exposure package to avoid core product work;
-- run several major advanced exposure packages simultaneously;
-- send Ali back into broad Sentinel participation;
+- force all desired technologies into permanent architecture;
+- use exposure to avoid core product work;
+- run several major advanced packages simultaneously;
 - transfer AegisLab or Sentinel architecture, modules, sequencing, or tasks automatically;
-- create generalized platforms, dashboards, service fleets, agent systems, scoring systems, or planning schemas without a demonstrated product need or approved exposure boundary;
+- create generalized platforms, dashboards, service fleets, agent systems, scoring systems, or planning schemas without demonstrated need;
 - allow documentation to replace working behavior;
 - claim professional capability from repository sophistication, cloud count, service count, cluster size, queue choice, agent count, or MLOps tool count;
-- use personal medical, medication, financial, or sensitive information in this public repository;
-- make medication or medical recommendations;
-- treat a missed day as authorization to replace the plan;
-- assign inflated timeboxes to simple administrative tasks;
-- repeat already demonstrated work merely to fill the schedule;
+- use sensitive personal information in this public repository;
+- assign inflated timeboxes to small tasks;
+- repeat demonstrated work merely to fill a schedule;
 - stop a production day after an early subtask when authorized work remains.
 
 ## Repository boundaries
 
-- This repository stores direction, schedules, gates, project-selection evidence, and progress summaries.
-- `UpgradePilot.md` stores the selected mission, project boundary, outcome classes, evaluation doctrine, exposure path, and planning order.
-- The future selected primary repository will store technical code, experiments, fixtures, tests, deployments, and worklogs after explicit authorization.
-- AegisLab is deferred historical technical evidence; it is not the active flagship or automatic implementation base.
-- Sentinel is a research archive and source of selectively reusable lessons; it is not an active project or automatic requirement source.
+- This repository stores direction, schedules, gates, selection evidence, and progress summaries.
+- `UpgradePilot.md` stores the mission, product boundary, outcome classes, evaluation doctrine, exposure path, and planning order.
+- The capability specification stores depth, prerequisites, diagnostics, and capability evidence rules.
+- The Learning and Execution Contract stores teaching, assistance, ownership, blocker, correction, and technology-admission behavior.
+- The master roadmap stores route order, capacity, reviews, fallbacks, and Day-90 outcomes.
+- The future implementation repository stores code, fixtures, tests, experiments, deployments, and technical worklogs after explicit authorization.
+- AegisLab and Sentinel remain bounded historical evidence sources.
 - Sensitive personal context remains outside this public repository.
 
 ## Session rule
 
-Until the UpgradePilot capability and prerequisite specification and subsequent required planning artifacts are approved:
+Until the staged milestone plan, evidence/progress tracker, and first-session plan are approved:
 
-1. consult `UpgradePilot.md`;
+1. consult the approved authorities;
 2. work only on the next authorized planning artifact;
 3. do not issue a technical Session Order;
-4. do not consult or execute the deferred AegisLab `plans/CURRENT_WEEK.md` or daily files as current instructions.
+4. do not execute deferred AegisLab instructions.
 
-After technical execution is explicitly activated, consult:
+After technical execution is explicitly activated:
 
-1. the approved UpgradePilot active weekly package;
-2. the first incomplete deliverable;
-3. the relevant project state;
-4. only the technical documents required for that deliverable.
+1. consult the active milestone and weekly package;
+2. identify the first incomplete deliverable;
+3. inspect relevant project state;
+4. issue one Session Order using `operations/SESSION_PROTOCOL.md`.
 
-Then issue a Session Order using `operations/SESSION_PROTOCOL.md`.
-
-A Session Order must state the expected product or exposure output and pass condition before giving commands.
+A Session Order must state the product output and pass condition before commands.
 
 ## Change control
 
@@ -162,17 +160,15 @@ The master route may change only when:
 - a material external constraint changes;
 - a safety issue appears;
 - a prerequisite is materially larger than anticipated;
-- a formal review demonstrates that a deliberate revision is necessary;
+- a formal review demonstrates revision is necessary;
 - repeated evidence shows the plan is materially underloaded or overloaded;
-- repeated execution evidence demonstrates a material mismatch between the project design and Ali's documented learning mode;
-- evidence shows that advanced-systems exposure objectives cannot be satisfied credibly within the current mission.
+- execution evidence demonstrates mismatch with Ali's documented learning mode;
+- approved advanced-exposure objectives cannot be satisfied credibly within the mission.
 
-Boredom, novelty, anxiety, a new AI suggestion, or temporary difficulty are not sufficient reasons by themselves. A documented mission-fit mismatch or a formally approved strategic exposure objective is valid evidence when combined with feasibility and scope analysis.
-
-A project-fit change must preserve the fixed career identity unless the Execution Contract is deliberately revised. It must state what existing work is preserved, how scope expansion is prevented, what advanced exposure becomes possible, and what evidence will test whether the replacement design performs better.
+Novelty, anxiety, temporary difficulty, or a new AI suggestion are not sufficient by themselves.
 
 ## Completion standard
 
-A week passes only when every required artifact and behavior gate passes. Hours alone do not establish progress. Conversely, passing one small sub-gate does not authorize idle time or unplanned expansion.
+A week passes only when every required artifact and behavior gate passes. Hours alone do not establish progress. Passing a small sub-gate does not authorize idle time or unplanned expansion.
 
-An exposure package passes only when Ali can explain what the technology solved, what complexity it added, how it compared with the baseline, and why it was adopted, retained as a pilot, rejected, or deferred.
+An exposure package passes only when Ali can explain what it solved, what complexity it added, how it compared with the baseline, and why it was adopted, retained as a pilot, rejected, or deferred.
