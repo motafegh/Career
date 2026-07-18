@@ -32,16 +32,17 @@ Operational meaning:
 
 ### Primary project
 
-[`UpgradePilot.md`](../UpgradePilot.md) records the formal project-selection decision under Section 11.
+[`UpgradePilot.md`](../UpgradePilot.md) records the formal project-selection decision.
 
 - **UpgradePilot is the single selected primary 90-day flagship project.**
-- UpgradePilot receives the primary technical allocation after its required planning artifacts authorize implementation.
 - Broad project comparison is closed.
 - UpgradePilot implementation has not started.
-- The UpgradePilot capability and prerequisite specification is approved and controlling under the governing charter.
-- The next authorized action is the UpgradePilot Learning and Execution Contract.
+- [`../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is approved and controlling for capability and prerequisite decisions.
+- [`UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is approved and controlling for learning and execution behavior.
+- [`../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved and controlling master route.
+- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
 
-Until the capability specification and subsequent required planning artifacts are approved, focused technical implementation is not authorized. Work remains limited to the explicitly authorized planning sequence in `UpgradePilot.md`.
+Focused technical implementation remains unauthorized until the staged milestone plan, evidence/progress tracker, and first-session plan are approved.
 
 ### Deferred prior primary project
 
@@ -96,7 +97,7 @@ When an item completes early:
 1. verify the deliverable;
 2. preserve evidence;
 3. continue immediately to the next authorized item in the active approved UpgradePilot plan;
-4. stop only when the daily 4-hour requirement is met or the active plan gives an explicit stop line.
+4. stop only when the daily requirement is met or the active plan gives an explicit stop line.
 
 No task is considered substantial merely because a large timebox was assigned.
 
@@ -163,20 +164,20 @@ Acceptable outputs include:
 
 Time spent without a concrete result may still be necessary, but must be labeled investigation and cannot silently satisfy a delivery gate.
 
-During the current planning hold, only the named planning artifact and its review evidence may count as the authorized deliverable. No implementation output is expected or permitted.
+During the remaining planning hold, only the named planning artifact and its review evidence count as the authorized deliverable. No implementation output is expected or permitted.
 
 ## 7. Weekly gate rule
 
 After an UpgradePilot weekly plan is activated, a week passes only when:
 
-1. every **Must Deliver** item in the active weekly plan exists;
-2. the named commands/tests/gates pass;
+1. every **Must Deliver** item exists;
+2. named commands/tests/gates pass;
 3. evidence is committed or linked;
 4. limitations and assistance level are explicit;
 5. Ali completes the required explanation/modification/diagnosis check;
 6. the next week does not depend on an unacknowledged failure.
 
-A passed gate ends optional polishing, but Ali continues to the next **authorized advancement deliverable** when focused hours remain. This is controlled advancement, not scope expansion.
+A passed gate ends optional polishing, but Ali continues to the next authorized advancement deliverable when focused hours remain.
 
 The deferred AegisLab `plans/CURRENT_WEEK.md` does not define an active weekly gate.
 
@@ -187,7 +188,7 @@ The deferred AegisLab `plans/CURRENT_WEEK.md` does not define an active weekly g
 - One active work package at a time.
 - One next action per session.
 - Ordinary new ideas receive one sentence in a deferred list and no more than five minutes of discussion.
-- A named advanced-systems objective may receive a bounded exposure package only when authorized by an approved UpgradePilot plan and governed by `strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`.
+- A named advanced-systems objective may receive a bounded exposure package only when authorized by an approved UpgradePilot plan.
 - Only one major advanced-systems exposure package is normally active at a time.
 - Missing prerequisites receive a bounded repair, initially capped at 90 minutes, after implementation is authorized.
 - A technical blocker is investigated before code or configuration is changed.
@@ -202,15 +203,14 @@ The deferred AegisLab `plans/CURRENT_WEEK.md` does not define an active weekly g
 Until Day 90, do not:
 
 - reopen broad candidate comparison without formal change evidence;
-- follow the deferred AegisLab master, monthly, weekly, current-week, or daily execution plans;
-- begin UpgradePilot implementation before the required planning artifacts are approved;
+- follow deferred AegisLab execution plans;
+- begin UpgradePilot implementation before the remaining required artifacts are approved;
 - create an UpgradePilot implementation repository before explicit authorization;
 - adopt a new career identity;
 - start a general course unrelated to an active product, blocker, or authorized exposure package;
-- add Kubernetes, microservices, distributed queues, multi-cloud deployment, autonomous multi-agent systems, or advanced MLOps ad hoc or outside the Advanced Systems Exposure and Adoption Policy and approved UpgradePilot plans;
-- adopt any of those technologies permanently without a simpler baseline, project evidence, operational-cost analysis, and an explicit adoption decision;
-- perform advanced ML before a real analytical question, defensible data or truth, and a measured baseline exist;
-- begin unrelated VM reproduction before the selected product route authorizes it;
+- add Kubernetes, microservices, distributed queues, multi-cloud deployment, autonomous multi-agent systems, or advanced MLOps ad hoc;
+- adopt those technologies permanently without a simpler baseline, project evidence, operational-cost analysis, and explicit decision;
+- perform advanced ML before a real question, defensible data or truth, and a measured baseline exist;
 - return to broad Sentinel participation;
 - transfer AegisLab or Sentinel architecture, sequencing, modules, or tasks automatically;
 - spend a full week only on plans, profiles, or documentation after technical execution begins;
@@ -222,41 +222,28 @@ Until Day 90, do not:
 
 Formal route reviews occur on:
 
-- **Preparation project-selection review:** completed; UpgradePilot selected in `UpgradePilot.md`
+- **Preparation project-selection review:** completed; UpgradePilot selected
 - **Day 14 workload calibration:** 2026-08-02
 - **Day 30:** 2026-08-18
 - **Day 60:** 2026-09-17
 - **Day 90:** 2026-10-17
 
-The completed preparation review was authorized because repository and execution evidence demonstrated a material mismatch between the environment-first route and Ali's mission-driven learning mode. It selected UpgradePilot while preserving the fixed career identity, workload expectations, evidence standards, safety boundaries, and ownership requirements.
-
-Day 14 reviews workload realism, delivery density, mission continuity, and whether UpgradePilot is producing real product pursuit. It does not casually reopen the identity or broad project comparison.
-
-Weekly reviews may adjust exact daily execution inside the selected route. They do not silently replace the project or expand the permanent architecture.
+Day 14 reviews workload realism, delivery density, mission continuity, ownership, and whether planning has stopped. Weekly reviews may adjust exact daily execution inside the selected route but may not silently replace the project or expand permanent architecture.
 
 ## 11. Change criteria
 
-A master-plan or primary-project change requires one of:
+A master-route or primary-project change requires one of:
 
 - demonstrated technical infeasibility;
 - material external constraint;
 - safety or legal issue;
-- a prerequisite exceeding the allocated scope by a material amount;
+- a prerequisite exceeding allocated scope materially;
 - strong evidence at a formal review point;
 - repeated proof that delivery density is materially too low or unrealistically high;
-- repeated evidence that the project design conflicts with Ali's documented mission-driven learning mode;
-- evidence that the current route cannot provide the approved advanced-systems exposure objectives without becoming artificial or fragmented.
+- repeated evidence that project design conflicts with Ali's documented learning mode;
+- evidence that approved advanced-systems exposure cannot be satisfied credibly within the mission.
 
-Any change must state:
-
-- evidence;
-- affected gate;
-- smallest necessary modification;
-- what remains fixed;
-- new deadline or scope consequence;
-- how existing work is preserved;
-- how Sentinel-style expansion is prevented;
-- how success of the revised design will be tested.
+Any change must state evidence, affected gate, smallest necessary modification, what remains fixed, deadline or scope consequence, how existing work is preserved, how uncontrolled expansion is prevented, and how the revised design will be tested.
 
 ## 12. Breach response
 
@@ -264,10 +251,10 @@ If Ali starts an unapproved competing project, returns to open-ended project com
 
 1. stop the competing, premature, or unbounded activity;
 2. record what happened without moral judgment;
-3. reopen `UpgradePilot.md` and the current approved planning or execution artifact;
+3. reopen `UpgradePilot.md` and the current approved artifact;
 4. resume the first incomplete authorized deliverable;
-5. use the evaluator to diagnose recurrence after execution has resumed.
+5. diagnose recurrence after execution resumes.
 
-The approved UpgradePilot planning sequence and later approved advanced-systems exposure packages are not breaches.
+The approved planning sequence and later approved advanced-systems packages are not breaches.
 
 No restart from Day 1 unless the program was materially interrupted or a formal review deliberately establishes a revised execution date.
