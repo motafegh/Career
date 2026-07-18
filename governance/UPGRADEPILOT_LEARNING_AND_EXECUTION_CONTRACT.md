@@ -2,15 +2,15 @@
 
 **Owner:** Ali Rajabi  
 **Recorded:** 2026-07-19  
-**Status:** Proposed operating contract; requires review and approval  
-**Authority:** Controls the UpgradePilot learning and execution method when approved; subordinate to `EXECUTION_CONTRACT.md`, `../strategy/STRATEGY_AND_SCOPE.md`, `../UpgradePilot.md`, and `../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`  
-**Activation effect:** This contract defines working behavior only. It does not authorize implementation, repository creation, architecture design, corpus acquisition, a roadmap, a milestone plan, a session plan, or an experiment.
+**Status:** Approved and controlling operating contract  
+**Authority:** Controls the UpgradePilot learning and execution method; subordinate to `EXECUTION_CONTRACT.md`, `../strategy/STRATEGY_AND_SCOPE.md`, `../UpgradePilot.md`, and `../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`  
+**Activation effect:** This contract controls working behavior. It does not by itself authorize implementation, repository creation, architecture design, corpus acquisition, a roadmap, a milestone plan, a session plan, or an experiment.
 
 ## 1. Purpose
 
-This contract governs how Ali and AI assistants learn, reason, implement, test, diagnose, evaluate, and preserve evidence during UpgradePilot.
+This contract governs how Ali and AI assistants learn, reason, implement, test, diagnose, evaluate, and preserve evidence throughout UpgradePilot.
 
-It converts the approved learning profile and capability specification into enforceable operating behavior. It exists to ensure that:
+It ensures that:
 
 - work remains attached to the real maintainer decision;
 - missing concepts are taught at the depth required by the active responsibility;
@@ -21,19 +21,9 @@ It converts the approved learning profile and capability specification into enfo
 - architecture and advanced systems enter only through approved evidence gates;
 - planning, detached courses, and documentation do not displace execution.
 
-This is not:
-
-- a roadmap;
-- a technical architecture;
-- a curriculum;
-- a milestone schedule;
-- a first-session plan;
-- an implementation repository specification;
-- permission to begin implementation.
+This is not a roadmap, technical architecture, curriculum, milestone schedule, first-session plan, or implementation-repository specification.
 
 ## 2. Authority and conflict resolution
-
-### 2.1 Authority order
 
 When instructions conflict, use this order:
 
@@ -42,41 +32,37 @@ When instructions conflict, use this order:
 3. [`../strategy/STRATEGY_AND_SCOPE.md`](../strategy/STRATEGY_AND_SCOPE.md);
 4. [`../UpgradePilot.md`](../UpgradePilot.md);
 5. [`../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md);
-6. this contract after approval;
-7. the approved UpgradePilot roadmap and milestone artifacts when created;
+6. this contract;
+7. the approved UpgradePilot roadmap and milestone artifacts;
 8. [`../operations/SESSION_PROTOCOL.md`](../operations/SESSION_PROTOCOL.md);
 9. current inspected project evidence and technical state;
 10. other repository documents;
 11. suggestions from any AI assistant.
 
-A lower-level artifact may add operational detail but may not silently weaken or redefine a higher-level rule.
+A lower-level artifact may add operational detail but may not weaken or redefine a higher-level rule.
 
-### 2.2 Controlled responsibilities
+Controlled responsibilities:
 
-- `EXECUTION_CONTRACT.md` controls program commitment, workload, capacity modes, review points, and high-level execution discipline.
-- `STRATEGY_AND_SCOPE.md` controls career direction, strategic priorities, and project-allocation boundaries.
-- `UpgradePilot.md` controls the mission, user, supported decision, frozen product boundary, outcome classes, evidence doctrine, advanced-systems ambition, and planning order.
+- `EXECUTION_CONTRACT.md` controls commitment, workload, capacity modes, review points, and high-level discipline.
+- `STRATEGY_AND_SCOPE.md` controls career direction and project-allocation boundaries.
+- `UpgradePilot.md` controls the mission, user, supported decision, frozen boundary, outcome classes, evidence doctrine, advanced-systems ambition, and planning order.
 - The capability specification controls D0–D5 depth, prerequisites, diagnostics, readiness, deferrals, and capability evidence.
 - This contract controls the Ali–AI working relationship and execution method.
-- Future roadmaps and milestone plans schedule work; they may not weaken teaching, ownership, evidence, or scope controls.
-- `SESSION_PROTOCOL.md` supplies the lower-level session format after technical execution is authorized.
-
-### 2.3 Conflict behavior
+- Roadmaps and milestone plans schedule work but may not weaken teaching, ownership, evidence, or scope controls.
+- `SESSION_PROTOCOL.md` supplies the lower-level format after technical execution is authorized.
 
 When a conflict appears:
 
 1. stop the conflicting action;
-2. identify the exact files and clauses involved;
-3. use the higher authority;
+2. identify the exact files and clauses;
+3. apply the higher authority;
 4. choose the smallest correction;
 5. preserve evidence of the conflict;
 6. do not improvise architecture, scope, or a new planning system.
 
 ## 3. Governing learning method
 
-UpgradePilot uses mission-driven engineering under real uncertainty.
-
-The standard loop is:
+UpgradePilot uses mission-driven engineering under real uncertainty:
 
 ```text
 real product need
@@ -94,56 +80,48 @@ real product need
 
 The unit of learning is a real product responsibility, evidence problem, failure, or decision—not a detached technology topic.
 
-A prerequisite repair ends when the minimum required depth is demonstrated. Work then returns immediately to the blocked product responsibility.
+A prerequisite repair ends when the minimum required depth is demonstrated. Work then returns immediately to the blocked responsibility.
 
 ## 4. Technical-term teaching standard
 
-For each new or materially important technical term, the AI must provide, at the depth needed now:
+For each new or materially important term, the AI provides, at the depth needed now:
 
-- the full term;
-- the abbreviation, when applicable;
-- the practical meaning;
-- why the name makes sense, where that improves recall;
-- how the term connects to the current UpgradePilot responsibility;
-- the depth required now;
-- deeper material intentionally postponed;
+- the full term and abbreviation;
+- practical meaning;
+- why the name makes sense where useful;
+- its connection to UpgradePilot;
+- required depth now;
+- deeper material postponed;
 - one concrete example, observable behavior, or failure mode when useful.
 
-Small but useful labels, command names, protocol names, file formats, and distinctions must not be hidden merely to make an explanation appear simple.
-
-The AI must also avoid unnecessary depth. A complete mental model for the active responsibility is required; unrelated specialization is deferred.
+Small but useful command names, protocol names, file formats, and distinctions must not be hidden merely to simplify the explanation. Unrelated specialization is deferred.
 
 ## 5. Unfamiliar-decision rule
 
 Ali must not be asked to choose among unfamiliar technical alternatives before receiving the minimum mental model required to evaluate them.
 
-Before requesting a consequential choice, the AI must explain:
+Before requesting a consequential choice, the AI explains:
 
 - the responsibility being decided;
-- the available alternatives;
-- practical advantages and disadvantages;
-- current evidence;
-- material unknowns;
+- the alternatives and practical trade-offs;
+- current evidence and material unknowns;
 - whether the decision is required now;
-- which options are reversible;
-- which option can be deferred;
+- which choices are reversible or deferrable;
 - the smallest evidence needed to decide.
 
-After this explanation, Ali must make, challenge, or explicitly approve meaningful decisions.
+After that explanation, Ali makes, challenges, or explicitly approves meaningful decisions.
 
-The AI must not silently decide consequential product, architecture, data, evaluation, security, or adoption questions merely because Ali is still learning.
-
-For a low-consequence reversible choice, the AI may select a default, but must state the choice, rationale, and reversal point.
+The AI must not silently decide consequential product, architecture, data, evaluation, security, or adoption questions because Ali is still learning. For a low-consequence reversible choice, the AI may choose a default but must state its rationale and reversal point.
 
 ## 6. Ali responsibilities
 
 Ali is responsible for:
 
-- keeping the real maintainer problem and supported decision visible;
+- keeping the maintainer problem and supported decision visible;
 - engaging with real evidence rather than passively consuming explanations;
-- stating when a concept or instruction is not understood;
+- stating when a concept or instruction is unclear;
 - predicting representative behavior before execution;
-- running local commands and providing actual output when that action creates learning or ownership evidence;
+- running local commands and providing actual output when that creates learning or ownership evidence;
 - materially directing actions performed through AI tools;
 - inspecting and questioning AI-generated code, tests, documents, and conclusions;
 - distinguishing observation, interpretation, inference, uncertainty, and recommendation;
@@ -152,14 +130,12 @@ Ali is responsible for:
 - explaining important commands, outputs, errors, and limitations;
 - diagnosing likely failure layers before changing multiple layers;
 - preserving evidence, versions, decisions, and assistance labels;
-- challenging scope expansion and impressive but unjustified technology;
+- challenging scope expansion and unjustified technology;
 - making or approving adopt, retain-as-pilot, reject, or defer decisions;
 - disclosing assistance honestly;
-- stopping work when health, safety, legality, privacy, credentials, or cost make an action unsafe.
+- stopping when health, safety, legality, privacy, credentials, or cost make an action unsafe.
 
 Ali is not required to invent a solution without the necessary concepts. Guided application is legitimate when labeled accurately and followed by ownership-building work.
-
-Prediction is required for representative or consequential actions, not for every trivial command.
 
 ## 7. AI responsibilities
 
@@ -167,12 +143,12 @@ The AI is responsible for:
 
 - selecting one authorized next action during ordinary execution;
 - inspecting current repository state and relevant evidence before directing work;
-- stating the product or evaluation outcome before giving commands;
+- stating the product or evaluation outcome before commands;
 - identifying only prerequisites required by the immediate responsibility;
 - teaching each prerequisite to the required depth;
 - explaining consequential commands before Ali runs them;
 - describing expected output categories without fabricating exact results;
-- asking Ali to predict representative behavior;
+- requesting predictions for representative actions;
 - interpreting actual output and stating what it proves and does not prove;
 - correcting unsupported conclusions directly;
 - localizing failures before proposing repairs;
@@ -192,54 +168,32 @@ The AI must not praise exposure, successful command execution, repository size, 
 
 ## 8. Standard session lifecycle
 
-Future session plans and Session Orders must use the following lifecycle.
+Future session plans and Session Orders use this lifecycle.
 
 ### 8.1 Orient
 
-Before technical action:
-
 - identify the current authorized deliverable;
-- inspect actual project state;
-- state what the product can do now;
-- state the current user-visible or evaluation limitation;
-- name the exact output or behavior sought;
-- define the pass condition, stop line, and evidence required.
+- inspect actual state;
+- state current supported behavior and the active limitation;
+- name the exact output sought;
+- define proof, pass condition, and stop line.
 
 ### 8.2 Prerequisite check
 
-Compare the capability depth required by the immediate responsibility with preserved demonstrated depth.
+Compare required depth with preserved demonstrated depth.
 
-Then:
-
-- proceed when the required depth exists;
+- proceed when depth exists;
 - teach during the task when the gap is small;
 - insert a bounded repair only when the gap blocks safe or meaningful execution;
-- escalate to formal replanning only when the gap is materially larger than the approved scope.
-
-Do not infer mastery from exposure or previous AI-produced work.
+- formally replan only when the gap is materially larger than approved scope.
 
 ### 8.3 Teach
 
-Provide the terminology and mental model required now.
-
-State:
-
-- what is being covered;
-- what is not being covered;
-- why the current depth is enough for this responsibility;
-- what later evidence would require deeper study.
+State what is covered now, what is deferred, why the current depth is sufficient, and what later evidence would require deeper study.
 
 ### 8.4 Predict
 
-For representative actions, Ali predicts:
-
-- expected behavior;
-- important output categories;
-- likely failure layer;
-- what success would prove;
-- what success would not prove.
-
-A prediction is evidence of the current mental model, not a test of worth.
+For representative actions, Ali predicts expected behavior, important output categories, likely failure layer, and what success would and would not prove.
 
 ### 8.5 Execute
 
@@ -250,31 +204,15 @@ A prediction is evidence of the current mental model, not a test of worth.
 
 ### 8.6 Inspect and interpret
 
-Separate:
-
-1. observed output;
-2. source or execution context;
-3. interpretation;
-4. remaining uncertainty;
-5. conclusion or next diagnostic action.
-
-Do not replace missing evidence with assumptions.
+Separate observed output, execution context, interpretation, remaining uncertainty, and conclusion or next diagnostic action. Missing evidence must not be replaced with assumptions.
 
 ### 8.7 Modify, test, query, or diagnose
 
-Ali performs an ownership-bearing action appropriate to the stage, such as:
-
-- changing a bounded behavior;
-- adding or repairing a test;
-- changing an input and predicting the effect;
-- writing or interpreting a query;
-- diagnosing a failure;
-- challenging a rule or design;
-- explaining downstream effects.
+Ali performs an ownership-bearing action appropriate to the stage, such as changing behavior, repairing a test, changing an input, writing a query, diagnosing a failure, challenging a rule, or explaining downstream effects.
 
 ### 8.8 Record evidence
 
-Record at least:
+Record:
 
 - deliverable;
 - commands or tool actions;
@@ -283,161 +221,88 @@ Record at least:
 - evidence or commit links;
 - observed limitations;
 - assistance labels;
-- capability or sub-capability assessed;
+- capability assessed;
 - ownership evidence;
 - unresolved blocker;
 - exact next authorized action.
 
 ### 8.9 Stop or advance
 
-- Stop optional polishing when the acceptance gate passes.
-- Continue only to a named authorized next deliverable.
-- Stop when the investigation ceiling is reached.
-- Do not expand into an adjacent interesting topic.
-- A negative result may close an experiment when the method and conclusion are rigorous.
+Stop optional polishing when the gate passes. Continue only to a named authorized deliverable. Stop at the investigation ceiling. Do not expand into adjacent topics. A rigorous negative result may close an experiment.
 
 ## 9. Command and tool protocol
 
 Before a consequential command, explain:
 
-- the command name and practical purpose;
+- command name and purpose;
 - important arguments;
-- what it reads;
-- what it creates, changes, deletes, installs, executes, or transmits;
-- required credentials or network access;
-- possible cost or destructive effects;
+- what it reads, creates, changes, deletes, installs, executes, or transmits;
+- credentials, network access, cost, and destructive effects;
 - expected output categories;
-- the checkpoint after which the next action will be chosen.
-
-Use the smallest safe command that can produce decisive evidence.
+- the next interpretation checkpoint.
 
 Rules:
 
+- use the smallest safe command that can produce decisive evidence;
 - do not execute untrusted repository code merely to inspect it;
-- do not transmit secrets or private data;
-- do not commit credentials, tokens, personal data, or unnecessary source records;
+- do not transmit or commit secrets or private data;
 - preserve raw output when it is material evidence;
-- do not issue long command dumps without interpretation checkpoints;
+- do not issue long command dumps without checkpoints;
 - do not continue after unexpected output without revising the model;
 - do not claim success without actual output;
 - distinguish demonstration commands from supported product behavior;
-- clean up temporary resources when the active package requires it.
+- clean up temporary resources when required.
 
-AI tools may inspect repositories, public sources, calculations, and artifacts when appropriate. They must not be used to bypass an Ali-owned action required by a capability or ownership gate.
+AI tools may inspect repositories, public sources, calculations, and artifacts. They must not bypass an Ali-owned action required by a capability or ownership gate.
 
-## 10. Code-generation and implementation ownership
+## 10. Code generation and implementation ownership
 
-### 10.1 Acceptable AI assistance
-
-AI may:
-
-- explain syntax and design;
-- provide small examples;
-- scaffold bounded code;
-- generate repetitive or low-learning-value material;
-- identify defects;
-- propose tests;
-- review Ali changes;
-- help interpret failures;
-- suggest the smallest repair.
-
-All generated material must remain within the authorized files and responsibility.
-
-### 10.2 Central-responsibility rule
+AI may explain syntax and design, provide small examples, scaffold bounded code, generate repetitive low-learning-value material, identify defects, propose tests, review Ali changes, and help interpret failures.
 
 AI-generated code alone cannot close a central gate.
 
-For a central responsibility, Ali must normally demonstrate a representative combination of:
+For a central responsibility, Ali normally demonstrates a representative combination of:
 
-- explaining its purpose and boundaries;
+- explaining purpose and boundaries;
 - locating responsible code and data;
 - predicting changed behavior;
-- materially modifying the implementation;
+- materially modifying implementation;
 - writing, repairing, or challenging a test;
 - diagnosing a changed or failing case;
-- explaining downstream effects on the complete flow;
+- explaining downstream effects;
 - reproducing behavior with reduced assistance.
 
-Direct AI generation is acceptable when the material is mechanical, repetitive, already understood, or not central to the capability being assessed.
-
-Direct AI generation undermines ownership when it replaces the reasoning, implementation, testing, or diagnosis that the active gate is meant to assess.
+Direct AI generation is acceptable when material is mechanical, repetitive, already understood, or not central to the capability being assessed. It undermines ownership when it replaces the reasoning, implementation, testing, or diagnosis the gate is intended to assess.
 
 ## 11. Assistance labels
 
-These labels describe evidence. They are not praise or criticism.
+These labels describe evidence, not praise or criticism.
 
-### 11.1 AI-generated
+- **AI-generated:** AI produced the substantive artifact, code, analysis, or decision structure. This establishes no Ali capability by itself.
+- **AI-assisted:** Ali performed meaningful work but required substantial explanation, generation, correction, or repair. This may support D2 for the bounded task.
+- **Ali-directed:** Ali defined or materially shaped the responsibility, constraints, approach, or decision and evaluated the result.
+- **Ali-verified:** Ali ran or inspected relevant checks, interpreted outputs, stated what they prove and do not prove, confirmed scope, and identified limitations.
+- **Ali-owned:** With limited assistance, Ali can explain trade-offs, locate code/data/configuration/tests, modify behavior, test it, diagnose a representative failure, explain complete-flow effects, and reproduce behavior.
 
-Use when AI produced the substantive artifact, code, analysis, or decision structure.
-
-This label establishes no Ali capability by itself.
-
-### 11.2 AI-assisted
-
-Use when Ali performed meaningful work but required substantial explanation, generation, correction, or repair.
-
-This may support D2 guided application when the task and evidence are representative.
-
-### 11.3 Ali-directed
-
-Use when Ali defined or materially shaped the responsibility, outcome, constraints, approach, or decision and evaluated the result.
-
-Direction does not by itself establish implementation ownership.
-
-### 11.4 Ali-verified
-
-Use only when Ali:
-
-- ran or directly inspected the relevant checks;
-- interpreted important outputs;
-- stated what the checks prove and do not prove;
-- confirmed the behavior against the declared scope;
-- identified material remaining limitations.
-
-Verification does not imply Ali can modify or diagnose the responsibility independently.
-
-### 11.5 Ali-owned
-
-Use only when Ali can, with limited assistance:
-
-- explain the responsibility and trade-offs;
-- locate its code, data, configuration, and tests;
-- materially modify behavior;
-- test the change;
-- diagnose a representative failure or changed case;
-- explain the effect on the complete UpgradePilot flow;
-- reproduce the behavior.
-
-For central responsibilities, one narrow success is normally insufficient for D4 ownership. Repeated or changed-case evidence is required.
-
-Several labels may apply to different parts of one deliverable. The record must identify which part each label describes.
+Several labels may apply to different parts of one deliverable. One narrow success is normally insufficient for D4 ownership of a central responsibility.
 
 ## 12. Capability assessment
 
 The D0–D5 model in the capability specification is controlling.
 
-A depth may increase only when:
+A depth increases only when:
 
 - the task represents the claimed capability;
 - Ali personally performed the relevant reasoning or action;
 - assistance is recorded;
-- output or evidence is preserved;
+- evidence is preserved;
 - changed-case or failure evidence exists where required;
-- Ali can connect the result to UpgradePilot;
-- the demonstrated scope matches the recorded claim.
+- the result connects to UpgradePilot;
+- the demonstrated scope matches the claim.
 
-Rules:
+Explanation alone may establish D1. One guided task may establish D2 only for its bounded scope. D3 requires independent bounded application with limited assistance. D4 requires ownership of a material responsibility. D5 requires repeated low-assistance performance across varied and unfamiliar cases.
 
-- explanation alone may establish D1, not application;
-- one guided task may establish D2 only for its bounded scope;
-- D3 requires representative independent bounded application with limited assistance;
-- D4 requires technical ownership of a material project responsibility;
-- D5 requires repeated low-assistance performance across varied and unfamiliar cases;
-- broad capability labels must not be increased from one narrow subtask;
-- failure may demonstrate diagnostic progress or reveal a precise gap;
-- capability may remain unchanged after successful execution when assistance was too high or the task was not representative.
-
-Assessment is performed through project-embedded diagnostics, not detached quizzes unless a small isolated check is the safest decisive method.
+Failure may demonstrate diagnostic progress or reveal a precise gap. Successful execution may leave the recorded depth unchanged when assistance was too high or the task was not representative.
 
 ## 13. Blocker and prerequisite-repair protocol
 
@@ -445,21 +310,7 @@ Classify a blocker before responding.
 
 ### 13.1 Conceptual prerequisite gap
 
-Record:
-
-- exact missing concept;
-- why it blocks the active responsibility;
-- required depth now;
-- deeper material deferred;
-- bounded teaching action;
-- verification task;
-- return point.
-
-Use the existing 90-minute initial repair ceiling after implementation is authorized unless a higher-level plan sets a smaller limit.
-
-When verification passes, return immediately to the blocked responsibility.
-
-A larger gap triggers scope or sequence review; it does not automatically authorize a course.
+Record the missing concept, why it blocks the task, depth required now, deferred depth, bounded teaching action, verification task, and return point. Use the initial 90-minute repair ceiling after implementation is authorized unless a higher-level plan sets a smaller limit. Return immediately when verification passes.
 
 ### 13.2 Technical implementation defect
 
@@ -480,47 +331,21 @@ Remaining uncertainty:
 
 Do not change multiple layers simultaneously. Re-run the failing case, a nearby success case, and the nearest integration path when applicable.
 
-### 13.3 Missing, inaccessible, stale, or conflicting external evidence
+### 13.3 External evidence limitation
 
-- preserve the evidence state;
-- do not fabricate or substitute certainty;
-- attempt only lawful, authorized, proportionate alternatives;
-- degrade, defer, request a targeted check, or abstain when required;
-- record how the limitation affects the report or evaluation.
+Preserve missing, inaccessible, stale, invalid, or conflicting states. Do not fabricate certainty. Attempt only lawful and proportionate alternatives. Degrade, defer, request a targeted check, or abstain when required.
 
-### 13.4 Unclear product decision
+### 13.4 Product or evaluation limitation
 
-- return to the charter's user, supported action, and claim boundary;
-- identify whether the issue is evidence sufficiency, rubric ambiguity, or scope;
-- choose a reversible provisional rule only when explicitly labeled;
-- escalate material mission or boundary conflicts to formal review.
+Return to the charter's user and supported decision. Identify whether the issue is evidence sufficiency, rubric ambiguity, label quality, leakage, split design, metric choice, or scope. Preserve disagreement and unadjudicable cases. Reframe the experiment rather than manufacture truth.
 
-### 13.5 Evaluation or truth limitation
+### 13.5 Security, privacy, credential, legal, health, or cost constraint
 
-- stop the unsupported claim;
-- inspect label quality, adjudication, leakage, split, metric, and denominator;
-- preserve disagreement and unadjudicable cases;
-- reframe the experiment rather than manufacture truth;
-- allow a rigorous negative result.
+Stop the affected action. Do not bypass the constraint. Record the boundary and select the smallest safe alternative or formal deferral.
 
-### 13.6 Security, privacy, credential, legal, or cost constraint
+### 13.6 Scope or ownership failure
 
-Stop the affected action immediately.
-
-Do not bypass the constraint. Record the boundary and select the smallest safe alternative or formal deferral.
-
-### 13.7 Scope or ownership failure
-
-Examples include architecture growth without evidence, AI implementation outrunning Ali understanding, or an exposure package displacing the core.
-
-Response:
-
-1. stop expansion;
-2. preserve the last valid state;
-3. identify the active gate;
-4. reduce to the smallest owned responsibility;
-5. restore tests and runnable core behavior;
-6. define the ownership evidence required before advancement.
+Stop expansion, preserve the last valid state, identify the active gate, reduce to the smallest owned responsibility, restore runnable behavior, and define ownership evidence required before advancement.
 
 A blocker does not authorize a new architecture or project restart.
 
@@ -532,135 +357,84 @@ A framework, source, model, representation, database feature, service, queue, ag
 2. evidence shows the limitation is material;
 3. the current simpler approach is inadequate;
 4. the smallest viable experiment is defined;
-5. a measurable success condition exists;
-6. a rejection condition exists;
-7. cost, risk, maintenance, delayed work, and new failure modes are recorded;
-8. Ali has the prerequisite depth;
-9. the core remains runnable;
-10. permanent adoption follows comparison.
+5. measurable success and rejection conditions exist;
+6. cost, risk, maintenance, delayed work, and failure modes are recorded;
+7. Ali has the prerequisite depth;
+8. the core remains runnable;
+9. permanent adoption follows comparison.
 
-Interest and learning value may justify an approved exposure experiment. They do not automatically justify permanent adoption.
+Interest and learning value may justify an approved exposure experiment, but not automatic permanent adoption.
 
-A technology pilot must end with one decision:
-
-- adopt;
-- retain as a bounded pilot;
-- reject;
-- defer.
+Every pilot ends with: adopt, retain as bounded pilot, reject, or defer.
 
 ## 15. Advanced-systems execution behavior
 
 For Kubernetes, microservices, distributed queues, multi-cloud, autonomous multi-agent systems, and advanced MLOps:
 
 - preserve the A0–A4 exposure scale;
-- use a real representative UpgradePilot workload;
-- define the simpler baseline;
-- define A1 or A2 scope before execution;
+- use a representative UpgradePilot workload;
+- define the simpler baseline and A1/A2 scope;
 - admit only one major exposure package at a time unless formally justified;
-- require an observable failure or degraded behavior;
-- require inspection, recovery, and cleanup;
+- require observable failure or degraded behavior, inspection, recovery, and cleanup;
 - measure operational and maintenance burden;
 - record security, credential, privacy, and cost boundaries;
 - require Ali teach-back and ownership evidence;
-- end with adopt, retain-as-pilot, reject, or defer;
-- record the exact claim permitted afterward.
+- finish with adopt, retain-as-pilot, reject, or defer;
+- record the exact permitted claim.
 
-A1 means hands-on exposure. A2 means a project-integrated pilot. Neither implies production ownership or professional mastery.
+A1 is hands-on exposure. A2 is a project-integrated pilot. Neither implies production ownership or professional mastery. Advanced work must not replace completion and ownership of the supported core.
 
-An advanced package must not replace completion and ownership of the supported core.
+## 16. Evidence, correction, and progress recording
 
-## 16. Evidence and progress recording
-
-Future trackers must record at least:
+Future trackers record:
 
 - current supported product behavior;
 - active deliverable and gate;
-- input or scenario identity;
+- input identity;
 - artifact, commit, test, query, or output evidence;
 - capability and sub-capability assessed;
 - previous and new D0–D5 depth;
-- A0–A4 exposure level where applicable;
-- assistance labels;
-- ownership evidence;
+- A0–A4 level where applicable;
+- assistance labels and ownership evidence;
 - failures, corrections, and changed mental models;
 - uncertainty and limitations;
 - adopted, retained, rejected, and deferred decisions;
-- exact next authorized action.
-
-A progress record must distinguish:
-
-- introduced;
-- guided application;
-- independent bounded application;
-- technical ownership;
-- advanced independent capability.
+- exact next action.
 
 A broad topic must not be marked complete because one narrow task passed.
 
-Evidence records must remain public-safe and comply with `SECURITY_AND_PRIVACY.md`.
+The AI corrects Ali directly when terminology is materially wrong, a conclusion exceeds evidence, a command interpretation is incorrect, a test proves less than claimed, an architecture claim is unsupported, capability is overstated, or scope/security/evaluation boundaries are crossed.
 
-## 17. Correction and feedback behavior
+A correction states what is wrong, why, the correct mental model, evidence needed, and whether advancement is blocked. Ali should challenge AI output using the same standard.
 
-The AI must correct Ali directly when:
+## 17. Stop, escalation, and advancement rules
 
-- terminology is materially wrong;
-- a conclusion exceeds the evidence;
-- a command interpretation is incorrect;
-- a test proves less than claimed;
-- an architecture or technology claim is unsupported;
-- capability is overstated;
-- scope expands without authorization;
-- security, privacy, evaluation, or claim boundaries are crossed.
+Stop or pause when:
 
-A correction should state:
-
-1. what is incorrect or incomplete;
-2. why;
-3. the correct mental model;
-4. the evidence, changed case, or test needed;
-5. whether the issue blocks advancement.
-
-Do not replace substantive correction with vague encouragement.
-
-Ali should challenge AI output using the same standard. AI confidence, polished writing, or working code is not evidence of correctness.
-
-## 18. Stop, escalation, and advancement rules
-
-Stop or pause the current work when:
-
-- the acceptance gate passes and no named advancement item remains;
-- the authorized investigation or time ceiling is reached;
+- the gate passes and no named advancement item remains;
+- the investigation or time ceiling is reached;
 - evidence falsifies the hypothesis;
-- required source evidence is unavailable;
-- a security, legal, privacy, credential, health, or cost boundary is reached;
+- required evidence is unavailable;
+- a safety, legal, privacy, credential, health, or cost boundary is reached;
 - a prerequisite exceeds the bounded repair allowance;
-- work expands outside the approved product or package;
+- work expands outside the approved boundary;
 - ownership evidence is absent for a central responsibility;
-- continued work repeats known behavior without producing new evidence;
+- continued work repeats known behavior without new evidence;
 - implementation state is uncertain or unverified.
 
-Escalation must state:
+Escalation states the affected gate, evidence, smallest necessary decision, options and trade-offs, what remains fixed, and the scope or sequence consequence.
 
-- affected gate;
-- evidence;
-- smallest necessary decision;
-- options and trade-offs;
-- what remains fixed;
-- consequence for scope or sequence.
+Advance only to a named authorized deliverable. A rigorous negative experiment may pass its package.
 
-Advance only to a named authorized deliverable. Do not turn early completion into unplanned expansion.
-
-A rigorous negative experiment may pass its package.
-
-## 19. Anti-planning and anti-course controls
+## 18. Anti-planning and anti-course controls
 
 Do not:
 
-- create an additional planning document without authority;
+- create additional planning documents without authority;
 - replace a blocked task with broad study;
-- assign an entire session to terminology that can be learned around a real case;
+- assign an entire session to terms that can be learned around a real case;
 - continue documentation after it is sufficient to execute safely;
-- reopen candidate selection without formal change evidence;
+- reopen candidate selection without formal evidence;
 - design future architecture before the relevant limitation appears;
 - delay the first manual evidence milestone for SQL, ML, graphs, Docker, CI, LLMs, agents, queues, microservices, Kubernetes, cloud, multi-cloud, or MLOps;
 - use planning to avoid uncertainty from real external evidence;
@@ -668,48 +442,31 @@ Do not:
 
 Documentation should control, explain, or preserve real work. It must not substitute for real work after execution is authorized.
 
-## 20. Activation boundary
+## 19. Activation boundary
 
-This contract does not authorize UpgradePilot technical implementation by itself.
+This contract does not authorize technical implementation by itself.
 
-Implementation may begin only after the later required artifacts are created, reviewed, reconciled, and approved:
+Implementation may begin only after these artifacts are approved:
 
 - Revised UpgradePilot 90-Day Master Roadmap;
 - staged milestone plan;
 - evidence and progress tracker;
 - first-session plan.
 
-The first technical execution stage remains:
+The first technical stage remains:
 
 > **G1 — Manual evidence-reality investigation on one real public Python Dependabot pull request.**
 
 No implementation repository, architecture, corpus campaign, model experiment, cloud deployment, or advanced-systems package is authorized by this contract.
 
-## 21. Contract readiness and next action
+## 20. Approval result and next action
 
-### 21.1 Author readiness judgment
+**Audit result:** Passed.  
+**Approval result:** Approved and controlling.  
+**Blocking contradictions:** None found.
 
-**Approved-ready as written.**
-
-This means the document is internally ready for independent review. Its repository status remains proposed and non-controlling until that review approves and activates it.
-
-### 21.2 Approval gate
-
-Approval should confirm that the contract:
-
-- inherits higher authority without contradiction;
-- preserves mission-driven learning;
-- prevents unfamiliar forced decisions;
-- requires evidence-backed ownership;
-- controls AI generation without prohibiting useful assistance;
-- keeps prerequisite repair bounded;
-- preserves advanced-systems ambition without allowing premature adoption;
-- does not authorize implementation or create a roadmap.
-
-### 21.3 Next authorized artifact
-
-After this contract is reviewed and approved, the next authorized planning artifact is:
+The next authorized planning artifact is:
 
 > **Revised UpgradePilot 90-Day Master Roadmap**
 
-That roadmap is not created in this task.
+The roadmap may schedule work but may not weaken this contract or authorize implementation without the later milestone, tracker, and first-session artifacts.
