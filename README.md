@@ -28,13 +28,18 @@ For this period:
 
 ## Current activation state
 
-- UpgradePilot implementation has not started.
+- UpgradePilot technical execution is authorized under the approved milestone, tracker, and session controls.
+- Technical implementation has not yet started; the first active stage is manual evidence work, not code.
 - Existing AegisLab plan files are historical and must not be executed.
 - [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is approved and controlling for capability and prerequisite decisions.
 - [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is approved and controlling for Ali–AI learning and execution behavior.
 - [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved and controlling master route.
-- The next authorized action is to create the **UpgradePilot Staged Milestone Plan**.
-- Technical execution remains blocked until the staged milestone plan, evidence/progress tracker, and first-session plan are approved.
+- [`plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) is the approved and controlling milestone plan.
+- [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active tracker.
+- [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the active first technical session plan.
+- R0 planning closure has passed.
+- The exact next action is to start **UP-S01** and inspect `pydantic/pydantic#13432` under the bounded G1 manual-evidence workflow.
+- No additional planning artifact is authorized before execution.
 
 ## Execution requirement
 
@@ -60,9 +65,10 @@ Read and obey these files in order:
 7. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) — capability depths, prerequisites, diagnostics, deferrals, and ownership evidence
 8. [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) — session behavior, teaching, assistance, ownership, blockers, and technology admission
 9. [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) — stage order, capacity, reviews, fallbacks, and Day-90 outcomes
-10. the approved UpgradePilot staged milestone plan when created
-11. the approved UpgradePilot evidence/progress tracker and first-session plan when created
-12. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) when technical execution is authorized
+10. [`plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) — milestone gates, evidence, ownership, and advancement
+11. [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) — current state, evidence, assistance, capability, blockers, and decisions
+12. [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) — exact active UP-S01 route
+13. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) — session and blocker format
 
 Do not use the existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material.
 
@@ -85,30 +91,35 @@ Career/
 │   └── UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md
 ├── plans/
 │   ├── UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md
+│   ├── UPGRADEPILOT_STAGED_MILESTONE_PLAN.md
+│   ├── UPGRADEPILOT_FIRST_SESSION_PLAN.md
 │   ├── 90_DAY_MASTER_PLAN.md          # deferred AegisLab plan
 │   ├── MONTHLY_PLAN.md                # deferred AegisLab plan
 │   ├── WEEKLY_PLAN.md                 # deferred AegisLab plan
-│   ├── DAILY_OPERATING_PLAN.md        # general rules; no active UpgradePilot daily plan yet
+│   ├── DAILY_OPERATING_PLAN.md        # general operating rules
 │   ├── CURRENT_WEEK.md                # deferred AegisLab week
 │   └── daily/week-01/                 # deferred AegisLab daily route
 ├── operations/
 │   └── SESSION_PROTOCOL.md
 └── tracking/
-    ├── PROGRESS_LEDGER.md
+    ├── UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md
+    ├── PROGRESS_LEDGER.md             # preserved legacy ledger and pointer
     └── REPORTING_TEMPLATES.md
 ```
 
 ## Separation of responsibilities
 
-- **Career repository:** controls direction, project selection, workload, deliverables, gates, reporting, exposure policy, and career actions.
+- **Career repository:** controls direction, workload, deliverables, gates, reporting, exposure policy, and public-safe evidence records.
 - **UpgradePilot charter:** controls the mission, user decision, product boundary, outcomes, evaluation doctrine, exposure paths, forbidden scope, and planning order.
 - **Capability specification:** controls required depth, prerequisites, diagnostics, deferrals, and capability evidence.
 - **Learning and Execution Contract:** controls how Ali and AI learn, execute, test, diagnose, decide, and record ownership.
 - **Master roadmap:** controls the 90-day stage order, capacity, reviews, fallbacks, and closure outcomes.
-- **Future implementation repository:** will contain code, tests, experiments, deployments, evidence, and worklogs after explicit authorization.
+- **Milestone plan:** controls milestone entry, closure, evidence, ownership, and advancement.
+- **Active tracker:** records actual product and capability state; it does not create progress by itself.
+- **Future implementation repository:** will contain code, tests, experiments, deployments, technical evidence, and worklogs when M2 authorizes its creation.
 - **AegisLab and Sentinel:** preserved evidence sources only; no architecture, sequence, module, or task transfers automatically.
 - **Private evaluator context:** sensitive personal, medical, medication, financial, and routine information must not enter this public repository.
 
 ## Current action
 
-Create and approve the **UpgradePilot Staged Milestone Plan**. Do not begin implementation, architecture design, corpus acquisition, model work, cloud work, or advanced-system experiments during this action.
+Start **UP-S01** using [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md). Do not create another planning artifact before executing the bounded G1 manual-evidence session.
