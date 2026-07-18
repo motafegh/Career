@@ -10,10 +10,12 @@
 - Sentinel remains a research archive and source of selectively reusable lessons.
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, or repositories do not transfer automatically into UpgradePilot.
 - UpgradePilot implementation has not started.
-- [`UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved and controlling capability-control artifact.
-- The next authorized action is the UpgradePilot Learning and Execution Contract.
+- [`UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved capability-control artifact.
+- [`../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
+- [`../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved controlling master route.
+- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
 
-Any pre-selection or “no project selected” wording retained in the companion strategy inputs records their original decision-stage context. It does not reopen selection or override `UpgradePilot.md`.
+Any pre-selection or “no project selected” wording retained in companion strategy inputs records original decision-stage context. It does not reopen selection or override `UpgradePilot.md`.
 
 ## Companion strategy inputs
 
@@ -23,9 +25,9 @@ Any pre-selection or “no project selected” wording retained in the companion
 
 [`ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) requires planned, project-connected exposure to Kubernetes, microservices, distributed queues, multi-cloud systems, autonomous multi-agent architectures, and advanced MLOps while separating hands-on exposure, project pilots, permanent adoption, and mastery claims.
 
-These files remain active constraints on learning, ownership, evaluation, scope, and exposure. They do not independently reopen the completed project-selection decision or authorize implementation.
+These files remain active constraints on learning, ownership, evaluation, scope, and exposure. They do not independently reopen the completed selection decision or authorize implementation.
 
-For the six named advanced-systems areas, the Advanced Systems Exposure and Adoption Policy supersedes blanket deferral language in older or lower-level documents. Exposure must still wait for the approved UpgradePilot planning artifacts and authorization gates.
+For the six named advanced-systems areas, the Advanced Systems Exposure and Adoption Policy supersedes blanket deferral language in older or lower-level documents. Exposure must still wait for approved milestone and execution authorization.
 
 ## 1. Fixed 90-day identity
 
@@ -64,17 +66,17 @@ The long-term direction remains broad and hybrid:
 - system reasoning;
 - eventual technical leadership.
 
-These are not simultaneous claims of professional mastery. The 90-day program should create a strong core and honest, evidence-backed exposure to selected advanced systems.
+These are not simultaneous claims of professional mastery. The 90-day program creates a strong core and honest, evidence-backed exposure to selected advanced systems.
 
 ## 3. Project decisions
 
 ### UpgradePilot — formally selected
 
-UpgradePilot is the single primary flagship mission. Its governing mission, user, supported decision, thesis, outcome classes, frozen boundary, evaluation model, advanced-systems exposure path, forbidden scope, termination conditions, and planning order are defined in [`../UpgradePilot.md`](../UpgradePilot.md).
+UpgradePilot is the single primary flagship mission. Its mission, user, supported decision, thesis, outcome classes, frozen boundary, evaluation model, advanced-systems exposure path, forbidden scope, termination conditions, and planning order are defined in [`../UpgradePilot.md`](../UpgradePilot.md).
 
 The project-selection comparison stage is complete. RunSleuth and other candidates are not active alternatives.
 
-No UpgradePilot implementation repository or technical route is authorized until the required planning artifacts are approved in the order defined by the charter.
+No implementation repository or technical route is authorized until the remaining execution artifacts are approved.
 
 ### AegisLab — deferred historical technical evidence
 
@@ -95,7 +97,7 @@ close namespace SSH checkpoint
 
 This route is preserved as historical evidence only. It is deferred, superseded for active execution, and non-controlling.
 
-AegisLab may contribute selectively reusable controls, lessons, or bounded artifacts only when an approved UpgradePilot planning artifact explicitly admits them. Its environment-first sequence, SSH/DFIR mission, architecture, module structure, milestones, and tasks do not transfer automatically.
+AegisLab may contribute selectively reusable controls, lessons, or bounded artifacts only when an approved UpgradePilot artifact explicitly admits them. Its environment-first sequence, SSH/DFIR mission, architecture, module structure, milestones, and tasks do not transfer automatically.
 
 ### Advanced-systems exposure
 
@@ -108,9 +110,9 @@ UpgradePilot must provide credible, mission-connected pathways to:
 - a bounded autonomous multi-agent workflow;
 - an advanced MLOps lifecycle.
 
-The minimum target is A1 hands-on exposure for all six and A2 project-integrated pilots for at least two, subject to the evidence and feasibility rules in the Advanced Systems Exposure and Adoption Policy and UpgradePilot charter.
+The minimum target is A1 hands-on exposure for all six and A2 project-integrated pilots for at least two, subject to evidence and feasibility rules.
 
-Permanent adoption is not required for all six. None may begin before the required planning artifacts authorize a bounded package.
+Permanent adoption is not required for all six. None may begin before an approved milestone authorizes a bounded package.
 
 ### Deferred unless selected by UpgradePilot or a later approved gate
 
@@ -135,7 +137,7 @@ Selectively reusable acquisition, provenance, representation, evaluation, and sc
 
 ### Older projects — inactive
 
-Older repositories remain historical evidence unless a formal UpgradePilot plan or later formal review explicitly reuses a bounded component or lesson.
+Older repositories remain historical evidence unless an approved UpgradePilot plan or formal review explicitly reuses a bounded component or lesson.
 
 ## 4. Capability priorities
 
@@ -150,12 +152,12 @@ Priority order for these 90 days:
 7. secure engineering and trustworthy evidence handling
 8. Docker, CI, and operational reproducibility
 9. honest experimental design, baselines, and ML evaluation
-10. project-connected advanced-systems exposure: microservices, queues, Kubernetes, multi-cloud, autonomous multi-agent systems, and advanced MLOps
+10. project-connected advanced-systems exposure
 11. technical explanation and portfolio presentation
 
-When two tasks compete inside the product core, choose the higher item unless the active approved UpgradePilot gate explicitly requires otherwise.
+When two tasks compete inside the product core, choose the higher item unless the active approved gate requires otherwise.
 
-Authorized advanced-systems exposure packages receive reserved capacity under their own plan; they are not treated as accidental spare-time work and do not automatically outrank core product completion.
+Authorized advanced-systems packages receive reserved roadmap capacity; they are not accidental spare-time work and do not automatically outrank core completion.
 
 ## 5. Career targets
 
@@ -231,7 +233,7 @@ Required core evidence:
 - CI;
 - reproducible end-to-end demonstration;
 - deliberate failure diagnosis;
-- honest ML comparison when the problem supports it;
+- honest ML comparison when supported;
 - honest README and limitations;
 - clear disclosure of AI assistance;
 - Ali explanation and modification of important components.
@@ -250,14 +252,14 @@ Required advanced-systems evidence:
 
 ## 8. Decision rule
 
-A proposed core activity belongs in the 90-day program when it improves the UpgradePilot mission, active approved product gate, or required capability.
+A proposed core activity belongs when it improves the UpgradePilot mission, active approved gate, or required capability.
 
-A proposed advanced-systems activity belongs when it is an authorized exposure package under the Advanced Systems Exposure and Adoption Policy and approved UpgradePilot plans, and produces executable, project-connected comparison evidence.
+A proposed advanced-systems activity belongs when it is an authorized package under the exposure policy, contract, roadmap, and milestone plan and produces executable project-connected comparison evidence.
 
 During the current planning hold:
 
-1. use `UpgradePilot.md` as the controlling project decision;
-2. create only the next authorized planning artifact;
+1. use the approved authority chain;
+2. create only the **UpgradePilot Staged Milestone Plan**;
 3. do not begin technical implementation, architecture design, corpus acquisition, model work, or advanced-systems exposure;
 4. do not follow AegisLab plans;
 5. do not reopen candidate comparison without formal change evidence.
