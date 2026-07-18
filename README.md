@@ -23,16 +23,18 @@ For this period:
 - [`UpgradePilot.md`](UpgradePilot.md) is the governing project charter.
 - Broad project comparison is closed.
 - AegisLab execution plans are deferred and non-controlling; its evidence and selected lessons remain preserved.
-- Sentinel remains an autonomous research archive and source of selectively reusable lessons.
+- Sentinel remains a research archive and source of selectively reusable lessons.
 - Neither AegisLab nor Sentinel architecture, sequencing, modules, or tasks transfer automatically into UpgradePilot.
 
 ## Current activation state
 
 - UpgradePilot implementation has not started.
-- No UpgradePilot implementation repository, roadmap, milestone plan, weekly plan, session plan, architecture, or advanced-systems package is active yet.
 - Existing AegisLab plan files are historical and must not be executed.
 - [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is approved and controlling for capability and prerequisite decisions.
-- The next authorized action is to create the **UpgradePilot Learning and Execution Contract**.
+- [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is approved and controlling for Ali–AI learning and execution behavior.
+- [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved and controlling master route.
+- The next authorized action is to create the **UpgradePilot Staged Milestone Plan**.
+- Technical execution remains blocked until the staged milestone plan, evidence/progress tracker, and first-session plan are approved.
 
 ## Execution requirement
 
@@ -51,16 +53,18 @@ Read and obey these files in order:
 
 1. [`governance/EXECUTION_CONTRACT.md`](governance/EXECUTION_CONTRACT.md)
 2. [`strategy/STRATEGY_AND_SCOPE.md`](strategy/STRATEGY_AND_SCOPE.md)
-3. [`UpgradePilot.md`](UpgradePilot.md) — selected-project mission, boundary, outcomes, evaluation, exposure plan, and next planning order
-4. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — Ali's mission-driven learning and ownership profile
-5. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — preserved selection criteria and capability requirements; broad selection is closed
-6. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — Kubernetes, microservices, queues, multi-cloud, autonomous multi-agent, and advanced MLOps exposure rules
-7. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) — approved capability depths, prerequisites, gates, diagnostics, deferrals, and ownership evidence
-8. the approved UpgradePilot Learning and Execution Contract when created
-9. the later approved UpgradePilot master and active weekly plans when created
-10. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) when technical execution is authorized
+3. [`UpgradePilot.md`](UpgradePilot.md) — selected mission, boundary, outcomes, evaluation, exposure plan, and planning order
+4. [`strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](strategy/LEARNING_AND_PROJECT_DESIGN_PROFILE.md) — mission-driven learning and ownership profile
+5. [`strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](strategy/PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) — preserved selection criteria; broad selection is closed
+6. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — advanced exposure and adoption rules
+7. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) — capability depths, prerequisites, diagnostics, deferrals, and ownership evidence
+8. [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) — session behavior, teaching, assistance, ownership, blockers, and technology admission
+9. [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) — stage order, capacity, reviews, fallbacks, and Day-90 outcomes
+10. the approved UpgradePilot staged milestone plan when created
+11. the approved UpgradePilot evidence/progress tracker and first-session plan when created
+12. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) when technical execution is authorized
 
-Do not use the existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material until replacement UpgradePilot plans are created and approved.
+Do not use the existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material.
 
 ## Repository map
 
@@ -71,7 +75,8 @@ Career/
 ├── UpgradePilot.md
 ├── governance/
 │   ├── EXECUTION_CONTRACT.md
-│   └── SECURITY_AND_PRIVACY.md
+│   ├── SECURITY_AND_PRIVACY.md
+│   └── UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md
 ├── strategy/
 │   ├── STRATEGY_AND_SCOPE.md
 │   ├── LEARNING_AND_PROJECT_DESIGN_PROFILE.md
@@ -79,13 +84,13 @@ Career/
 │   ├── ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md
 │   └── UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md
 ├── plans/
+│   ├── UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md
 │   ├── 90_DAY_MASTER_PLAN.md          # deferred AegisLab plan
 │   ├── MONTHLY_PLAN.md                # deferred AegisLab plan
 │   ├── WEEKLY_PLAN.md                 # deferred AegisLab plan
-│   ├── DAILY_OPERATING_PLAN.md        # general rules; no active UpgradePilot schedule yet
+│   ├── DAILY_OPERATING_PLAN.md        # general rules; no active UpgradePilot daily plan yet
 │   ├── CURRENT_WEEK.md                # deferred AegisLab week
-│   └── daily/
-│       └── week-01/                    # deferred AegisLab daily route
+│   └── daily/week-01/                 # deferred AegisLab daily route
 ├── operations/
 │   └── SESSION_PROTOCOL.md
 └── tracking/
@@ -96,12 +101,14 @@ Career/
 ## Separation of responsibilities
 
 - **Career repository:** controls direction, project selection, workload, deliverables, gates, reporting, exposure policy, and career actions.
-- **UpgradePilot charter:** controls the selected mission, user decision, product boundary, outcomes, evaluation doctrine, exposure paths, forbidden scope, and planning order.
-- **Future selected primary repository:** will contain UpgradePilot technical implementation, tests, experiments, deployments, evidence, and worklogs after explicit authorization.
-- **AegisLab repository:** deferred historical technical evidence; no existing architecture, sequence, module, or task is automatically active for UpgradePilot.
-- **Sentinel repository:** research archive and source of selectively reusable lessons; no existing architecture, sequence, module, or task is automatically active for UpgradePilot.
-- **Private evaluator context:** contains sensitive personal, medical, medication, financial, and routine information. It must not be copied into this public repository.
+- **UpgradePilot charter:** controls the mission, user decision, product boundary, outcomes, evaluation doctrine, exposure paths, forbidden scope, and planning order.
+- **Capability specification:** controls required depth, prerequisites, diagnostics, deferrals, and capability evidence.
+- **Learning and Execution Contract:** controls how Ali and AI learn, execute, test, diagnose, decide, and record ownership.
+- **Master roadmap:** controls the 90-day stage order, capacity, reviews, fallbacks, and closure outcomes.
+- **Future implementation repository:** will contain code, tests, experiments, deployments, evidence, and worklogs after explicit authorization.
+- **AegisLab and Sentinel:** preserved evidence sources only; no architecture, sequence, module, or task transfers automatically.
+- **Private evaluator context:** sensitive personal, medical, medication, financial, and routine information must not enter this public repository.
 
 ## Current action
 
-Create the **UpgradePilot Learning and Execution Contract**. Do not begin implementation, architecture design, roadmap construction, milestone planning, session planning, corpus acquisition, advanced-technology experiments, or creation of an UpgradePilot implementation repository during this action.
+Create and approve the **UpgradePilot Staged Milestone Plan**. Do not begin implementation, architecture design, corpus acquisition, model work, cloud work, or advanced-system experiments during this action.
