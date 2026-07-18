@@ -1,10 +1,12 @@
 # Strategy and Scope
 
-## Companion decision input
+## Companion decision inputs
 
-[`LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](LEARNING_AND_PROJECT_DESIGN_PROFILE.md) records evidence about Ali's mission-driven learning mode, project-fit requirements, ownership risks, and candidate-project criteria.
+[`LEARNING_AND_PROJECT_DESIGN_PROFILE.md`](LEARNING_AND_PROJECT_DESIGN_PROFILE.md) records evidence about Ali's mission-driven learning mode, motivation conditions, ownership risks, and project-fit requirements.
 
-It is required input for any formal project-selection or route review. It does not by itself change the fixed identity, current project allocation, master plan, or weekly execution order. Any resulting change must follow the Execution Contract's change criteria and state the evidence, affected gate, smallest necessary modification, and consequences.
+[`PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md`](PROJECT_SELECTION_AND_CAPABILITY_SPECIFICATION.md) defines the mandatory problem, mission, novelty, product, capability, skill, evaluation, ownership, scope, rejection, and scoring requirements for selecting a primary project.
+
+Both files are required input for any formal project-selection or route review. Neither file independently changes the fixed identity, current project allocation, master plan, or weekly execution order. Any resulting change must follow the Execution Contract's change criteria and state the evidence, affected gate, smallest necessary modification, and consequences.
 
 ## 1. Fixed 90-day identity
 
@@ -181,4 +183,9 @@ A proposed activity belongs in the 90-day program only when it directly improves
 
 If it is merely useful, interesting, prestigious, or potentially relevant later, defer it.
 
-During a formal project-selection or route review, also test the proposed direction against the mission gravity, real-input, day-one-flow, causal-visibility, ownership-feasibility, and expansion-resistance criteria in the Learning and Project Design Profile. A direction that is technically aligned but repeatedly produces weak execution or detached learning must be examined rather than protected by the plan's wording alone.
+During a formal project-selection or route review:
+
+1. use the Learning and Project Design Profile to test mission gravity, real-input fit, causal visibility, sustained engagement, and ownership feasibility;
+2. use the Project Selection and Capability Specification to apply hard rejection gates, capability requirements, novelty standards, feasibility checks, and weighted comparison;
+3. do not protect a technically coherent direction when repeated execution evidence shows detached learning or weak product pursuit;
+4. do not select a motivating idea when it fails the real-problem, evaluation, safety, scope, or ownership gates.
