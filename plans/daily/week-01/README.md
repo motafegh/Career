@@ -1,16 +1,28 @@
+# Deferred AegisLab Week 1 Daily Execution Index — Historical Only
+
+> [!CAUTION]
+> **This index and every linked daily file are deferred, superseded for active execution, and non-controlling. Do not open them as current instructions or execute their commands, branch actions, deliverables, or gates.**
+>
+> UpgradePilot is the formally selected primary 90-day flagship. [`../../../UpgradePilot.md`](../../../UpgradePilot.md) is the governing project charter. UpgradePilot implementation has not started, and no replacement UpgradePilot session or daily plan exists yet.
+>
+> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original AegisLab daily index below is preserved as historical planning evidence. Its linked files remain historical even if opened directly.
+
+---
+
 # Week 1 Daily Execution Index
 
+**Historical status:** Deferred by the formal UpgradePilot selection decision; not an active daily route.  
 **Preparation:** 2026-07-18 to 2026-07-19  
 **Production week:** 2026-07-20 to 2026-07-26  
-**Primary repository:** `motafegh/AegisLab`  
+**Historical primary repository:** `motafegh/AegisLab`  
 **Standard production requirement:** 4 focused hours Monday through Saturday  
-**Weekly delivery:** namespace SSH closure plus Python Intake v0
+**Historical weekly delivery:** namespace SSH closure plus Python Intake v0
 
 ## Authority
 
-These files expand `plans/CURRENT_WEEK.md`. They may add exact actions, commands, artifacts, proof, and stop lines, but they may not change the weekly Must Deliver package.
+These files expanded the former AegisLab `plans/CURRENT_WEEK.md`. They are retained only as historical evidence and have no current execution authority.
 
-Use the files in this exact order:
+Historical file order:
 
 1. [Saturday preparation — 2026-07-18](2026-07-18.md)
 2. [Sunday activation — 2026-07-19](2026-07-19.md)
