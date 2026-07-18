@@ -32,22 +32,42 @@ Operational meaning:
 
 ### Primary project
 
-AegisLab receives at least **97%** of focused technical time until a formal project-selection decision changes the primary-project allocation under Section 11.
+[`UpgradePilot.md`](../UpgradePilot.md) records the formal project-selection decision under Section 11.
+
+- **UpgradePilot is the single selected primary 90-day flagship project.**
+- UpgradePilot receives the primary technical allocation after its required planning artifacts authorize implementation.
+- Broad project comparison is closed.
+- UpgradePilot implementation has not started.
+- The next authorized action is the UpgradePilot capability and prerequisite specification.
+
+Until the capability specification and subsequent required planning artifacts are approved, focused technical implementation is not authorized. Work remains limited to the explicitly authorized planning sequence in `UpgradePilot.md`.
+
+### Deferred prior primary project
+
+AegisLab's existing execution plans, weekly packages, daily routes, milestones, and implementation orders are deferred and non-controlling.
+
+AegisLab:
+
+- remains preserved as historical technical evidence;
+- may contribute a bounded lesson, control, or artifact only through explicit later admission;
+- does not transfer its architecture, sequencing, modules, tasks, or repository role automatically into UpgradePilot;
+- must not be followed as the active route.
 
 ### Research archive
 
-Sentinel receives **0–3%** of focused time and never more than one 30-minute inspection in a two-week period.
+Sentinel remains a research archive and source of selectively reusable lessons.
 
 Sentinel work:
 
 - cannot block the active primary project;
 - cannot create unapproved learning tasks;
 - cannot change this plan;
+- does not transfer architecture, sequencing, modules, or tasks automatically into UpgradePilot;
 - is not counted as Ali's demonstrated capability unless separately assessed.
 
 ### Other projects
 
-All other repositories are inactive historical evidence unless one is deliberately selected or a new bounded primary repository is authorized through the formal project-selection process.
+All other repositories are inactive historical evidence unless a formal change decision explicitly assigns a bounded role.
 
 ## 4. Exact workload requirement
 
@@ -64,7 +84,7 @@ All other repositories are inactive historical evidence unless one is deliberate
 
 This is a substantial but realistic workload for Ali's current no-job/no-study situation and stated goal of building a 4–5-hour daily work engine.
 
-Dog walking, AI conversation, reading, videos, and planning count only when the active plan explicitly classifies them as focused work and they produce required evidence. At least **3 of each Green day's 4 hours** must normally involve laptop/terminal implementation, experiment, testing, debugging, data work, or technically necessary artifact production.
+Dog walking, AI conversation, reading, videos, and planning count only when the active plan explicitly classifies them as focused work and they produce required evidence. At least **3 of each Green day's 4 hours** must normally involve laptop/terminal implementation, experiment, testing, debugging, data work, or technically necessary artifact production after technical execution is authorized.
 
 ### Timebox interpretation
 
@@ -74,8 +94,8 @@ When an item completes early:
 
 1. verify the deliverable;
 2. preserve evidence;
-3. continue immediately to the next authorized item in `plans/CURRENT_WEEK.md`;
-4. stop only when the daily 4-hour requirement is met or the weekly file gives an explicit stop line.
+3. continue immediately to the next authorized item in the active approved UpgradePilot plan;
+4. stop only when the daily 4-hour requirement is met or the active plan gives an explicit stop line.
 
 No task is considered substantial merely because a large timebox was assigned.
 
@@ -95,7 +115,7 @@ Condition: poor sleep, marked grogginess, unstable concentration, or reduced but
 
 Requirement: **2.5 focused hours** of low-risk execution. The missing **1.5 hours** becomes weekly recovery work.
 
-Allowed work:
+Allowed work after technical execution is activated:
 
 - tests;
 - fixture preparation;
@@ -124,7 +144,7 @@ Red mode is an exception, not a loophole. Repeated Red days trigger evaluator re
 
 ## 6. Daily delivery rule
 
-Every production day must end with one or more exact outputs named by `plans/CURRENT_WEEK.md`.
+After an UpgradePilot weekly plan is approved, every production day must end with one or more exact outputs named by that active weekly plan.
 
 Acceptable outputs include:
 
@@ -142,11 +162,13 @@ Acceptable outputs include:
 
 Time spent without a concrete result may still be necessary, but must be labeled investigation and cannot silently satisfy a delivery gate.
 
+During the current planning hold, only the named planning artifact and its review evidence may count as the authorized deliverable. No implementation output is expected or permitted.
+
 ## 7. Weekly gate rule
 
-A week passes only when:
+After an UpgradePilot weekly plan is activated, a week passes only when:
 
-1. every **Must Deliver** item in `plans/CURRENT_WEEK.md` exists;
+1. every **Must Deliver** item in the active weekly plan exists;
 2. the named commands/tests/gates pass;
 3. evidence is committed or linked;
 4. limitations and assistance level are explicit;
@@ -155,35 +177,42 @@ A week passes only when:
 
 A passed gate ends optional polishing, but Ali continues to the next **authorized advancement deliverable** when focused hours remain. This is controlled advancement, not scope expansion.
 
+The deferred AegisLab `plans/CURRENT_WEEK.md` does not define an active weekly gate.
+
 ## 8. Anti-rabbit-hole rules
 
-- One active primary project.
-- One weekly delivery package.
+- One active primary project: UpgradePilot.
+- One approved planning artifact or weekly delivery package.
 - One active work package at a time.
 - One next action per session.
 - Ordinary new ideas receive one sentence in a deferred list and no more than five minutes of discussion.
-- A named advanced-systems objective may receive a bounded exposure package only when authorized by the weekly plan and governed by `strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`.
+- A named advanced-systems objective may receive a bounded exposure package only when authorized by an approved UpgradePilot plan and governed by `strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`.
 - Only one major advanced-systems exposure package is normally active at a time.
-- Missing prerequisites receive a bounded repair, initially capped at 90 minutes.
+- Missing prerequisites receive a bounded repair, initially capped at 90 minutes, after implementation is authorized.
 - A technical blocker is investigated before code or configuration is changed.
 - A missed day resumes at the same next action.
 - A failed week causes scope reduction or blocker repair, not an automatic new roadmap.
 - Small tasks must be completed quickly and followed by the next authorized deliverable.
 - A technology pilot does not silently become permanent architecture.
+- Existing AegisLab or Sentinel work does not become active because it already exists.
 
 ## 9. Prohibited activities
 
 Until Day 90, do not:
 
-- create or activate a new primary repository outside a formal project-selection decision;
+- reopen broad candidate comparison without formal change evidence;
+- follow the deferred AegisLab master, monthly, weekly, current-week, or daily execution plans;
+- begin UpgradePilot implementation before the required planning artifacts are approved;
+- create an UpgradePilot implementation repository before explicit authorization;
 - adopt a new career identity;
 - start a general course unrelated to an active product, blocker, or authorized exposure package;
-- add Kubernetes, microservices, distributed queues, multi-cloud deployment, autonomous multi-agent systems, or advanced MLOps ad hoc or outside the Advanced Systems Exposure and Adoption Policy;
+- add Kubernetes, microservices, distributed queues, multi-cloud deployment, autonomous multi-agent systems, or advanced MLOps ad hoc or outside the Advanced Systems Exposure and Adoption Policy and approved UpgradePilot plans;
 - adopt any of those technologies permanently without a simpler baseline, project evidence, operational-cost analysis, and an explicit adoption decision;
 - perform advanced ML before a real analytical question, defensible data or truth, and a measured baseline exist;
 - begin unrelated VM reproduction before the selected product route authorizes it;
 - return to broad Sentinel participation;
-- spend a full week only on plans, profiles, or documentation;
+- transfer AegisLab or Sentinel architecture, sequencing, modules, or tasks automatically;
+- spend a full week only on plans, profiles, or documentation after technical execution begins;
 - claim production readiness or professional mastery without evidence;
 - inflate a small learning checkpoint into a full-day task;
 - stop early merely because one subtask finished.
@@ -192,15 +221,15 @@ Until Day 90, do not:
 
 Formal route reviews occur on:
 
-- **Preparation project-selection review:** active on 2026-07-18 to 2026-07-19
+- **Preparation project-selection review:** completed; UpgradePilot selected in `UpgradePilot.md`
 - **Day 14 workload calibration:** 2026-08-02
 - **Day 30:** 2026-08-18
 - **Day 60:** 2026-09-17
 - **Day 90:** 2026-10-17
 
-The preparation review is authorized because repository and execution evidence demonstrated a material mismatch between the environment-first route and Ali's mission-driven learning mode. It may select or redefine the primary project before Day 1 while preserving the fixed career identity, workload expectations, evidence standards, safety boundaries, and ownership requirements.
+The completed preparation review was authorized because repository and execution evidence demonstrated a material mismatch between the environment-first route and Ali's mission-driven learning mode. It selected UpgradePilot while preserving the fixed career identity, workload expectations, evidence standards, safety boundaries, and ownership requirements.
 
-Day 14 reviews workload realism, delivery density, mission continuity, and whether the selected project is producing real product pursuit. It does not casually reopen the identity.
+Day 14 reviews workload realism, delivery density, mission continuity, and whether UpgradePilot is producing real product pursuit. It does not casually reopen the identity or broad project comparison.
 
 Weekly reviews may adjust exact daily execution inside the selected route. They do not silently replace the project or expand the permanent architecture.
 
@@ -230,14 +259,14 @@ Any change must state:
 
 ## 12. Breach response
 
-If Ali starts an unapproved competing project, returns to open-ended planning, pads trivial work, or repeatedly ignores the active order:
+If Ali starts an unapproved competing project, returns to open-ended project comparison, begins implementation before authorization, follows a deferred AegisLab plan, pads trivial work, or repeatedly ignores the active order:
 
-1. stop the competing or unbounded activity;
+1. stop the competing, premature, or unbounded activity;
 2. record what happened without moral judgment;
-3. reopen `plans/CURRENT_WEEK.md`;
+3. reopen `UpgradePilot.md` and the current approved planning or execution artifact;
 4. resume the first incomplete authorized deliverable;
 5. use the evaluator to diagnose recurrence after execution has resumed.
 
-An authorized preparation-stage project-selection review or approved advanced-systems exposure package is not a breach.
+The approved UpgradePilot planning sequence and later approved advanced-systems exposure packages are not breaches.
 
-No restart from Day 1 unless the program was materially interrupted or the formal preparation review deliberately establishes a revised Day 1 route.
+No restart from Day 1 unless the program was materially interrupted or a formal review deliberately establishes a revised execution date.
