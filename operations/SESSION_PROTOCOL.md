@@ -2,26 +2,28 @@
 
 ## Current activation status
 
-This protocol does not authorize UpgradePilot technical implementation by itself.
+This protocol does not independently select work. It governs sessions authorized by active UpgradePilot plans.
 
 - [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter.
 - [`../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](../strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved capability-control artifact.
 - [`../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
 - [`../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](../plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved master route.
-- UpgradePilot implementation has not started.
+- [`../plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](../plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) is the approved milestone plan.
+- [`../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active tracker.
+- [`../plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](../plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the active session plan.
+- R0 planning closure has passed.
+- Technical execution is authorized for the bounded UP-S01 G1 session.
+- Technical implementation has not started; UP-S01 is manual evidence work.
 - The existing AegisLab current-week and daily routes are deferred and non-controlling.
-- No technical Session Order, implementation command, architecture task, corpus acquisition, model experiment, cloud deployment, or advanced-systems package may begin until the staged milestone plan, evidence/progress tracker, and first-session plan authorize it.
-- The next authorized action is the **UpgradePilot Staged Milestone Plan**.
-
-During the remaining planning hold, use this protocol only when useful for a bounded planning deliverable; do not issue technical execution orders.
+- The exact next action is to start UP-S01.
 
 ## 1. Session-start message
 
-After an active UpgradePilot planning or execution artifact defines a focused session, Ali starts with:
+Ali starts an authorized session with:
 
 ```text
 START DAY <program day>
-Date: YYYY-MM-DD
+Actual date: YYYY-MM-DD
 Mode: Green | Yellow | Red
 Sleep/function: <public-safe summary>
 Available focused minutes: <number>
@@ -30,11 +32,13 @@ Current state: <one sentence>
 First expected proof: <file/test/command/output>
 ```
 
+For UP-S01, use the exact start block in `../plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`.
+
 Do not ask “What should I do?” The first incomplete deliverable in the current approved artifact is controlling. Deferred AegisLab files are never controlling.
 
 ## 2. Required AI Session Order
 
-After technical execution is explicitly authorized, the AI returns one order:
+After the start message, the AI returns one order:
 
 ```text
 SESSION ORDER
@@ -46,14 +50,14 @@ Maximum time budget:
 Required prerequisite depth:
 Ali-owned action:
 AI assistance allowed:
-Files/components allowed:
+Files/components/sources allowed:
 
 Execution sequence:
 1.
 2.
 3.
 
-Proof commands/tests:
+Proof commands/tests/evidence:
 Expected evidence:
 Stop line:
 Pass condition:
@@ -63,7 +67,7 @@ Next authorized deliverable if completed early:
 Rules:
 
 - one selected route;
-- exact output before commands;
+- exact output before commands or tool actions;
 - no unrelated alternatives;
 - no future-phase expansion;
 - no unexplained command dump;
@@ -75,7 +79,8 @@ Rules:
 - continue only to the named next authorized deliverable;
 - do not assign full sessions to administrative work that should take minutes;
 - do not repeat demonstrated work merely to consume scheduled time;
-- do not issue implementation commands during the planning hold.
+- use the active tracker as the state record;
+- do not create another planning artifact during active execution.
 
 ## 3. Session-end message
 
@@ -86,7 +91,7 @@ SESSION END
 Focused minutes:
 Deliverables completed:
 Evidence/commit:
-Commands/tests and results:
+Commands/tool actions/tests and results:
 What Ali can explain or modify:
 Corrections received:
 AI assistance used:
@@ -104,18 +109,18 @@ The AI judges:
 - **Out of scope** — stop, revert, park, or discard;
 - **Underloaded** — materially smaller than planned; advance and record for calibration.
 
-## 4. Technical blocker protocol
+The active tracker must be updated from the actual session evidence.
 
-This section applies only after technical execution is authorized.
+## 4. Technical blocker protocol
 
 ### Step 1 — Observe
 
-Before changing code or configuration, record:
+Before changing code, configuration, evidence interpretation, or recommendation logic, record:
 
 ```text
 Expected:
 Actual:
-Error/symptom:
+Error/symptom or evidence conflict:
 Last known working point:
 Evidence inspected:
 Strongest current hypothesis:
@@ -127,6 +132,7 @@ Spend up to 15 minutes inspecting evidence personally where safe and practical.
 
 Identify the likely affected layer:
 
+- external evidence/source;
 - environment;
 - network;
 - process/service;
@@ -154,23 +160,23 @@ The AI should:
 4. explain expected output categories;
 5. revise the hypothesis from actual output.
 
-### Step 4 — Repair
+### Step 4 — Repair or decision correction
 
-Repair the smallest supported cause.
+Repair the smallest supported cause, or correct the smallest unsupported evidence interpretation.
 
 ### Step 5 — Validate
 
-Re-run:
+Re-run or re-check:
 
-- the failing case;
-- a relevant success case;
-- the nearest integration path.
+- the failing or disputed case;
+- a relevant success or unchanged case;
+- the nearest integration or decision path when applicable.
 
 Record what the repair proves and what remains unverified.
 
 ## 5. Missing prerequisite protocol
 
-Initial repair cap after technical execution begins: **90 focused minutes**.
+Initial repair cap: **90 focused minutes**, unless the active plan sets a smaller cap.
 
 The AI must state:
 
@@ -196,9 +202,11 @@ When public evidence is missing, inaccessible, stale, conflicting, invalid, or e
 4. narrow the claim, request a targeted check, defer, or abstain;
 5. record the effect on the report or evaluation.
 
+For UP-S01, inability to obtain one evidence source may lead to an explicit limitation or abstention rather than a new research campaign.
+
 ## 7. Environment blocker protocol
 
-After implementation is authorized, when an environment blocker remains unresolved within one session:
+When an environment blocker becomes relevant in a later implementation stage and remains unresolved within one session:
 
 1. preserve state and evidence;
 2. state whether the environment is required for the current gate;
@@ -207,6 +215,8 @@ After implementation is authorized, when an environment blocker remains unresolv
 5. register an explicit follow-up gate;
 6. continue another authorized deliverable when dependency order permits;
 7. do not restart the project.
+
+UP-S01 does not authorize repository-code execution or environment setup.
 
 ## 8. Planning-diversion protocol
 
@@ -218,7 +228,9 @@ Current deliverable: <deliverable>
 Next action: <action>
 ```
 
-The current controlling deliverable is the **UpgradePilot Staged Milestone Plan**. Architecture design, first-session commands, implementation, and advanced-system execution are out of scope until their later authorization.
+The current controlling deliverable is the **UP-S01 manual evidence report for `pydantic/pydantic#13432`**.
+
+New roadmap, milestone, tracker, first-session, architecture, corpus, code, or advanced-system planning is out of scope until the active evidence creates a named need.
 
 A brief clarification is allowed only when current files conflict, are materially underloaded, or lack a necessary decision.
 
@@ -233,4 +245,4 @@ Possible trigger:
 
 Maximum discussion: five minutes.
 
-No design, research, repository, task list, or implementation is created outside the authorized artifact.
+No design, research campaign, repository, task list, or implementation is created outside the authorized artifact.
