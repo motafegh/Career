@@ -1,5 +1,17 @@
+# Deferred AegisLab 90-Day Master Plan — Historical Only
+
+> [!CAUTION]
+> **This plan is deferred, superseded for active execution, and non-controlling. Do not execute its phases, gates, deliverables, or next actions.**
+>
+> UpgradePilot is the formally selected primary 90-day flagship. [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter. Broad project comparison is closed. UpgradePilot implementation has not started, and the replacement UpgradePilot master roadmap has not yet been created.
+>
+> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original AegisLab plan below is preserved as historical planning evidence and does not transfer architecture, sequencing, modules, or tasks into UpgradePilot.
+
+---
+
 # 90-Day Master Plan
 
+**Historical status:** Deferred by the formal UpgradePilot selection decision; not an active roadmap.  
 **Day 1:** 2026-07-20  
 **Day 90:** 2026-10-17  
 **Standard workload:** 24 focused hours per week  
