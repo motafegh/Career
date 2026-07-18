@@ -5,7 +5,7 @@
 **Execution period:** 2026-07-20 to 2026-10-17  
 **Status:** Approved and controlling staged milestone plan  
 **Authority:** Defines milestone entry, closure, evidence, ownership, and advancement under `../UpgradePilot.md`, the approved capability specification, Learning and Execution Contract, and `UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`  
-**Activation effect:** This plan authorizes only the milestone sequence and gates. Technical execution begins with M1 only after the approved evidence/progress tracker and first-session plan are active.
+**Activation effect:** This plan controls the milestone sequence and gates. Technical execution is active only through approved milestone and session/weekly packages.
 
 ## 1. Purpose
 
@@ -41,7 +41,7 @@ When instructions conflict, use:
 6. `../governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`;
 7. `UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`;
 8. this plan;
-9. the active first-session or later weekly/session plan;
+9. the active evidence/progress tracker and first-session or later weekly/session plan;
 10. `../operations/SESSION_PROTOCOL.md`;
 11. current inspected evidence.
 
@@ -65,9 +65,9 @@ When a milestone passes early, proceed to its named advancement item. Do not pad
 
 ## 4. Milestone overview
 
-| Milestone | Roadmap route | Outcome | Maximum route capacity | Initial status |
+| Milestone | Roadmap route | Outcome | Maximum route capacity | Current status |
 |---|---|---|---:|---|
-| M0 — Planning closure | R0 | All execution-control artifacts active; technical execution authorized | 4 h | Pass when tracker and first-session plan are active |
+| M0 — Planning closure | R0 | All execution-control artifacts active; technical execution authorized | 4 h | Pass |
 | M1 — First manual evidence decision | R1 / G1 | One real Dependabot PR becomes a traceable manual evidence package and weak decision report | 8 h | Ready |
 | M2 — First automated vertical slice | R2 / G2 | One reproducible PR-to-report path with tests and changed-case evidence | 36 h | Not started |
 | M3 — Reliable evidence and persistence | R3 / G3 | Supported acquisition, validation, provenance, relational persistence, replay, SQL, failure behavior, and CI | 48 h | Not started |
@@ -99,7 +99,7 @@ The project can begin G1 without another planning artifact.
 
 ### Result
 
-M0 passes when the final synchronization commit is complete.
+**Pass.** All required artifacts are approved and entry points identify UP-S01 as the next action.
 
 ### Next action
 
@@ -464,8 +464,11 @@ Do not restart the project because one milestone is difficult or one hypothesis 
 
 **Audit result:** Passed.  
 **Approval result:** Approved and controlling.  
-**Current milestone:** M0 — Planning closure.  
-**Next required artifacts:** approved evidence/progress tracker and approved first-session plan.  
-**Technical implementation:** not yet started.
-
-When those two artifacts are active and repository entry points are synchronized, M0 passes automatically and the next authorized action becomes execution of the first session under M1.
+**Planning route R0:** Pass.  
+**Current route/milestone:** R1 / M1 — First manual evidence decision.  
+**Active tracker:** `../tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`.  
+**Active session:** `UPGRADEPILOT_FIRST_SESSION_PLAN.md` / UP-S01.  
+**Technical execution:** Authorized for the bounded active session.  
+**Technical implementation:** Not started; M2 authorization follows M1.  
+**Exact next action:** Start UP-S01.  
+**No additional planning artifact is authorized before execution.**
