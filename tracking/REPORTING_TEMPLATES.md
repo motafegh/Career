@@ -1,4 +1,17 @@
+# Deferred AegisLab Reporting Templates — Historical Only
+
+> [!CAUTION]
+> **These templates were written for the deferred AegisLab route and are non-controlling. Do not create current logs, reviews, application records, or evidence claims from the AegisLab-specific fields below.**
+>
+> UpgradePilot is the selected primary flagship under [`../UpgradePilot.md`](../UpgradePilot.md). UpgradePilot implementation has not started. The replacement evidence and progress tracker—and any UpgradePilot-specific reporting templates—have not yet been created.
+>
+> The next authorized action is to create the **UpgradePilot capability and prerequisite specification**. The original templates below are preserved unchanged as historical planning material.
+
+---
+
 # Reporting Templates
+
+**Historical status:** Deferred by the formal UpgradePilot selection decision; not active reporting instructions.
 
 Use public-safe language. Do not record medication, medical details, finances, credentials, or private personal information.
 
