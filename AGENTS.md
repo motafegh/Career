@@ -17,11 +17,13 @@ The purpose is measurable capability, dense delivery, finished evidence, career 
 - AegisLab execution plans and routes are deferred, historical, and non-controlling.
 - Sentinel remains a research archive and source of selectively reusable lessons.
 - Existing AegisLab or Sentinel architecture, sequencing, modules, tasks, and repositories do not automatically transfer into UpgradePilot.
-- Technical execution is authorized only under approved milestone, tracker, and session controls.
-- R1 / M1 has passed through the completed UP-S01 manual evidence report.
-- M2 is Ready, but no M2 implementation session is active and no accepted source implementation or architecture exists.
+- R1 / M1 passed through the completed UP-S01 manual evidence report.
+- The M2-entry architecture-status audit passed.
+- M2 is Ready, but no M2 implementation session is active.
 - The `motafegh/UpgradePilot` repository is the documentation, memory, and future implementation home.
-- Its removed premature scaffold and retained architecture claims are not accepted work or Ali-owned capability.
+- Accepted source implementation, tests, package configuration, executable examples, CI, and architecture remain none.
+- The removed premature scaffold must not be restored.
+- Retained architecture files are historical AI-generated proposals only; none is accepted, active, or Ali-owned.
 - [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is the approved capability-control artifact.
 - [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is the approved operating contract.
 - [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved controlling master route.
@@ -29,7 +31,7 @@ The purpose is measurable capability, dense delivery, finished evidence, career 
 - [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active evidence/progress tracker.
 - [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the completed M1 session plan.
 - [`tracking/evidence/UP-S01_pydantic-13432_manual-evidence-report.md`](tracking/evidence/UP-S01_pydantic-13432_manual-evidence-report.md) is the accepted M1 report.
-- The exact next action is to audit retained `motafegh/UpgradePilot/docs/architecture/` claims and repository state, then authorize one bounded M2 session without restoring the removed scaffold.
+- The exact next action is to define and activate one bounded M2 learning/implementation session using the completed Pydantic case.
 
 ## Authority order
 
@@ -81,19 +83,21 @@ These files continue to govern learning fit, capability, ownership, evaluation, 
 
 ## Active next action
 
-The current action is controlled by the M2-entry state recorded in [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md).
+Define and activate the first bounded M2 learning/implementation session using `pydantic/pydantic#13432` and the completed M1 report.
 
-The AI must:
+The session package must:
 
-1. inspect the active `motafegh/UpgradePilot` repository and its retained `docs/architecture/` files;
-2. compare internal status and ownership claims against the Career controls and M1 evidence;
-3. preserve useful technical proposals without treating them as accepted architecture or Ali-owned decisions;
-4. remove, supersede, or explicitly quarantine false `Accepted`, `Active`, or Ali-decision-owner claims;
-5. verify that no source code, tests, package metadata, executable examples, or CI have been restored;
-6. update the UpgradePilot working memory and canonical Career tracker;
-7. only then authorize one bounded M2 learning/implementation session using the same Pydantic case unless evidence shows it is unsuitable.
+1. name one small machine responsibility rather than an entire architecture;
+2. derive that responsibility from an observed need in the M1 report;
+3. teach the minimum Python, data-representation, and testing concepts before code;
+4. preserve Ali's prediction for valid input, invalid input, and expected output;
+5. require Ali to materially direct or modify the central behavior;
+6. include one executable test and one changed or invalid case;
+7. use the smallest reversible structure and dependency set;
+8. avoid live acquisition, persistence, broad recommendation policy, frameworks, databases, services, containers, and advanced systems;
+9. update UpgradePilot working memory and this canonical tracker.
 
-Do not implement the vertical slice during the architecture-status audit unless a separate bounded M2 session is explicitly activated.
+Do not restore the previous JSON example, CLI, policy, package structure, or tests. Retained architecture proposals may be inspected, but they are not defaults.
 
 ## Required execution standard
 
@@ -129,12 +133,12 @@ Do not:
 - reopen broad project selection without formal change evidence;
 - follow deferred AegisLab master, weekly, current-week, or daily routes;
 - restore or continue the removed UpgradePilot scaffold;
-- treat retained architecture proposals as accepted because they already exist;
+- treat retained architecture proposals as accepted because they exist;
 - begin M2 implementation without an explicitly approved bounded session or weekly package;
 - change the fixed working identity;
 - expand the project because a topic is interesting without an authorized experiment;
 - introduce advanced systems ad hoc or as résumé decoration;
-- force all desired technologies into permanent architecture;
+- force desired technologies into permanent architecture;
 - use exposure to avoid core product work;
 - run several major advanced packages simultaneously;
 - transfer AegisLab or Sentinel architecture, modules, sequencing, or tasks automatically;
@@ -162,21 +166,15 @@ Do not:
 
 ## Session rule
 
-For the current M2-entry audit:
+For the next bounded M2 session:
 
 1. consult the approved authorities and active tracker;
-2. inspect the UpgradePilot repository entry points, retained architecture files, and active tree;
-3. preserve useful proposals without accepting false ownership or architecture status;
-4. record actual changes and evidence;
-5. update the tracker at audit closure;
-6. do not implement the M2 vertical slice during the audit.
-
-For later sessions:
-
-1. consult the active milestone and weekly/session package;
-2. identify the first incomplete deliverable;
-3. inspect relevant project state;
-4. issue one Session Order using `operations/SESSION_PROTOCOL.md`.
+2. create one detailed working-memory record in UpgradePilot;
+3. state the user-visible behavior, pass condition, paths, proof command, and stop line;
+4. teach before implementation;
+5. preserve Ali's prediction and material direction;
+6. inspect actual output and one invalid or changed case;
+7. update the tracker at closure.
 
 A Session Order must state the product output and pass condition before commands.
 
