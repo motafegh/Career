@@ -31,17 +31,19 @@ For this period:
 - UpgradePilot technical execution is authorized only through approved milestone, tracker, and session controls.
 - R0 planning closure has passed.
 - R1 / M1 manual evidence work has passed through [`tracking/evidence/UP-S01_pydantic-13432_manual-evidence-report.md`](tracking/evidence/UP-S01_pydantic-13432_manual-evidence-report.md).
-- M2 — First automated vertical slice is Ready but no M2 implementation session is active.
-- The `motafegh/UpgradePilot` repository exists as the documentation, memory, and future implementation home; accepted source implementation and architecture remain none.
-- A retained premature scaffold was removed from the active UpgradePilot tree and must not be restored automatically.
+- The M2-entry architecture-status audit has passed.
+- M2 — First automated vertical slice is Ready, but no M2 implementation session is active.
+- The `motafegh/UpgradePilot` repository is the documentation, memory, and future implementation home; accepted source implementation and architecture remain none.
+- The premature scaffold remains removed from the active tree and must not be restored automatically.
+- Retained architecture files are unreviewed historical AI proposals only; none is active, accepted, or Ali-owned.
 - [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) is approved and controlling for capability and prerequisite decisions.
 - [`governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md`](governance/UPGRADEPILOT_LEARNING_AND_EXECUTION_CONTRACT.md) is approved and controlling for Ali–AI learning and execution behavior.
 - [`plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md`](plans/UPGRADEPILOT_90_DAY_MASTER_ROADMAP.md) is the approved and controlling master route.
 - [`plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md`](plans/UPGRADEPILOT_STAGED_MILESTONE_PLAN.md) is the approved and controlling milestone plan.
 - [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) is the active tracker.
 - [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) is the completed M1 session plan and remains preserved as execution evidence.
-- The exact next action is to audit retained `motafegh/UpgradePilot/docs/architecture/` claims and repository state, then authorize one bounded M2 learning/implementation session without restoring the removed scaffold.
-- No architecture adoption, corpus, database, model, service, infrastructure, or advanced-system package is authorized by M1 completion.
+- The exact next action is to define and activate one bounded M2 learning/implementation session using the completed Pydantic case.
+- No implementation, architecture adoption, corpus, database, model, service, infrastructure, or advanced-system package is authorized until that bounded session is active.
 
 ## Execution requirement
 
@@ -73,7 +75,7 @@ Read and obey these files in order:
 13. [`plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md`](plans/UPGRADEPILOT_FIRST_SESSION_PLAN.md) — preserved completed UP-S01 execution plan
 14. [`operations/SESSION_PROTOCOL.md`](operations/SESSION_PROTOCOL.md) — session and blocker format
 
-Do not use the existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material.
+Do not use existing AegisLab-specific files under `plans/` as active instructions. They remain preserved historical material.
 
 ## Repository map
 
