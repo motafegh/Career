@@ -140,4 +140,63 @@ Do not:
 - transfer AegisLab or Sentinel architecture, modules, sequencing, or tasks automatically;
 - create generalized platforms, dashboards, service fleets, agent systems, scoring systems, or planning schemas without demonstrated need;
 - allow documentation to replace working behavior;
-- claim professional capability from repository sophistication, cloud count, service count, cluster size, queue choice, agent count, or MLOps tool count.
+- claim professional capability from repository sophistication, cloud count, service count, cluster size, queue choice, agent count, or MLOps tool count;
+- use sensitive personal information in this public repository;
+- assign inflated timeboxes to small tasks;
+- repeat demonstrated work merely to fill a schedule;
+- stop a production day after an early subtask when authorized work remains;
+- execute untrusted public repository code merely to inspect it.
+
+## Repository boundaries
+
+- This repository stores direction, schedules, gates, selection evidence, public-safe progress summaries, and canonical control/evidence records.
+- `UpgradePilot.md` stores the mission, product boundary, outcome classes, evaluation doctrine, exposure path, and planning order.
+- The capability specification stores depth, prerequisites, diagnostics, and capability evidence rules.
+- The Learning and Execution Contract stores teaching, assistance, ownership, blocker, correction, and technology-admission behavior.
+- The master roadmap stores route order, capacity, reviews, fallbacks, and Day-90 outcomes.
+- The staged milestone plan stores milestone entry, closure, evidence, ownership, and advancement.
+- The active tracker stores actual current state and evidence; it does not create work.
+- The `motafegh/UpgradePilot` repository stores project memory and may store code, fixtures, tests, experiments, deployments, and technical worklogs only after the relevant milestone/session authorizes them.
+- AegisLab and Sentinel remain bounded historical evidence sources.
+- Sensitive personal context remains outside this public repository.
+
+## Session rule
+
+For the current M2-entry audit:
+
+1. consult the approved authorities and active tracker;
+2. inspect the UpgradePilot repository entry points, retained architecture files, and active tree;
+3. preserve useful proposals without accepting false ownership or architecture status;
+4. record actual changes and evidence;
+5. update the tracker at audit closure;
+6. do not implement the M2 vertical slice during the audit.
+
+For later sessions:
+
+1. consult the active milestone and weekly/session package;
+2. identify the first incomplete deliverable;
+3. inspect relevant project state;
+4. issue one Session Order using `operations/SESSION_PROTOCOL.md`.
+
+A Session Order must state the product output and pass condition before commands.
+
+## Change control
+
+The master route may change only when:
+
+- evidence shows a technical dependency makes the sequence infeasible;
+- a material external constraint changes;
+- a safety issue appears;
+- a prerequisite is materially larger than anticipated;
+- a formal review demonstrates revision is necessary;
+- repeated evidence shows the plan is materially underloaded or overloaded;
+- execution evidence demonstrates mismatch with Ali's documented learning mode;
+- approved advanced-exposure objectives cannot be satisfied credibly within the mission.
+
+Novelty, anxiety, temporary difficulty, or a new AI suggestion are not sufficient by themselves.
+
+## Completion standard
+
+A week passes only when every required artifact and behavior gate passes. Hours alone do not establish progress. Passing a small sub-gate does not authorize idle time or unplanned expansion.
+
+An exposure package passes only when Ali can explain what it solved, what complexity it added, how it compared with the baseline, and why it was adopted, retained as a pilot, rejected, or deferred.
