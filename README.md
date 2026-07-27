@@ -70,8 +70,6 @@ Career may inspect project evidence for a career question, but it records only t
 10. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
 11. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
 
-Some linked files are being established through the approved refoundation plan. Until migration is complete, use the active files that exist and do not revive superseded project-operation documents.
-
 ## Current working direction
 
 > **AI-augmented Python/data/ML engineer developing secure engineering capability.**
@@ -118,6 +116,12 @@ Career is active but proportional.
 - Career files change when a material career fact or decision changes.
 - Formal reviews occur on scheduled dates, when Ali requests one, or when capability, portfolio, workload, market, project allocation, or strategy requires a decision.
 
-## Refoundation
+## Employability state
 
-[`CAREER_REPOSITORY_REFOUNDATION_PLAN.md`](CAREER_REPOSITORY_REFOUNDATION_PLAN.md) controls the current structural correction. It restores the broader Career mission without moving UpgradePilot operation back into this repository.
+The first refounded review established **E1 — Initial market calibration**.
+
+Current recurring market priorities are Python, SQL, APIs/data pipelines, testing/debugging, Git, practical project evidence, and technical communication. Applications are not yet active; the next formal readiness decision is due by the Day-30 review or earlier when evidence permits.
+
+## Refoundation record
+
+[`CAREER_REPOSITORY_REFOUNDATION_PLAN.md`](CAREER_REPOSITORY_REFOUNDATION_PLAN.md) is the completed transformation and audit record. The refoundation restored the broader Career mission without moving UpgradePilot operation back into this repository.
