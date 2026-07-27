@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling cross-project capability record  
-**Last reviewed:** 2026-07-27  
+**Last reviewed:** 2026-07-27 — first refounded Career review  
 **Responsibility:** Capability depth, evidence, assistance, recency, confidence, transfer limits, claim boundaries, and reassessment across all projects and work
 
 ## 1. Boundary
@@ -17,7 +17,7 @@ It does not:
 - convert repository progress into Ali capability automatically;
 - mark broad technologies complete.
 
-A capability record is added or changed only during a Career review or explicit capability assessment.
+A record changes only during a Career review or explicit capability assessment.
 
 ## 2. Assessment principles
 
@@ -55,7 +55,7 @@ D5 is not required for the current career cycle. A narrow D2 or D3 may be the co
 
 Several labels may apply to different parts of one responsibility. Participation labels do not replace D-level evidence.
 
-## 5. Evidence expectations by depth
+## 5. Evidence expectations
 
 ### D1
 
@@ -105,7 +105,7 @@ Normally require:
 
 Require sustained independent performance across varied contexts, unfamiliar failures, consequential trade-offs, and operational effects.
 
-## 6. Record format
+## 6. Record formats
 
 ### Lean record — default
 
@@ -154,20 +154,18 @@ The following alone cannot establish D3, D4, D5, or ownership:
 - repository sophistication;
 - project completion.
 
-## 8. Current retained capability records
-
-These are conservative Career conclusions migrated from prior reviews. They do not reflect every later UpgradePilot event until the first refounded Career review is completed.
+## 8. Current capability records
 
 ### 8.1 Public dependency-update evidence reasoning
 
 ```text
 Responsibility: Interpret one public Dependabot pull-request evidence set and produce or challenge a bounded weak maintainer recommendation
 Depth: D2 — Guided application
-Best evidence: Completed manual UpgradePilot case and changed/missing-evidence variant; canonical history preserved in UpgradePilot
-Assistance: Substantial AI retrieval, explanation, structure, and wording; Ali participated in evidence interpretation and decision challenge
+Best evidence: Completed manual UpgradePilot case, proportional-check selection, and changed/missing-evidence variant; canonical history preserved in UpgradePilot
+Assistance: Substantial AI retrieval, explanation, structure, and wording; Ali participated in interpretation and decision challenge
 Last demonstrated: 2026-07-19
 Confidence: Medium for the single guided case
-Transfer limit: One Python lockfile-oriented case; does not establish independent repeated maintainer review or general dependency-management competence
+Transfer limit: One Python lockfile-oriented case; no independent repeated maintainer-review or general dependency-management claim
 Next reassessment: A materially different real case with less prompting and an independently structured evidence/uncertainty explanation
 ```
 
@@ -176,11 +174,11 @@ Next reassessment: A materially different real case with less prompting and an i
 ```text
 Responsibility: Distinguish observed evidence, interpretation, missing evidence, uncertainty, and unsupported conclusions in a bounded technical investigation
 Depth: D2 — Guided application
-Best evidence: UpgradePilot manual investigation plus prior AegisLab evidence-boundary and failure-reasoning work
+Best evidence: UpgradePilot manual investigation plus AegisLab evidence-boundary and failure-reasoning work
 Assistance: Substantial AI prompting and correction
 Last demonstrated: 2026-07-21
 Confidence: Medium within guided repository/security evidence contexts
-Transfer limit: Transfer to unfamiliar domains and low-prompt decision writing remains unassessed
+Transfer limit: Unfamiliar domains and low-prompt decision writing remain unassessed
 Next reassessment: Independent classification of a changed technical evidence set and explanation of what success does not prove
 ```
 
@@ -188,13 +186,13 @@ Next reassessment: Independent classification of a changed technical evidence se
 
 ```text
 Responsibility: Distinguish raw input, boundary validation, trusted nested data, persistence/report roles, and participate in a bounded representation-method decision
-Depth: D2 guided conceptual participation; implementation depth previously D1/unassessed
+Depth: D2 guided conceptual participation; implementation ownership unestablished
 Best evidence: UpgradePilot contract-gap challenge, specification review, and method-decision participation
 Assistance: Substantial AI analysis and drafting; Ali-directed challenge and approval
 Last demonstrated: 2026-07-21
-Confidence: Medium for the conceptual distinctions; Low for independent implementation transfer
+Confidence: Medium for conceptual distinctions; Low for independent implementation transfer
 Transfer limit: Does not establish Pydantic, general data-contract, packaging, testing, or application-architecture ownership
-Next reassessment: Inspect current active implementation, explain the contract path, make a changed-case modification, add or repair a test, and diagnose one failure with reduced prompting
+Next reassessment: Explain current active contracts, make a changed-case modification, add or repair a test, and diagnose one failure with reduced prompting
 ```
 
 ### 8.4 Linux and controlled failure reasoning
@@ -206,8 +204,8 @@ Best evidence: AegisLab guided namespace/SSH lifecycle and failure investigation
 Assistance: Substantial AI instruction and interpretation support
 Last demonstrated: 2026-07-18 or earlier preserved AegisLab evidence
 Confidence: Medium for the bounded guided case; freshness decreasing
-Transfer limit: Does not establish independent Linux administration, networking, or security-engineering ownership
-Next reassessment: A new bounded diagnostic case requiring Ali to select inspection steps and explain layer responsibility with less prompting
+Transfer limit: No independent Linux administration, networking, or security-engineering ownership claim
+Next reassessment: A new bounded diagnostic case where Ali selects inspection steps and explains layer responsibility with less prompting
 ```
 
 ### 8.5 Git and repository operation
@@ -219,8 +217,8 @@ Best evidence: Repeated repository use, commits, a revert, basic workflow exposu
 Assistance: Mixed; many repository decisions and operations guided by AI
 Last demonstrated: 2026-07-27
 Confidence: Medium for ordinary guided use
-Transfer limit: Independent branching strategy, pull-request review, conflict resolution, history repair, and team workflow remain unassessed or weak
-Next reassessment: Ali independently performs and explains a bounded branch/commit/review workflow and diagnoses one common Git problem
+Transfer limit: Independent branching strategy, pull-request review, conflict resolution, history repair, and team workflow remain weak or unassessed
+Next reassessment: Independently perform and explain a bounded branch/commit/review workflow and diagnose one common Git problem
 ```
 
 ### 8.6 AI-assisted project direction
@@ -229,60 +227,105 @@ Next reassessment: Ali independently performs and explains a bounded branch/comm
 Responsibility: Direct AI-assisted project and repository work by challenging scope, purpose, governance, and unsupported conclusions
 Depth: D2 to provisional D3 for selected direction/challenge responsibilities
 Best evidence: Repeated challenges that corrected Career/UpgradePilot boundaries, project purpose, source-learning design, excessive ceremony, and AI ownership assumptions
-Assistance: AI-assisted analysis; Ali provides the material challenge, intent, and approval
+Assistance: AI-assisted analysis; Ali supplies the material challenge, intent, and approval
 Last demonstrated: 2026-07-27
 Confidence: Medium
-Transfer limit: Direction and critique do not establish implementation, testing, or technical design ownership; low-assistance transfer to a professional team is unassessed
-Next reassessment: Ali independently frames a technical/product responsibility, compares alternatives, rejects unsupported scope, and validates the resulting implementation/evidence
+Transfer limit: Direction and critique do not establish implementation, testing, technical design ownership, or professional-team transfer
+Next reassessment: Independently frame a technical/product responsibility, compare alternatives, reject unsupported scope, and validate the resulting implementation/evidence
+```
+
+### 8.7 UpgradePilot installation, test, and live-run operation
+
+```text
+Responsibility: Set up and run the current UpgradePilot package, execute its deterministic suite, run one safe public case, and interpret the bounded result
+Depth: D2 — Guided application
+Best evidence: Recorded WSL2 Python 3.12 editable installation, 28 deterministic tests passed, and live googlefonts/glyphsLib#1145 evidence run on 2026-07-24
+Assistance: Project commands, expected behavior, source, and tests were substantially AI-provided; Ali executed and inspected the result
+Last demonstrated: 2026-07-24
+Confidence: Medium for the exact guided setup and run
+Transfer limit: Successful commands alone do not establish test design, packaging ownership, independent setup repair, code ownership, or transfer to another application
+Next reassessment: Reproduce from a clean state with less prompting, explain the request-to-output path, diagnose one setup/test failure, and justify the result boundaries
+```
+
+### 8.8 Current UpgradePilot source-flow understanding
+
+```text
+Responsibility: Read and explain selected module responsibilities in the public-PR evidence path
+Depth: D1 to narrow D2 guided understanding; implementation ownership unestablished
+Best evidence: Guided source-learning records, educational source comments, module-boundary discussion, and prior behavior validation
+Assistance: Explanations, walkthroughs, comments, and much source/test design were AI-generated
+Last demonstrated: 2026-07-27 or latest reviewed source-study work
+Confidence: Low to Medium because current delayed/reduced-prompt evidence was not inspected directly during Career review
+Transfer limit: Does not prove blank-page implementation, changed-case modification, test ownership, or failure diagnosis
+Next reassessment: Ali explains the current pipeline without walkthrough text, modifies one central behavior, changes a meaningful test, and diagnoses one deliberately changed or failing case
+```
+
+### 8.9 PyPI release-identity implementation ownership
+
+```text
+Responsibility: Implement, validate, test, and diagnose exact PyPI package/version identity acquisition
+Depth: D0 for Ali ownership; D1 conceptual exposure may exist
+Best evidence: Active AI-assisted project source and seven controlled implementation tests; complete local suite and unmocked live validation were still pending at review time
+Assistance: Substantive implementation and test generation were AI-produced or AI-assisted
+Last demonstrated: No sufficient Ali ownership demonstration as of 2026-07-27
+Confidence: High that ownership is not yet established
+Transfer limit: No implementation, testing, debugging, or general PyPI/API ownership claim
+Next reassessment: Ali validates the merged path, explains trust and failure states, makes a central changed-case modification or test, and diagnoses a representative failure
 ```
 
 ## 9. Capability-family baseline
 
-The table below prevents unassessed areas from being mistaken for completed capability. It is not a broad scorecard.
-
 | Family | Current Career interpretation | Main evidence source | Priority reassessment |
 |---|---|---|---|
-| Python application engineering | Mixed exposure; broad independent depth unestablished | UpgradePilot, Sentinel | Active source explanation, modification, test, and failure diagnosis |
+| Python application engineering | Mixed exposure; broad independent depth unestablished | UpgradePilot, Sentinel | Current source explanation, central modification, test, and failure diagnosis |
 | Testing and debugging | Guided and mixed; ownership unestablished | UpgradePilot, AegisLab | Ali-selected changed/failing test and diagnosis |
-| API/HTTP acquisition | Guided current evidence | UpgradePilot | Live/controlled acquisition change and failure handling with reduced help |
+| API/HTTP acquisition | Guided current evidence; specific implementation ownership mixed | UpgradePilot | Live/controlled acquisition change and failure handling with reduced help |
 | Parsing, validation, provenance | Guided conceptual/current implementation exposure | UpgradePilot | Explain and modify one trust-boundary path and tests |
 | Data modeling, persistence, SQL | D0 or highly provisional | Prior projects, future UpgradePilot | Real schema, queries, changed case, and diagnosis |
-| Packaging and configuration | Introduced/guided; independent ownership unestablished | UpgradePilot | Editable install, dependency/config change, packaging failure diagnosis |
+| Packaging and configuration | Guided setup evidence; ownership unestablished | UpgradePilot | Clean setup, dependency/config change, and packaging failure diagnosis |
 | Git/GitHub collaboration | Guided use | Multiple repositories | Independent bounded branch/review/conflict case |
-| Deterministic analysis/evaluation | Introduced/guided | UpgradePilot | Build/change baseline and analyze errors |
+| Deterministic analysis/evaluation | Introduced/guided | UpgradePilot | Build or change a baseline and analyze errors |
 | ML experimentation | Broad exposure, weak independent ownership | Sentinel | Reproducible baseline/model/evaluation with defensible truth and reduced help |
 | Grounded AI/LLM evaluation | Exposure; capability unestablished | Prior AI-assisted work | Bounded comparison with unsupported-claim evaluation |
-| Secure engineering | Guided concepts and selected boundaries | AegisLab, UpgradePilot | Implement and diagnose one secure input/config/permission responsibility |
-| Docker/CI/operational reproducibility | Mixed exposure; ownership unestablished | Sentinel, UpgradePilot | Reproduce, modify, and diagnose a real supported setup |
+| Secure engineering | Guided concepts and selected trust boundaries | AegisLab, UpgradePilot | Implement and diagnose one secure input/config/permission responsibility |
+| Docker/CI/operational reproducibility | Mixed exposure; ownership unestablished | Sentinel, UpgradePilot | Reproduce, modify, and diagnose a supported setup |
 | Cloud/distributed/Kubernetes/MLOps/agents | Exposure varies; professional capability unestablished | Historical projects/future pilots | Evidence-led A1/A2 records only when admitted |
 | Technical communication | Strong interest; formal professional evidence incomplete | Project explanations | Concise audience-specific project explanation and review response |
 | Professional collaboration | Transferable business experience; technical-team evidence unestablished | Family business, future work | Code review, issue communication, planning, and feedback in real collaboration |
 
-## 10. Claim rules
+## 10. Claims permitted after the 2026-07-27 review
 
-- A broad family such as Python, ML, security, or data engineering cannot receive one undifferentiated depth.
-- A narrow D3 does not imply broad job independence.
-- High confidence does not raise the depth.
-- Current project progress may justify reassessment but does not update a record automatically.
-- A skill can transfer partially while requiring renewed assistance in an unfamiliar context.
-- Stale evidence must be refreshed before strong current claims.
-- Advanced A-level exposure records and D-level capability records must remain distinct.
+Career may say that Ali:
 
-## 11. Career review workflow
+- has narrow guided experience interpreting one public dependency-update case;
+- has run and interpreted a bounded Python project test/live-evidence path with substantial assistance;
+- has growing guided understanding of selected UpgradePilot source responsibilities;
+- has strong AI-assisted project-direction and scope-challenge participation;
+- is deliberately building evidence toward Python/data/AI engineering rather than claiming current mastery.
+
+Career may not yet say that Ali:
+
+- independently owns the UpgradePilot request-to-output implementation;
+- independently designs tests or diagnoses its main failures;
+- owns PyPI acquisition, packaging, SQL, data modeling, backend, security, CI, ML, or advanced systems;
+- is broadly job-ready for every target role;
+- is mid-level or senior.
+
+## 11. Review workflow
 
 When a capability review is requested:
 
-1. define the role, claim, or decision being evaluated;
+1. define the role, claim, or decision;
 2. select specific responsibilities;
-3. inspect only relevant current project, work, or market evidence;
-4. verify actual behavior rather than relying on summaries;
+3. inspect relevant current evidence;
+4. verify actual behavior rather than summaries;
 5. identify Ali's personal action and assistance;
 6. choose the appropriate depth;
 7. record confidence and transfer limit;
-8. state the claim permitted and prohibited where material;
+8. state permitted and prohibited claims where material;
 9. define the next reassessment;
-10. update `CAREER_STATE.md`, portfolio, or market records only when the conclusion changes them.
+10. update Career state, portfolio, or market records only when the conclusion changes them.
 
 ## 12. Maintenance
 
-Change the model sections only when assessment rules change. Update capability records only during an explicit Career review or capability assessment.
+Change model sections only when assessment rules change. Update capability records only during an explicit Career review or capability assessment.
