@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-07-27  
+**Last updated:** 2026-07-27 — first refounded Career review  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -14,77 +14,109 @@
 | Current career cycle | 2026-07-20 through 2026-10-17 capability, flagship, portfolio, and employability cycle |
 | Primary flagship | UpgradePilot |
 | Flagship operating authority | `motafegh/UpgradePilot` |
-| Other project roles | Sentinel: historical evidence; AegisLab: historical design and learning evidence |
-| Current capability emphasis | Python application engineering, testing/debugging, real-input acquisition, validation, provenance, and ownership growth |
-| Employability phase | Capability and portfolio construction; application readiness not yet formally established |
-| Portfolio phase | One active flagship plus two historical projects requiring concise, claim-bounded records |
-| Standard workload | Green: 24 focused hours/week; Yellow and Red adjustments under the Career Operating Contract |
-| Career repository mode | Active career governance and proportional review; no project-operation duplication |
+| Other project roles | Sentinel: historical evidence; AegisLab: historical evidence |
+| Current capability emphasis | Python implementation, tests/debugging, public-source acquisition, validation/provenance, packaging, and ownership growth |
+| Employability phase | E1 — Initial market calibration; applications not yet active |
+| Portfolio phase | Project roles and claim-bounded records established; flagship package not yet market-ready |
+| Standard workload | Green ceiling: 24 focused hours/week; sustainability review due 2026-08-02 |
+| Career repository mode | Refounded active Career governance; project operation remains independent |
 
 ## 2. Current career interpretation
 
-UpgradePilot is producing real Python, testing, evidence-acquisition, and engineering work. It remains the correct primary flagship unless a Career review establishes material infeasibility, misalignment, or an insufficient path to intended capability and portfolio outcomes.
+UpgradePilot remains the correct primary flagship. It has progressed into a real installable Python package and read-only public-evidence pipeline rather than remaining a planning exercise.
 
-The project is not yet evidence of broad independent Python, data, ML, security, backend, or systems ownership. Current claims must remain responsibility-specific and assistance-aware.
+The strongest current product contribution includes:
 
-Sentinel and AegisLab remain valuable evidence sources but are not active execution routes. They should contribute lessons, bounded portfolio evidence, and future reassessment triggers without dictating current architecture or creating competing flagship work.
+- public pull-request and exact-revision identity;
+- complete changed-file acquisition;
+- supported pinned dependency-change extraction;
+- exact-head GitHub Actions and workflow evidence;
+- bounded Continuous Integration authority classification;
+- exact PyPI package/version identity implementation;
+- deterministic tests and safe public runs for earlier validated slices.
+
+This does not establish a complete maintainer recommendation system, compatibility or safety, persistence/SQL, evaluation, production readiness, or broad independent Ali ownership.
+
+Current capability claims remain narrow, guided, and assistance-aware.
 
 ## 3. Current strengths
 
-- Sustained interest in real, technically ambitious systems.
-- Prior exposure to Python, ML, data pipelines, Linux, AI tools, Solidity, security concepts, Docker, graphs, agents, and larger repositories.
-- Strong engagement when work follows one meaningful mission with real external inputs and visible consequences.
-- Willingness to inspect evidence, question AI decisions, and reject unsupported capability claims.
-- Real management, sales, purchasing, coordination, and commercial experience from prior family-business work.
+- Sustained interest in meaningful, technically ambitious systems.
+- Real prior management, sales, purchasing, coordination, and commercial responsibility.
+- Broad technical exposure across Python, ML, data, Linux, AI tools, security concepts, and larger repositories.
+- Strong engagement when work follows one mission with real inputs and visible consequences.
+- Willingness to challenge AI scope, repository purpose, unsupported claims, and excessive ceremony.
+- Narrow guided evidence in public technical investigation, project setup/operation, evidence boundaries, and selected source-flow understanding.
 - Ability to commit substantial weekly time to the transition.
 
 ## 4. Current limitations and uncertainties
 
 - No prior technical-company employment is established.
 - Independent blank-page Python application construction remains incompletely demonstrated.
-- Testing, debugging, packaging, SQL, data modeling, deployment, ML evaluation, and secure engineering contain mixed or unassessed sub-capabilities.
-- Previous large repositories contain substantial AI-authored work and cannot be treated as independent ownership evidence.
-- Market readiness has not yet been calibrated against a maintained sample of real job descriptions.
-- Resume, GitHub presentation, application timing, interview readiness, and professional-network strategy are not yet active systems.
-- The main execution risk is AI-produced complexity or documentation growing faster than Ali's practical ownership.
+- Current project implementation and tests contain substantial AI-generated or AI-assisted work.
+- Testing, debugging, packaging, SQL, data modeling, deployment, ML evaluation, secure engineering, and technical collaboration contain mixed or unassessed sub-capabilities.
+- Running successful tests and live commands has not yet been converted into strong changed-case modification and failure-diagnosis evidence.
+- The newly merged PyPI identity path had not yet received complete local suite and unmocked live validation in Ali's environment at the review point.
+- Resume, GitHub positioning, application materials, and interview preparation are not yet active.
+- Geographic, visa, degree, and experience-filter feasibility require current role-specific review.
 
-## 5. Current career-level risks
+## 5. Initial market interpretation
+
+A bounded July 2026 sample of junior Python, data, backend, and AI roles in Dubai/UAE and broader Asia shows recurring demand for:
+
+- strong practical Python;
+- SQL;
+- APIs and data ingestion;
+- data preparation, pipelines, and validation;
+- testing and debugging;
+- Git and collaboration;
+- ML fundamentals for AI roles;
+- clear technical communication.
+
+Cloud, Docker, CI/CD, LLM APIs, Retrieval-Augmented Generation, vector databases, and agent frameworks appear as supporting or role-specific expectations. They do not replace the Python/SQL/API/testing core.
+
+Some listings accept strong personal projects, but many still request one to three years of experience, a relevant degree, UAE presence, or independent delivery. Career therefore remains in initial calibration rather than application-ready status.
+
+## 6. Current career-level risks
 
 1. **Ownership lag:** product progress may exceed Ali's ability to explain, modify, test, and diagnose central responsibilities.
-2. **Flagship dominance:** UpgradePilot may consume attention while portfolio, market, and application preparation remain delayed.
-3. **Documentation substitution:** governance and learning artifacts may appear productive while executable evidence advances too slowly.
-4. **Technology breadth pressure:** advanced interests may be forced into the flagship before product evidence justifies them.
-5. **Market-delay risk:** waiting for complete readiness could postpone useful calibration and applications indefinitely.
-6. **Identity inflation or fragmentation:** broad hybrid ambition could be mistaken for current professional depth or split into too many simultaneous directions.
+2. **Flagship dominance:** UpgradePilot may consume attention while portfolio and market preparation are delayed.
+3. **Documentation substitution:** governance or educational artifacts may grow faster than executable evidence.
+4. **SQL and implementation gap:** common market requirements may remain unaddressed while advanced topics attract attention.
+5. **Market-delay risk:** application readiness may be postponed without an explicit decision.
+6. **Technology breadth pressure:** role-specific AI or advanced tools may be mistaken for universal priorities.
+7. **Workload uncertainty:** the 24-hour plan has not yet been validated by reliable actual-time and delivery-density evidence.
 
-## 6. Current Career priorities
+## 7. Current Career priorities
 
-1. Complete the Career repository refoundation without changing UpgradePilot's technical continuation.
-2. Conduct the first refounded Career review using current UpgradePilot evidence.
-3. Establish a cross-project capability baseline with explicit assistance and transfer limits.
-4. Establish an employability and role-gap baseline using representative current roles.
-5. Define portfolio roles and defensible claims for UpgradePilot, Sentinel, and AegisLab.
-6. Keep UpgradePilot as the primary capability-building vehicle while ensuring portfolio and market work receive explicit attention in the current cycle.
+1. Keep UpgradePilot as the sole primary flagship and allow its project-local continuation to proceed independently.
+2. Convert current source exposure into Ali-owned explanation, central modification, meaningful test change, and failure diagnosis.
+3. Validate the current merged UpgradePilot path in Ali's environment before granting stronger project or capability claims.
+4. Build SQL and relational-data evidence when the project or an approved supporting responsibility reaches that need.
+5. Prepare a concise, evidence-bounded UpgradePilot explanation as the supported flow becomes coherent.
+6. Complete the Day-14 workload and ownership calibration on 2026-08-02.
+7. Complete a formal application-readiness decision by 2026-08-18 or earlier when evidence permits.
+8. Do not admit a supporting project or advanced-system pilot without a demonstrated career or project need.
 
-## 7. Exact next career-level action
+## 8. Exact next career-level action
 
-> Complete the approved Career repository refoundation, then conduct the first refounded Career review and update this file from the resulting career-level conclusions.
+> On 2026-08-02, conduct the Day-14 workload and direction calibration using actual focused-time, delivery-density, implementation-versus-documentation, ownership, portfolio, and market evidence.
 
-This does not replace UpgradePilot's technical next action. For current project continuation, inspect UpgradePilot `MEMORY.md`.
+Until that review, Career does not create another plan or project. UpgradePilot continues under its own `MEMORY.md` and local controls.
 
-## 8. Next review triggers
+## 9. Next review triggers
 
 The next Career review occurs at the earliest of:
 
-- completion of the repository refoundation;
-- the scheduled Day-14 workload calibration on 2026-08-02;
+- 2026-08-02 Day-14 workload and direction calibration;
 - a material UpgradePilot gate that changes capability or portfolio interpretation;
+- completion of an Ali-directed central source modification, meaningful test change, and failure diagnosis;
 - a proposed capability or portfolio claim;
 - application-readiness consideration;
 - material workload, project-fit, or strategy concern;
 - Ali's explicit request.
 
-## 9. State maintenance
+## 10. State maintenance
 
 Update this file only when one of these changes materially:
 
