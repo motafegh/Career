@@ -1,60 +1,123 @@
-# Career — 90-Day Career Control
+# Career
 
-This repository contains Ali Rajabi's durable career and program controls for the 90-day period from 2026-07-20 through 2026-10-17.
+This repository is Ali Rajabi's durable, public-safe career operating system.
 
-It is **not** the live operating repository for UpgradePilot.
+It connects:
+
+```text
+current professional profile
+→ career strategy
+→ project and learning allocation
+→ capability evidence
+→ portfolio claims
+→ market calibration
+→ applications and interviews
+→ employment feedback
+→ next career decision
+```
+
+It is not the live operating repository for UpgradePilot or any other technical project.
+
+## Current state
+
+Read [`CAREER_STATE.md`](CAREER_STATE.md) for the sole live Career position, including:
+
+- current career cycle;
+- working identity;
+- flagship allocation;
+- capability and employability phase;
+- workload decision;
+- career-level risks;
+- exact next career action and review trigger.
+
+For current UpgradePilot implementation or continuation, inspect `motafegh/UpgradePilot`, especially its `MEMORY.md`, active source, tests, plans, specifications, ADRs, commands, outputs, and environment.
 
 ## Career owns
 
-- working career identity and role direction;
-- workload, capacity, and formal review commitments;
-- primary flagship allocation;
-- approved advanced-system career commitments;
-- formal capability-assessment rules;
-- coarse project and career state recorded during explicit reviews;
-- portfolio and job-market claim boundaries.
+- Ali's public-safe career profile;
+- long-term direction and current working identity;
+- role, geography, and work-mode strategy;
+- current career-cycle outcomes and capacity;
+- project portfolio roles and flagship allocation;
+- cross-project capability assessment;
+- portfolio and professional claim limits;
+- employability and market-transition strategy;
+- formal and event-triggered Career reviews;
+- live career-level state.
 
-## UpgradePilot owns
+## Project repositories own
 
-The `motafegh/UpgradePilot` repository owns:
-
-- product charter and boundary;
-- project operating guide;
-- detailed route, milestones, and current plans;
-- current continuation and working memory;
-- specifications and ADRs;
-- source, tests, commands, outputs, and project evidence;
+- product mission and technical boundary;
+- live project position and exact continuation;
+- routes, milestones, plans, and blockers;
+- source, tests, specifications, ADRs, and dependencies;
+- commands, outputs, technical evidence, working memory, experiments, and deployments;
 - ordinary technical and learning decisions.
 
-Career is not updated after every test, commit, session, project decision, sub-gate, or next-action change.
+Career may inspect project evidence for a career question, but it records only the resulting career-level conclusion.
 
-Ali explicitly requests a **Career review** when Career should inspect UpgradePilot and update its own coarse state or assessments.
+## Start here
 
-## Stable controls
+1. [`CAREER_CHARTER.md`](CAREER_CHARTER.md) — durable mission, boundaries, evidence doctrine, and long-term success.
+2. [`CAREER_STATE.md`](CAREER_STATE.md) — current Career position and next career-level action.
+3. [`profile/CAREER_PROFILE.md`](profile/CAREER_PROFILE.md) — public-safe profile, evidence, preferences, constraints, and risks.
+4. [`strategy/CAREER_STRATEGY.md`](strategy/CAREER_STRATEGY.md) — direction, roles, capability priorities, and change logic.
+5. [`plans/CURRENT_CAREER_CYCLE.md`](plans/CURRENT_CAREER_CYCLE.md) — current bounded cycle and required career outcomes.
+6. [`portfolio/PROJECT_PORTFOLIO.md`](portfolio/PROJECT_PORTFOLIO.md) — project roles and career contribution.
+7. [`tracking/CAPABILITY_EVIDENCE_LEDGER.md`](tracking/CAPABILITY_EVIDENCE_LEDGER.md) — cross-project capability evidence and claim limits.
+8. [`market/EMPLOYABILITY_AND_MARKET_PLAN.md`](market/EMPLOYABILITY_AND_MARKET_PLAN.md) — role gaps, portfolio readiness, and transition to applications.
+9. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal and event-triggered review decisions.
+10. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
+11. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
 
-1. [`governance/90_DAY_EXECUTION_CONTRACT.md`](governance/90_DAY_EXECUTION_CONTRACT.md) — workload, capacity, formal reviews, and career-route change.
-2. [`strategy/STRATEGY_AND_SCOPE.md`](strategy/STRATEGY_AND_SCOPE.md) — working identity, role direction, capability priorities, flagship allocation, and advanced-system career strategy.
-3. [`UpgradePilot.md`](UpgradePilot.md) — durable Career record of the selected flagship and its main stable purpose.
-4. [`strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md`](strategy/UPGRADEPILOT_CAPABILITY_AND_PREREQUISITE_SPECIFICATION.md) — formal capability depth and evidence model used during Career reviews.
-5. [`plans/90_DAY_CAREER_PLAN.md`](plans/90_DAY_CAREER_PLAN.md) — concise career-level plan and formal review outputs.
-6. [`tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md`](tracking/UPGRADEPILOT_EVIDENCE_AND_PROGRESS_TRACKER.md) — coarse Career review record, not a live project tracker.
-7. [`strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md`](strategy/ADVANCED_SYSTEMS_EXPOSURE_AND_ADOPTION_POLICY.md) — approved exposure/adoption strategy.
-8. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public-safety and privacy controls.
+Some linked files are being established through the approved refoundation plan. Until migration is complete, use the active files that exist and do not revive superseded project-operation documents.
 
-`governance/EXECUTION_CONTRACT.md` remains only a compatibility route to the canonical 90-day Career Execution Contract.
+## Current working direction
 
-## Historical inputs
+> **AI-augmented Python/data/ML engineer developing secure engineering capability.**
 
-The learning/project profile and project-selection specification preserve the reasoning used before UpgradePilot was selected. They are historical decision inputs, not active project-operation documents and not required for ordinary UpgradePilot work.
+This is a current working identity, not a permanent title or broad mastery claim.
 
-AegisLab and Sentinel remain historical evidence sources unless a future explicit Career decision assigns them a bounded role.
+The long-term direction combines:
 
-## Current reviewed state
+- Python software engineering;
+- data systems and SQL;
+- machine learning and applied AI;
+- secure, reliable, and evidence-aware engineering;
+- justified exposure to backend, cloud, distributed, automation, and MLOps responsibilities.
 
-- Working identity: **AI-augmented Python/data/ML engineer developing secure engineering capability**.
-- Primary flagship: UpgradePilot.
-- Project operation: owned by the UpgradePilot repository.
-- Career update mode: explicit review only.
-- Advanced-system commitments: unchanged.
+## Current project portfolio
 
-For current UpgradePilot behavior or continuation, inspect the UpgradePilot repository directly. Do not infer project truth from Career.
+- **UpgradePilot:** active primary flagship and main current capability-building vehicle.
+- **Sentinel:** historical evidence of ambitious AI-assisted Python/ML/data experimentation; not an active route.
+- **AegisLab:** historical security-learning and project-design evidence; not an active route.
+
+Detailed technical truth remains in each project repository or Git history.
+
+## Evidence standard
+
+Career does not infer capability from:
+
+- repository size;
+- documentation volume;
+- technology exposure;
+- successful commands;
+- immediate repetition;
+- AI-generated implementation;
+- passing AI-generated tests;
+- project completion alone.
+
+Claims require a specific responsibility, preserved evidence, assistance, recency, confidence, and transfer limits.
+
+## Update model
+
+Career is active but proportional.
+
+- Ordinary project work stays in project repositories.
+- A light Career pulse may happen weekly or biweekly without a commit.
+- Career files change when a material career fact or decision changes.
+- Formal reviews occur on scheduled dates, when Ali requests one, or when capability, portfolio, workload, market, project allocation, or strategy requires a decision.
+
+## Refoundation
+
+[`CAREER_REPOSITORY_REFOUNDATION_PLAN.md`](CAREER_REPOSITORY_REFOUNDATION_PLAN.md) controls the current structural correction. It restores the broader Career mission without moving UpgradePilot operation back into this repository.
