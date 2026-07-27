@@ -199,15 +199,12 @@ Use Git history as the default archive. Do not keep compatibility pointers or hi
 - Sanitize linked project evidence and market records.
 - Preserve uncertainty and limitations.
 
-## Current refoundation
+## Refoundation status
 
-`CAREER_REPOSITORY_REFOUNDATION_PLAN.md` controls the approved structural transformation until final audit and activation.
+The Career repository refoundation completed on 2026-07-27.
 
-During refoundation:
+`CAREER_REPOSITORY_REFOUNDATION_PLAN.md` is a completed transformation and audit record, not an active source of routine tasks.
 
-- create replacements before removing current files;
-- migrate durable conclusions;
-- validate links;
-- preserve UpgradePilot independence;
-- do not claim capability from documentation changes;
-- keep the final active structure lean.
+Do not recreate removed compatibility routes, project-specific Career trackers, AegisLab reporting templates, or UpgradePilot technical evidence in Career.
+
+The next Career action is owned by `CAREER_STATE.md`.
