@@ -66,9 +66,10 @@ Career may inspect project evidence for a career question, but it records only t
 6. [`portfolio/PROJECT_PORTFOLIO.md`](portfolio/PROJECT_PORTFOLIO.md) — project roles and career contribution.
 7. [`tracking/CAPABILITY_EVIDENCE_LEDGER.md`](tracking/CAPABILITY_EVIDENCE_LEDGER.md) — cross-project capability evidence and claim limits.
 8. [`market/EMPLOYABILITY_AND_MARKET_PLAN.md`](market/EMPLOYABILITY_AND_MARKET_PLAN.md) — role gaps, portfolio readiness, and transition to applications.
-9. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal and event-triggered review decisions.
-10. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
-11. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
+9. [`market/ALI_RAJABI_MASTER_CV.md`](market/ALI_RAJABI_MASTER_CV.md) — broad career-transition master CV and tailoring source.
+10. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal and event-triggered review decisions.
+11. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
+12. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
 
 ## Current working direction
 
@@ -121,6 +122,8 @@ Career is active but proportional.
 The first refounded review established **E1 — Initial market calibration**.
 
 Current recurring market priorities are Python, SQL, APIs/data pipelines, testing/debugging, Git, practical project evidence, and technical communication. Applications are not yet active; the next formal readiness decision is due by the Day-30 review or earlier when evidence permits.
+
+A broad master CV now exists, but it remains a working draft until its placeholders are replaced and its claims are tested against specific advertisements.
 
 ## Refoundation record
 
