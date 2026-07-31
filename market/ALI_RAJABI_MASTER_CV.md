@@ -1,151 +1,132 @@
 # Ali Rajabi — Master CV
 
-**Positioning:** Software Engineering Career Transition | Python, Data, and AI Projects  
-**Status:** Working master CV — public-safe, evidence-bounded, and intended for future tailoring  
-**Last updated:** 2026-07-30
+**Positioning:** Junior Software Engineer | Python, Data & Applied AI  
+**Status:** Working master CV — public-safe, evidence-bounded, and intended for role-specific tailoring  
+**Last updated:** 2026-07-31
 
-> This is the canonical Career-repository source for Ali's CV. Create role-specific application copies from this file rather than weakening the master with every job advertisement. Replace placeholders only with verified facts.
+> This is the canonical Career-repository source for Ali's CV. Create a tailored application copy for each serious role rather than repeatedly weakening the master. Replace bracketed prompts only with verified facts.
 
 ---
 
 # Ali Rajabi
 
-**Software Engineering Career Transition | Python, Data, and AI Projects**
+**Junior Software Engineer | Python, Data & Applied AI**
 
-[City, Country]  
-[Professional email] | [Phone — private application copy only]  
-GitHub: https://github.com/motafegh | LinkedIn: [LinkedIn URL]
+[Current city, country] | [Professional email — choose one actively monitored address] | [Phone — application copy only]  
+GitHub: https://github.com/motafegh | LinkedIn: [LinkedIn URL] | [Work authorization / relocation note when relevant]
 
 ## Professional Summary
 
-Career-transition software engineer with approximately six to seven years of management, sales, purchasing, and operational experience in a family-owned food-manufacturing business. Currently building production-oriented Python systems using real public data, APIs, validation, testing, command-line workflows, and evidence-focused design. Experienced in AI-assisted engineering workflows with an emphasis on understanding, verification, debugging, explicit limitations, and increasing personal ownership. Seeking junior software engineering, Python automation, backend/data, technical implementation, or AI application roles where practical delivery, code review, and mentorship are valued.
+Junior software engineering candidate transitioning from approximately six to seven years of management, sales, purchasing, and operational responsibility in a family-owned manufacturing business. Builds Python applications around public APIs, command-line workflows, validation, testing, package data, machine-learning experiments, and applied AI systems. Currently developing UpgradePilot, a dependency-update evidence tool for Python maintainers, following earlier work in machine learning, data pipelines, and Retrieval-Augmented Generation. Brings practical ownership, commercial judgment, stakeholder communication, and an evidence-focused approach to AI-assisted engineering.
 
 ## Technical Skills
 
-**Programming and application work**
+**Programming:** Python  
+**Software engineering:** command-line applications, HTTP/REST APIs, JSON, modular application structure, input validation, explicit error states, testing, debugging, package metadata  
+**Data and AI:** data acquisition, preprocessing, dataset-quality investigation, machine-learning experimentation, model training, Retrieval-Augmented Generation, vector search, LLM application integration  
+**Frameworks and tools:** FastAPI, Pydantic, FAISS, Git, GitHub, Linux terminal workflows, Visual Studio Code, PyPI, Docker familiarity, CI workflow familiarity
 
-- Python application and package development
-- Command-line interfaces and modular source structures
-- HTTP APIs, JSON data, public repository and package-data acquisition
-- Input validation, explicit failure states, provenance, and evidence boundaries
-- Testing, command-line validation, debugging, and source-code study
+## Selected Projects
 
-**Data and AI**
+### UpgradePilot — Dependency-Update Evidence Tool
 
-- Data acquisition, preprocessing, and dataset-quality investigation
-- Machine-learning experimentation, model training, and result comparison
-- Applied AI and Large Language Model-assisted engineering workflows
-- Experience distinguishing generated output from verified and personally owned work
-
-**Engineering tools and environments**
-
-- Git and GitHub
-- Linux terminal workflows
-- Visual Studio Code
-- Python packaging and dependency-management exposure
-- Continuous Integration and Docker exposure
-
-**Currently strengthening**
-
-- Independent Python implementation and failure diagnosis
-- SQL and relational data modeling
-- Backend/API design and deployment
-- Professional code-review and collaborative software-delivery workflows
-
-## Technical Projects
-
-### UpgradePilot — Python Dependency-Update Evidence System
-
-**Independent flagship project | 2026–Present**  
+**Personal flagship project | 2026–Present**  
 Repository: https://github.com/motafegh/UpgradePilot
 
-- Building an installable Python command-line system that helps maintainers investigate public Python dependency-update pull requests using evidence from GitHub, exact-head Continuous Integration workflows, PyPI, and upstream releases.
-- Developing the project through an AI-assisted engineering workflow while directly validating commands, test results, evidence boundaries, and selected design decisions.
-- Established a read-only evidence path covering exact pull-request identity, changed files, supported dependency-version changes, workflow evidence, bounded CI interpretation, exact package/version identity, and upstream release references.
-- Uses deterministic tests and explicit missing, unresolved, malformed, and unsupported states to avoid turning incomplete evidence into compatibility or safety claims.
-- Practicing source explanation, command-line validation, test interpretation, failure reasoning, and evidence-driven software design as the project develops.
+- Developing an installable Python command-line tool that helps maintainers investigate public Python dependency-update pull requests using read-only evidence from GitHub, CI workflows, PyPI, and upstream releases.
+- Built, with substantial AI assistance and direct validation, a bounded evidence pipeline covering pull-request identity, changed-file acquisition, dependency-version extraction, workflow inspection, package/version identity, and upstream release references.
+- Uses deterministic tests and explicit missing, malformed, unresolved, and unsupported states so incomplete evidence is not presented as compatibility or safety proof.
+- Participates in scope, contract, naming, and evidence-boundary decisions while increasingly practicing source explanation, test interpretation, changed-case reasoning, and failure diagnosis.
 
-**Technologies and concepts:** Python 3.12, HTTP APIs, GitHub, PyPI, command-line interfaces, testing, package metadata, CI evidence, validation, provenance.
+**Selected technologies:** Python 3.12, HTTP APIs, GitHub, PyPI, CLI design, testing, package metadata, CI evidence, validation, provenance.
 
-### Sentinel — AI-Assisted Python and Machine-Learning Research Project
+### Sentinel — Smart-Contract Security Research System
 
-**Historical flagship project | [Start year]–[End year]**  
+**Personal AI-assisted project | [Start month/year]–[End month/year or Present]**  
 Repository: https://github.com/motafegh/sentinel-
 
-- Directed and developed a large AI-assisted Python and machine-learning research project using real external data and a modular repository structure.
-- Trained and compared more than ten machine-learning models on an NVIDIA RTX 3070 laptop GPU; long-running experiments exposed material dataset-quality limitations.
-- Expanded the project's data-handling work after identifying that weak data quality was limiting model results.
-- Gained practical exposure to Linux terminal workflows, data pipelines, model experimentation, large-source-tree navigation, debugging, agents, graphs, and related emerging technologies.
-- The project produced durable lessons about controlling scope, validating data before increasing model complexity, and separating repository sophistication from independent technical ownership.
+- Directed and studied a large modular security-research system combining external-data pipelines, graph/code machine learning, agent-based auditing, zero-knowledge ML experimentation, and smart-contract integration.
+- Trained and compared more than ten machine-learning models on an NVIDIA RTX 3070 laptop GPU and identified dataset quality as a major constraint on model results.
+- Expanded the data-handling pipeline after repeated experiments showed that additional model complexity would not compensate for weak labels and input quality.
+- Gained practical experience with Linux workflows, long-running experiments, large source trees, debugging, reproducibility problems, and the need to control AI-assisted architectural scope.
 
-**Technologies and concepts:** Python, machine learning, data preprocessing, model training, Linux, modular systems, AI-assisted development.
+**Selected technologies:** Python, machine learning, data preprocessing, graph-based analysis, Linux, LangGraph exposure, Solidity/blockchain exposure.
 
-### AegisLab — Defensive Engineering and Failure-Diagnosis Learning
+### Persian Financial RAG API
 
-**Historical guided project | [Year]**
+**Personal AI-assisted project | [Project month/year]**  
+Repository: https://github.com/motafegh/PersianLLM-API
 
-- Designed and performed guided defensive Linux and network laboratory work with explicit authorization, safety, and evidence boundaries.
-- Practiced controlled failure investigation, process and network inspection, SSH-related diagnosis, and separation of observations from unsupported conclusions.
-- Used the project to improve secure-engineering awareness, diagnostic reasoning, and learning-by-building methods.
+- Developed a FastAPI service for Persian financial question answering using a Retrieval-Augmented Generation pipeline.
+- Implemented validated request and response models plus health, query, and usage-statistics endpoints with source and latency metadata.
+- Integrated FAISS vector search, multilingual sentence embeddings, and a quantized Llama 3.2 3B model for GPU-constrained local inference.
+- Documented local setup, API usage, model requirements, and Docker-based execution while preserving practical hardware limitations.
 
-**Technologies and concepts:** Linux, networking fundamentals, SSH, defensive engineering, controlled failure diagnosis, evidence preservation.
+**Selected technologies:** Python, FastAPI, Pydantic, FAISS, sentence-transformers, Llama 3.2, PyTorch/Transformers, Docker.
 
 ## Professional Experience
 
-### Operations, Sales, and Purchasing
+### Operations, Sales & Purchasing
 
-**Family-Owned Food Manufacturing Business — Sauce Production | [City, Country] | [Start year]–[End year]**
+**Family-Owned Sauce Manufacturing Business | [City, Country] | [Start month/year]–[End month/year]**
 
-- Handled responsibilities across sales, purchasing, supplier interaction, customer communication, coordination, and day-to-day operational decisions.
-- Balanced customer needs, supplier constraints, commercial priorities, and practical business limitations.
-- Took responsibility for outcomes beyond a narrow task and adapted decisions as operational conditions changed.
-- Developed transferable strengths in ownership, prioritization, negotiation, stakeholder communication, and practical problem-solving.
-
-## Additional Strengths
-
-- Comfortable working on long-running technical missions with real external inputs and imperfect evidence.
-- Able to connect commercial considerations with technical implementation and user needs.
-- Uses AI assistants critically for exploration, scaffolding, review, and acceleration while preserving explicit verification and ownership boundaries.
-- Values clear limitations, reproducible evidence, maintainable scope, and honest technical communication.
+- Managed responsibilities across sales, purchasing, supplier coordination, customer communication, and day-to-day operational decisions.
+- Balanced customer requirements, supplier constraints, commercial priorities, and practical business limitations.
+- Took ownership of outcomes beyond a narrow task and adjusted priorities as operational conditions changed.
+- Developed transferable strengths in negotiation, prioritization, stakeholder communication, commercial judgment, and practical problem-solving.
+- [Add one verified scale or result: team size, supplier/customer volume, purchasing responsibility, sales responsibility, cost reduction, revenue contribution, or process improvement.]
 
 ## Education
 
-**[Qualification or field of study]**  
+**[Verified qualification or field of study]**  
 [Institution], [City, Country] | [Completion year or attendance dates]
 
-> Remove this section when no verified education information is appropriate for the application. Do not invent a degree or credential.
+[Add a second qualification, course, or certification only when verified and relevant. Remove this section when no appropriate verified education information is available.]
 
 ## Languages
 
-- [Language]: [Level]
-- [Language]: [Level]
-
-## Role Direction
-
-Suitable starting targets include:
-
-- Junior Software Engineer
-- Junior Python Developer
-- Python Automation Engineer
-- Junior Backend Developer with Python/data responsibilities
-- Technical Implementation or Integration Engineer
-- Junior AI Application Engineer
-- Junior Data Engineer after stronger SQL evidence
-- QA or Test Automation Engineer using Python
+- Persian — [Verified level]
+- English — [Verified level]
+- German — [Verified level, when applicable]
+- [Additional language] — [Verified level]
 
 ---
 
-## Master-CV Maintenance Rules
+## Master-CV Completion Prompts
 
-These notes are for Career maintenance and should be removed from exported application versions.
+These prompts support maintenance and must be removed from application copies.
 
-1. Keep this file broad enough to support several closely related software-engineering role families.
-2. Create tailored copies for actual applications rather than repeatedly rewriting the master around one advertisement.
-3. Add a skill only when meaningful exposure or evidence exists.
-4. Strengthen project bullets only after Career reviews confirm the relevant contribution or ownership.
-5. Do not describe AI-generated architecture, implementation, or tests as independently produced by Ali without supporting evidence.
-6. Replace placeholders only with verified contact, location, education, language, and employment-date information.
-7. Keep private phone numbers, addresses, applications, recruiter correspondence, and compensation information outside the public repository.
-8. Prefer one or two pages in exported CVs; remove historical or lower-relevance material for specific roles.
-9. Use role-specific keywords only when the underlying evidence is defensible.
-10. Review this master after material capability, portfolio, employment, education, or application-feedback changes.
+### Required before first application
+
+- Current city and country.
+- One professional email address that Ali actively monitors.
+- Phone number for the private application copy.
+- LinkedIn URL, or remove LinkedIn until a professional profile exists.
+- Work-authorization and relocation wording for the target country.
+- Exact family-business dates and location.
+- Exact Sentinel and PersianLLM project dates.
+- Verified education information, or remove the section.
+- Verified language levels.
+- At least one concrete, truthful scale or result from the family business.
+
+### GitHub-derived facts used
+
+- Public GitHub name: Ali Rajabi.
+- GitHub username: `motafegh`.
+- Public profile: https://github.com/motafegh.
+- Public repositories used in this broad CV: UpgradePilot, Sentinel, and PersianLLM-API.
+- AegisLab should normally be used only in security-focused variants.
+- Small Git/GitHub course or demonstration repositories should not be listed as major projects.
+
+### Claim rules
+
+1. Keep the broad master focused on closely related junior software, Python, data, automation, backend, implementation, and applied-AI roles.
+2. Tailor the headline, summary, skills order, and project selection for a real advertisement.
+3. Do not list SQL as a demonstrated skill until meaningful evidence exists.
+4. Do not call any project production-ready without operational evidence.
+5. Describe AI assistance honestly without repeating it in every bullet.
+6. Do not describe AI-generated architecture, code, or tests as independently authored without supporting ownership evidence.
+7. Prefer specific behavior and outcomes over internal project-governance terminology.
+8. Keep private phone numbers, application records, recruiter correspondence, and compensation outside the public repository.
+9. Keep broad application copies to one page where possible; two pages are acceptable only when verified experience warrants it.
+10. Review this master after material capability, portfolio, employment, education, or market-feedback changes.
