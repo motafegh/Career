@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-07-27 — first refounded Career review  
+**Last updated:** 2026-08-02 — JobHunter career-support role added  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -15,6 +15,7 @@
 | Primary flagship | UpgradePilot |
 | Flagship operating authority | `motafegh/UpgradePilot` |
 | Other project roles | Sentinel: historical evidence; AegisLab: historical evidence |
+| Market-intelligence support | JobHunter (`motafegh/jobhunter`): Career-support infrastructure for market evidence and job analysis; not a competing learning flagship and not automatic capability evidence |
 | Current capability emphasis | Python implementation, tests/debugging, public-source acquisition, validation/provenance, packaging, and ownership growth |
 | Employability phase | E1 — Initial market calibration; applications not yet active |
 | Portfolio phase | Project roles and claim-bounded records established; flagship package not yet market-ready |
@@ -39,6 +40,8 @@ This does not establish a complete maintainer recommendation system, compatibili
 
 Current capability claims remain narrow, guided, and assistance-aware.
 
+JobHunter is now explicitly assigned a separate Career-support role: it may gather and analyze market evidence, identify recurring responsibilities and requirements, and later provide reviewed Career-facing artifacts. Its implementation progress does not compete with UpgradePilot allocation and does not establish Ali capability unless separate ownership evidence is later assessed.
+
 ## 3. Current strengths
 
 - Sustained interest in meaningful, technically ambitious systems.
@@ -59,6 +62,7 @@ Current capability claims remain narrow, guided, and assistance-aware.
 - The newly merged PyPI identity path had not yet received complete local suite and unmocked live validation in Ali's environment at the review point.
 - Resume, GitHub positioning, application materials, and interview preparation are not yet active.
 - Geographic, visa, degree, and experience-filter feasibility require current role-specific review.
+- JobHunter market evidence is not yet representative enough across the target geographies and role families to become an automatic Career authority.
 
 ## 5. Initial market interpretation
 
@@ -77,6 +81,8 @@ Cloud, Docker, CI/CD, LLM APIs, Retrieval-Augmented Generation, vector databases
 
 Some listings accept strong personal projects, but many still request one to three years of experience, a relevant degree, UAE presence, or independent delivery. Career therefore remains in initial calibration rather than application-ready status.
 
+JobHunter may improve the scale and repeatability of this calibration, but its future aggregates must remain source-aware, sample-aware, and reviewed before changing Career strategy or priorities.
+
 ## 6. Current career-level risks
 
 1. **Ownership lag:** product progress may exceed Ali's ability to explain, modify, test, and diagnose central responsibilities.
@@ -86,6 +92,8 @@ Some listings accept strong personal projects, but many still request one to thr
 5. **Market-delay risk:** application readiness may be postponed without an explicit decision.
 6. **Technology breadth pressure:** role-specific AI or advanced tools may be mistaken for universal priorities.
 7. **Workload uncertainty:** the 24-hour plan has not yet been validated by reliable actual-time and delivery-density evidence.
+8. **Market-sensor bias:** JobHunter search configuration, source coverage, translation/model interpretation, or small samples may create apparent demand patterns that are not representative of the target market.
+9. **Automation overtrust:** JobHunter recommendations may be mistaken for Career decisions unless market evidence and Ali capability evidence remain separate.
 
 ## 7. Current Career priorities
 
@@ -94,15 +102,16 @@ Some listings accept strong personal projects, but many still request one to thr
 3. Validate the current merged UpgradePilot path in Ali's environment before granting stronger project or capability claims.
 4. Build SQL and relational-data evidence when the project or an approved supporting responsibility reaches that need.
 5. Prepare a concise, evidence-bounded UpgradePilot explanation as the supported flow becomes coherent.
-6. Complete the Day-14 workload and ownership calibration on 2026-08-02.
-7. Complete a formal application-readiness decision by 2026-08-18 or earlier when evidence permits.
-8. Do not admit a supporting project or advanced-system pilot without a demonstrated career or project need.
+6. Use JobHunter as a market-observation and job-analysis instrument while keeping its outputs subordinate to Career review and its implementation separate from capability claims.
+7. Complete the Day-14 workload and ownership calibration on 2026-08-02.
+8. Complete a formal application-readiness decision by 2026-08-18 or earlier when evidence permits.
+9. Do not admit a supporting learning project or advanced-system pilot without a demonstrated career or project need.
 
 ## 8. Exact next career-level action
 
 > On 2026-08-02, conduct the Day-14 workload and direction calibration using actual focused-time, delivery-density, implementation-versus-documentation, ownership, portfolio, and market evidence.
 
-Until that review, Career does not create another plan or project. UpgradePilot continues under its own `MEMORY.md` and local controls.
+Until that review, Career does not create another learning plan or capability-building project. UpgradePilot continues under its own `MEMORY.md` and local controls. JobHunter may continue independently as Career-support infrastructure without changing flagship allocation.
 
 ## 9. Next review triggers
 
@@ -112,6 +121,7 @@ The next Career review occurs at the earliest of:
 - a material UpgradePilot gate that changes capability or portfolio interpretation;
 - completion of an Ali-directed central source modification, meaningful test change, and failure diagnosis;
 - a proposed capability or portfolio claim;
+- JobHunter producing a first representative, reviewed market-evidence snapshot that could materially affect Career priorities;
 - application-readiness consideration;
 - material workload, project-fit, or strategy concern;
 - Ali's explicit request.
