@@ -6,7 +6,7 @@ Operate this repository as Ali Rajabi's durable, public-safe career operating sy
 
 Career is broader than one project or one 90-day cycle. It governs Ali's professional profile, strategy, project portfolio, capability evidence, employability, market transition, workload, reviews, and long-term decisions.
 
-Do not operate UpgradePilot or any other technical project from Career.
+Do not operate UpgradePilot, JobHunter, or any other technical project from Career.
 
 ## Instruction precedence
 
@@ -42,7 +42,7 @@ It owns:
 
 Do not duplicate these status statements across strategy, portfolio, market, capability, or review files.
 
-Do not put UpgradePilot's technical next action in `CAREER_STATE.md`.
+Do not put UpgradePilot or JobHunter technical next actions in `CAREER_STATE.md`.
 
 ## Truth routing
 
@@ -58,9 +58,11 @@ Do not put UpgradePilot's technical next action in `CAREER_STATE.md`.
 | New-project admission or retirement | `strategy/PROJECT_PORTFOLIO_AND_SELECTION_POLICY.md` |
 | Cross-project capability evidence | `tracking/CAPABILITY_EVIDENCE_LEDGER.md` |
 | Employability and market transition | `market/EMPLOYABILITY_AND_MARKET_PLAN.md` |
+| Career-facing JobHunter requirements and use rules | `market/jobhunter/CAREER_REQUIREMENTS.md` and `market/jobhunter/CAREER_INTEGRATION_AND_USE.md` |
 | Career review decisions | `tracking/CAREER_REVIEW_LOG.md` |
 | UpgradePilot current technical continuation | UpgradePilot `MEMORY.md` |
 | UpgradePilot implemented behavior | UpgradePilot source, tests, commands, outputs, and environment |
+| JobHunter current technical continuation and implementation | `motafegh/jobhunter` source, tests, plans, evidence, database/runtime, and project-local docs |
 
 One kind of truth should have one normal owner. Link rather than duplicate.
 
@@ -76,6 +78,7 @@ Career owns:
 - formal capability assessment and transfer limits;
 - portfolio claims and professional positioning;
 - application-readiness and market strategy;
+- Career-facing market-intelligence requirements and review rules;
 - formal and event-triggered reviews;
 - cycle-to-cycle continuity.
 
@@ -85,7 +88,7 @@ Career does not own:
 - project routes, milestones, sessions, or blockers;
 - source, tests, specifications, ADRs, dependencies, or implementation;
 - ordinary project learning decisions;
-- detailed project evidence or working memory.
+- detailed project evidence, databases, runtime artifacts, or working memory.
 
 ## Career review behavior
 
@@ -149,6 +152,7 @@ Use changed-case, failure, delayed, and reduced-prompt evidence when stronger cl
 - Do not revive Sentinel or AegisLab because their repositories exist.
 - Do not start another major project to escape a difficult UpgradePilot responsibility.
 - Do not import project architecture across repositories without a current justified need.
+- A career-support tool such as JobHunter is not automatically a learning or portfolio project; treat its implementation as capability evidence only after explicit assessment.
 
 ## Employability behavior
 
@@ -161,9 +165,13 @@ Do not:
 - create application bureaucracy before application activation;
 - write inflated resumes or project claims;
 - ignore assistance and transfer limits;
-- turn one job description into a new curriculum.
+- turn one job description into a new curriculum;
+- treat a narrowly searched JobHunter sample as the neutral technology market;
+- allow JobHunter output to overwrite Career decisions automatically.
 
 Use representative samples, identify common requirements, map evidence and gaps, and update strategy only from material patterns or feedback.
+
+When JobHunter is used, follow [`market/jobhunter/CAREER_INTEGRATION_AND_USE.md`](market/jobhunter/CAREER_INTEGRATION_AND_USE.md): preserve source/sample context, distinguish employer evidence from translation/model/taxonomy output, and use Career-approved personal capability evidence for Ali-specific comparisons.
 
 For current laws, job-market conditions, role requirements, companies, salaries, visa rules, or hiring practices, verify current public information before making decisions.
 
