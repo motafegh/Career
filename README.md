@@ -16,7 +16,7 @@ current professional profile
 → next career decision
 ```
 
-It is not the live operating repository for UpgradePilot or any other technical project.
+It is not the live operating repository for UpgradePilot, JobHunter, or any other technical project.
 
 ## Current state
 
@@ -32,6 +32,8 @@ Read [`CAREER_STATE.md`](CAREER_STATE.md) for the sole live Career position, inc
 
 For current UpgradePilot implementation or continuation, inspect `motafegh/UpgradePilot`, especially its `MEMORY.md`, active source, tests, plans, specifications, ADRs, commands, outputs, and environment.
 
+For current JobHunter implementation or continuation, inspect `motafegh/jobhunter`. Career-side requirements for what JobHunter should eventually provide are defined under [`market/jobhunter/`](market/jobhunter/README.md).
+
 ## Career owns
 
 - Ali's public-safe career profile;
@@ -42,6 +44,7 @@ For current UpgradePilot implementation or continuation, inspect `motafegh/Upgra
 - cross-project capability assessment;
 - portfolio and professional claim limits;
 - employability and market-transition strategy;
+- requirements for Career-facing market intelligence and how it may influence Career decisions;
 - formal and event-triggered Career reviews;
 - live career-level state.
 
@@ -66,10 +69,11 @@ Career may inspect project evidence for a career question, but it records only t
 6. [`portfolio/PROJECT_PORTFOLIO.md`](portfolio/PROJECT_PORTFOLIO.md) — project roles and career contribution.
 7. [`tracking/CAPABILITY_EVIDENCE_LEDGER.md`](tracking/CAPABILITY_EVIDENCE_LEDGER.md) — cross-project capability evidence and claim limits.
 8. [`market/EMPLOYABILITY_AND_MARKET_PLAN.md`](market/EMPLOYABILITY_AND_MARKET_PLAN.md) — role gaps, portfolio readiness, and transition to applications.
-9. [`market/ALI_RAJABI_MASTER_CV.md`](market/ALI_RAJABI_MASTER_CV.md) — broad career-transition master CV and tailoring source.
-10. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal and event-triggered review decisions.
-11. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
-12. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
+9. [`market/jobhunter/`](market/jobhunter/README.md) — Career-side requirements and integration rules for JobHunter market intelligence.
+10. [`market/ALI_RAJABI_MASTER_CV.md`](market/ALI_RAJABI_MASTER_CV.md) — broad career-transition master CV and tailoring source.
+11. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal and event-triggered review decisions.
+12. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
+13. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
 
 ## Current working direction
 
@@ -90,6 +94,8 @@ The long-term direction combines:
 - **UpgradePilot:** active primary flagship and main current capability-building vehicle.
 - **Sentinel:** historical evidence of ambitious AI-assisted Python/ML/data experimentation; not an active route.
 - **AegisLab:** historical security-learning and project-design evidence; not an active route.
+
+**Career support infrastructure:** JobHunter is a separate market-intelligence and job-analysis tool. It may supply Career with reviewed market evidence, but its implementation is not automatically Ali capability evidence and it is not a competing learning flagship.
 
 Detailed technical truth remains in each project repository or Git history.
 
@@ -124,6 +130,8 @@ The first refounded review established **E1 — Initial market calibration**.
 Current recurring market priorities are Python, SQL, APIs/data pipelines, testing/debugging, Git, practical project evidence, and technical communication. Applications are not yet active; the next formal readiness decision is due by the Day-30 review or earlier when evidence permits.
 
 A broad master CV now exists, but it remains a working draft until its placeholders are replaced and its claims are tested against specific advertisements.
+
+JobHunter may increasingly automate market observation, job analysis, and evidence packaging, but Career will adopt its conclusions only through the review and authority rules in [`market/jobhunter/CAREER_INTEGRATION_AND_USE.md`](market/jobhunter/CAREER_INTEGRATION_AND_USE.md).
 
 ## Refoundation record
 
