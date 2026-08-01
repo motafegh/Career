@@ -301,12 +301,52 @@ Do not create until the relevant stage activates:
 
 Create only the minimum system required by actual activity.
 
-## 15. Review triggers
+## 15. JobHunter market-intelligence support
+
+JobHunter (`motafegh/jobhunter`) is an approved Career-support instrument for market observation and job analysis.
+
+Its Career-side requirements and authority boundary are owned by:
+
+- [`jobhunter/CAREER_REQUIREMENTS.md`](jobhunter/CAREER_REQUIREMENTS.md);
+- [`jobhunter/CAREER_INTEGRATION_AND_USE.md`](jobhunter/CAREER_INTEGRATION_AND_USE.md).
+
+JobHunter may support:
+
+- representative vacancy acquisition;
+- responsibility and requirement analysis;
+- role-family/archetype discovery;
+- requirement and responsibility frequency;
+- geography, seniority, work-mode, and entry-barrier comparison;
+- search-coverage and data-quality assessment;
+- market-change observation;
+- Career capability/evidence comparison through an approved snapshot;
+- explainable gap and learning-priority proposals;
+- application dossiers;
+- CV-tailoring packs;
+- interview-preparation packs;
+- project-evidence opportunity maps.
+
+JobHunter does not automatically own or change:
+
+- Career strategy;
+- Ali capability claims;
+- project allocation or project scope;
+- employability stage;
+- application activation;
+- master-CV claims;
+- exact Career action.
+
+Its own implementation is not automatically Ali capability evidence. Market conclusions must remain sample-aware, source-aware, provenance-preserving, and reviewable.
+
+Career should not copy JobHunter's database or detailed job corpus into this public repository. Prefer versioned Career-facing JobHunter artifacts and record only durable Career conclusions.
+
+## 16. Review triggers
 
 Review this plan when:
 
 - target roles change;
 - the first representative market sample is completed;
+- JobHunter produces a materially new reviewed market pattern;
 - application readiness is assessed;
 - applications begin;
 - interview or rejection patterns emerge;
