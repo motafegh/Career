@@ -122,6 +122,8 @@ JobHunter may improve the scale and repeatability of this calibration, but its f
 
 > Conduct the **2026-08-18 Day-30 capability, portfolio, workload, market, and application-readiness review** using the minimum current evidence required by `plans/CURRENT_CAREER_CYCLE.md`.
 
+Use [`plans/2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](plans/2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md) as the technical capability/ownership assessment contract for that review. It defines the frozen B2/Step-7 core, expected depth, representative questions, source/test familiarity targets, and ownership evidence to assess; it does not control UpgradePilot implementation.
+
 Before that review, UpgradePilot remains responsible for its own implementation and learning evidence, including any ownership gaps identified by Career. JobHunter may continue gathering representative market evidence. Career must not create a duplicate technical learning plan or convert the 24-hour ceiling into a quota.
 
 ## 9. Next review triggers
