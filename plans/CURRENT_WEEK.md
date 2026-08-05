@@ -4,7 +4,8 @@
 **Status:** Active Career execution aid  
 **Period:** 2026-08-06 through 2026-08-16  
 **Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md) and [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
-**Technical authority:** `motafegh/UpgradePilot` `MEMORY.md`, active project plans, source, tests, and project-local working evidence
+**Technical authority:** `motafegh/UpgradePilot` `MEMORY.md`, active project plans, source, tests, and project-local working evidence  
+**Technical capability checkpoint:** [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md)
 
 ## 1. Purpose
 
@@ -15,6 +16,8 @@ Use the next two working days and the following week to convert current momentum
 3. cleaner evidence for the 2026-08-18 Day-30 Career review.
 
 This is a **personal Career execution plan**, not an UpgradePilot implementation plan. It must not duplicate or override UpgradePilot's technical continuation. When UpgradePilot closes a gate early, follow its current `MEMORY.md` immediately rather than waiting for a calendar assignment here.
+
+Use the August-18 technical capability checkpoint as the concrete target for what understanding, source-reading, testing, modification, and diagnosis evidence should be accumulated. The checkpoint defines assessment outcomes; UpgradePilot still owns how those outcomes are learned and demonstrated.
 
 ## 2. Planning assumptions from the 2026-08-05 Career review
 
@@ -303,7 +306,7 @@ By Sunday evening, have the lightweight evidence below available for the coming 
 
 ## 9. Evidence to have by 2026-08-16
 
-Career should be able to inspect or ask for:
+The detailed technical capability target and later assessment rubric are defined in [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md). The evidence below is the lightweight Career-side preparation needed to use that rubric.
 
 ### Workload
 
