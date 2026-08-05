@@ -225,6 +225,100 @@ Applications remain inactive pending a formal readiness review. The next readine
 
 **Next review trigger:** 2026-08-02 Day-14 workload and direction calibration, or an earlier material capability, portfolio, project-fit, or application-readiness event.
 
+---
+
+### 2026-08-05 — Retrospective Day-14 workload, direction, and ownership calibration
+
+**Trigger:** The scheduled 2026-08-02 Day-14 review was not recorded on time. Ali requested a current Career review and retrospective recovery of the materially relevant evidence from the preceding roughly two weeks.
+
+**Career questions:**
+
+1. Is the current workload model sustainable enough to retain?
+2. Is UpgradePilot still producing the intended capability and portfolio value?
+3. Is Ali's understanding and ownership growing relative to project complexity?
+4. Is JobHunter remaining bounded Career-support infrastructure rather than becoming a competing flagship?
+5. Does current evidence justify any change to working identity, project allocation, employability phase, or the Day-30 application-readiness requirement?
+
+**Evidence inspected:**
+
+- current Career charter, operating contract, state, strategy, current cycle, portfolio, market plan, capability ledger, and review history;
+- UpgradePilot `MEMORY.md` dated 2026-08-05, current recent commits, and current application/upstream boundaries sufficient to assess project contribution without moving technical operation into Career;
+- JobHunter Career-side authority and recent repository activity sufficient to assess allocation role, not implementation ownership;
+- Ali's retrospective report of the recent work pattern: approximately 4–6 measured focused hours on an active day, approximately 4–5 active days in a typical week, with stopwatch timing paused when work stops; no exact daily or weekly log exists, so no precise weekly total is claimed;
+- Ali's report that most personal attention remained on UpgradePilot learning and building, while JobHunter consumed only roughly 2–3 hours of Ali time in a week, with low cognitive load and no source-code study or technical ownership claim;
+- Ali's reduced-context reconstruction, without consulting the repository or another AI, of UpgradePilot's evidence-first mission and major public-PR investigation path;
+- Ali's explicit identification of recent semantic/orchestration areas that had not yet been learned rather than claiming understanding;
+- the recent local-inference proxy-contamination incident in which Ali recognized a familiar proxy/environment cause family, stopped the AI's current debugging direction, and redirected investigation; project evidence subsequently confirmed ambient proxy inheritance as the relevant cause family;
+- Ali's report that overall project understanding is materially better but still scattered at source/detail level while the implementation changes rapidly;
+- Ali's concern that AI-driven changes to programming work may materially reduce future junior hiring opportunity. This is treated as a market-evidence question for the upcoming readiness review, not as evidence that the current strategy has already failed.
+
+**Retrospective evidence limitation:**
+
+Career does not reconstruct missing daily logs or claim exact hours that were not recorded. The workload conclusions below use bounded retrospective estimates plus repository delivery evidence. Technical implementation details and technical learning gaps remain owned by UpgradePilot.
+
+**Project contribution conclusion:**
+
+- UpgradePilot remains the correct sole primary flagship.
+- Since the 2026-07-27 review, the project has materially advanced beyond the earlier package/PyPI/CI slice into authoritative upstream release/changelog evidence, bounded semantic support-drop evaluation, and conditional application orchestration.
+- The project continues to provide strong current opportunities for Python application engineering, evidence acquisition, validation/provenance, testing/debugging, trustworthy AI integration, and technical explanation.
+- Product progress still does not establish Ali ownership automatically.
+- JobHunter remains correctly classified as Career-support infrastructure. At the reported 2–3 hours/week of Ali time, low cognitive load, no code study, and no implementation claim, there is no current evidence that it competes materially with the flagship.
+
+**Capability conclusion:**
+
+- Ali's high-level conceptual understanding of the current UpgradePilot investigation architecture has materially improved since the 2026-07-27 review.
+- The reduced-context reconstruction supports a stronger D2 guided conceptual assessment for the major evidence architecture than the earlier D1-to-narrow-D2 wording.
+- This does not establish D3, broad Python ownership, application-orchestration ownership, test-design ownership, or independent implementation transfer.
+- Recent semantic and conditional-orchestration responsibilities were explicitly identified by Ali as not yet learned at the time of this Career review; project-local teaching and evidence must address them rather than Career duplicating that work.
+- The proxy incident is meaningful bounded failure-diagnosis evidence: Ali retained a prior failure pattern strongly enough to interrupt and redirect AI debugging toward the relevant cause family. It remains insufficient for a general HTTP/proxy/network debugging claim because the pattern was familiar, assistance remained substantial, and implementation details were not fully retained.
+
+**Assistance and transfer limits:**
+
+UpgradePilot remains substantially AI-assisted in planning, implementation, testing, explanation, and review. Ali is increasingly participating through problem framing, conceptual learning, verification, challenge, and selective diagnostic redirection. Stronger technical ownership still requires project-local evidence of meaningful modification, test responsibility, failure diagnosis, and coherent reduced-prompt reconstruction across changed cases. Career records the requirement and later reassesses it; it does not prescribe the project's technical lesson or implementation steps.
+
+**Workload decision:**
+
+- Retain the Green ceiling of **up to 24 focused hours per week**.
+- The retrospective routine is compatible with that ceiling and provides substantially more sustainability evidence than was available on 2026-07-27.
+- Do not convert 24 hours into a weekly quota or minimum. Approximately 20–24 productive focused hours is already a full normal Green week when capacity permits.
+- Occasional 4–6 hour focused days and reported overextension mean substantially exceeding the ceiling or extending an already productive day is not automatically beneficial.
+- Exact weekly averages remain unproven because the period was not logged precisely.
+
+**Portfolio decision:**
+
+- Keep UpgradePilot as the sole primary flagship.
+- Keep Sentinel and AegisLab as historical evidence.
+- Keep JobHunter outside the learning-flagship portfolio role as Career-support infrastructure unless a future explicit Career decision changes that classification.
+- Do not admit another supporting learning project or advanced-system pilot from current evidence.
+
+**Role/market decision:**
+
+- Keep the current working identity and target-role direction unchanged.
+- Keep employability at **E1 — Initial market calibration**; applications remain inactive pending the explicit readiness decision.
+- Concern about AI reducing junior programming opportunities is legitimate to investigate but does not currently justify abandoning the Python/data/ML/secure-engineering direction.
+- The Day-30 review must use representative current market evidence, including the effect of AI-era role changes on realistic entry paths, rather than general claims that programmers will either disappear or remain unaffected.
+- The application-readiness decision remains due by **2026-08-18** and must not be deferred merely because UpgradePilot is still evolving.
+
+**Claim changes:**
+
+Career may now say that Ali has a materially stronger retained conceptual model of UpgradePilot's major evidence architecture and has demonstrated one bounded instance of using retained technical context to redirect AI during a real runtime failure.
+
+Career may still not say that Ali independently owns UpgradePilot's request-to-output implementation, current semantic/orchestration source, test design, general debugging, CI, packaging, SQL, backend, security, ML, or production engineering.
+
+**Career state changes:**
+
+- The overdue Day-14 calibration is now complete retrospectively on 2026-08-05.
+- The 24-hour Green workload remains a ceiling, with improved but non-exact sustainability evidence.
+- Ownership lag remains a central risk, but the current form is more precise: high-level understanding is catching up while recent implementation detail can still advance faster than coherent ownership.
+- JobHunter remains bounded Career-support infrastructure and does not change flagship allocation.
+- The stale 2026-08-02 next action is retired.
+
+**Exact next Career action:**
+
+Conduct the **2026-08-18 Day-30 capability, portfolio, market, workload, and application-readiness review** using the minimum current evidence required by `plans/CURRENT_CAREER_CYCLE.md`. Before that review, project-local ownership evidence remains in UpgradePilot and representative market evidence may be supplied by JobHunter; Career should not create a duplicate technical learning plan.
+
+**Next review trigger:** 2026-08-18 Day-30 review, or earlier if a material capability/portfolio claim, representative JobHunter market snapshot, application-readiness question, workload problem, or strategy concern requires a Career decision.
+
 ## 4. Review triggers
 
 A new entry is appropriate when:

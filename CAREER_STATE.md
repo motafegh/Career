@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-08-02 — JobHunter career-support role added  
+**Last updated:** 2026-08-05 — retrospective Day-14 workload, direction, and ownership calibration completed  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -16,31 +16,35 @@
 | Flagship operating authority | `motafegh/UpgradePilot` |
 | Other project roles | Sentinel: historical evidence; AegisLab: historical evidence |
 | Market-intelligence support | JobHunter (`motafegh/jobhunter`): Career-support infrastructure for market evidence and job analysis; not a competing learning flagship and not automatic capability evidence |
-| Current capability emphasis | Python implementation, tests/debugging, public-source acquisition, validation/provenance, packaging, and ownership growth |
+| Current capability emphasis | Python implementation, tests/debugging, public-source acquisition, validation/provenance, packaging, coherent system understanding, and ownership growth |
 | Employability phase | E1 — Initial market calibration; applications not yet active |
 | Portfolio phase | Project roles and claim-bounded records established; flagship package not yet market-ready |
-| Standard workload | Green ceiling: 24 focused hours/week; sustainability review due 2026-08-02 |
+| Standard workload | Green ceiling: up to 24 focused hours/week; calibrated as plausible but not a quota or proven weekly average |
 | Career repository mode | Refounded active Career governance; project operation remains independent |
 
 ## 2. Current career interpretation
 
-UpgradePilot remains the correct primary flagship. It has progressed into a real installable Python package and read-only public-evidence pipeline rather than remaining a planning exercise.
+UpgradePilot remains the correct primary flagship. It has progressed materially beyond its July package/PyPI/CI slice while remaining a real installable Python package and read-only public-evidence system.
 
 The strongest current product contribution includes:
 
 - public pull-request and exact-revision identity;
 - complete changed-file acquisition;
 - supported pinned dependency-change extraction;
-- exact-head GitHub Actions and workflow evidence;
-- bounded Continuous Integration authority classification;
-- exact PyPI package/version identity implementation;
-- deterministic tests and safe public runs for earlier validated slices.
+- exact-head GitHub Actions and workflow evidence with bounded CI dependency-exercise interpretation;
+- exact PyPI package/version and upstream-repository authority;
+- crossed-release and exact tagged-changelog evidence;
+- bounded local semantic support-drop candidate extraction with deterministic validation and live proof;
+- conditional target-Python relevance activation after a grounded upstream support-drop claim;
+- substantial deterministic regression coverage and evidence-preserving failure states.
 
-This does not establish a complete maintainer recommendation system, compatibility or safety, persistence/SQL, evaluation, production readiness, or broad independent Ali ownership.
+This does not establish a complete maintainer recommendation system, broad compatibility or safety, persistence/SQL, production readiness, or broad independent Ali ownership.
 
-Current capability claims remain narrow, guided, and assistance-aware.
+Ali's current conceptual understanding is stronger than at the 2026-07-27 review. In a reduced-context Career assessment, he reconstructed the major evidence-first investigation architecture without consulting the repository or another AI. Recent semantic/orchestration details, source-level implementation ownership, meaningful test ownership, and broad transfer remain incomplete or unassessed.
 
-JobHunter is now explicitly assigned a separate Career-support role: it may gather and analyze market evidence, identify recurring responsibilities and requirements, and later provide reviewed Career-facing artifacts. Its implementation progress does not compete with UpgradePilot allocation and does not establish Ali capability unless separate ownership evidence is later assessed.
+One recent runtime incident provides bounded diagnostic evidence: Ali recognized a familiar proxy/environment failure pattern during local inference, stopped the AI's current debugging direction, and redirected investigation toward the relevant cause family. This is meaningful ownership growth but does not establish general HTTP/proxy/network debugging capability.
+
+JobHunter remains explicitly separate Career-support infrastructure. Ali reports roughly 2–3 hours/week of personal attention, low cognitive load, no source-code study, and no technical implementation claim. Its implementation does not compete materially with UpgradePilot on current evidence and does not establish Ali capability unless later assessed separately.
 
 ## 3. Current strengths
 
@@ -48,9 +52,10 @@ JobHunter is now explicitly assigned a separate Career-support role: it may gath
 - Real prior management, sales, purchasing, coordination, and commercial responsibility.
 - Broad technical exposure across Python, ML, data, Linux, AI tools, security concepts, and larger repositories.
 - Strong engagement when work follows one mission with real inputs and visible consequences.
-- Willingness to challenge AI scope, repository purpose, unsupported claims, and excessive ceremony.
-- Narrow guided evidence in public technical investigation, project setup/operation, evidence boundaries, and selected source-flow understanding.
-- Ability to commit substantial weekly time to the transition.
+- Willingness to challenge AI scope, repository purpose, unsupported claims, excessive ceremony, and incorrect debugging direction.
+- Stronger retained high-level understanding of UpgradePilot's evidence-first architecture than at the prior Career review.
+- Narrow but meaningful evidence of using retained technical context to redirect AI during a real runtime failure.
+- A repeatable recent work rhythm that appears compatible with substantial focused weekly capacity.
 
 ## 4. Current limitations and uncertainties
 
@@ -58,9 +63,11 @@ JobHunter is now explicitly assigned a separate Career-support role: it may gath
 - Independent blank-page Python application construction remains incompletely demonstrated.
 - Current project implementation and tests contain substantial AI-generated or AI-assisted work.
 - Testing, debugging, packaging, SQL, data modeling, deployment, ML evaluation, secure engineering, and technical collaboration contain mixed or unassessed sub-capabilities.
-- Running successful tests and live commands has not yet been converted into strong changed-case modification and failure-diagnosis evidence.
-- The newly merged PyPI identity path had not yet received complete local suite and unmocked live validation in Ali's environment at the review point.
-- Resume, GitHub positioning, application materials, and interview preparation are not yet active.
+- High-level project understanding is improving, but recent implementation detail can still advance faster than coherent source/test ownership.
+- Recent semantic and conditional-orchestration responsibilities were not yet fully learned by Ali at the 2026-08-05 Career review.
+- Broad D3 implementation/debugging ownership is not established from one familiar proxy-diagnosis incident.
+- Exact weekly focused-time averages remain unproven because the recent period was not logged day by day, despite stopwatch-based session timing.
+- A broad master CV exists, but role-specific positioning, GitHub presentation, application materials, and interview readiness are not yet activated or validated.
 - Geographic, visa, degree, and experience-filter feasibility require current role-specific review.
 - JobHunter market evidence is not yet representative enough across the target geographies and role families to become an automatic Career authority.
 
@@ -79,47 +86,51 @@ A bounded July 2026 sample of junior Python, data, backend, and AI roles in Duba
 
 Cloud, Docker, CI/CD, LLM APIs, Retrieval-Augmented Generation, vector databases, and agent frameworks appear as supporting or role-specific expectations. They do not replace the Python/SQL/API/testing core.
 
-Some listings accept strong personal projects, but many still request one to three years of experience, a relevant degree, UAE presence, or independent delivery. Career therefore remains in initial calibration rather than application-ready status.
+Some listings accept strong personal projects, but many still request one to three years of experience, a relevant degree, local presence, or independent delivery. Career therefore remains in initial calibration rather than application-ready status.
+
+AI-driven change to software work and junior hiring is now an explicit Day-30 market question. Career will not assume either that programmers are about to disappear or that AI has no material hiring effect. Representative current role evidence must determine what entry paths remain realistic and which responsibilities employers increasingly value.
 
 JobHunter may improve the scale and repeatability of this calibration, but its future aggregates must remain source-aware, sample-aware, and reviewed before changing Career strategy or priorities.
 
 ## 6. Current career-level risks
 
-1. **Ownership lag:** product progress may exceed Ali's ability to explain, modify, test, and diagnose central responsibilities.
+1. **Ownership lag:** high-level understanding is catching up, but project implementation may still outpace Ali's ability to modify, test, and diagnose recent responsibilities coherently.
 2. **Flagship dominance:** UpgradePilot may consume attention while portfolio and market preparation are delayed.
 3. **Documentation substitution:** governance or educational artifacts may grow faster than executable evidence.
 4. **SQL and implementation gap:** common market requirements may remain unaddressed while advanced topics attract attention.
 5. **Market-delay risk:** application readiness may be postponed without an explicit decision.
 6. **Technology breadth pressure:** role-specific AI or advanced tools may be mistaken for universal priorities.
-7. **Workload uncertainty:** the 24-hour plan has not yet been validated by reliable actual-time and delivery-density evidence.
+7. **Workload overextension:** the 24-hour ceiling appears plausible, but exact averages remain unproven and productive days can extend unnecessarily into 4–6 focused hours.
 8. **Market-sensor bias:** JobHunter search configuration, source coverage, translation/model interpretation, or small samples may create apparent demand patterns that are not representative of the target market.
 9. **Automation overtrust:** JobHunter recommendations may be mistaken for Career decisions unless market evidence and Ali capability evidence remain separate.
+10. **AI-era market uncertainty:** changes in junior software work may affect role viability and required responsibility depth; this must be measured through representative current market evidence rather than generalized forecasts or fear.
 
 ## 7. Current Career priorities
 
 1. Keep UpgradePilot as the sole primary flagship and allow its project-local continuation to proceed independently.
-2. Convert current source exposure into Ali-owned explanation, central modification, meaningful test change, and failure diagnosis.
-3. Validate the current merged UpgradePilot path in Ali's environment before granting stronger project or capability claims.
+2. Use UpgradePilot itself—not Career—to convert current exposure into coherent ownership evidence around meaningful project boundaries.
+3. Before granting stronger technical claims, obtain project-local evidence of meaningful modification, test responsibility, failure diagnosis, and reduced-prompt reconstruction across changed cases.
 4. Build SQL and relational-data evidence when the project or an approved supporting responsibility reaches that need.
 5. Prepare a concise, evidence-bounded UpgradePilot explanation as the supported flow becomes coherent.
-6. Use JobHunter as a market-observation and job-analysis instrument while keeping its outputs subordinate to Career review and its implementation separate from capability claims.
-7. Complete the Day-14 workload and ownership calibration on 2026-08-02.
-8. Complete a formal application-readiness decision by 2026-08-18 or earlier when evidence permits.
-9. Do not admit a supporting learning project or advanced-system pilot without a demonstrated career or project need.
+6. Use JobHunter as a low-overhead market-observation and job-analysis instrument while keeping its outputs subordinate to Career review and its implementation separate from capability claims.
+7. Treat 24 focused hours as a Green ceiling, not a quota; do not extend productive days merely to accumulate hours.
+8. Complete the formal Day-30 capability, portfolio, workload, market, and application-readiness review by 2026-08-18 or earlier when evidence permits.
+9. Include AI-era changes to junior engineering demand, realistic entry paths, geography, degree/experience filters, and actual responsibility patterns in the Day-30 market evidence.
+10. Do not admit a supporting learning project or advanced-system pilot without a demonstrated career or project need.
 
 ## 8. Exact next career-level action
 
-> On 2026-08-02, conduct the Day-14 workload and direction calibration using actual focused-time, delivery-density, implementation-versus-documentation, ownership, portfolio, and market evidence.
+> Conduct the **2026-08-18 Day-30 capability, portfolio, workload, market, and application-readiness review** using the minimum current evidence required by `plans/CURRENT_CAREER_CYCLE.md`.
 
-Until that review, Career does not create another learning plan or capability-building project. UpgradePilot continues under its own `MEMORY.md` and local controls. JobHunter may continue independently as Career-support infrastructure without changing flagship allocation.
+Before that review, UpgradePilot remains responsible for its own implementation and learning evidence, including any ownership gaps identified by Career. JobHunter may continue gathering representative market evidence. Career must not create a duplicate technical learning plan or convert the 24-hour ceiling into a quota.
 
 ## 9. Next review triggers
 
 The next Career review occurs at the earliest of:
 
-- 2026-08-02 Day-14 workload and direction calibration;
+- 2026-08-18 Day-30 capability, portfolio, workload, market, and application-readiness review;
 - a material UpgradePilot gate that changes capability or portfolio interpretation;
-- completion of an Ali-directed central source modification, meaningful test change, and failure diagnosis;
+- completion of stronger Ali-directed modification, meaningful test responsibility, reduced-prompt reconstruction, or failure-diagnosis evidence that could change a capability claim;
 - a proposed capability or portfolio claim;
 - JobHunter producing a first representative, reviewed market-evidence snapshot that could materially affect Career priorities;
 - application-readiness consideration;
