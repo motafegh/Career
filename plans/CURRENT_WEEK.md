@@ -2,688 +2,555 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Active Career execution aid  
-**Period:** 2026-08-10 through 2026-08-18  
+**Period:** 2026-08-15 through 2026-08-21  
 **Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md) and [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
 **Technical capability checkpoint:** [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md)  
-**Technical truth owner:** `motafegh/UpgradePilot` `MEMORY.md`, current plan, source, tests, ADRs, learning evidence, and working memory
+**Technical truth owner:** `motafegh/UpgradePilot` `MEMORY.md`, current plans, source, tests, ADRs/specifications, learning evidence, and working memory
 
 ## 1. Purpose
 
-Use the remaining period before the 2026-08-18 Day-30 Career review to convert the last five days of substantial UpgradePilot conceptual reconciliation into **retained understanding, executable feedback, and bounded Ali ownership** without slowing legitimate project progress or turning the next week into another theory phase.
+Use the final days before the 2026-08-18 Day-30 Career review to convert UpgradePilot's rapid recent progress into **selected retained understanding, source/test familiarity, and bounded ownership evidence** without trying to memorize the entire recent repository history or slowing legitimate project execution.
 
-This plan is a **Career execution and evidence plan**, not an UpgradePilot implementation plan. Career defines what capability/evidence should exist by August 18. UpgradePilot alone decides its technical continuation, exact source changes, tests, implementation slices, and project-local teaching method.
+After the August-18 review, use the review result as the decision gate for the remainder of this week. Do not pre-authorize a new Career learning direction before that assessment.
 
-The active technical checkpoint remains frozen around the B2/Step-7 system established on August 5. The newer A→C product-decision model is treated as a **moving frontier**: it must become coherent and operational enough to support current work, but August 18 does not require independent mastery of the entire A→C theory.
+This file remains a **Career execution and evidence plan**, not an UpgradePilot implementation plan. Career defines the capability/evidence outcomes to pursue. UpgradePilot alone controls exact technical continuation, architecture decisions, implementation, tests, project-local learning, and source changes.
 
-## 2. What changed since the previous plan
+## 2. Recalibration from actual UpgradePilot progress
 
-The previous execution plan assumed UpgradePilot would move directly from Step 7F into the next implementation responsibility. Actual project progress was different and must now be reflected honestly.
+The previous plan expected the A→C product-decision model to return to bounded implementation. That correction has already happened substantially.
 
-By August 10:
+By 2026-08-15, UpgradePilot has materially progressed through:
 
-- the Step-7 bounded semantic-extractor/runtime integration and parent Target-Python Support Relevance responsibility are complete and live-proven;
-- the normal S001 public CLI path exposed and corrected real integration/generalization defects;
-- UpgradePilot then spent several days reconciling its higher-level product-decision model rather than expanding product source;
-- Conversations A, B, and C are closed;
-- a cumulative A→C learning snapshot exists but explicitly does not certify mastery;
-- post-C AUDIT-003 was reviewed and its accepted amendments were incorporated into the reconciliation record;
-- Conversation D is not open;
-- the selected `B2_TRANSPARENT_DECISION_METHOD_PLAN.md` is now materially stale against accepted A–C semantics and must be reconciled before generic decision-layer implementation;
-- UpgradePilot's current expected sequence is:
+- implementation of the first mechanism-specific impact-candidate and candidate-applicability foundation;
+- deterministic proposition/path/candidate composition with explicit evidence and path-model coverage;
+- the first real discriminating-investigation selection → acquisition → observation → reevaluation loop;
+- a materially different second mechanism: artifact serviceability / wheel compatibility;
+- verified artifact-serviceability behavior, including a 397-test full active regression at one recorded checkpoint;
+- a first bounded Target artifact-environment evidence slice from exact GitHub Actions workflow source;
+- promotion of accepted A→B→C semantics into a canonical Product Decision Model specification;
+- an evidence-earned cross-responsibility architecture gate because CI and Target independently consume overlapping GitHub Actions workflow structure;
+- Phase-C transfer/adversarial pressure supporting the leading architecture direction with constraints;
+- current live continuation into **Phase D — architecture decision classification and durable-owner selection**, before any refactor or new parser dependency/source migration.
+
+The current project architecture candidate is approximately:
 
 ```text
-reconcile existing Transparent Decision plan
-→ select smallest credible pre-D A–C implementation/evaluation slice
-→ implement + test + inspect real behavior
-→ use that evidence to decide whether a concrete Conversation-D dependency exists
+RepositoryTextFile
+→ bounded provider-specific GitHub Actions workflow-definition IR
+→ separate CI interpretation
+→ separate Target interpretation
+
+runtime WorkflowRun / WorkflowJob / WorkflowStep
+→ separate evidence family
+
+possible later static↔runtime correlation
+→ explicit bounded responsibility, not part of the base static IR
 ```
 
 Career interpretation:
 
-> The August 6–10 conceptual phase was substantially justified, but its value now depends on returning accepted concepts to executable feedback. The immediate Career risk is no longer only implementation outrunning Ali's understanding; it is also the product's conceptual model growing faster than Ali can consolidate it while executable practice temporarily lags both.
+> The earlier conceptual/design-heavy period was not wasted: it produced consequential model corrections and was followed by real implementation. The current Career risk is now different. UpgradePilot is progressing through multiple mechanisms and architecture decisions faster than Ali can reasonably consolidate every concept, rejected option, and source change. The next objective is **selective ownership**, not total catch-up.
 
-The correction is:
+## 3. Operating rules for this week
+
+### Rule A — do not turn repository history into a memorization burden
+
+Ali does not need to retain every rejected alternative, working-memory finding, simulation case, or intermediate architectural formulation.
+
+Prioritize three knowledge classes:
 
 ```text
-concept
-→ bounded implementation/evaluation
+1. CORE INVARIANTS
+   retain strongly
+
+2. CURRENT ACCEPTED/LEADING SYSTEM SHAPE
+   understand operationally
+
+3. HISTORICAL OPTION EXPLORATION
+   repository remains the archive; recall only when needed
+```
+
+### Rule B — preserve architecture discipline, but prefer executable feedback for reversible decisions
+
+Use deeper pre-implementation reasoning when a wrong decision could create high-cost semantic/ownership debt, especially:
+
+- trust/evidence strength;
+- domain/public contracts;
+- cross-package ownership;
+- shared abstractions;
+- static-versus-runtime proof semantics.
+
+For bounded/reversible implementation details, prefer:
+
+```text
+understand enough
+→ predict
+→ implement small slice
 → test
-→ real result/failure
-→ correction
-→ retained explanation
+→ inspect reality
+→ revise
 ```
 
-not another broad study phase.
+Do not seek near-perfect certainty for low-cost reversible decisions.
 
-## 3. Capacity and work pattern for August 10–17
+### Rule C — every active UpgradePilot day should contain one ownership-bearing action
 
-### Weekly capacity
+Examples:
 
-Maintain the existing **24 focused-hour Green ceiling**. Do not convert it into a quota.
+- reconstruct a responsibility before rereading it;
+- predict a behavior or test outcome;
+- challenge an AI design/implementation decision and state why;
+- explain a representative source function or contract;
+- understand and influence a bounded source/test change;
+- state the likely failure layer before AI diagnosis;
+- inspect the resulting diff/tests rather than accepting only an AI summary;
+- identify explicitly where understanding stops.
 
-For August 11–17, a strong target is approximately **18–22 focused hours**, with 24 remaining the ceiling. This is an execution target, not a success metric. A lower total with strong executable/ownership evidence is better than extra low-quality hours.
+AI-heavy coding remains allowed. Manual typing volume is not the ownership metric.
 
-Use approximately four strong technical days plus one lighter/flexible day. Keep at least one meaningful recovery period over the weekend.
+### Rule D — the August-18 checkpoint remains frozen
 
-### Ali's three-block structure
+Do **not** expand [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md) to include every new UpgradePilot responsibility.
 
-#### Block A — laptop/desktop, about 45–75 minutes
+The B2/Step-7-era core remains the formal assessment baseline.
 
-Best use:
+Recent implementation and architecture work is supplementary moving-frontier evidence. Strong understanding may improve the assessment; incomplete mastery of very recent work does not automatically count as failure.
 
-- delayed recall;
-- source reading;
-- syntax/mechanism learning;
-- test reading;
-- reconnecting an abstract concept to actual code;
-- targeted repair of one fuzzy area.
+## 4. Work pattern
 
-Default rule:
+Maintain the existing **24 focused-hour Green weekly ceiling**. It is not a quota.
 
-> Start from memory/prediction before opening the explanation or source whenever practical.
+For the three pre-review days, approximately **8–12 focused hours total** is a strong range if energy and normal life allow. Do not compensate for previous days by forcing hours.
 
-#### Block B — phone/outside, about 90–120 minutes
+A productive day can remain approximately four focused hours.
 
-This block is legitimately phone-based and should be used for what the context is good at:
+### Block A — laptop/desktop, about 45–75 minutes
 
-- conceptual reasoning with project-local AI;
-- A→C case reasoning;
-- architecture explanation;
-- challenge and decision discussion;
-- retrieval practice;
-- predicting implementation effects;
-- interpreting outputs/failures;
-- planning the next bounded technical move.
+Use for high-value consolidation:
 
-Do not force large source-file study or complex multi-file diff inspection into the phone block. Keep non-work notifications/apps suppressed as practical so the phone functions as a work terminal during this period.
+- delayed reconstruction;
+- actual source reading;
+- representative test reading;
+- syntax/mechanism repair;
+- reconnecting one concept to its implementation.
 
-#### Block C — laptop/desktop, normally 60–120 minutes
+Default: attempt recall/prediction first, then inspect source/notes.
 
-Best use:
+### Block B — phone/outside, about 90–120 minutes
 
-- implementation;
-- terminal work;
+Use the phone as a work terminal for:
+
+- conceptual reconstruction;
+- current architecture reasoning;
+- explaining a mechanism in your own words;
+- comparing two responsibilities;
+- challenge/prediction before implementation;
+- reviewing outputs/failures;
+- project-local AI teaching of one exact gap.
+
+Do not force large multi-file source study into this block.
+
+### Block C — laptop/desktop, about 60–120 minutes
+
+Use for real UpgradePilot continuation:
+
+- implementation when authorized by UpgradePilot;
 - tests;
-- diff inspection;
-- live proofs;
+- terminal execution;
+- diffs;
 - debugging;
-- verifying what AI changed.
+- verification;
+- tracing what changed after AI work.
 
-AI-heavy implementation remains acceptable. The goal is not manual-code purity; the goal is increasing Ali understanding, prediction, modification, testing, and diagnosis behind the AI-assisted work.
+The project may remain in architecture decision classification during part of this period. If source changes are not yet technically authorized, do not invent coding exercises merely to satisfy Career.
 
-### Day-length rule
+## 5. Pre-review technical consolidation priorities
 
-- about 4 focused hours = full strong day;
-- 5 hours = strong extension;
-- 6 hours = exceptional, not default;
-- do not extend the evening merely to make the stopwatch look better.
+### Priority 1 — frozen Step-7 system remains the formal core
 
-## 4. August-18 target — frozen Step-7 core
-
-The detailed rubric remains [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md). Do not replace or continuously expand it as UpgradePilot advances.
-
-By August 18, the following Step-7-era core should be coherent at approximately the depth defined in that checkpoint.
-
-### Must own strongly enough to explain and reason about
-
-1. UpgradePilot's current mission and bounded-claim doctrine: evidence-backed decision support, not autonomous maintainer authority.
-2. The complete request-to-current-result flow:
+Use the technical checkpoint as the full rubric. Before August 18, make sure the older core can still be reconstructed coherently enough to explain:
 
 ```text
-public PR
-→ exact PR/base/head identity
-→ changed files
-→ trusted dependency transition or explicit problem
-├── independent exact-head CI evidence branch
-└── upstream evidence branch
-    → exact PyPI release
-    → trusted upstream repository
-    → package-wide release index
-    → crossed releases
-    → exact tag/commit
-    → exact changelog
-    → deterministic source window
-    → bounded LLM candidate extraction
-    → deterministic reconstruction/validation
-    → grounded support-drop claim?
-        ├── no → target remains inactive/unresolved for this responsibility
-        └── yes → exact-head pyproject.toml
-                  → requires-python
-                  → bounded target relevance
+public PR / exact identity
+→ dependency change
+├── CI evidence
+└── upstream/PyPI/release/changelog evidence
+    → bounded semantic extraction
+    → deterministic grounding
+    → conditional target-Python evidence
+    → bounded relevance
 ```
 
-3. Evidence identity, authority, provenance, and why exact revisions/SHAs/blobs matter.
-4. Explicit problem/evidence states rather than collapsing expected uncertainty into booleans or exceptions.
-5. CI independence and the difference among successful CI, dependency consumption/exercise, coverage, compatibility, and safety.
-6. Old-exclusive/proposed-inclusive crossed-release reasoning and why only inspecting the final release is insufficient.
-7. Deterministic versus semantic responsibility and the bounded LLM trust boundary.
-8. Conditional target-Python activation and why it encodes relevance, not merely optimization.
-9. Basic `pyproject.toml` / `requires-python` / PEP 440 relevance reasoning and why `outside_declared_python_range` is not `safe to merge`.
-10. Application orchestration versus provider/domain logic versus CLI responsibility.
-11. Generality versus authority, using the provenance-backed PyPI `Homepage` correction as the concrete example.
-12. The LM Studio/proxy incident, loopback, `requests.Session`, and why `trust_env=False` was used.
+Emphasize the reasons behind the evidence boundaries, not memorized filenames.
 
-### Python mechanisms that should be comfortable to read in the current code
+### Priority 2 — own `impact/applicability.py` unusually well
 
-```text
-functions and returns
-if/elif/else
-for loops
-try/except
-raise/assert
-list/tuple/dict/set
-comprehensions
-isinstance/type/getattr
-@dataclass(frozen=True, slots=True)
-Foo | Bar
-str | None
-Literal[...]
-Sequence[...]
-Callable[[...], ...]
-keyword-only arguments after *
-relative imports
-injected clients/evaluators
-expected problem values versus exceptions
-```
-
-Representative standard/library/tool mechanisms:
-
-```text
-requests.Session / HTTP status / timeout
-json.loads and JSON structures
-tomllib
-packaging.version.Version
-packaging.specifiers.SpecifierSet
-argparse / os.getenv
-unittest.TestCase
-Mock / patch
-assertEqual / assertIsNone / assert_called_once_with / assert_not_called
-```
-
-### Tools that should be operational rather than theoretical
-
-Ali should be able to use or correctly interpret:
-
-```text
-python / python -m upgradepilot
-targeted tests and the relevant active regression command
-git status
-git diff
-git log
-git show
-basic source/test navigation
-LM Studio local endpoint context
-```
-
-Career does not require memorizing every command flag or every repository file.
-
-## 5. August-18 target — A→C moving frontier
-
-A→C is new material and must not move the entire frozen checkpoint. The target here is **coherent operational understanding plus the first implementation-backed ownership evidence**, not independent mastery of all A→C concepts.
-
-### 5.1 Compact invariants to make automatic
-
-These should become highly retrievable because they prevent serious reasoning errors:
-
-```text
-observation != interpretation != evidence quality != decision
-upstream change != target impact
-target relevance != target ownership
-missing evidence != negative evidence
-relevant evidence != sufficient/discriminating evidence
-LLM confidence != source authority != evidence completeness != semantic sufficiency
-uses dependency != participates in affected mechanism != relies on specific changed property
-successful investigation execution != valid evidence for the proposition
-proxy evidence != exact-context evidence
-no further justified investigation != not applicable != safe != overall evidence sufficient
-```
-
-Do not spend hours memorizing wording. The goal is to recall and apply the distinctions.
-
-### 5.2 Conversation A — should be operationally coherent
-
-Ali should be able to explain and use this model with project-local support:
-
-```text
-upstream change mechanism
-+ target-relevant exposure/path
-+ activation condition(s)
-+ possible target-relevant consequence
-= mechanism-specific impact candidate
-```
-
-Required understanding:
-
-- upstream change alone does not establish target impact;
-- exposure is the path through which the changed mechanism can matter to the target;
-- activation is what must hold in the exact context for that path to matter;
-- consequence is the possible target-relevant technical difference;
-- one dependency transition can produce multiple mechanism-specific candidates;
-- candidate formulation does not establish the truth of its own exposure/activation/component hypotheses.
-
-Independent formulation of complete candidates across unfamiliar ecosystems is deferred.
-
-### 5.3 Conversation B — should be operationally coherent
+This is the best current source-level learning target because it is small, central, deterministic, and directly implements concepts previously discussed abstractly.
 
 Ali should understand:
 
 ```text
-established applicable
-established not applicable
-unresolved
-conflicted
+PropositionAssessment
+ApplicabilityPathAssessment
+CandidateApplicabilityAssessment
+
+evaluate_applicability_path(...)
+evaluate_candidate_applicability(...)
 ```
 
-and be able to reason about:
-
-- candidate-specific applicability propositions;
-- necessary versus sufficient conditions;
-- `AND` versus alternative `OR` paths;
-- why one established complete viable path can establish positive applicability;
-- why non-applicability requires closing every represented viable path;
-- missing evidence versus negative evidence;
-- open-world reasoning as the safe default;
-- when a proposition-local closed boundary can justify absence;
-- why completeness is itself an evidence claim.
-
-The post-C audit adds one especially important August-18 guard:
+and be able to explain:
 
 ```text
-EVIDENCE COVERAGE
-!= PATH-MODEL COVERAGE
-!= CANDIDATE-DISCOVERY COVERAGE
+one refuted necessary proposition
+→ conjunctive path refuted
+
+all necessary propositions established
+→ path established
+
+one complete established alternative path
+→ candidate established applicable
+
+all represented paths refuted
++ sufficient path-model coverage
+→ established not applicable
+
+all represented paths refuted
++ insufficient/unresolved path-model coverage
+→ candidate remains unresolved
 ```
 
-Ali should understand the difference conceptually. Independent proof of complete negative conclusions is deferred.
-
-### 5.4 Conversation C — understand the operating skeleton, not every refinement
-
-Ali should be able to explain:
+Source-level mechanisms worth recognizing here:
 
 ```text
-material non-final proposition state
-+ location/reason for uncertainty or conflict
-→ discriminating target
-→ candidate investigations
-→ hard admissibility/context-validity boundary
-→ qualitative comparison/pruning/complementarity
-→ selected next investigation / bounded conditional sequence
-   OR no further justified investigation
-   OR multiple admissible non-dominated alternatives
-→ execute/observe if authorized
-→ validate the observation as evidence
-→ reevaluate proposition or refine candidate
+Literal type aliases
+frozen/slots dataclasses
+tuple[...] typing
+set comprehension
+any(...)
+all(...)
+keyword-only argument after *
+explicit ValueError contract checks
 ```
 
-Prioritize these concepts before August 18:
+Do not expand this into studying every impact file line-by-line.
 
-- uncertainty/conflict location;
-- discriminating target;
-- relevant versus discriminating evidence;
-- resolution versus material reduction/pruning;
-- admissibility versus preference;
-- hard/non-compensatory constraints;
-- qualitative dominance/Pareto reasoning;
-- pruning/shared-gate leverage;
-- adaptive/conditional sequencing and bounded lookahead;
-- observational versus interventional evidence;
-- contrast validity;
-- proxy evidence and reconstruction fidelity;
-- successful execution versus valid evidence;
-- candidate refinement/lineage;
-- `no further justified investigation`;
-- C stopping versus D overall sufficiency/action.
+### Priority 3 — understand the first real investigation loop
 
-Ali does **not** need independent investigation planning across arbitrary cases by August 18.
-
-### 5.5 Post-audit guards that must be recognized
-
-By the review Ali should at least understand why these matter:
-
-1. candidate formulation must not smuggle established truth;
-2. evidence/path/discovery completeness are different;
-3. C can start from genuine conflict as well as unresolved state;
-4. epistemic usefulness, UpgradePilot execution admissibility, and later maintainer-facing recommendability are separate;
-5. several non-dominated investigations may remain rather than one fake unique winner;
-6. a C stop based on cost/value/policy trade-offs must not silently decide later maintainer policy;
-7. implementation should use only the minimum bounded proposition/path composition semantics needed by the selected slice, not a universal Boolean engine;
-8. candidate refinement should preserve lineage rather than silently rewriting history;
-9. the old Transparent Decision plan must be reconciled before implementation;
-10. B2 should implement a thin credible A–C manifestation, not a universal planner;
-11. pre-D implementation is allowed only as an A–C feedback slice, not as a disguised final recommendation engine.
-
-These guards are operational boundaries, not a new memorization exam.
-
-## 6. What is explicitly deferred beyond August 18
-
-Do not spend the next week trying to master:
-
-- every one of the 45 A→C recall questions;
-- all sections of the 3,000+ line learning note;
-- independent complete candidate discovery on unfamiliar ecosystems;
-- independent proof of negative propositions under arbitrary evidence universes;
-- designing general differential experiments without support;
-- universal investigation selection;
-- generic Boolean/rule engines;
-- universal dependency graphs or plugin/framework analysis;
-- historical-environment reconstruction as a general capability;
-- Conversation-D final sufficiency/policy/action semantics unless UpgradePilot exposes a concrete dependency;
-- final maintainer recommendation architecture;
-- broad cross-ecosystem transfer;
-- every source file or test in UpgradePilot.
-
-If a deferred concept becomes necessary for the real selected project slice, learn the minimum needed then.
-
-## 7. Ownership evidence required before August 18
-
-Career should try to obtain **several distinct pieces of evidence**, not a point score.
-
-### Required or strongly preferred evidence
-
-1. **Delayed reconstruction:** at least once, reconstruct the frozen Step-7 flow after a meaningful delay before opening source/notes.
-2. **A→C reconstruction:** explain A, B, and C in your own words and connect them to at least one concrete UpgradePilot case.
-3. **Prediction:** before one meaningful implementation/test/change, state what you expect to change and what outcome would support/refute the expectation.
-4. **Meaningful source/test participation:** understand and materially influence at least one bounded implementation or test responsibility when the project reaches the selected pre-D slice.
-5. **Test reasoning:** explain one representative test as setup → action → assertion → protected behavior → what it does not prove.
-6. **Changed-case/transfer evidence:** use the accepted model on at least one case or changed condition not identical to the memorized S001 path, with project-local support.
-7. **Debugging evidence:** if a real failure occurs, state the initial likely layer/cause before AI diagnosis. Do not manufacture a failure merely for Career.
-8. **Explicit non-ownership:** identify at least one important current responsibility you still do not own instead of inflating the claim.
-
-The proxy incident remains valid earlier diagnostic evidence, but new evidence is preferred where the real project naturally provides it.
-
-## 8. Anti-drift rules for August 10–17
-
-### Rule A — no second broad theory phase by default
-
-Conversation D must not open merely because A–C are closed. Follow UpgradePilot `MEMORY.md` and require a concrete dependency before broad D theory.
-
-### Rule B — after plan reconciliation, executable feedback should return quickly
-
-Once the Transparent Decision plan is reconciled and a bounded slice is selected, implementation/testing should begin under UpgradePilot without another prolonged conceptual preface.
-
-Career correction signal:
-
-> If two consecutive active technical days pass after plan reconciliation with no executable/test/changed-case feedback and no concrete blocker, treat that as potential theory/documentation drift and ask UpgradePilot to justify why implementation is still not the highest-value next feedback source.
-
-Career does not dictate the technical answer; it requires the project to justify the delay.
-
-### Rule C — learning note is a reference, not a course
-
-Do not reread the full mastery note sequentially.
-
-Use its own efficient modes:
-
-- quick recall from the one-page memory sheet;
-- selected question sampling;
-- one concrete case;
-- one transfer/diagnosis exercise when useful;
-- implementation feedback.
-
-Default deliberate A→C consolidation should remain roughly **30–60 minutes on an active day**, unless a real project blocker requires more.
-
-### Rule D — concepts must reconnect to code/evidence
-
-Whenever a concept is reviewed, connect it to at least one concrete UpgradePilot artifact, case, source responsibility, test, or observed failure when possible.
-
-### Rule E — do not punish the conceptual phase by overcorrecting
-
-Do not suddenly force large manual coding quotas because August 6–10 was conceptual. AI-assisted implementation remains the accepted work model. The correction is more executable/ownership density, not artificial typing volume.
-
-## 9. Daily execution plan
-
-The dates below define emphasis, not technical sequencing. UpgradePilot `MEMORY.md` always owns the actual project gate.
-
-### August 10 — close the conceptual phase cleanly
-
-The day has already contained substantial A–C/audit work. Do not chase more hours tonight merely because the Career plan was updated.
-
-If doing any final work, keep it short:
-
-- explain A, B, and C in one or two sentences each from memory;
-- name the current UpgradePilot continuation correctly;
-- identify the single concept currently most fuzzy;
-- stop.
-
-Do not start broad Conversation D or another deep learning pass tonight.
-
-### August 11 — re-anchor the frozen core and reconnect to implementation
-
-**Block A:** reconstruct the Step-7 request-to-result flow from memory. Then check only the mistakes. Review one central source/test responsibility rather than rereading everything.
-
-**Block B:** A-focused recall. Use the one-page memory sheet, then explain one impact candidate using a real case. Spend more time applying than rereading.
-
-**Block C:** follow current UpgradePilot continuation. The project currently expects reconciliation of the stale Transparent Decision plan and selection of the smallest credible pre-D A–C slice. Before a meaningful project decision, state what you think the bounded slice should need to prove and why, then compare with project reasoning.
-
-Ownership target: one prediction or meaningful challenge.
-
-### August 12 — B reasoning plus return to source/test feedback
-
-**Block A:** inspect a representative Step-7 source path and one relevant test. Be able to explain the code/test at responsibility level.
-
-**Block B:** B-focused operational review:
+Ali should explain the implemented distinction:
 
 ```text
-four states
-positive path versus non-applicability
-AND/OR paths
-missing versus negative evidence
-open/closed world
-three completeness questions
+candidate unresolved because target evidence has not yet been acquired
+→ exact target declaration is discriminating
+→ select bounded read-only acquisition
+→ acquire/interpret
+→ reevaluate candidate
 ```
 
-Use a concrete case rather than only definitions.
-
-**Block C:** if the reconciled plan/slice is ready, implementation/testing should now receive substantial time. If it is still not ready, require a concrete project reason rather than adding theory automatically.
-
-Ownership target: explain or influence one test/contract boundary.
-
-### August 13 — C skeleton and changed-case reasoning
-
-**Block A:** brief code/test review from whatever the current real implementation slice now touches. Do not study every new module equally.
-
-**Block B:** C-focused operational review:
+versus:
 
 ```text
-where is uncertainty/conflict?
-what exact discriminating target matters?
-what evidence would materially discriminate it?
-what is admissible?
-what options are dominated/non-dominated?
-what would different outcomes prune or activate?
-when should C stop?
+same acquisition already attempted and returned unavailable/problem evidence
+→ do not blindly select the identical investigation again
 ```
 
-Use one of the recorded C01/C203 cases or the real current implementation case.
+The main learning target is why uncertainty can activate a specific investigation and why attempted/unavailable is different from not-yet-checked.
 
-**Block C:** normal implementation/test work. If a real failure occurs, use error → Ali hypothesis → AI investigation.
+### Priority 4 — understand artifact serviceability at bounded depth
 
-Ownership target: one changed-case prediction, investigation-choice explanation, or diagnosis.
-
-### August 14 — integrate the old evidence engine with the new decision model
-
-**Block A:** delayed full reconstruction:
+Ali should be able to explain these distinctions:
 
 ```text
-PR → Step-7 evidence path → bounded result
+package/interpreter support
+!= compatible binary wheel availability
+
+one published wheel tag removed
+!= target lost all compatible wheels
+
+sdist/source distribution exists
+!= source build succeeds
 ```
 
-then add:
+Understand the current applicability comparison conceptually:
 
 ```text
-A: what possible target impact are we even considering?
-B: does it apply to this exact target/context?
-C: if non-final, what investigation would discriminate it?
+old published wheel tags ∩ exact target-supported tags
+versus
+proposed published wheel tags ∩ exact target-supported tags
 ```
 
-Do this before opening the full notes.
+Do not require independent wheel-tag/environment reconstruction before August 18.
 
-**Block B:** explain two cases from memory:
+### Priority 5 — understand the Target artifact-environment proof boundary
 
-- S001 as the concrete evidence-engine case;
-- one A→C challenge/pressure-test case.
+Ali should understand what the first Target workflow slice can preserve:
 
-Focus on why the evidence supports some claims and not others.
+- exact repository/revision/workflow/job provenance;
+- literal runner where visible;
+- literal setup-python version where visible;
+- statically visible direct dependency-source installation;
+- explicit unresolved/dynamic/unsupported limitations.
 
-**Block C:** continue actual implementation/testing. Inspect `git diff`/test results and explain what changed rather than only accepting the AI summary.
+Most important distinctions:
 
-Reserve **45–90 minutes** somewhere in the day for Career-market preparation if JobHunter/current market evidence still needs representative coverage for August 18.
+```text
+static workflow declaration
+!= runtime execution
+!= runtime success
+!= runtime environment formation
+!= behavior exercise
 
-Ownership target: one coherent end-to-end explanation plus one source/test effect you can defend.
+not_observed
+!= established absent
 
-### August 15 — recovery by default
+runner + Python version
+!= exact wheel compatibility tag set
+```
 
-Default to recovery and normal life.
+The recent architecture pressure found that runtime-sounding `formation` wording can be stronger than the underlying static evidence. Ali should understand the problem; memorizing the eventual renamed contract is not required before it exists.
 
-Optional 30–60 minute fast recall only if you genuinely want it:
+### Priority 6 — current architecture gate only at operational depth
 
-- one-page A→C memory sheet;
-- five random A→C questions;
-- one frozen-core question cluster.
+By August 18, Ali should understand why the architecture checkpoint exists:
 
-Do not use the day for a giant catch-up session.
+```text
+CI and Target both parse overlapping GitHub Actions source structure
++
+share some structural facts
++
+have different domain questions/proof requirements
+→ compare actual implementations before deciding what should be shared
+```
 
-### August 16 — flexible/replacement day
+Understand the three broad options:
 
-If August 11–14 produced four strong days, keep this mostly recovery or use at most one bounded 1–2 hour session.
+```text
+A — keep local parsers
+B — shared bounded GitHub Actions static IR + separate CI/Target interpreters
+C — broader combined static/runtime Actions model
+```
 
-If a weekday was lost or the real project has a valuable bounded gate/proof, use one 3–4 hour technical day without exceeding the weekly ceiling.
+Current evidence favors B with constraints.
 
-Best optional use:
+Ali should be able to explain why:
 
-- implementation/test ownership;
-- one transfer case;
-- filling one genuine frozen-core gap;
-- finishing representative JobHunter/market evidence.
+```text
+same syntax != same domain conclusion
 
-Do not spend the day rereading all A–C material.
+raw source
+!= normalized provider structure
+!= CI interpretation
+!= Target interpretation
+!= runtime evidence
+```
 
-### August 17 — pre-review consolidation, not cramming
+### Explicitly deferred architecture details
 
-Use approximately 3–4 focused hours maximum unless normal project work genuinely requires more.
+Do not make these August-18 mastery requirements:
 
-#### Part 1 — technical reconstruction
+- complete IR field taxonomy;
+- PyYAML node-composition details;
+- YAML alias/cycle internals;
+- duplicate-key implementation;
+- `SourceSpan` design details;
+- matrix/reusable-workflow implementation semantics;
+- static↔runtime step-correlation algorithm;
+- exact ADR disposition;
+- all Phase-D seams and historical findings.
+
+If UpgradePilot needs one of these during actual continuation, learn it just in time.
+
+## 6. Day-by-day plan before the review
+
+### 2026-08-15 — re-anchor and select, do not catch up on everything
+
+**Block A**
+
+- reconstruct the Step-7 core from memory;
+- read `impact/applicability.py` carefully;
+- explain the two composition functions without relying on the learning note.
+
+**Block B**
+
+- explain in your own words the progression:
+
+```text
+A/B/C theory
+→ first impact/applicability implementation
+→ first discriminating-investigation loop
+→ second artifact mechanism
+→ target evidence
+→ cross-responsibility architecture gate
+```
+
+- identify the three areas you currently feel least confident about.
+
+**Block C**
+
+- continue UpgradePilot exactly from its live `MEMORY.md` Phase-D architecture decision-classification state;
+- before one material decision, state your own preferred direction/reason or at least the tradeoff you think matters;
+- inspect what the AI records/changes afterward.
+
+Ownership target: **one source explanation + one architecture/design challenge or prediction.**
+
+### 2026-08-16 — implementation-backed consolidation
+
+**Block A**
+
+Choose one:
+
+- first investigation loop; or
+- artifact-serviceability evaluator.
+
+Trace it from inputs → state changes → output → failure/unresolved boundaries.
+
+Then inspect one representative test and explain:
+
+```text
+setup
+→ action
+→ assertion
+→ protected behavior
+→ what the test does NOT prove
+```
+
+**Block B**
+
+Use one changed case rather than rereading notes. For example, reason about why a removed wheel tag does or does not matter to a target, or why static workflow installation text does not prove runtime exercise.
+
+**Block C**
+
+Normal project continuation. If Phase D/Phase E authorizes a source migration/refactor, use that real work as the ownership opportunity. If no source change is authorized, stay with legitimate architecture work rather than manufacturing code.
+
+Ownership target: **one representative test responsibility + one changed-case reasoning example.**
+
+### 2026-08-17 — pre-assessment consolidation, not cramming
+
+Keep this day lighter if the preceding days were strong.
+
+**Block A**
 
 Without immediately opening notes:
 
-- explain UpgradePilot mission and current bounded behavior;
-- reconstruct the frozen Step-7 flow;
-- explain A, B, and C and their boundaries;
-- explain how A–C relates to the currently selected implementation slice;
-- state where your confidence drops.
+1. reconstruct the frozen Step-7 flow;
+2. explain impact/applicability composition;
+3. explain the first investigation loop;
+4. explain artifact serviceability;
+5. explain the current CI/Target architecture problem.
 
-#### Part 2 — question sampling
+Then check only the gaps.
 
-Use the August-18 checkpoint question bank as a **sampling pool**, not a memorization list.
+**Block B**
 
-Suggested rehearsal:
+Sample questions from the August-18 checkpoint. Do not attempt all questions.
 
-- 12–15 frozen-core questions chosen across architecture, Python, CI/API/trust/testing;
-- 8–10 A→C questions chosen across A, B, C, and post-audit guards;
-- answer aloud before checking notes.
-
-Repair only the important gaps exposed by the sample.
-
-#### Part 3 — ownership evidence summary
-
-Prepare a concise private record:
+Also prepare explicit calibration:
 
 ```text
-What I can now explain without help:
-What I can use with some support:
-What I still do not own:
-Best implementation/modification evidence:
-Best test evidence:
-Best debugging/diagnosis evidence:
-Best changed-case/transfer evidence:
-One place I challenged/predicted AI/project reasoning:
+What I can explain confidently:
+What I can explain with some support:
+What I have only been exposed to:
+What I currently do not own:
 ```
 
-#### Part 4 — Career evidence
+**Block C**
 
-Have ready:
+Optional normal UpgradePilot continuation if energy is good. Otherwise use the time for Career review preparation: focused-hour evidence, project progress evidence, ownership examples, market/JobHunter status, and portfolio/application-readiness inputs.
 
-- actual stopwatch hours since the last review;
-- active days and any overload;
-- current UpgradePilot stage and material progress;
-- representative market/JobHunter evidence required by the Career cycle;
-- current UpgradePilot portfolio explanation;
-- any exact blocker to application readiness.
+Ownership target: **delayed reconstruction + explicit non-ownership boundary.**
 
-No major new Career document is required merely to prepare this evidence.
+## 7. 2026-08-18 — formal Day-30 Career review
 
-## 10. August 18 — assessment day
+The review must separately assess:
 
-Do not spend the morning trying to memorize answers.
+```text
+1. UpgradePilot product/portfolio progress
+2. Ali demonstrated capability and ownership
+3. workload/sustainability
+4. market evidence
+5. portfolio/explanation readiness
+6. application readiness
+```
 
-The Day-30 Career review should inspect five things separately:
+Do not infer Ali capability directly from repository sophistication or AI-generated code.
 
-1. **Capability:** frozen technical checkpoint plus bounded A→C moving-frontier understanding.
-2. **Ownership:** explanation, prediction, modification/test participation, diagnosis, transfer, and explicit non-ownership.
-3. **Project/portfolio:** what UpgradePilot materially became and what Ali can honestly claim.
-4. **Workload:** actual focused-time evidence and sustainability.
-5. **Market/application readiness:** representative role evidence and an explicit application decision or exact blockers.
+Use [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md) as the frozen technical rubric and use recent A/B/C, artifact-serviceability, target-evidence, and architecture work only as supplementary evidence.
 
-A strong technical result does **not** require perfect recall. Career should prefer causal explanation and changed-case reasoning over memorized vocabulary.
+The review should result in explicit decisions rather than another indefinite "keep learning" state, including:
 
-A suitable technical assessment may include:
+- what capability claims are currently defensible;
+- the top remaining ownership/capability gaps;
+- whether SQL or another common market gap now requires a bounded intervention;
+- whether application/market calibration should activate or remain blocked;
+- the next Career review/reassessment target.
 
-- reduced-prompt architecture reconstruction;
-- selected checkpoint questions;
-- reading/explaining a representative source fragment;
-- explaining a representative test;
-- changed-case reasoning;
-- one debugging/modification story;
-- A→C explanation and one applied case;
-- explicit statement of current non-owned responsibilities.
+## 8. 2026-08-19 through 2026-08-21 — conditional post-review execution
 
-The review must not inflate broad D3/D4 from project sophistication or from the existence of the learning note.
+Do not predefine a detailed technical curriculum before the August-18 review.
 
-## 11. Success condition by August 18
+After the review, execute its outcome under one of these broad shapes:
 
-This period is successful if most of the following are true:
+### If market/application calibration is activated
 
-- UpgradePilot has returned from conceptual reconciliation to executable/evaluation feedback as soon as its own method permits;
-- the frozen Step-7 system is substantially more coherent and retained than on August 5;
-- Ali can explain the central A→C skeleton and important guards without pretending independent mastery;
-- A→C knowledge has begun connecting to implementation/tests/changed cases rather than remaining only conversational theory;
-- several distinct ownership signals exist;
-- the learning note functioned as a reference/retrieval tool rather than a new course;
-- no broad Conversation-D theory, second flagship, or unrelated curriculum displaced higher-value work without a concrete need;
-- workload remained sustainable and the 24-hour ceiling was not treated as a quota;
-- enough market/portfolio evidence exists for a real application-readiness decision on August 18.
+Protect UpgradePilot as the flagship while reserving bounded time for real market contact, role analysis, CV/GitHub positioning, or applications according to the review decision.
 
-## 12. Correction signals
+### If a small number of capability blockers are identified
 
-Apply the smallest correction if any of these appear:
+Keep UpgradePilot as the primary vehicle where possible and target only the exact blocker(s), with reassessment dates rather than opening broad courses/projects.
 
-- two consecutive active days after plan reconciliation with no executable/test feedback and no concrete blocker;
-- repeated full-note rereading instead of retrieval/application;
-- inability to explain A/B/C even at the three-question skeleton after repeated guided conversation;
-- new implementation advances substantially while Ali cannot identify its responsibility, inputs/outputs, or claim limits;
-- Career or JobHunter begins competing materially with UpgradePilot;
-- weekend work is being used only to repair guilt about hours;
-- broad D theory starts because it is intellectually interesting rather than technically required;
-- AI/project sophistication is being mistaken for Ali capability.
+### If the review finds ownership evidence insufficient despite strong repository progress
 
-## 13. Minimum daily evidence
+Shift some flagship time from further conceptual breadth toward selected source/test/modification/debugging repetition. Do not respond by abandoning UpgradePilot or starting a second flagship.
 
-Keep tracking lightweight. At the end of each active day record only:
+### If the review materially changes career direction or allocation
+
+Update `CAREER_STATE.md`, the current cycle/portfolio records if required by governance, and then rewrite this active execution plan accordingly.
+
+## 9. Evidence to preserve for the August-18 review
+
+Keep this lightweight. Career does not need a productivity diary.
+
+For active days, preserve enough information to recover:
 
 ```text
 Date — focused time
-Current UpgradePilot gate/responsibility:
-One thing I can now explain better:
-One ownership signal: prediction | challenge | modification | test | diagnosis | transfer
-One important thing still fuzzy:
+Main allocation
+One ownership-bearing action or observation
 Energy: good | acceptable | overloaded
 ```
 
-This evidence is for the August-18 review, not for productivity theater.
+Before the review also collect:
 
-## 14. Authority boundary
+- current UpgradePilot live state;
+- representative implementation/test progress since August 5;
+- at least two concrete Ali ownership examples;
+- one debugging/challenge/pushback example;
+- one representative test Ali can explain;
+- one source responsibility Ali can explain beyond high-level architecture;
+- explicit current non-ownership/gaps;
+- JobHunter/market evidence status;
+- current portfolio/CV/application-preparation status.
 
-Career may use this plan to say **what Ali should be able to demonstrate and what evidence should exist**.
+## 10. Success condition for this week
 
-Career must not use it to dictate UpgradePilot source design, select concrete implementation internals, write project-local tests, or replace UpgradePilot's own learning/execution system.
+This week is successful if:
 
-When a technical gap appears, UpgradePilot should teach/practise it locally. Career later evaluates whether the resulting capability evidence justifies a stronger claim.
+- UpgradePilot continues according to its own evidence-gated technical authority;
+- Ali does not attempt to memorize the entire recent architecture/design history;
+- the frozen Step-7 core is more coherent and retrievable;
+- at least one current source responsibility becomes substantially better understood;
+- recent A/B/C concepts are connected to actual implemented code/tests rather than remaining only conceptual exposure;
+- the current architecture gate is understood at the level of problem, alternatives, evidence boundary, and leading direction without demanding fresh mastery of implementation details;
+- Career has enough workload, capability, ownership, market, and portfolio evidence for a real August-18 decision;
+- the post-review direction is selected from evidence rather than fear, repository size, or calendar pressure.
+
+The operating principle is:
+
+```text
+DO NOT MASTER EVERYTHING THE PROJECT DISCUSSED.
+
+RETAIN THE CORE.
+OWN SELECTED REAL RESPONSIBILITIES.
+LEARN NEW MATERIAL JUST IN TIME.
+USE IMPLEMENTATION AND TESTS TO TURN EXPOSURE INTO CAPABILITY.
+LET AUGUST 18 DECIDE THE NEXT CAREER EMPHASIS.
+```
