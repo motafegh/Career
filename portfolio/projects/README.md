@@ -7,10 +7,11 @@ This directory gives each portfolio project its own bounded Career area without 
 ## Current project areas
 
 - [`upgradepilot/`](upgradepilot/) — active primary flagship and main current capability-building vehicle.
-- [`sentinel/`](sentinel/) — historical evidence with AI-maintained portfolio rehabilitation outside the active Career learning allocation.
+- [`jobhunter/`](jobhunter/) — active AI-full-implementation applied-AI product, market-intelligence infrastructure, and portfolio asset; not a learning flagship or automatic capability evidence.
+- [`sentinel/`](sentinel/) — active AI-full-implementation ML/data/security research and portfolio asset; not a learning flagship or automatic current ML capability evidence.
 - [`aegislab/`](aegislab/) — historical security-learning and project-design evidence.
 
-JobHunter is not stored here because Career classifies it as market-intelligence/support infrastructure. Its Career-side area is [`../../market/jobhunter/`](../../market/jobhunter/).
+JobHunter still has its Career-side market-integration authority under [`../../market/jobhunter/`](../../market/jobhunter/). Its presence here records its additional portfolio role and does not transfer market authority into the portfolio area.
 
 ## What belongs in a project area
 
