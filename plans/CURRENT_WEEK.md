@@ -1,221 +1,212 @@
-# Current Near-Term Personal Execution Plan
+# Current Post-Day-30 Career Directive Plan
 
 **Owner:** Ali Rajabi  
-**Status:** Active post-Day-30 Career execution aid  
-**Period:** 2026-08-18 through 2026-08-21  
-**Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md) and [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
-**Day-30 review:** [`../tracking/CAREER_REVIEW_LOG.md`](../tracking/CAREER_REVIEW_LOG.md)  
-**Technical truth owner:** `motafegh/UpgradePilot` source, tests, `MEMORY.md`, current plans, learning evidence, and working memory
+**Status:** Active Career-level directive plan  
+**Period:** 2026-08-18 through the next Career reassessment trigger  
+**Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md), and [`../governance/CAREER_OPERATING_CONTRACT.md`](../governance/CAREER_OPERATING_CONTRACT.md)  
+**Project execution authority:** Each technical project repository and its own governance/session system
 
 ## 1. Purpose
 
-Use the remainder of the current week to act on the 2026-08-18 Day-30 result rather than immediately opening another broad planning cycle.
+Translate the 2026-08-18 Day-30 review into **macro-level Career directives, evidence requirements, allocation boundaries, and return-to-Career triggers**.
 
-The review found:
+This plan does not prescribe project learning sessions, source files, tests, commands, implementation sequence, debugging steps, or technical milestones.
+
+Use the operating model:
 
 ```text
-conceptual / evidence reasoning      materially improved
-technical critique                   real recurring strength
-source ownership                     not established
-test ownership                       not established
-meaningful source/test modification  not established
-new current failure diagnosis        not established
-SQL / relational-data evidence       weak or unassessed
-normal application readiness         not yet active
+Career assessment
+→ Career-level directive / evidence requirement
+→ project-local execution in the relevant repository/session
+→ project-local evidence preservation
+→ return to Career at a defined trigger
+→ Career validation / reassessment / next directive
 ```
 
-The correction is therefore **selective executable ownership**, not more technology breadth.
+Career states **what must become true and why it matters**. The relevant project decides **how to make it true**.
 
-This file defines Career outcomes only. UpgradePilot controls exact technical sequencing and source changes.
+## 2. Day-30 findings that control the directives
 
-## 2. Workload and allocation
+The Day-30 review established:
+
+```text
+Evidence / uncertainty / claim-boundary reasoning   materially improved
+Technical critique and AI-direction                 meaningful current strength
+Current source ownership                            not established
+Representative test ownership                       not established
+Meaningful source/test modification ownership       not established
+New current failure-diagnosis evidence              not established
+SQL / relational-data evidence                      weak or unassessed
+Normal application readiness                        not yet active
+```
+
+These are Career conclusions. They do not define an UpgradePilot lesson plan.
+
+## 3. Portfolio allocation directive
+
+### UpgradePilot
+
+Career role:
+
+> **Sole primary capability / ownership flagship**
+
+Directive:
+
+- retain the majority of Ali's technical attention;
+- continue producing real engineering responsibilities and evidence through its own governance;
+- prioritize opportunities that can eventually close the Day-30 ownership gap without distorting the project's legitimate technical route;
+- do not add Career-driven technology solely for résumé breadth.
+
+Career does not choose the exact responsibility, module, test, failure, implementation, or teaching method.
+
+### JobHunter
+
+Career role:
+
+> **Active AI-full-implementation Applied-AI portfolio asset + Career market-intelligence infrastructure**
+
+Directive:
+
+- continue independently under JobHunter governance;
+- preserve source/sample/model provenance and assistance boundaries;
+- return to Career when a representative reviewed Market Evidence Snapshot exists, when a material portfolio claim is proposed, or when its market evidence could change a Career decision;
+- do not turn JobHunter into a second source-learning flagship by default.
+
+### Sentinel
+
+Career role:
+
+> **Active AI-full-implementation ML/data/security research portfolio asset**
+
+Directive:
+
+- continue independently under Sentinel governance;
+- preserve the distinction between original Ali-involved evidence and current AI-full-implementation research;
+- return to Career when a material research gate changes the portfolio story, a Sentinel claim is proposed for CV/interview use, or Ali wants one bounded current responsibility formally reassessed;
+- do not make Sentinel a parallel learning flagship by default.
+
+### AegisLab
+
+Remains historical evidence with no active Career allocation.
+
+## 4. UpgradePilot capability-evidence directive
+
+Career does **not** instruct UpgradePilot how to teach or implement the following.
+
+For the next meaningful ownership reassessment, Career wants evidence across these classes:
+
+1. **Current-source understanding** — Ali can explain one meaningful current implementation responsibility beyond an AI summary.
+2. **Representative test understanding** — Ali can explain what one meaningful test establishes and what it does not establish.
+3. **Ownership-bearing change** — Ali materially understands and participates in at least one meaningful implementation or test change rather than only approving a generated result.
+4. **Failure diagnosis** — Ali contributes a useful hypothesis, discriminating evidence choice, localization, or repair direction on a real relevant failure with reduced assistance.
+
+These are **assessment criteria**, not a prescribed project sequence.
+
+UpgradePilot should satisfy them only through technically legitimate project work chosen by its own project-local authorities. If one category is not naturally available yet, the project should not manufacture an artificial responsibility merely to satisfy Career.
+
+When sufficient evidence exists, Ali returns to Career and Career tests/validates the claim directly.
+
+## 5. SQL / relational-data directive
+
+Day-30 market evidence keeps SQL and relational-data capability as a material gap.
+
+Career directive:
+
+- do not start a new major SQL project;
+- do not force SQL into UpgradePilot or another project for résumé appearance;
+- allow the relevant project/session to determine whether an existing legitimate responsibility can produce bounded relational-data evidence;
+- if no current project can do so proportionately, return that fact to Career so Career can decide whether the smallest separate intervention is justified.
+
+Career will decide **whether SQL evidence is required and how much evidence is enough for the target role band**. The technical environment chosen later will own the detailed teaching and execution.
+
+## 6. Portfolio and positioning directive
+
+Career owns market-facing interpretation and claims.
+
+Current portfolio model:
+
+```text
+UpgradePilot → primary engineering capability / ownership story
+JobHunter    → Applied-AI product / reliability / market-intelligence story
+Sentinel     → ML / data / evaluation / security research story
+AegisLab     → historical role-specific evidence
+```
+
+Career must continue to:
+
+- keep public claims aligned with demonstrated Ali evidence and explicit AI assistance;
+- improve concise project explanations and GitHub/CV positioning when needed for application readiness;
+- select project emphasis by role family rather than treating every repository equally;
+- reject any claim that converts AI-full-implementation sophistication into Ali implementation ownership without assessment.
+
+Detailed technical rehabilitation or README/source work needed inside a project belongs to that project repository/session after Career identifies the macro presentation need.
+
+## 7. Market and application directive
+
+Normal applications remain inactive after Day 30.
+
+Current reason:
+
+- the primary flagship still lacks sufficient demonstrated current implementation/test/diagnostic ownership for the intended normal target band;
+- SQL/relational evidence remains weak;
+- market-facing positioning is not yet fully closed.
+
+This is a bounded hold, not an indefinite learning period.
+
+A specific internship, trainee, graduate, contribution, or structured-program opportunity may trigger an earlier Career review if it is unusually well matched.
+
+Normal application readiness must be reassessed at the earliest sufficient evidence or by **2026-09-01**.
+
+Career, not a technical project, owns the activation decision.
+
+## 8. Workload and allocation directive
 
 Retain Green mode:
 
-- up to 24 focused hours/week;
-- normally about 2–4 focused hours on an active day is acceptable;
-- do not force hours to hit a quota;
-- keep roughly 75–85% of Ali's personal technical attention on UpgradePilot;
-- use the remaining 15–25% for Career/market/portfolio work and bounded JobHunter/Sentinel review when useful;
-- autonomous AI work in JobHunter/Sentinel is not Ali focused learning time.
+- up to 24 focused hours per week as a ceiling, not a quota;
+- recent 2–4 focused-hour active days are acceptable;
+- keep approximately 75–85% of Ali's personal technical attention available to the primary flagship unless a later Career decision changes allocation;
+- use the remainder for bounded Career/market/portfolio work and selective JobHunter/Sentinel review;
+- autonomous AI execution in JobHunter or Sentinel does not count as Ali learning/ownership evidence merely because it consumes machine time.
 
-Do not try to learn all three active repositories simultaneously.
+Do not require Ali to study all active repositories simultaneously.
 
-## 3. Priority A — continue the current UpgradePilot real-case learning route into source/tests
+## 9. Return-to-Career triggers
 
-Do **not** restart from a generic Python curriculum.
+Ali should return to Career for assessment or a new macro decision when any of the following occurs:
 
-Continue from the project-local real-case mastery route and make sure the next progress crosses from conceptual understanding into actual implementation contact.
+- UpgradePilot has enough new evidence that the Day-30 ownership conclusion may change;
+- a bounded SQL/relational-data evidence opportunity is completed or project owners report that no proportionate existing-project route exists;
+- JobHunter produces a representative reviewed Career-facing market snapshot;
+- a JobHunter or Sentinel portfolio/CV claim is proposed or materially changes;
+- a specific vacancy merits readiness review;
+- GitHub/CV/project positioning becomes ready enough to affect applications;
+- workload or project allocation becomes materially unsustainable;
+- role/geography/strategy evidence materially changes;
+- **2026-09-01** arrives without an earlier readiness reassessment.
 
-Career wants evidence of this shape:
-
-```text
-real case / proposition
-→ actual source function/type
-→ inputs + control flow + outputs
-→ representative test
-→ Ali prediction or explanation
-→ one changed case or bounded modification
-→ actual result/failure
-→ diagnosis / what the test proves and does not prove
-```
-
-The exact module/function is chosen by UpgradePilot's live learning/execution state, not by Career.
-
-### Minimum near-term ownership targets
-
-By the next Career reassessment, obtain all four eventually:
-
-1. **Source** — one central current Python responsibility Ali can explain without relying only on an AI summary.
-2. **Test** — one representative real test Ali can explain as setup → action → assertion → protected behavior → non-proof.
-3. **Modification** — one meaningful source or test change Ali understands before/during the change and can explain afterward.
-4. **Diagnosis** — one current real failure where Ali forms or selects a useful hypothesis/evidence step with reduced assistance.
-
-Do not manufacture artificial failures merely to check a Career box. Use real project work.
-
-## 4. Priority B — preserve conceptual strengths while connecting them to code
-
-Continue using the reasoning strengths demonstrated at Day 30:
-
-- evidence versus inference;
-- unresolved/unavailable versus false/unsafe;
-- static declaration versus runtime evidence;
-- authority/provenance;
-- direct versus transitive dependency;
-- proposition-specific proof;
-- LLM candidate versus deterministic trust admission;
-- questioning complexity/hardcoding instead of accepting architecture automatically.
-
-But each new conceptual block should increasingly reconnect to actual source/tests.
-
-Do not spend another multi-day period entirely in architecture discussion unless the live project genuinely faces a high-cost architecture decision.
-
-## 5. Priority C — SQL / relational-data evidence: select, do not sprawl
-
-SQL is now a confirmed material market gap, but this week does **not** require starting a detached SQL course or new project.
-
-By 2026-08-21, Career only needs a selection decision:
-
-```text
-Can an existing project provide a bounded real SQL/relational responsibility soon?
-├── yes → use that responsibility when project timing permits
-└── no  → later authorize the smallest practical SQL exercise needed for evidence
-```
-
-JobHunter contains SQLite-backed product state, but its repository implementation is AI-full-implementation. It becomes Ali SQL evidence only if a bounded SQL/schema/query responsibility is deliberately selected and reassessed.
-
-UpgradePilot may also become the vehicle if persistence/SQL naturally enters its authorized route.
-
-Do not force SQL into UpgradePilot architecture merely for the CV.
-
-## 6. Priority D — portfolio and positioning preparation
-
-The Day-30 portfolio roles are now:
-
-```text
-UpgradePilot → primary ownership/capability flagship
-JobHunter    → Applied-AI product/reliability + market-intelligence asset
-Sentinel     → ML/data/evaluation/security research asset
-AegisLab     → historical evidence
-```
-
-Before normal applications activate, Career must refresh:
-
-- the broad master CV project selection/bullets;
-- GitHub/profile presentation;
-- one concise technical and non-technical explanation of UpgradePilot;
-- one concise honest JobHunter Applied-AI story;
-- one concise Sentinel ML/data/evaluation story;
-- assistance/non-ownership wording.
-
-Do not create role-specific CV variants or application trackers yet.
-
-## 7. Priority E — market use
-
-Use [`../market/2026-08-18_DAY30_MARKET_BASELINE.md`](../market/2026-08-18_DAY30_MARKET_BASELINE.md) as the current bounded market baseline.
-
-JobHunter may continue heterogeneous semantic validation and market-data accumulation independently.
-
-Career should not wait for every JobHunter feature before progressing, but should use its first representative reviewed Market Evidence Snapshot when available to improve the next readiness decision.
-
-A single unusually good internship/trainee/structured-program vacancy may trigger an earlier vacancy-specific review even while broad applications remain inactive.
-
-## 8. Day-by-day remainder of this week
-
-### 2026-08-18 — review closeout
-
-- complete the Day-30 Career review and canonical writeback;
-- do not add more technical study merely because the review finished;
-- resume UpgradePilot normally only if useful energy/time remains.
-
-### 2026-08-19 — source/test transition
-
-Main objective:
-
-> Continue the active UpgradePilot real-case learning route and reach actual source/control-flow understanding rather than another standalone architecture discussion.
-
-Target one bounded source responsibility; inspect the real code and at least identify the nearest representative tests if project sequencing permits.
-
-### 2026-08-20 — ownership-bearing continuation
-
-Use normal UpgradePilot work.
-
-Aim for one of:
-
-- representative test explanation;
-- pre-change prediction;
-- meaningful source/test modification;
-- changed-case reasoning tied to actual code;
-- real failure localization.
-
-Do not require all of them in one day.
-
-### 2026-08-21 — checkpoint and next-week setup
-
-Briefly check:
-
-```text
-Did we cross from concepts into source/tests?
-Did Ali understand one real test?
-Did any meaningful modification/diagnosis opportunity occur?
-Is an existing-project SQL responsibility visible?
-What portfolio/CV item is the highest-value next positioning task?
-```
-
-Then set the next near-term execution plan. Do not create a large new 60-day curriculum.
-
-## 9. Application-readiness trigger
-
-Normal applications remain inactive.
-
-Reassess at the earliest of:
-
-- one meaningful UpgradePilot source modification + representative test ownership + one real failure/diagnosis with reduced assistance;
-- bounded SQL/relational-data evidence plus sufficient market-facing positioning;
-- **2026-09-01**, if enough combined evidence exists.
-
-E3 does not require perfection. The purpose of the hold is to correct a specific mismatch, not to wait for full mastery.
+Ordinary project commits, learning chunks, tests, implementation decisions, and blockers do not by themselves require a Career update.
 
 ## 10. Stop lines
 
-Do not:
+Career must not:
 
-- start a second learning flagship;
-- turn JobHunter or Sentinel into parallel source-study obligations;
-- force SQL, cloud, RAG, agents, Kubernetes, or another technology into UpgradePilot for résumé breadth;
-- count AI-full-implementation repository progress as Ali capability;
-- spend the remainder of the week writing more Career documentation unless a material Career decision changes;
-- create application/interview trackers before application activation;
-- move the application-readiness date indefinitely.
+- create project-local learning or implementation plans;
+- prescribe exact source files/functions/tests for a project to study or change;
+- manage day-by-day project execution;
+- duplicate project working memory or TODOs;
+- turn JobHunter or Sentinel into parallel learning obligations without a new Career decision;
+- force SQL, cloud, RAG, agents, Kubernetes, security, or another technology into a project for résumé breadth;
+- count AI-full-implementation progress as Ali capability;
+- create detailed application/interview infrastructure before activation;
+- defer the next readiness decision indefinitely.
 
-## 11. Success for this remainder-week plan
+## 11. Success condition
 
-A strong result is modest and concrete:
+This directive plan succeeds when:
 
-- Day-30 Career records are clean and current;
-- UpgradePilot remains dominant;
-- Ali crosses from recent conceptual mastery into at least meaningful current-source/test contact;
-- one ownership-bearing action begins or becomes imminent through real project work;
-- the SQL vehicle decision becomes clearer;
-- no new-project diversion occurs;
-- portfolio/application preparation has a clear next step.
+- each project operates independently inside its own repository/session;
+- Career retains only macro direction, allocation, evidence gates, claims, market strategy, and review triggers;
+- the next Career assessment receives project-local evidence rather than Career-managed execution detail;
+- capability claims change only after Career validates Ali's actual evidence;
+- application readiness is explicitly reassessed at the defined trigger.
