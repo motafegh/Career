@@ -3,6 +3,7 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling Career strategy  
 **Activated:** 2026-07-27  
+**Last reviewed:** 2026-08-18 — Day-30 strategy/portfolio reconciliation  
 **Responsibility:** Long-term direction, working identity, role targets, capability priorities, portfolio strategy, geography, market-entry logic, and strategy change criteria
 
 ## 1. Strategic objective
@@ -165,7 +166,7 @@ The desired capability is AI-augmented engineering with explicit human responsib
 
 ## 9. Current portfolio strategy
 
-### Primary flagship
+### Primary capability-building flagship
 
 UpgradePilot remains the main current vehicle for:
 
@@ -177,22 +178,42 @@ UpgradePilot remains the main current vehicle for:
 - later persistence, evaluation, ML/AI, and selected operations work;
 - portfolio explanation and ownership defense.
 
-### Historical projects
+Day-30 correction: recent conceptual/architecture progress was real, but direct source reading, representative test understanding, meaningful modification, and current failure diagnosis remain the most important missing ownership evidence. The next phase should convert current project context into those behaviors rather than adding another project.
 
-- Sentinel supplies historical evidence, lessons, and bounded reusable demonstrations.
-- AegisLab supplies security-learning, failure-diagnosis, and project-design evidence.
+### Active AI-full-implementation portfolio/support assets
 
-They are not active routes and must not compete with UpgradePilot without a new Career decision.
+**JobHunter** has two approved roles:
+
+- Career market-intelligence infrastructure under `market/jobhunter/`;
+- active Applied-AI product/portfolio asset.
+
+Its current implementation does not automatically establish Ali's FastAPI, SQLite/SQL, LLM, testing, or backend ownership.
+
+**Sentinel** is an active AI-full-implementation ML/data/security research and portfolio asset. Its strongest current Career value is the evidence-driven R4 research story around dataset integrity, leakage grouping, evaluation adequacy, and refusal to authorize stronger training/quality claims while confirmed-negative evidence is absent.
+
+Its current implementation does not automatically establish Ali's current ML/data/source ownership.
+
+### Historical project
+
+AegisLab supplies security-learning, failure-diagnosis, and project-design evidence and remains inactive unless a later Career need justifies a bounded reuse.
+
+### Allocation rule
+
+Only UpgradePilot is the primary capability-building route.
+
+JobHunter and Sentinel may continue technically under AI-full-implementation without becoming parallel learning flagships. Ali should not attempt to learn all three codebases simultaneously.
 
 ### Supporting work
 
 A supporting mini-project or exercise may be admitted only when:
 
-- a specific employment-critical gap cannot be addressed proportionately in the flagship;
+- a specific employment-critical gap cannot be addressed proportionately in the flagship or an already active portfolio project;
 - the scope is bounded;
 - the output has clear capability or portfolio value;
 - the allocation does not undermine the primary project;
 - completion or stop criteria are explicit.
+
+The Day-30 review did **not** justify another supporting project. SQL/relational-data evidence should first be sought through a bounded responsibility in an existing project or a minimal exercise if no proportional project path exists.
 
 ## 10. Portfolio claim strategy
 
@@ -208,6 +229,15 @@ A strong portfolio should show:
 - a concise career narrative connecting the work to target roles.
 
 Portfolio claims must not imply independent ownership of AI-generated sections without evidence.
+
+For AI-full-implementation projects, distinguish explicitly among:
+
+```text
+repository/product capability
+Ali direction/review evidence
+AI implementation contribution
+later reassessed Ali capability
+```
 
 ## 11. Geographic and work-mode strategy
 
@@ -253,6 +283,8 @@ Market work has four stages:
 
 Ali should not wait for every capability gap to close before M2. Application activation requires a reasoned readiness decision, not perfection.
 
+The 2026-08-18 Day-30 review retained M1/E1 and set a bounded correction rather than indefinite delay: current source/test/modification/debugging ownership, SQL evidence, and market-facing portfolio/CV/GitHub positioning are the main readiness blockers. Reassess by 2026-09-01 or earlier when sufficient evidence exists.
+
 ## 13. Current strategic non-claims
 
 The strategy does not claim that Ali is currently:
@@ -261,8 +293,10 @@ The strategy does not claim that Ali is currently:
 - independently job-ready for every role family;
 - a professional security, ML, cloud, or distributed-systems engineer;
 - production-ready because a project is production-oriented;
-- capable of owning all prior AI-assisted project architecture;
+- capable of owning all prior or current AI-assisted project architecture;
 - required to achieve advanced mastery before applying.
+
+It also does not claim that current JobHunter or Sentinel implementation belongs to Ali merely because those repositories are active under his direction.
 
 ## 14. Strategy review triggers
 
