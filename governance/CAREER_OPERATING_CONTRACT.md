@@ -9,9 +9,37 @@
 
 This contract governs career-level operation.
 
-It does not govern ordinary UpgradePilot or other project implementation, technical plans, exact next actions, commands, source changes, tests, blockers, or working memory.
+It does not govern ordinary UpgradePilot or other project implementation, technical plans, exact next actions, commands, source changes, tests, blockers, working memory, learning sessions, or project-local execution methods.
 
-Project repositories own project operation. Career inspects them only when a career question, review, capability assessment, portfolio claim, workload decision, or strategy decision requires it.
+Project repositories own project operation. Career inspects them only when a career question, review, capability assessment, portfolio claim, workload decision, strategy decision, or Career-defined evidence gate requires it.
+
+### Career-to-project handoff
+
+Career may decide **what career outcome or evidence is required**, including:
+
+- capability or ownership evidence that must exist before a stronger claim;
+- portfolio or CV evidence/claim boundaries;
+- market or application-readiness requirements;
+- project role and allocation;
+- workload ceilings;
+- acceptance conditions and reassessment triggers.
+
+Career should then hand the requirement to the relevant project environment rather than operate the project itself.
+
+Use:
+
+```text
+Career question / assessment
+→ macro directive + evidence gate
+→ project-local planning / learning / implementation / testing
+→ project-local evidence preservation
+→ return to Career at trigger
+→ Career validation / reassessment / next decision
+```
+
+Career normally specifies **what must become true and how Career will assess it**. The project specifies **how, where, and in what order to execute it**.
+
+Career must not duplicate or control project-local source-study plans, tests, commands, learning chunks, debugging sequences, implementation plans, TODOs, milestones, or working memory.
 
 ## 2. Current workload modes
 
@@ -25,7 +53,7 @@ Project repositories own project operation. Career inspects them only when a car
 ### Yellow mode
 
 - Reduced safe target: approximately 2.5 focused hours.
-- Prefer bounded implementation, testing, review, reproduction, evidence organization, or low-risk learning.
+- Prefer bounded implementation, testing, review, reproduction, evidence organization, or low-risk learning inside the appropriate project environment.
 - Avoid consequential architecture, project-allocation, or career-strategy decisions when judgment is materially reduced.
 - Missing capacity may be recovered within the same week only when safe; it does not create debt that justifies unsafe overwork.
 
@@ -78,6 +106,8 @@ A review occurs when:
 
 A review records only career-level conclusions in `CAREER_STATE.md`, `tracking/CAPABILITY_EVIDENCE_LEDGER.md`, `portfolio/`, `market/`, or `tracking/CAREER_REVIEW_LOG.md` as applicable.
 
+When a review identifies a project-addressable gap, Career records the gap, required evidence/acceptance condition, and reassessment trigger. Detailed remediation belongs to the relevant project repository/session.
+
 ## 5. Project allocation rules
 
 - One primary flagship is the default.
@@ -87,7 +117,7 @@ A review records only career-level conclusions in `CAREER_STATE.md`, `tracking/C
 - A new major project requires evidence that the current portfolio cannot address the intended career need proportionately.
 - A project may be paused, narrowed, reclassified, or retired when evidence shows insufficient capability value, portfolio value, feasibility, motivation, or market relevance.
 
-Career assigns project roles. Project repositories control technical execution.
+Career assigns project roles and macro evidence requirements. Project repositories control technical execution.
 
 ## 6. Anti-diversion commitments
 
@@ -102,7 +132,7 @@ Do not:
 - treat documentation, repository size, or AI-generated sophistication as capability;
 - delay market calibration indefinitely while waiting for perfect readiness;
 - create trackers, plans, or templates before the relevant phase becomes active;
-- duplicate project live state in Career.
+- duplicate project live state, execution plans, learning plans, TODOs, or working memory in Career.
 
 ## 7. Capability and claim discipline
 
@@ -127,6 +157,8 @@ Portfolio and resume claims must distinguish:
 - AI-generated and AI-assisted work;
 - Ali-directed, verified, modified, diagnosed, or owned responsibilities;
 - known limitations.
+
+Career may directly test or validate these properties during a formal assessment. Any detailed learning/remediation discovered by the assessment returns to the relevant project/session.
 
 ## 8. Career-route change
 
@@ -178,6 +210,8 @@ Advanced systems and technologies may be explored when they serve:
 
 No fixed technology quota may force artificial architecture. Exposure, pilot, adoption, and independent capability remain distinct.
 
+Career may authorize the career need, ceiling, and evidence question. The technical project/environment owns the detailed experiment or implementation.
+
 ## 11. Document discipline
 
 Before creating or editing a Career artifact, verify:
@@ -189,10 +223,12 @@ Before creating or editing a Career artifact, verify:
 5. the artifact is public-safe;
 6. a simpler existing file cannot hold the information clearly.
 
+Career plans should contain macro objectives, allocation, evidence gates, claim boundaries, and review triggers. They should not become technical project/session plans.
+
 Use Git history as the default archive. Retain explicit historical files only when they remain useful evidence or orientation.
 
 ## 12. Maintenance
 
-Change this contract only when workload modes, Career review behavior, project allocation rules, anti-diversion commitments, capability claims, market activation, route-change logic, or document discipline changes.
+Change this contract only when workload modes, Career review behavior, Career-to-project handoff, project allocation rules, anti-diversion commitments, capability claims, market activation, route-change logic, or document discipline changes.
 
 Current cycle dates and outcomes belong in `plans/CURRENT_CAREER_CYCLE.md`; current position belongs in `CAREER_STATE.md`.
