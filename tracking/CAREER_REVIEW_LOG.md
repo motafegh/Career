@@ -319,6 +319,142 @@ Conduct the **2026-08-18 Day-30 capability, portfolio, market, workload, and app
 
 **Next review trigger:** 2026-08-18 Day-30 review, or earlier if a material capability/portfolio claim, representative JobHunter market snapshot, application-readiness question, workload problem, or strategy concern requires a Career decision.
 
+---
+
+### 2026-08-18 — Day-30 capability, portfolio, workload, market, and application-readiness review
+
+**Trigger:** Scheduled Day-30 review under `plans/CURRENT_CAREER_CYCLE.md`; Ali requested a full current re-baseline across Career, UpgradePilot, JobHunter, and Sentinel and then completed an interactive capability assessment without consulting project notes for the sampled questions.
+
+**Career questions:**
+
+1. What capability and ownership can Ali defend now?
+2. Is UpgradePilot still the correct primary flagship?
+3. What Career roles should JobHunter and Sentinel now have?
+4. Is the recent workload sustainable?
+5. What do current UAE/broader-Asia junior/graduate roles imply?
+6. Are normal calibration applications ready to activate?
+7. What is the smallest correction for the next phase of the cycle?
+
+**Evidence inspected:**
+
+- Career authority/state, current cycle, technical checkpoint, current-week plan, portfolio, capability ledger, market plan, JobHunter integration contract, master CV, and prior review history;
+- current UpgradePilot `MEMORY.md`, recent real-case learning contract/memory, and current dependency-environment/CI-consumption learning state;
+- current JobHunter working memory, accepted P1.6 v20 and Capability v9 state, public corpus closure, and 2026-08-17 heterogeneous `tmBK` depth-canonicalization rejection/correction;
+- current Sentinel R4 status/gap ledger, repaired physical DATA, corrected logical V3 grouping, evidence-coherence closeout, selector evidence, and confirmed-negative pilot state;
+- Ali's retrospective workload report for approximately 2026-08-05 through 2026-08-18: active on most days, usually around 2–4 focused hours with stronger focused days around 3.5 hours, approximately 80% of personal attention on UpgradePilot and 20% on other Career/projects, with much recent UpgradePilot effort spent on technical architecture/design rather than coding;
+- Ali's own examples of technical pushback: challenging narrowly case-shaped implementation/hardcoding pressure and challenging whether revision/blob/byte provenance fields actually justified their complexity/use;
+- delayed no-notes technical assessment of Soup Sieve/transitive dependency, uv/uv.lock, CI/GitHub Actions, evidence/uncertainty boundaries, exact-source identity, product mission, PR/dependency flow, crossed releases, upstream authority, CI proof boundaries, LLM trust, and target relevance;
+- explicit assessment that Ali had not yet deeply read a current central Python module, inspected a representative current test, participated in a meaningful understood source/test modification, or produced a new current failure-diagnosis case after the earlier proxy incident;
+- bounded current public market sample recorded in `market/2026-08-18_DAY30_MARKET_BASELINE.md`, including junior/graduate Python/backend and GenAI roles in Dubai/UAE and Singapore/Asia.
+
+**Project contribution conclusion:**
+
+- UpgradePilot remains the correct sole primary capability-building flagship. Its product sophistication has grown substantially, and the new real-case learning route is correctly attempting to convert that progress into source-linked understanding rather than continuously expanding abstraction breadth.
+- JobHunter is now materially more than background support infrastructure: it is an active AI-full-implementation applied-AI product, remains Career market-intelligence infrastructure, and is also a defensible portfolio asset. Its implementation is not automatic Ali capability evidence.
+- Sentinel is no longer usefully described as only inactive historical evidence. It is an active AI-full-implementation ML/data/security research asset and portfolio case-study source. Current R4 research strengthens the portfolio narrative but does not automatically become Ali ML/source ownership.
+- AegisLab remains historical evidence.
+- No additional learning flagship or advanced-system project is justified.
+
+**Capability conclusion:**
+
+The frozen 2026-08-18 technical checkpoint was **partially achieved**.
+
+Positive evidence:
+
+- D2 guided evidence/uncertainty/claim-boundary reasoning is now stronger and retained after delay;
+- Ali can reconstruct several central UpgradePilot trust concepts without immediate AI prose;
+- selected real dependency/lockfile/CI concepts from the S001 learning route are retained at D2 guided depth with precision gaps;
+- bounded LLM trust reasoning is understood conceptually as deterministic source selection → untrusted semantic candidate → deterministic validation;
+- AI-assisted technical critique/direction is a recurring relative strength, with provisional D3 signals for selected challenge responsibilities.
+
+Missed checkpoint:
+
+- current central Python source ownership is not established;
+- representative current test understanding is not established;
+- meaningful understood source/test modification is not established;
+- recent unfamiliar debugging/failure diagnosis is not established;
+- broad D3 Python/application ownership is therefore not supported.
+
+The most important Day-30 interpretation is not that Ali failed to learn Python after repeated unsuccessful implementation attempts. The needed ownership work largely has **not yet been performed** because recent effort was heavily weighted toward architecture/design/concept work. The correction is therefore to convert existing project context into source/test/modification/diagnosis repetition rather than opening another broad course or project.
+
+**Assistance and transfer limits:**
+
+UpgradePilot remains substantially AI-assisted. JobHunter and current Sentinel continuation are AI-full-implementation. Ali's strongest current personal evidence lies in conceptual reconstruction, evidence boundaries, technical challenge, project direction, and one older proxy-diagnostic redirect—not in independent implementation of the current repositories.
+
+**Workload decision:**
+
+- Retain Green mode and the existing **24 focused-hour weekly ceiling**; it remains a ceiling, not a quota.
+- The August 5–18 pattern of mostly 2–4 focused hours on active days appears sustainable enough to retain.
+- Keep the majority of Ali's cognitive work on UpgradePilot; the recent approximately 80/20 flagship-versus-other split is strategically healthy.
+- Do not count autonomous AI activity in JobHunter/Sentinel as Ali focused learning hours.
+- Architecture/design work remains legitimate technical work, but the next correction window should deliberately increase executable source/test/debugging contact.
+
+**Portfolio decision:**
+
+- UpgradePilot = primary capability/ownership flagship.
+- JobHunter = active AI-full-implementation applied-AI product + Career market-intelligence infrastructure + portfolio asset.
+- Sentinel = active AI-full-implementation ML/data/security research asset + portfolio case-study source.
+- AegisLab = historical evidence.
+- Do not learn all three codebases in parallel.
+- Default role-specific ordering should be vacancy-dependent; UpgradePilot anchors ownership, JobHunter anchors Applied-AI product/reliability, and Sentinel anchors ML/data/evaluation/security research.
+
+**Role/market decision:**
+
+Keep the current working identity and primary role direction unchanged.
+
+The current bounded market sample continues to show that realistic junior/graduate routes exist, including mentored Python/backend and GenAI roles, but repeatedly expects practical Python coding, SQL/relational data, APIs, tests/debugging, Git/review workflow, and bounded independent delivery. Applied-AI roles add LLM/RAG/evaluation/cloud breadth rather than replacing the engineering core.
+
+Day-30 capability priority becomes:
+
+1. current UpgradePilot source/test/modification/debugging ownership;
+2. bounded SQL/relational-data evidence;
+3. portfolio/CV/GitHub explanation and claim quality;
+4. ordinary Git/code-review competence;
+5. API/backend/deployment evidence when naturally reached.
+
+No new advanced technology or project is justified by the current sample.
+
+**Application-readiness decision:**
+
+**Normal calibration applications remain inactive.**
+
+Exact blockers:
+
+1. no demonstrated current source/test/modification ownership in the primary flagship;
+2. weak/unassessed SQL and relational-data evidence despite repeated market relevance;
+3. market-facing CV/GitHub/project explanations are not yet refreshed around the current three-project portfolio and assistance boundaries;
+4. geography/work-authorization/degree/eligibility constraints remain vacancy-specific and must be handled for actual applications.
+
+This is a bounded correction, not an indefinite hold.
+
+A narrower internship/trainee/structured-program application may be reviewed earlier on a vacancy-specific basis if technical fit and practical eligibility are unusually favorable.
+
+**Reassessment:**
+
+Reassess application readiness at the earliest of:
+
+- one meaningful UpgradePilot source modification plus representative test ownership and one real failure/diagnosis with reduced assistance;
+- one bounded SQL/relational-data responsibility with inspectable evidence plus sufficient portfolio positioning;
+- **2026-09-01**, if enough combined evidence exists by then.
+
+Do not wait automatically until Day 60 if the blockers clear earlier.
+
+**Claim changes:**
+
+Career may now more confidently claim guided evidence/trust reasoning, delayed retention of selected dependency/CI concepts, and recurring AI-assisted technical critique.
+
+Career must explicitly retain the non-claim that current source/test/modification/debugging ownership was not established at Day 30 and that JobHunter/current Sentinel implementation does not transfer automatically to Ali.
+
+**Career state changes:**
+
+- Day-30 review is complete.
+- Employability remains E1, but the next step is a bounded E2/ownership correction rather than another general market-calibration period.
+- Applications remain inactive with explicit blockers and a 2026-09-01-or-earlier reassessment trigger.
+- Portfolio allocation changes materially to recognize JobHunter and Sentinel as active AI-full-implementation portfolio assets while UpgradePilot remains the sole capability-building flagship.
+- Workload ceiling remains unchanged.
+
+**Next review trigger:** Earliest of the ownership/SQL/positioning evidence above, a vacancy-specific internship/trainee opportunity worth reviewing, 2026-09-01 application-readiness reassessment, or any material workload/strategy/project-fit change.
+
 ## 4. Review triggers
 
 A new entry is appropriate when:
