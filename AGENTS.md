@@ -6,7 +6,7 @@ Operate this repository as Ali Rajabi's durable, public-safe career operating sy
 
 Career is broader than one project or one 90-day cycle. It governs Ali's professional profile, strategy, project portfolio, capability evidence, employability, market transition, workload, reviews, and long-term decisions.
 
-Do not operate UpgradePilot, JobHunter, or any other technical project from Career.
+Do not operate UpgradePilot, JobHunter, Sentinel, or any other technical project from Career.
 
 ## Instruction precedence
 
@@ -42,7 +42,7 @@ It owns:
 
 Do not duplicate these status statements across strategy, portfolio, market, capability, or review files.
 
-Do not put UpgradePilot or JobHunter technical next actions in `CAREER_STATE.md`.
+Do not put UpgradePilot, JobHunter, Sentinel, or another project's technical next actions in `CAREER_STATE.md`.
 
 ## Truth routing
 
@@ -60,9 +60,10 @@ Do not put UpgradePilot or JobHunter technical next actions in `CAREER_STATE.md`
 | Employability and market transition | `market/EMPLOYABILITY_AND_MARKET_PLAN.md` |
 | Career-facing JobHunter requirements and use rules | `market/jobhunter/CAREER_REQUIREMENTS.md` and `market/jobhunter/CAREER_INTEGRATION_AND_USE.md` |
 | Career review decisions | `tracking/CAREER_REVIEW_LOG.md` |
-| UpgradePilot current technical continuation | UpgradePilot `MEMORY.md` |
+| UpgradePilot current technical continuation | UpgradePilot `MEMORY.md` and project-local authorities |
 | UpgradePilot implemented behavior | UpgradePilot source, tests, commands, outputs, and environment |
 | JobHunter current technical continuation and implementation | `motafegh/jobhunter` source, tests, plans, evidence, database/runtime, and project-local docs |
+| Sentinel current technical continuation and implementation | `motafegh/sentinel-` source, tests, plans, evidence, runtime artifacts, and project-local docs |
 
 One kind of truth should have one normal owner. Link rather than duplicate.
 
@@ -88,7 +89,43 @@ Career does not own:
 - project routes, milestones, sessions, or blockers;
 - source, tests, specifications, ADRs, dependencies, or implementation;
 - ordinary project learning decisions;
+- project-local teaching sequence, exercises, source-reading route, test-selection route, debugging route, or implementation method;
 - detailed project evidence, databases, runtime artifacts, or working memory.
+
+## Career-to-project directive boundary
+
+Career operates above the project execution layer.
+
+Career may:
+
+- identify a career-level capability, portfolio, market, workload, or evidence gap;
+- decide that a project should or should not remain a vehicle for addressing that gap;
+- define the required **outcome**, **evidence class**, **claim boundary**, **allocation ceiling**, **deadline/reassessment trigger**, or **acceptance condition**;
+- inspect project evidence when a Career assessment or decision is due;
+- test or validate Ali's retained understanding, transfer, explanation, diagnosis, or ownership when those questions belong to Career capability assessment;
+- issue a macro directive that the relevant project/session should satisfy through its own governance and execution system.
+
+Career must not:
+
+- prescribe which project file, function, class, test, command, exercise, learning chunk, debugging step, or implementation sequence to use unless that detail is itself necessary to define a Career-facing acceptance criterion;
+- run the project's learning session from Career;
+- create project-local learning or implementation plans in Career;
+- duplicate a project's TODO, roadmap, working memory, source-study plan, test plan, or execution contract;
+- keep following ordinary project progress between Career review triggers merely to manage execution.
+
+Use this handoff model:
+
+```text
+Career observes / assesses
+→ Career identifies a macro gap or objective
+→ Career issues a bounded directive + evidence/reassessment condition
+→ project repository/session decides HOW to execute it
+→ project preserves its own detailed evidence and continuation
+→ Ali returns to Career at the defined trigger
+→ Career inspects, tests, validates, and updates the career decision
+```
+
+A Career directive should normally answer **what must become true and how Career will know**, not **how the project must implement or teach it**.
 
 ## Career review behavior
 
@@ -143,6 +180,8 @@ Record:
 
 Use changed-case, failure, delayed, and reduced-prompt evidence when stronger claims require it.
 
+Career may test these properties directly during a review, but detailed remediation or learning after the assessment returns to the relevant project/session.
+
 ## Project portfolio behavior
 
 - One primary flagship is the default.
@@ -195,6 +234,8 @@ Before editing or creating a Career file, ask:
 6. Can an existing file hold it without ambiguity?
 
 If an ordinary project event would change the fact, it usually belongs in the project repository.
+
+A Career plan may define macro objectives, allocation, gates, evidence requirements, and review triggers. It should not become a project session plan.
 
 Use Git history as the default archive. Do not keep compatibility pointers or historical templates without a current need.
 
