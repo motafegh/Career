@@ -3,6 +3,7 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling current Career cycle  
 **Execution period:** 2026-07-20 through 2026-10-17  
+**Last reviewed:** 2026-08-18 — Day-30 review completed  
 **Responsibility:** Bounded career outcomes, allocation, review points, and closure evidence for the current cycle
 
 ## 1. Cycle objective
@@ -26,13 +27,20 @@ This identity remains the current cycle anchor unless a formal Career strategy r
 
 ## 3. Primary allocation
 
-UpgradePilot is the primary flagship.
+UpgradePilot remains the **sole primary capability-building flagship**.
 
 Its technical operation belongs entirely to `motafegh/UpgradePilot`.
 
 Career evaluates only whether the project produces intended capability, portfolio, workload, and market value.
 
-Sentinel and AegisLab remain historical evidence. No competing flagship is authorized.
+Two other repositories may continue technically without becoming competing learning flagships:
+
+- **JobHunter** — active AI-full-implementation applied-AI product, Career market-intelligence infrastructure, and portfolio asset;
+- **Sentinel** — active AI-full-implementation ML/data/security research asset and portfolio case-study source.
+
+AegisLab remains historical evidence.
+
+Repository activity in JobHunter or Sentinel does not automatically become Ali capability evidence.
 
 ## 4. Cycle outcome lanes
 
@@ -69,6 +77,8 @@ The cycle should produce stronger evidence in employment-critical responsibiliti
 
 At least several central responsibilities should show changed-case, failure, and reduced-prompt evidence. No broad D4 promise is imposed.
 
+**Day-30 correction:** conceptual/evidence reasoning improved materially, but current source reading, representative test ownership, meaningful source/test modification, and recent failure diagnosis were not established. These are now the highest-value ownership correction rather than a reason to start another project.
+
 ### Lane C — Portfolio
 
 The cycle should produce:
@@ -78,8 +88,17 @@ The cycle should produce:
 - AI-assistance and non-claim disclosure;
 - a concise technical and non-technical explanation;
 - inspectable source/test/evidence links;
-- selected historical-project claims where useful;
+- selected supporting portfolio claims where useful;
 - a GitHub and portfolio presentation suitable for market review.
+
+Day-30 portfolio roles are now complementary:
+
+```text
+UpgradePilot → ownership/capability flagship
+JobHunter    → Applied-AI product/reliability asset
+Sentinel     → ML/data/evaluation/security research asset
+AegisLab     → historical evidence
+```
 
 ### Lane D — Employability and market
 
@@ -96,6 +115,8 @@ Required progression:
 
 Applications are not guaranteed by a date, but readiness must be evaluated explicitly.
 
+**Day-30 decision:** normal calibration applications remain inactive because current source/test/modification ownership, SQL evidence, and market-facing positioning remain insufficient. This is a bounded correction with reassessment by 2026-09-01 or earlier when the blockers clear.
+
 ## 5. Workload and allocation
 
 ### Standard capacity
@@ -111,11 +132,15 @@ Career-level portfolio, capability review, and market work receive enough explic
 
 A normal week should not require separate daily Career documentation.
 
+The Day-30 review found the recent approximate **80% UpgradePilot / 20% other** personal-attention pattern strategically healthy. Autonomous AI work in JobHunter/Sentinel is not counted as Ali focused learning time.
+
 ### Optional breadth
 
 Supporting projects and advanced exposure are not automatically required.
 
 They may be admitted only through current Career and project policies when they address a real capability, portfolio, or market need without weakening the core.
+
+The Day-30 review did not authorize another project or advanced-system pilot.
 
 ## 6. Formal review points
 
@@ -130,23 +155,35 @@ Purpose:
 
 ### Day-14 workload and direction calibration — 2026-08-02
 
-Questions:
-
-- Is the 24-hour standard sustainable?
-- Is UpgradePilot producing executable and ownership evidence?
-- Is documentation consuming disproportionate capacity?
-- Are portfolio and market tasks being neglected?
-- Is the next two-week allocation realistic?
+Completed retrospectively on 2026-08-05.
 
 ### Day-30 review — 2026-08-18
 
-Required outputs:
+**Completed.**
 
-- current capability reassessment on selected central responsibilities;
-- representative market requirement baseline;
-- updated project and portfolio contribution;
-- application-readiness decision or exact blockers;
-- workload and strategy decision.
+Result class: **partial success with a bounded ownership/application correction**.
+
+Outputs:
+
+- capability reassessment completed;
+- current market baseline recorded;
+- portfolio roles reconciled;
+- normal applications remain inactive with exact blockers;
+- workload retained;
+- working identity and primary role direction retained;
+- application readiness to be reassessed by 2026-09-01 or earlier if evidence permits.
+
+### Interim application-readiness reassessment — by 2026-09-01 or earlier
+
+Reassess when enough evidence exists, especially:
+
+- one meaningful UpgradePilot source modification;
+- representative test ownership;
+- one current real failure/diagnosis with reduced assistance;
+- bounded SQL/relational-data evidence;
+- refreshed portfolio/CV/GitHub positioning.
+
+A vacancy-specific internship/trainee/structured-program review may occur earlier.
 
 ### Day-60 review — 2026-09-17
 
@@ -174,27 +211,29 @@ Additional reviews occur when Ali requests one or a material trigger arises.
 
 ## 7. Early market-calibration requirement
 
-Before or at the Day-30 review, Career must inspect a representative, current sample of target roles sufficient to identify:
+The Day-30 review completed the first bounded current market baseline. Current evidence continues to prioritize:
 
-- common Python, data, SQL, API, testing, Git, and deployment expectations;
-- experience and collaboration expectations;
-- role-family differences;
-- geographic and work-mode constraints;
-- current strongest evidence and material gaps.
+- practical Python implementation;
+- SQL/relational data;
+- APIs;
+- testing/debugging;
+- Git/review workflow;
+- data handling;
+- role-specific deployment/AI breadth where relevant.
 
-This is a market baseline, not an automatic application campaign.
+Applied-AI roles can value LLM/RAG/evaluation/cloud work, but those do not replace the core.
+
+Future material market changes should use representative reviewed evidence, including JobHunter when its heterogeneous validation and first representative Career-facing snapshot are ready.
 
 ## 8. Application-readiness requirement
 
-At Day 30 or earlier when evidence permits, make one explicit decision:
+The Day-30 explicit decision is:
 
-- not ready; exact blocking evidence and reassessment trigger;
-- ready for calibration applications;
-- ready for a narrower role band;
-- ready for the primary target band;
-- ready only for trainee, internship, contribution, or structured-program routes.
+> **Not yet ready for normal calibration applications; exact blockers and reassessment are defined.**
 
-Do not leave application timing undefined.
+This decision must be reconsidered when the bounded blockers clear and no later than the interim reassessment target when enough evidence exists.
+
+E3 does not require every gap to close.
 
 ## 9. Advanced-capability outcome
 
@@ -205,10 +244,11 @@ A valid cycle may include:
 - no substantial advanced pilot because core and market evidence had higher value;
 - one or more A1 exposures tied to real questions;
 - an A2 project-integrated pilot when justified;
+- an AI-full-implementation research result used as portfolio evidence without being treated as Ali capability;
 - a rejected or deferred method with rigorous evidence;
 - an adopted responsibility only when ongoing value is established.
 
-The Career review should explain the result and its relevance to target roles.
+Current JobHunter/Sentinel sophistication does not create a requirement for Ali to learn those repositories in parallel.
 
 ## 10. Cycle success classes
 
@@ -249,7 +289,7 @@ This cycle does not require:
 - six advanced-system pilots;
 - a production-ready product;
 - a new supporting project;
-- complete rehabilitation of historical projects;
+- complete rehabilitation or mastery of historical/current AI-full-implementation projects;
 - applications to every role family;
 - a fixed number of commits, documents, technologies, or hours as success metrics.
 
@@ -271,4 +311,4 @@ Cycle closure should inspect:
 
 Change this cycle only when dates, primary allocation, required career outcomes, review points, workload, market requirement, or closure evidence changes.
 
-Ordinary UpgradePilot route or implementation changes do not require updating this file.
+Ordinary UpgradePilot, JobHunter, or Sentinel implementation changes do not require updating this file.
