@@ -2,7 +2,7 @@
 
 **Positioning:** Junior Software Engineer | Python, Data & Applied AI  
 **Status:** Working master CV — public-safe, evidence-bounded, and intended for role-specific tailoring  
-**Last updated:** 2026-07-31
+**Last updated:** 2026-08-18 — Day-30 portfolio/claim refresh
 
 > This is the canonical Career-repository source for Ali's CV. Create a tailored application copy for each serious role rather than repeatedly weakening the master. Replace bracketed prompts only with verified facts.
 
@@ -17,52 +17,54 @@ GitHub: https://github.com/motafegh | LinkedIn: [LinkedIn URL] | [Work authoriza
 
 ## Professional Summary
 
-Junior software engineering candidate transitioning from approximately six to seven years of management, sales, purchasing, and operational responsibility in a family-owned manufacturing business. Builds Python applications around public APIs, command-line workflows, validation, testing, package data, machine-learning experiments, and applied AI systems. Currently developing UpgradePilot, a dependency-update evidence tool for Python maintainers, following earlier work in machine learning, data pipelines, and Retrieval-Augmented Generation. Brings practical ownership, commercial judgment, stakeholder communication, and an evidence-focused approach to AI-assisted engineering.
+Junior software engineering candidate transitioning from approximately six to seven years of management, sales, purchasing, and operational responsibility in a family-owned manufacturing business. Uses AI-assisted project development to build practical experience across Python applications, public APIs, validation/provenance, dependency and CI evidence, applied LLM systems, data quality, and machine-learning research. Current primary capability-building project is UpgradePilot, while JobHunter and Sentinel provide complementary applied-AI and ML/data research portfolio evidence under explicit AI-assistance boundaries. Brings commercial judgment, stakeholder communication, persistence, and a strong bias toward evidence, uncertainty, and checking what technical results actually prove.
 
 ## Technical Skills
 
 **Programming:** Python  
-**Software engineering:** command-line applications, HTTP/REST APIs, JSON, modular application structure, input validation, explicit error states, testing, debugging, package metadata  
-**Data and AI:** data acquisition, preprocessing, dataset-quality investigation, machine-learning experimentation, model training, Retrieval-Augmented Generation, vector search, LLM application integration  
-**Frameworks and tools:** FastAPI, Pydantic, FAISS, Git, GitHub, Linux terminal workflows, Visual Studio Code, PyPI, Docker familiarity, CI workflow familiarity
+**Current engineering focus:** command-line applications, HTTP/REST APIs, JSON, input validation, explicit evidence/error states, Git/GitHub workflows, source reading, testing/debugging practice, package metadata, CI/workflow reasoning  
+**Data and AI exposure:** data acquisition, preprocessing, dataset-quality investigation, machine-learning experimentation/model training, grounded LLM application patterns, Retrieval-Augmented Generation, vector search, model-output validation  
+**Frameworks and tools exposure:** FastAPI, Pydantic, FAISS, Git, GitHub, Linux terminal workflows, Visual Studio Code, PyPI, Docker familiarity, GitHub Actions/CI familiarity
+
+> Do not add SQL to the demonstrated-skill list until Career records meaningful relational-data evidence.
 
 ## Selected Projects
 
 ### UpgradePilot — Dependency-Update Evidence Tool
 
-**Personal flagship project | 2026–Present**  
+**Primary capability-building flagship | 2026–Present**  
 Repository: https://github.com/motafegh/UpgradePilot
 
-- Developing an installable Python command-line tool that helps maintainers investigate public Python dependency-update pull requests using read-only evidence from GitHub, CI workflows, PyPI, and upstream releases.
-- Built, with substantial AI assistance and direct validation, a bounded evidence pipeline covering pull-request identity, changed-file acquisition, dependency-version extraction, workflow inspection, package/version identity, and upstream release references.
-- Uses deterministic tests and explicit missing, malformed, unresolved, and unsupported states so incomplete evidence is not presented as compatibility or safety proof.
-- Participates in scope, contract, naming, and evidence-boundary decisions while increasingly practicing source explanation, test interpretation, changed-case reasoning, and failure diagnosis.
+- Directing and learning through development of an installable Python command-line tool that helps maintainers investigate public Python dependency-update pull requests using read-only evidence from GitHub, CI workflows, PyPI, upstream releases, and target-project declarations.
+- The AI-assisted repository implements explicit evidence and uncertainty states across pull-request identity, dependency changes, upstream authority, release/changelog analysis, bounded semantic extraction, target relevance, and newer dependency-environment/CI-consumption reasoning.
+- Contributed materially through scope and evidence-boundary challenges, including questioning overly case-shaped implementation and requiring provenance/architecture choices to justify the exact failure or ambiguity they prevent.
+- Uses deterministic validation around model-generated semantic candidates so probabilistic interpretation is not treated as source authority, compatibility proof, or automatic merge/safety advice.
 
-**Selected technologies:** Python 3.12, HTTP APIs, GitHub, PyPI, CLI design, testing, package metadata, CI evidence, validation, provenance.
+**Selected technologies:** Python 3.12, HTTP APIs, GitHub, PyPI, CLI design, GitHub Actions/CI evidence, validation, provenance, local LLM integration.
 
-### Sentinel — Smart-Contract Security Research System
+### JobHunter — Local Career-Intelligence & Applied-AI Product
 
-**Personal AI-assisted project | [Start month/year]–[End month/year or Present]**  
+**AI-directed personal product | 2026–Present**  
+Repository: https://github.com/motafegh/jobhunter
+
+- Directing and evaluating AI-assisted development of a local-first career-intelligence product that acquires real job advertisements, preserves source provenance, and produces structured requirement/capability analysis for later Career review.
+- Uses Python application services, SQLite-backed runtime/history state, local LLM inference, deterministic source-truth validation, browser/CLI surfaces, and repository-safe public corpus projection; implementation is substantially AI-generated and is not presented as independent source ownership.
+- Established a fail-closed review model in which mechanically valid model output can still be rejected semantically before promotion or downstream use.
+- Recent heterogeneous-role validation exposed a deterministic depth-canonicalization defect in a Python vacancy; the candidate was rejected, the validator was corrected, and regression coverage was added before reuse.
+
+**Selected technologies / repository stack:** Python, FastAPI, SQLite, local LLMs/LM Studio, structured model outputs, validation/provenance, CLI/browser UI, CI.
+
+### Sentinel — Smart-Contract Security & ML/Data Research System
+
+**AI-assisted original project + current AI-led research continuation | [Start month/year]–Present**  
 Repository: https://github.com/motafegh/sentinel-
 
-- Directed and studied a large modular security-research system combining external-data pipelines, graph/code machine learning, agent-based auditing, zero-knowledge ML experimentation, and smart-contract integration.
-- Trained and compared more than ten machine-learning models on an NVIDIA RTX 3070 laptop GPU and identified dataset quality as a major constraint on model results.
-- Expanded the data-handling pipeline after repeated experiments showed that additional model complexity would not compensate for weak labels and input quality.
-- Gained practical experience with Linux workflows, long-running experiments, large source trees, debugging, reproducibility problems, and the need to control AI-assisted architectural scope.
+- Originally worked through a large modular security-research project combining external-data pipelines, machine learning, graph/code analysis, agent-based auditing, and smart-contract integrations; trained and compared more than ten models on an NVIDIA RTX 3070 laptop GPU.
+- Identified dataset quality as a major constraint during the original work and expanded the data-handling pipeline rather than assuming additional model complexity would solve weak evidence.
+- Later directed an AI-led R4 research continuation focused on dataset integrity, leakage grouping, evidence-lineage coherence, and defensible model-evaluation boundaries.
+- Current R4 research keeps full retraining and stronger model-quality claims unauthorized while confirmed-negative/evaluation evidence remains insufficient, turning a negative result into an explicit ML/data-quality case study rather than hiding it.
 
-**Selected technologies:** Python, machine learning, data preprocessing, graph-based analysis, Linux, LangGraph exposure, Solidity/blockchain exposure.
-
-### Persian Financial RAG API
-
-**Personal AI-assisted project | [Project month/year]**  
-Repository: https://github.com/motafegh/PersianLLM-API
-
-- Developed a FastAPI service for Persian financial question answering using a Retrieval-Augmented Generation pipeline.
-- Implemented validated request and response models plus health, query, and usage-statistics endpoints with source and latency metadata.
-- Integrated FAISS vector search, multilingual sentence embeddings, and a quantized Llama 3.2 3B model for GPU-constrained local inference.
-- Documented local setup, API usage, model requirements, and Docker-based execution while preserving practical hardware limitations.
-
-**Selected technologies:** Python, FastAPI, Pydantic, FAISS, sentence-transformers, Llama 3.2, PyTorch/Transformers, Docker.
+**Selected technologies / exposure:** Python, machine learning, data preprocessing, graph-based analysis, Linux, PyTorch ecosystem, Solidity/blockchain exposure, agent-system exposure.
 
 ## Professional Experience
 
@@ -104,18 +106,38 @@ These prompts support maintenance and must be removed from application copies.
 - LinkedIn URL, or remove LinkedIn until a professional profile exists.
 - Work-authorization and relocation wording for the target country.
 - Exact family-business dates and location.
-- Exact Sentinel and PersianLLM project dates.
+- Exact Sentinel and other role-specific project dates.
 - Verified education information, or remove the section.
 - Verified language levels.
 - At least one concrete, truthful scale or result from the family business.
+- Review the public GitHub profile and pinned/repository presentation before normal application activation.
+
+### Current default project strategy
+
+The broad master now uses:
+
+1. UpgradePilot — primary engineering-ownership flagship;
+2. JobHunter — Applied-AI product/reliability portfolio asset;
+3. Sentinel — ML/data/evaluation/security research asset.
+
+Role-specific tailoring may change this order or replace one project. The Persian Financial RAG API remains available as a role-specific alternate for RAG/vector-search-heavy vacancies, rather than occupying a default slot in every application.
+
+Suggested starting order by role family:
+
+- Junior Python/backend/automation: UpgradePilot + JobHunter; Sentinel optional.
+- Applied AI / AI Implementation: JobHunter + UpgradePilot + Sentinel or Persian Financial RAG when specifically relevant.
+- Junior data/data engineering: UpgradePilot + JobHunter; Sentinel as supporting data/evaluation evidence.
+- ML trainee/junior ML: Sentinel + UpgradePilot + JobHunter.
+- AI/security: Sentinel + UpgradePilot; JobHunter optional.
 
 ### GitHub-derived facts used
 
 - Public GitHub name: Ali Rajabi.
 - GitHub username: `motafegh`.
 - Public profile: https://github.com/motafegh.
-- Public repositories used in this broad CV: UpgradePilot, Sentinel, and PersianLLM-API.
-- AegisLab should normally be used only in security-focused variants.
+- Default broad-project repositories: UpgradePilot, JobHunter, Sentinel.
+- PersianLLM-API remains a role-specific alternate project.
+- AegisLab should normally be used only in security-focused variants or when its historical lab evidence is directly relevant.
 - Small Git/GitHub course or demonstration repositories should not be listed as major projects.
 
 ### Claim rules
@@ -124,9 +146,10 @@ These prompts support maintenance and must be removed from application copies.
 2. Tailor the headline, summary, skills order, and project selection for a real advertisement.
 3. Do not list SQL as a demonstrated skill until meaningful evidence exists.
 4. Do not call any project production-ready without operational evidence.
-5. Describe AI assistance honestly without repeating it in every bullet.
-6. Do not describe AI-generated architecture, code, or tests as independently authored without supporting ownership evidence.
-7. Prefer specific behavior and outcomes over internal project-governance terminology.
-8. Keep private phone numbers, application records, recruiter correspondence, and compensation outside the public repository.
-9. Keep broad application copies to one page where possible; two pages are acceptable only when verified experience warrants it.
-10. Review this master after material capability, portfolio, employment, education, or market-feedback changes.
+5. Describe AI assistance honestly without repeating it mechanically in every sentence.
+6. Do not describe AI-generated architecture, code, tests, or current JobHunter/Sentinel implementation as independently authored without supporting ownership evidence.
+7. UpgradePilot should carry the strongest current claims about Ali's growing direct technical ownership; JobHunter and current Sentinel continuation primarily support product/research direction and portfolio claims unless separately reassessed.
+8. Prefer specific behavior and outcomes over internal project-governance terminology.
+9. Keep private phone numbers, application records, recruiter correspondence, and compensation outside the public repository.
+10. Keep application copies to one page where possible; two pages are acceptable only when verified experience warrants it.
+11. Review this master after material capability, portfolio, employment, education, or market-feedback changes.
