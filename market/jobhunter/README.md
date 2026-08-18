@@ -7,7 +7,7 @@
 
 ## Purpose
 
-This folder defines what the Career system needs from JobHunter.
+This folder defines what the Career system needs from JobHunter and how Career interprets its role.
 
 It does **not** control JobHunter implementation, architecture, milestones, source code, or technical continuation. Those remain owned by `motafegh/jobhunter`.
 
@@ -55,12 +55,13 @@ JobHunter must not automatically rewrite Career files or silently change those d
 
 JobHunter is currently a career-support tool, not a capability-building flagship.
 
-Repository sophistication, AI-generated implementation, passing tests, architecture, or feature count in `motafegh/jobhunter` must not be treated as evidence that Ali independently owns those engineering capabilities.
+Ali currently classifies its implementation as full AI vibe coding. Repository sophistication, AI-generated implementation, passing tests, architecture, or feature count in `motafegh/jobhunter` must therefore not be treated as evidence that Ali independently owns those engineering capabilities.
 
 If Ali later deliberately studies, modifies, tests, diagnoses, and owns bounded JobHunter responsibilities, that evidence may be assessed separately through the normal Career capability process.
 
 ## Files
 
+- [`JOBHUNTER_CAREER_RECORD.md`](JOBHUNTER_CAREER_RECORD.md) — JobHunter's Career role, current ownership boundary, Career-facing value, CV/portfolio treatment, and review triggers.
 - [`CAREER_REQUIREMENTS.md`](CAREER_REQUIREMENTS.md) — complete Career-side product and information requirements for JobHunter, including future capabilities that may not exist yet.
 - [`CAREER_INTEGRATION_AND_USE.md`](CAREER_INTEGRATION_AND_USE.md) — how JobHunter evidence may enter Career decisions, what quality gates apply, and what it may never decide automatically.
 
@@ -81,4 +82,4 @@ real vacancies
 → reviewed Career actions
 ```
 
-The implementation may evolve substantially. This folder should remain focused on the **Career outcomes and evidence contract** rather than prescribing unnecessary technical architecture.
+The implementation may evolve substantially. This folder should remain focused on the **Career outcomes, ownership boundary, and evidence contract** rather than prescribing unnecessary technical architecture.

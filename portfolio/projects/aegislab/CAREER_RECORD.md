@@ -56,20 +56,27 @@ environment and mechanism first
 
 The retained lesson is to teach infrastructure and security mechanisms around a visible product or investigation responsibility rather than making the mechanism itself the entire mission.
 
-## 4. Assistance and ownership boundary
+## 4. Repository / Ali / AI distinction
 
-AegisLab planning, instructions, and much of its technical guidance were substantially AI-generated or AI-assisted.
+### Repository/project design
 
-The strongest preserved practical evidence is guided rather than independent.
+AegisLab contains substantial historical design, learning, lab, and security-system thinking.
 
-AegisLab does not establish:
+### Ali evidence
 
-- independent network-engineering capability;
-- independent security-engineering ownership;
-- professional detection engineering;
-- independent Linux administration;
-- production security-platform architecture;
-- ownership of the complete proposed project.
+The strongest preserved practical evidence is guided Linux/network/security-lab work and project-design reasoning.
+
+### AI contribution
+
+Planning, instructions, architecture proposals, and much technical guidance were substantially AI-generated or AI-assisted.
+
+### Career claim
+
+Career may use AegisLab as bounded historical evidence of defensive-security interest, guided lab work, evidence-based diagnosis, and improved learning/project-governance practices.
+
+### Non-claim
+
+AegisLab does not establish independent security, network, Linux, detection-engineering, or security-platform ownership.
 
 ## 5. Strongest defensible portfolio claims
 
