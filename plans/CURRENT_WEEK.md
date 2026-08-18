@@ -106,6 +106,59 @@ UpgradePilot should satisfy them only through technically legitimate project wor
 
 When sufficient evidence exists, Ali returns to Career and Career tests/validates the claim directly.
 
+### 4.1 Registered project-local handoff
+
+UpgradePilot has now accepted a project-local execution/evidence overlay for this Career directive:
+
+```text
+motafegh/UpgradePilot
+learning/2026-08-17-b2-dependency-environment-ci-consumption-mastery/
+CAREER_DAY30_OWNERSHIP_HANDOFF.md
+```
+
+Career treats that file as **UpgradePilot's project-local implementation of this Career evidence directive**, not as Career authority and not as proof that any capability has already improved.
+
+The handoff does not change UpgradePilot technical sequencing. `motafegh/UpgradePilot:MEMORY.md` remains the project live-state owner.
+
+When UpgradePilot evidence later returns to Career, Career should inspect the smallest sufficient candidate package rather than re-reading the whole project:
+
+```text
+SOURCE CANDIDATE
+exact responsibility/source anchor
++ what Ali can explain without an AI summary
++ assistance/transfer limit
+
+TEST CANDIDATE
+exact representative test
++ setup → action → assertion
++ protected behavior
++ non-proof boundary
++ Ali prediction/explanation
+
+MODIFICATION CANDIDATE
+exact commit/diff or changed files
++ Ali pre-change model/prediction
++ AI assistance used
++ Ali post-change source/test explanation
++ validation result
+
+DIAGNOSIS CANDIDATE — only when a real opportunity occurred
+real failure/symptom
++ Ali hypothesis
++ discriminating check
++ localization/repair direction
++ verification/remaining uncertainty
+
+TRANSFER SUPPORT — when available
+changed case or materially different condition
++ Ali prediction before answer
++ what transferred / what did not
+```
+
+A missing real-failure opportunity must be recorded as **not observed**, not manufactured. Career may reassess other capability classes while leaving debugging/diagnosis depth unchanged.
+
+At reassessment, Career must still test Ali directly with reduced-context explanation, prediction, changed-case reasoning, and proportionate source/test questions. Project-local notes, comments, test counts, and AI-generated code are candidate evidence only; they do not promote the Career ledger by themselves.
+
 ## 5. SQL / relational-data directive
 
 Day-30 market evidence keeps SQL and relational-data capability as a material gap.
@@ -184,6 +237,8 @@ Ali should return to Career for assessment or a new macro decision when any of t
 - workload or project allocation becomes materially unsustainable;
 - role/geography/strategy evidence materially changes;
 - **2026-09-01** arrives without an earlier readiness reassessment.
+
+For an UpgradePilot-triggered return, begin by reading the registered project-local Day-30 ownership handoff plus only the exact source/test/commit/working-memory evidence it points to. Re-open broader project context only if the returned evidence cannot be interpreted safely without it.
 
 Ordinary project commits, learning chunks, tests, implementation decisions, and blockers do not by themselves require a Career update.
 
