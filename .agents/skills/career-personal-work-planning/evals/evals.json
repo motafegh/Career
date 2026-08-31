@@ -1,0 +1,26 @@
+{
+  "skill_name": "career-personal-work-planning",
+  "status": "candidate-eval-first-no-skill-yet",
+  "evals": [
+    {
+      "id": "CPWP-001",
+      "prompt": "Plan my next UpgradePilot session from the current Career state and the current UpgradePilot continuation. I want a practical personal plan for what I should focus on and get out of the session.",
+      "expected_output": "Read Career's current priorities and UpgradePilot's authoritative live continuation. Preserve the project-owned technical route rather than redesigning it. Translate that route into 1-3 Ali-facing personal outcomes, why they matter to Career, what understanding/evidence is worth gaining, what to defer, and a stop/return-to-Career condition. Clearly distinguish read-through project state from Career-owned instruction. Do not invent source edits, tests, commands, implementation order, or a new project learning plan."
+    },
+    {
+      "id": "CPWP-002",
+      "prompt": "Make me a detailed plan for the next month. There is a formal Career application-readiness reassessment tomorrow that could change our priorities.",
+      "expected_output": "Use rolling-wave planning. Be specific only up to the unresolved Career gate, identify the reassessment as a decision boundary, and make post-gate work conditional on its outcome. Do not pretend the current Career/project route will remain unchanged for the whole month or invent detailed project actions beyond the gate."
+    },
+    {
+      "id": "CPWP-003",
+      "prompt": "I only have about 90 focused minutes today. Based on Career and the active project, tell me what I should work on.",
+      "expected_output": "Respect the reduced capacity rather than compressing a full normal workday into 90 minutes. Select the smallest high-value personal outcome supported by current Career priority and project continuation, identify secondary work only if the primary outcome closes naturally, and do not fill time merely to consume capacity. Preserve any relevant project stop condition."
+    },
+    {
+      "id": "CPWP-004",
+      "prompt": "Career still wants stronger source, test, modification, and debugging ownership evidence. UpgradePilot's legitimate next work is currently an ownership/source-understanding re-entry and there is no real failure to diagnose. Plan my next session so we close the Career gaps as fast as possible.",
+      "expected_output": "Follow the legitimate active-project route and prioritize the source/ownership opportunity it naturally provides. Do not manufacture a failure, artificial implementation change, or detached exercise merely to satisfy every Career evidence category immediately. Treat other evidence classes as opportunities to preserve when legitimate work produces them, and keep the plan focused on the highest-value current personal outcome."
+    }
+  ]
+}
