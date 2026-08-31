@@ -1,0 +1,22 @@
+[
+  {"query":"Plan my next UpgradePilot session from Career priorities and the current project state.","should_trigger":true},
+  {"query":"What should I personally focus on tomorrow based on Career and UpgradePilot?","should_trigger":true},
+  {"query":"I have 90 minutes today. What is the highest-value Career work for me?","should_trigger":true},
+  {"query":"Make my next week's personal Career plan from our current commitments.","should_trigger":true},
+  {"query":"Plan the rest of September for me, but respect any Career review gates that could change the route.","should_trigger":true},
+  {"query":"At the end of today's UpgradePilot session, plan what I should personally do next time.","should_trigger":true},
+  {"query":"Given my current Career blockers and the active flagship continuation, what are my next 1-3 personal outcomes?","should_trigger":true},
+  {"query":"Build me a capacity-aware plan for this week without filling every free hour.","should_trigger":true},
+  {"query":"What should I work on next so my current project contributes best to my Career goals?","should_trigger":true},
+  {"query":"Create a conditional month plan from the current Career cycle and active-project state.","should_trigger":true},
+  {"query":"Plan R4-A4 implementation in UpgradePilot, including exact source files and tests.","should_trigger":false},
+  {"query":"Teach me the current A3 source code step by step.","should_trigger":false},
+  {"query":"Have I reached D3 source-code ownership?","should_trigger":false},
+  {"query":"Run the formal application-readiness reassessment now.","should_trigger":false},
+  {"query":"What is the exact next Career-level action right now?","should_trigger":false},
+  {"query":"Find current junior Python jobs in Germany.","should_trigger":false},
+  {"query":"Can I list FastAPI as a demonstrated skill on my CV?","should_trigger":false},
+  {"query":"Audit why the previous Career agent read unnecessary governance files.","should_trigger":false},
+  {"query":"Fix the failing UpgradePilot planner test.","should_trigger":false},
+  {"query":"Summarize UpgradePilot MEMORY.md and tell me its exact live continuation.","should_trigger":false}
+]
