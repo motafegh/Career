@@ -17,9 +17,9 @@ The goal is calibrated judgment: resist unsupported promotion without suppressin
 
 ## Load only the authority and evidence you need
 
-1. Follow `AGENTS.md` and the repository authority order.
-2. Read the relevant sections of `tracking/CAPABILITY_EVIDENCE_LEDGER.md` for the canonical depth model, assistance labels, evidence expectations, current record for the responsibility when one exists, and record format. Do not load unrelated capability records when your tools support targeted reading.
-3. Read `CAREER_STATE.md` only when the assessment could change the live Career position, application readiness, current capability emphasis, or another state-owned conclusion.
+1. Follow [`../../../AGENTS.md`](../../../AGENTS.md) and the repository authority order.
+2. Read the relevant sections of [`../../../tracking/CAPABILITY_EVIDENCE_LEDGER.md`](../../../tracking/CAPABILITY_EVIDENCE_LEDGER.md) for the canonical depth model, assistance labels, evidence expectations, current record for the responsibility when one exists, and record format. Do not load unrelated capability records when your tools support targeted reading.
+3. Read [`../../../CAREER_STATE.md`](../../../CAREER_STATE.md) only when the assessment could change the live Career position, application readiness, current capability emphasis, or another state-owned conclusion.
 4. Inspect the smallest sufficient underlying evidence. For project-derived evidence, use the relevant project repository's canonical source, tests, commits, outputs, working evidence, or registered Career handoff as needed; do not treat a Career summary as a substitute when the underlying evidence is material to the decision.
 5. Direct performance observed during a Career assessment can itself be evidence. Distinguish it from Ali's retrospective self-report and from project-preserved evidence rather than treating all three as equivalent.
 6. Do not load the whole Career or project repository by default. Expand context only when the current evidence cannot be interpreted safely without it.
