@@ -57,19 +57,25 @@ Distinguish:
 
 Prefer the smallest sufficient evidence package over broad repository rereading.
 
-### 3. Apply the relevant specialist procedure
+### 3. Apply only the specialist procedures the review actually needs
 
-Use the appropriate Career procedure for each material sub-question rather than improvising a new standard inside the review.
+Do not improvise a new evidence standard inside the review and do not load every specialist by default.
 
-Examples:
+When a material sub-question belongs to one of the first-generation Career skills, load/use that sibling procedure lazily:
 
-- capability/ownership question → use the canonical capability-evidence model and capability-assessment procedure;
-- market pattern/question → use the canonical market-evidence method and market-calibration procedure;
-- external wording/portfolio claim → use claim-evidence and assistance boundaries rather than promotional judgment;
-- project-role/admission question → use the controlling portfolio policy;
-- workload question → use the operating contract and actual bounded workload evidence.
+- capability or ownership evidence → [`../career-capability-assessment/SKILL.md`](../career-capability-assessment/SKILL.md);
+- vacancy/sample/market evidence → [`../career-market-calibration/SKILL.md`](../career-market-calibration/SKILL.md);
+- CV, portfolio, interview, application, or other external claim → [`../career-claim-audit/SKILL.md`](../career-claim-audit/SKILL.md).
 
-Do not duplicate those specialist standards inside the review record.
+For domains without a dedicated skill, use the controlling Career authority directly:
+
+- project-role/admission question → controlling portfolio policy;
+- workload question → operating contract plus actual bounded workload evidence;
+- strategy change → controlling strategy/change standard.
+
+The review remains primary because it owns the final cross-domain Career decision. The specialists supply bounded sub-conclusions; they do not independently overwrite live Career state.
+
+Do not duplicate their standards inside the review record.
 
 ### 4. Determine what changed and what did not
 
@@ -191,6 +197,7 @@ Before finalizing, verify that:
 
 - the review had a real Career trigger/question;
 - only the minimum relevant evidence was loaded;
+- only relevant specialist procedures were loaded;
 - specialist evidence standards were respected rather than reinvented;
 - project progress was not converted into Ali capability;
 - no-change was allowed where evidence supported no change;
