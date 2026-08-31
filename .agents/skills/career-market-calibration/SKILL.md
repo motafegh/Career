@@ -1,7 +1,7 @@
 ---
 name: career-market-calibration
 description: >
-  Evaluate current vacancy and job-market evidence for Career decisions. Use when deciding what employers appear to require, whether a JobHunter snapshot or public role sample establishes a repeated market pattern, whether role/geography/capability priorities should change, or what one vacancy versus a broader sample actually proves. Preserve source and sample scope, freshness, duplicate treatment, search-selection bias, and required/preferred/contextual/inferred distinctions. Do not use for JobHunter implementation, Ali capability assessment, CV wording, or generic job collection with no Career interpretation.
+  Evaluate the strength and meaning of current vacancy and job-market evidence for Career. Use when deciding what employers appear to require, whether a JobHunter snapshot or public role sample establishes a repeated pattern, whether one vacancy supports only an employer-specific conclusion, or whether market evidence is strong enough to warrant a later Career change. Preserve source/sample scope, freshness, duplicate treatment, search-selection bias, and required/preferred/contextual/inferred distinctions. If the primary request is a formal final decision on Career state, strategy, application readiness, project allocation, or working identity, use career-review as primary and use this as supporting evidence analysis. Do not use for JobHunter implementation, Ali capability assessment, CV wording, or generic job collection with no Career interpretation.
 compatibility: Designed for the motafegh/Career repository and agents with access to current public vacancy evidence or reviewed JobHunter Career-facing artifacts when the decision depends on them.
 ---
 
@@ -147,6 +147,8 @@ Possible results include:
 - sample is too biased or weak to change Career;
 - material Career review is warranted.
 
+When the evidence points toward a material change to live Career state, strategy, application readiness, working identity, or project allocation, surface that a Career review is warranted rather than treating market calibration itself as the final decision procedure.
+
 Do not automatically start a project, change identity, add a technology to a project, or activate applications because one skill appears in the market sample.
 
 ### 11. State limits and refresh conditions
@@ -214,5 +216,6 @@ Before finalizing, verify that:
 - market evidence and Ali capability remained separate;
 - time-sensitive facts are current enough for the decision;
 - the Career implication is the smallest one justified by the evidence;
+- a material final Career decision was routed to review rather than silently made by market calibration alone;
 - JobHunter output did not overwrite Career authority automatically;
 - no Career record was changed merely because the skill ran.
