@@ -1,0 +1,22 @@
+[
+  {"query":"Do a retrospective of the Career task we just finished.","should_trigger":true},
+  {"query":"Give me the actual execution trace: what files did you really read and in what order?","should_trigger":true},
+  {"query":"Audit how the AI assistant actually used the Career governance in the last task.","should_trigger":true},
+  {"query":"Which instructions really changed your decisions, and which ones were just context?","should_trigger":true},
+  {"query":"Why did the agent miss the applicable skill in the previous session? Retrospect it.","should_trigger":true},
+  {"query":"Review whether we loaded too much context or used tools inefficiently in that completed task.","should_trigger":true},
+  {"query":"What did I have to correct you about last session, and does that justify a governance change?","should_trigger":true},
+  {"query":"Analyze the completed session for routing ambiguity, stale sources, duplicate truth, and skill problems.","should_trigger":true},
+  {"query":"Tell me what guidance you should have consulted but didn't, based on the actual trace.","should_trigger":true},
+  {"query":"Before we change AGENTS.md again, retrospect the last few failures and tell me where the fix really belongs.","should_trigger":true},
+  {"query":"Continue the current Career work from the next authorized action.","should_trigger":false},
+  {"query":"Audit the Career repository governance files for current structural problems.","should_trigger":false},
+  {"query":"Run a formal Career review.","should_trigger":false},
+  {"query":"Assess my current Python ownership evidence.","should_trigger":false},
+  {"query":"Review the current job-market sample for bias.","should_trigger":false},
+  {"query":"Audit this CV bullet for overclaim.","should_trigger":false},
+  {"query":"Fix the stale portfolio allocation subsection now.","should_trigger":false},
+  {"query":"Write a new Career skill for project admission.","should_trigger":false},
+  {"query":"Summarize CAREER_STATE.md.","should_trigger":false},
+  {"query":"Find the next project evidence Career should inspect.","should_trigger":false}
+]
