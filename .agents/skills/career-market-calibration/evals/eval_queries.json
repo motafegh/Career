@@ -1,0 +1,22 @@
+[
+  {"query":"Are SQL and APIs really common in the current junior Python roles we're targeting?","should_trigger":true},
+  {"query":"Review this JobHunter market snapshot and tell me what Career can actually conclude from it.","should_trigger":true},
+  {"query":"Do current Dubai junior roles still support our capability priorities?","should_trigger":true},
+  {"query":"Compare current UAE and Singapore junior Python/data requirements without overgeneralizing.","should_trigger":true},
+  {"query":"Is RAG actually common enough in our target roles to increase its Career priority?","should_trigger":true},
+  {"query":"What does this sample of twelve current vacancies justify changing in Career?","should_trigger":true},
+  {"query":"Can this one Kubernetes-heavy vacancy justify changing our overall strategy?","should_trigger":true},
+  {"query":"Audit whether this job sample is representative enough for a market conclusion.","should_trigger":true},
+  {"query":"Have junior Python job requirements materially changed since our last market baseline?","should_trigger":true},
+  {"query":"Use these current job postings to decide which capability gaps are genuinely recurring in the market.","should_trigger":true},
+  {"query":"Assess my current SQL capability and decide whether it's D2 or D3.","should_trigger":false},
+  {"query":"Fix the JobHunter scraper that's missing LinkedIn job descriptions.","should_trigger":false},
+  {"query":"Tailor my CV to this Python developer vacancy.","should_trigger":false},
+  {"query":"Rewrite the UpgradePilot project bullets for recruiters.","should_trigger":false},
+  {"query":"Teach me SQL joins using a real project example.","should_trigger":false},
+  {"query":"Should Sentinel stay active as a portfolio project?","should_trigger":false},
+  {"query":"Implement a new JobHunter source adapter for Greenhouse.","should_trigger":false},
+  {"query":"What is my exact next Career action?","should_trigger":false},
+  {"query":"Can I claim FastAPI ownership now?","should_trigger":false},
+  {"query":"Find five jobs I can apply to and give me their links, without doing a broader market analysis.","should_trigger":false}
+]
