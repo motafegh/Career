@@ -163,6 +163,12 @@ Record the important non-conclusions:
 
 State when the evidence should be refreshed or what stronger sample would be needed for a broader decision.
 
+### 12. Persist only when a Career decision requires it
+
+Do not edit Career strategy, state, capability priorities, portfolio allocation, or market records merely because this skill produced an observation.
+
+Persist a market conclusion only when Ali explicitly asks to record/update it or an active Career review/decision procedure requires canonical persistence under repository governance. Update only the file that owns the changed Career truth. If the evidence does not materially change a Career conclusion, preserve existing canonical records.
+
 ## Invalid shortcuts
 
 Never use these shortcuts:
@@ -208,4 +214,5 @@ Before finalizing, verify that:
 - market evidence and Ali capability remained separate;
 - time-sensitive facts are current enough for the decision;
 - the Career implication is the smallest one justified by the evidence;
-- JobHunter output did not overwrite Career authority automatically.
+- JobHunter output did not overwrite Career authority automatically;
+- no Career record was changed merely because the skill ran.
