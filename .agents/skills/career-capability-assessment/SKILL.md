@@ -1,7 +1,7 @@
 ---
 name: career-capability-assessment
 description: >
-  Assess whether evidence justifies a Career capability-depth, ownership, or demonstrated-skill conclusion for Ali on one bounded responsibility. Use when reassessing D-levels; deciding whether project, learning, source, test, modification, debugging, changed-case, delayed, or reduced-prompt evidence establishes capability; or deciding whether a responsibility or technology may be treated as demonstrated. Separate repository behavior, Ali's demonstrated actions, AI assistance, recency, confidence, and transfer limits. Do not use for ordinary project implementation, teaching, market research, or generic repository review.
+  Assess whether evidence justifies a Career capability-depth, ownership, or demonstrated-skill conclusion for Ali on one bounded responsibility. Use when asking what Ali can actually do, own, or treat as demonstrated; reassessing D-levels; or deciding whether project, learning, source, test, modification, debugging, changed-case, delayed, or reduced-prompt evidence changes capability. Separate system behavior, observed versus reported Ali evidence, AI assistance, recency, confidence, and transfer limits. Do not use for ordinary implementation, teaching, market research, generic repository review, or wording an already-settled claim without a capability question.
 compatibility: Designed for the motafegh/Career repository and agents that can read the repository authorities and the exact evidence being assessed.
 ---
 
@@ -18,10 +18,11 @@ The goal is calibrated judgment: resist unsupported promotion without suppressin
 ## Load only the authority and evidence you need
 
 1. Follow `AGENTS.md` and the repository authority order.
-2. Read `tracking/CAPABILITY_EVIDENCE_LEDGER.md` for the canonical depth model, assistance labels, evidence expectations, current record for the responsibility when one exists, and record format.
+2. Read the relevant sections of `tracking/CAPABILITY_EVIDENCE_LEDGER.md` for the canonical depth model, assistance labels, evidence expectations, current record for the responsibility when one exists, and record format. Do not load unrelated capability records when your tools support targeted reading.
 3. Read `CAREER_STATE.md` only when the assessment could change the live Career position, application readiness, current capability emphasis, or another state-owned conclusion.
 4. Inspect the smallest sufficient underlying evidence. For project-derived evidence, use the relevant project repository's canonical source, tests, commits, outputs, working evidence, or registered Career handoff as needed; do not treat a Career summary as a substitute when the underlying evidence is material to the decision.
-5. Do not load the whole Career or project repository by default. Expand context only when the current evidence cannot be interpreted safely without it.
+5. Direct performance observed during a Career assessment can itself be evidence. Distinguish it from Ali's retrospective self-report and from project-preserved evidence rather than treating all three as equivalent.
+6. Do not load the whole Career or project repository by default. Expand context only when the current evidence cannot be interpreted safely without it.
 
 If the evidence needed to decide is unavailable, record the proposition as unresolved or unassessed at the required scope. Absence of evidence is not evidence of inability.
 
@@ -52,7 +53,7 @@ Determine whether the task is to:
 
 Read the existing Career record when one exists before deciding what changed.
 
-### 3. Separate the evidence streams
+### 3. Separate the evidence streams and provenance
 
 Keep these distinct:
 
@@ -60,6 +61,9 @@ Keep these distinct:
 - **Ali evidence:** what Ali personally explained, predicted, selected, modified, tested, diagnosed, verified, reproduced, or challenged.
 - **AI/human assistance:** what substantive explanation, implementation, test generation, diagnosis, decision structure, or correction was supplied.
 - **Timing and conditions:** when the evidence occurred and whether it was immediate, delayed, changed-case, failure-based, repeated, or reduced-prompt.
+- **Evidence provenance:** what was directly observed during assessment, what is preserved in project evidence, and what is retrospective self-report.
+
+Retrospective self-report can establish useful context but is not automatically equivalent to directly observed performance or inspectable project evidence for a stronger ownership claim.
 
 Do not convert repository sophistication into Ali capability.
 
@@ -121,11 +125,11 @@ Bad:
 
 Career specifies what must become true and how it will know. The project/session owns how to produce legitimate evidence.
 
-### 9. Update Career records only when authorized
+### 9. Persist only when the Career operation requires it
 
-Do not edit the capability ledger merely because project evidence exists.
+Do not edit the capability ledger merely because project evidence exists or because this skill was invoked.
 
-A ledger change requires a Career review or explicit capability assessment that reaches a supported conclusion. If no material conclusion changed, preserve the existing record.
+Persist an assessment only when Ali explicitly asks to record/update the Career conclusion or an active Career review/assessment procedure requires canonical persistence under repository governance. Even then, change the ledger only when the evidence supports a material conclusion or record correction. If nothing changed, preserve the existing record.
 
 ## Invalid shortcuts
 
@@ -168,10 +172,10 @@ Before finalizing, verify that:
 
 - the assessment target is a bounded responsibility rather than a technology name;
 - the canonical Career depth/evidence model was consulted;
-- repository behavior, Ali evidence, and assistance were separated;
+- repository behavior, Ali evidence, assistance, and evidence provenance were separated;
 - the conclusion is the strongest supported one, neither inflated nor artificially suppressed;
 - recency, confidence, and transfer limits are explicit where material;
 - missing evidence was not converted into inability;
 - no project-local learning or implementation plan was created;
-- no live Career record was changed without a supported Career-level assessment;
+- no Career record was changed merely because the skill ran;
 - public Career records remain public-safe.
