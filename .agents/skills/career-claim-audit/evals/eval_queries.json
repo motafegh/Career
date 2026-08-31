@@ -1,0 +1,22 @@
+[
+  {"query":"Can I say I built JobHunter if AI wrote most of the code?","should_trigger":true},
+  {"query":"Audit this CV bullet for overclaim before I use it.","should_trigger":true},
+  {"query":"Is 'production-ready' actually supported for UpgradePilot?","should_trigger":true},
+  {"query":"Can I list FastAPI as a demonstrated skill based on this project?","should_trigger":true},
+  {"query":"Check my GitHub project descriptions for claims that overstate my ownership.","should_trigger":true},
+  {"query":"What's the strongest defensible wording for my Sentinel ML work?","should_trigger":true},
+  {"query":"Can I truthfully say I trained more than ten models?","should_trigger":true},
+  {"query":"Does this README wording imply that I personally authored code I didn't write?","should_trigger":true},
+  {"query":"Review whether my AI-assistance disclosure is strong enough for these portfolio claims.","should_trigger":true},
+  {"query":"Is this 40% improvement metric supportable from the evidence we have?","should_trigger":true},
+  {"query":"Assess whether my parser ownership is D2 or D3.","should_trigger":false},
+  {"query":"Find current AI Engineer roles in Dubai and summarize the requirements.","should_trigger":false},
+  {"query":"Fix the JobHunter FastAPI endpoint that's returning 500.","should_trigger":false},
+  {"query":"Proofread this CV bullet for grammar only; don't change any facts.","should_trigger":false},
+  {"query":"Should Sentinel remain an active portfolio asset?","should_trigger":false},
+  {"query":"Teach me how FastAPI dependency injection works.","should_trigger":false},
+  {"query":"What is the exact next Career action?","should_trigger":false},
+  {"query":"Summarize what JobHunter currently does technically.","should_trigger":false},
+  {"query":"Run a Day-60 Career review.","should_trigger":false},
+  {"query":"Compare SQL frequency across our current job sample.","should_trigger":false}
+]
