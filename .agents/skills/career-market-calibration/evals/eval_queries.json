@@ -15,6 +15,7 @@
   {"query":"Rewrite the UpgradePilot project bullets for recruiters.","should_trigger":false},
   {"query":"Teach me SQL joins using a real project example.","should_trigger":false},
   {"query":"Should Sentinel stay active as a portfolio project?","should_trigger":false},
+  {"query":"Run the formal application-readiness Career review now using this market sample and decide whether Career state changes.","should_trigger":false},
   {"query":"Implement a new JobHunter source adapter for Greenhouse.","should_trigger":false},
   {"query":"What is my exact next Career action?","should_trigger":false},
   {"query":"Can I claim FastAPI ownership now?","should_trigger":false},
