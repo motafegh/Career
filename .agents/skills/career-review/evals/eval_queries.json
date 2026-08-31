@@ -1,0 +1,22 @@
+[
+  {"query":"Run the Day-60 Career review.","should_trigger":true},
+  {"query":"Reassess whether I'm ready to start normal applications now.","should_trigger":true},
+  {"query":"Review whether UpgradePilot should remain the primary flagship after this new evidence.","should_trigger":true},
+  {"query":"A major project gate changed my portfolio story — run the Career review and decide what changes.","should_trigger":true},
+  {"query":"It's the September 1 application-readiness reassessment; review the returned evidence.","should_trigger":true},
+  {"query":"Review whether my current workload mode and allocation are still sustainable.","should_trigger":true},
+  {"query":"Do a formal strategy review of my current working identity based on this new evidence.","should_trigger":true},
+  {"query":"I'm proposing a new primary project. Run the Career-level review before we admit it.","should_trigger":true},
+  {"query":"A JobHunter market pattern may materially change our role priorities. Review the Career implications.","should_trigger":true},
+  {"query":"Run a Career review of this proposed portfolio/CV claim because it could change my current positioning.","should_trigger":true},
+  {"query":"Assess whether my parser ownership is D2 or D3.","should_trigger":false},
+  {"query":"Review this market snapshot and tell me whether SQL is common.","should_trigger":false},
+  {"query":"Audit this CV bullet for overclaim.","should_trigger":false},
+  {"query":"Fix the UpgradePilot parser test.","should_trigger":false},
+  {"query":"Teach me SQL joins.","should_trigger":false},
+  {"query":"Summarize the current Career state without changing anything.","should_trigger":false},
+  {"query":"What is the exact next Career action?","should_trigger":false},
+  {"query":"Update one verified fact in my public Career profile.","should_trigger":false},
+  {"query":"Research current Python salaries in Dubai.","should_trigger":false},
+  {"query":"Audit how the AI assistant actually used the Career governance in the last task.","should_trigger":false}
+]

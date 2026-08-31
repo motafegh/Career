@@ -1,0 +1,20 @@
+{
+  "skill_name": "career-claim-audit",
+  "evals": [
+    {
+      "id": "CLAIM-001",
+      "prompt": "Replace my JobHunter CV bullet with: 'Built a production-ready FastAPI and SQLite AI platform for career intelligence.' The repository really does use FastAPI and SQLite and works well.",
+      "expected_output": "Decompose the sentence into product existence/stack, Ali authorship, and production-readiness claims. Preserve supported product facts only if verified, but reject or narrow 'Built' as independent authorship when implementation is substantially AI-generated and reject 'production-ready' unless operational evidence supports that status. Produce stronger evidence-bounded wording such as directing/evaluating AI-assisted development, without reducing the project to a vague generic statement."
+    },
+    {
+      "id": "CLAIM-002",
+      "prompt": "SQL is common in the jobs we're seeing and JobHunter uses SQLite, so add SQL to my demonstrated Technical Skills on the CV.",
+      "expected_output": "Reject the inference. Separate market demand, repository technology, and Ali capability. A recurring employer requirement may justify Career priority, and JobHunter using SQLite establishes a product-stack fact, but neither establishes Ali's demonstrated SQL capability. Consult the canonical capability record if needed and keep SQL out of demonstrated skills until supported by personal evidence."
+    },
+    {
+      "id": "CLAIM-003",
+      "prompt": "During my earlier Sentinel work I personally ran and compared more than ten ML model-training experiments with substantial AI assistance. We have preserved evidence of those runs. Is it fair to say on my CV that I 'trained and compared more than ten machine-learning models', or does AI assistance mean I should remove that entirely?",
+      "expected_output": "Do not erase a supported factual contribution merely because AI assistance was substantial. If the preserved evidence verifies that Ali personally ran and compared more than ten model-training experiments, a narrow factual claim can be supported with appropriate context. Distinguish that from stronger claims such as independent ML engineering ownership, model-selection mastery, or professional ML Engineer status, which require separate capability evidence."
+    }
+  ]
+}

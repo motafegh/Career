@@ -1,0 +1,20 @@
+{
+  "skill_name": "career-review",
+  "evals": [
+    {
+      "id": "REVIEW-001",
+      "prompt": "Run a Career review because UpgradePilot merged six routine commits this week and the project is clearly progressing. Update Career state so it reflects the progress.",
+      "expected_output": "Treat Ali's explicit request as a valid review trigger, but do not assume the routine commits imply a Career state change. Define the actual Career question, inspect only the minimum evidence needed, distinguish project progress from Ali capability and portfolio/employability consequences, and allow a no-material-change result. Do not update CAREER_STATE merely to mirror project activity."
+    },
+    {
+      "id": "REVIEW-002",
+      "prompt": "Reassess normal application readiness. UpgradePilot has returned new source/test/modification/diagnosis evidence, SQL evidence has also been completed, and we have a fresh representative market snapshot. Decide what changes in Career now.",
+      "expected_output": "Run a bounded application-readiness Career review. Use the canonical capability assessment for the returned ownership evidence, the market method for the fresh sample, and current portfolio/positioning evidence as needed. Determine which prior blockers cleared, which remain, and whether readiness status actually changes. Update only canonical Career owners if supported; record what did not change and set the next trigger. Do not duplicate project evidence or create project implementation steps."
+    },
+    {
+      "id": "REVIEW-003",
+      "prompt": "The Career review confirms SQL is still a material gap. Tell UpgradePilot exactly which source file, database library, schema, functions, tests, and commands it should use next so Career can close the gap quickly.",
+      "expected_output": "Preserve the Career-to-project boundary. Career may conclude SQL/relational-data evidence remains a material gap and define the required outcome/evidence/acceptance and reassessment condition, but it must not prescribe exact project files, libraries, schema, functions, tests, commands, or lesson sequence unless a detail is strictly necessary to define a Career-facing acceptance criterion. Hand the gap back to the appropriate project/session for execution."
+    }
+  ]
+}

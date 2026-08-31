@@ -1,0 +1,20 @@
+{
+  "skill_name": "career-agent-retro",
+  "evals": [
+    {
+      "id": "RETRO-001",
+      "prompt": "For analysis of the Career task you just completed, do not perform any additional repository work and do not modify files. Reconstruct how you actually navigated the repository guidance: which instruction/governance/context files you really opened, approximate order, which ones materially changed decisions, how you selected the operation/skill, what relevant guidance you deliberately did not load, ambiguities or duplication you encountered, and anything you now realize you should have consulted. Separate observed facts from inference.",
+      "expected_output": "Produce an evidence-based execution trace rather than an ideal workflow. Distinguish files actually opened from merely known/mentioned files, identify approximate order and material effects, explain operation/skill selection from available evidence, note meaningful non-loaded context, ambiguities, and omissions, and label observed versus inferred/unknown statements. Make no repository changes."
+    },
+    {
+      "id": "RETRO-002",
+      "prompt": "During the last Career task the agent ignored a clear existing AGENTS.md rule once, and I had to correct it. Should we add another stronger paragraph to AGENTS.md and create a new skill so this never happens again?",
+      "expected_output": "Do not automatically convert a one-off agent execution error into more governance or a new skill. Inspect whether the existing rule was actually clear and discoverable and whether the agent read it. If the evidence points primarily to a one-time execution failure, recommend no governance change or a smaller eval/check improvement rather than duplicating instructions. Escalate to navigation/skill/governance changes only if recurring evidence supports that root cause."
+    },
+    {
+      "id": "RETRO-003",
+      "prompt": "A Career task had to read several files to resolve project roles. CAREER_STATE and the current project-area records say JobHunter and Sentinel are active portfolio/research assets, but a durable portfolio policy still contains an old 'Current portfolio allocation' subsection that says Sentinel is historical and omits JobHunter. The agent suggests fixing future confusion by telling all agents to always read even more files. Retrospect this failure.",
+      "expected_output": "Diagnose stale/duplicated mutable truth as the primary source-design problem rather than solving it with more mandatory context. Identify the canonical current owners, explain that a durable policy duplicated current allocation and drifted, and recommend the smallest canonical-source repair such as removing/reframing the mutable subsection or linking to the current owner. Do not merely add another AGENTS instruction to read more files."
+    }
+  ]
+}

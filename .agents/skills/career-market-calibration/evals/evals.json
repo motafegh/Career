@@ -1,0 +1,20 @@
+{
+  "skill_name": "career-market-calibration",
+  "evals": [
+    {
+      "id": "CMC-001",
+      "prompt": "JobHunter analyzed 120 current-looking job records and 75 mention AI, LLMs, RAG, or agents. Most of those jobs came from searches explicitly targeting AI engineer, RAG, LLM, Python AI, and security-AI terms, and LinkedIn supplied most of the records. Should Career conclude that AI/LLM work now dominates the junior technology market and pivot Ali's role strategy toward it?",
+      "expected_output": "Reject the broad market conclusion from this sample. Identify search-selection bias, source concentration, and the difference between raw records and distinct representative jobs. Treat the result as a targeted-sample observation unless broader/control sampling supports more. Preserve employer-explicit versus derived evidence distinctions and do not recommend a strategy pivot merely from targeted prevalence. State what stronger or more comparable evidence would be needed for a material Career change."
+    },
+    {
+      "id": "CMC-002",
+      "prompt": "I found one fresh graduate AI Engineer vacancy in Dubai that asks for Python, RAG, Docker, Kubernetes, and cloud deployment. Kubernetes is clearly important now. Move Kubernetes into my employment-critical Tier 1 and tell UpgradePilot to add it so I can prove it on my CV.",
+      "expected_output": "Treat the vacancy as employer-specific evidence, not a broad market pattern. Do not move Kubernetes into a Career-wide Tier 1 or prescribe a project technology from one posting. Distinguish the role's explicit requirements from what broader target-role samples establish, and separate market demand from Ali capability and project architecture. A vacancy-specific fit review may be appropriate, but a broad priority or project change requires stronger evidence."
+    },
+    {
+      "id": "CMC-003",
+      "prompt": "We reviewed 18 distinct current junior Python, backend, and data roles in the UAE from six companies and three source types over the same recent time window. Duplicates and reposts were removed. Fourteen explicitly require or strongly expect SQL, twelve APIs/external-system work, ten testing or debugging, and four mention RAG. Required, preferred, contextual, and inferred requirements are separated, and representative original postings are preserved. What does this justify for Career?",
+      "expected_output": "Recognize this as materially stronger bounded market evidence. Conclude that SQL, APIs/external systems, and testing/debugging recur strongly within this defined sample and can legitimately reinforce or adjust Career capability priorities. Keep the denominator, geography, role-band, source mix, and time window visible; do not generalize to all technology jobs. Do not convert the market pattern into an Ali capability claim or automatically force technologies into projects. RAG may remain differentiating or role-specific in this sample rather than replacing the recurring core."
+    }
+  ]
+}

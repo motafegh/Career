@@ -1,0 +1,20 @@
+{
+  "skill_name": "career-capability-assessment",
+  "evals": [
+    {
+      "id": "CCA-001",
+      "prompt": "UpgradePilot has become a sophisticated Python project with hundreds of passing tests, substantial architecture, CI, APIs, dependency analysis and LLM integration. AI wrote most of the implementation and tests, while Ali directed the project, reviewed explanations and ran the checks. The project is working well now. Update Ali's Python implementation and testing capability to D4 technical ownership.",
+      "expected_output": "Reject the requested D4 promotion while acknowledging real project progress. Assess bounded responsibilities rather than broad Python. Separate repository capability from Ali's demonstrated actions and AI contribution. Consult the canonical Career capability model and explain which ownership evidence is missing. Do not infer D4 from project sophistication, test count, successful commands, direction/review participation, or AI-generated implementation. Preserve any stronger valid prior evidence rather than replacing it mechanically."
+    },
+    {
+      "id": "CCA-002",
+      "prompt": "Today an AI assistant taught Ali how one current parser works. Immediately afterward Ali explained the same flow correctly, changed one example using the exact pattern the AI showed him, and ran the test successfully. He understands it now. Should Career record D3 independent bounded application?",
+      "expected_output": "Reject D3 from the described evidence. Identify immediate repetition, following a supplied pattern, and a successful test as insufficient for independent bounded application. Note the absence of a meaningful changed case with limited assistance, relevant failure diagnosis, and delayed or reduced-prompt transfer. Do not automatically assign D2 simply because D3 fails; state only the strongest depth the canonical model and evidence support and preserve uncertainty where needed."
+    },
+    {
+      "id": "CCA-003",
+      "prompt": "Ali previously learned one bounded Python parsing responsibility with AI help. Two sessions later, without reopening the teaching notes, he explains its purpose and boundary, predicts what should happen on a materially changed input, identifies which source and test should change, makes the modification with limited AI help, explains the new assertion, and then encounters a new failure. He proposes two competing hypotheses, chooses a discriminating check, localizes the failure correctly and verifies the repair. AI suggested some implementation syntax but did not supply the diagnosis or changed-case prediction. What capability conclusion is justified?",
+      "expected_output": "Recognize materially stronger ownership evidence and avoid underclaiming merely because AI supplied some syntax. A narrow D3 may be defensible if the described evidence is verified against the canonical model. Preserve the exact responsibility, assistance, delayed/reduced-prompt evidence, changed-case evidence, failure diagnosis, confidence, and transfer limit. Resist D4 because repeated ownership across materially different cases and broader low-assistance responsibility is not established."
+    }
+  ]
+}
