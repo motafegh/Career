@@ -67,6 +67,38 @@ Do not put UpgradePilot, JobHunter, Sentinel, or another project's technical nex
 
 One kind of truth should have one normal owner. Link rather than duplicate.
 
+## Career Agent Skills and operation routing
+
+Career Agent Skills live under [`.agents/skills/`](.agents/skills/) and provide reusable **procedures**, not new authority or truth ownership. The active catalog and responsibility boundaries are summarized in [`.agents/README.md`](.agents/README.md).
+
+For substantive Career work:
+
+1. identify the requested output and Career-level operation before loading procedural context;
+2. consult [`.agents/README.md`](.agents/README.md) when skill selection is relevant;
+3. if one active skill clearly owns the requested procedure, read that skill's `SKILL.md` before performing the operation;
+4. load only the primary skill and any secondary skill that is materially required — do not load the whole skill set by default;
+5. keep all skill conclusions subordinate to this file and the canonical Career authority that owns the underlying truth;
+6. when no Career skill matches, use the controlling Career files directly rather than forcing a skill.
+
+Routing principles:
+
+- bounded capability / ownership assessment → `career-capability-assessment`;
+- vacancy or market-evidence interpretation → `career-market-calibration`;
+- CV, portfolio, application, interview, or other external claim audit → `career-claim-audit`;
+- final material Career decision such as readiness, strategy, allocation, workload, or project role → `career-review` as primary, with specialist skills loaded lazily only when needed;
+- Ali-facing next-session/day/week/month planning from current Career priorities plus authoritative project continuation → `career-personal-work-planning`;
+- explicit retrospective of completed agent behavior, routing, context use, or governance friction → `career-agent-retro`.
+
+Important boundaries:
+
+- `career-personal-work-planning` may read a project's authoritative live continuation to make Ali's personal plan usable, but it must not redefine project technical planning, learning, debugging, source changes, tests, commands, or execution order;
+- `career-agent-retro` is explicit retrospective/maintenance work and must not run automatically after ordinary tasks;
+- project implementation, project teaching, project technical planning, simple canonical lookups, and plain vacancy discovery are valid **no Career skill** cases;
+- evaluation fixtures under `.agents/evals/` and each skill's `evals/` directory are testing/support artifacts, not normal operating instructions and should not be loaded during ordinary work unless evaluating or refining the skill system;
+- a skill may guide **how to perform an operation**, but it may not overwrite `CAREER_STATE.md`, a capability record, market record, review record, project authority, or any other canonical owner merely because the procedure says so.
+
+If a skill conflicts with a higher authority, follow the higher authority and treat the conflict as a skill/governance defect to repair proportionately.
+
 ## Career responsibilities
 
 Career owns:
