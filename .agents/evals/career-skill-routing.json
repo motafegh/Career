@@ -6,7 +6,8 @@
     "career-market-calibration",
     "career-claim-audit",
     "career-review",
-    "career-agent-retro"
+    "career-agent-retro",
+    "career-personal-work-planning"
   ],
   "cases": [
     {
@@ -14,7 +15,7 @@
       "query": "I have new UpgradePilot evidence from a changed case and failure diagnosis. Does it justify D3 ownership of this bounded parser responsibility?",
       "primary_skill": "career-capability-assessment",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is a direct bounded capability-depth question, not yet a broader Career review or external claim audit."
     },
     {
@@ -22,7 +23,7 @@
       "query": "These 22 current UAE junior Python/data postings seem to show SQL everywhere. Audit the sample and tell me what Career can actually conclude.",
       "primary_skill": "career-market-calibration",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "The task is interpretation of a bounded current market sample rather than personal capability or a formal Career review."
     },
     {
@@ -30,7 +31,7 @@
       "query": "Can I write on my CV that I built a production-ready FastAPI/SQLite AI platform? Audit the wording against our actual evidence.",
       "primary_skill": "career-claim-audit",
       "allowed_secondary_skills": ["career-capability-assessment"],
-      "must_not_use": ["career-market-calibration", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-market-calibration", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "The primary task is an external claim audit. Capability assessment is secondary only if the existing capability record is insufficient to resolve a personal-skill proposition."
     },
     {
@@ -38,7 +39,7 @@
       "query": "Run the formal application-readiness reassessment now. We have new UpgradePilot ownership evidence, completed SQL evidence, refreshed portfolio wording, and a fresh market snapshot.",
       "primary_skill": "career-review",
       "allowed_secondary_skills": ["career-capability-assessment", "career-market-calibration", "career-claim-audit"],
-      "must_not_use": ["career-agent-retro"],
+      "must_not_use": ["career-agent-retro", "career-personal-work-planning"],
       "reason": "This is an explicit multi-domain Career decision. Review orchestrates the specialist procedures."
     },
     {
@@ -46,7 +47,7 @@
       "query": "For the Career task you just completed, reconstruct which governance files you actually read, which ones changed decisions, what skill you used, and where the friction really came from. Do not change files.",
       "primary_skill": "career-agent-retro",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-personal-work-planning"],
       "reason": "This is an explicit completed-task execution retrospective."
     },
     {
@@ -54,7 +55,7 @@
       "query": "The UpgradePilot parser test is failing. Inspect the project and fix it.",
       "primary_skill": null,
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is project-local implementation/debugging and belongs to UpgradePilot governance, not a Career skill."
     },
     {
@@ -62,7 +63,7 @@
       "query": "Teach me SQL joins using a real UpgradePilot or JobHunter example and give me exercises.",
       "primary_skill": null,
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is project/learning execution, which Career explicitly delegates to the relevant project/session."
     },
     {
@@ -70,7 +71,7 @@
       "query": "What is the exact next Career-level action right now?",
       "primary_skill": null,
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is a direct lookup from the sole live-state owner, CAREER_STATE.md; no procedural skill is necessary."
     },
     {
@@ -78,7 +79,7 @@
       "query": "Find five current junior Python jobs in Dubai and give me the links. I do not want a broader market analysis yet.",
       "primary_skill": null,
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is vacancy discovery only. Market calibration should not trigger when no Career-level interpretation is requested."
     },
     {
@@ -86,7 +87,7 @@
       "query": "SQL is common in the market and JobHunter uses SQLite, so can I now list SQL under demonstrated skills on my CV?",
       "primary_skill": "career-claim-audit",
       "allowed_secondary_skills": ["career-capability-assessment"],
-      "must_not_use": ["career-market-calibration", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-market-calibration", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "The market premise is supplied; the decision is whether an external demonstrated-skill claim is supportable. Capability assessment is secondary if the current record is unresolved."
     },
     {
@@ -94,7 +95,7 @@
       "query": "I have one new real failure-diagnosis case in UpgradePilot. Reassess whether that changes normal application readiness, not just my debugging depth.",
       "primary_skill": "career-review",
       "allowed_secondary_skills": ["career-capability-assessment"],
-      "must_not_use": ["career-market-calibration", "career-claim-audit", "career-agent-retro"],
+      "must_not_use": ["career-market-calibration", "career-claim-audit", "career-agent-retro", "career-personal-work-planning"],
       "reason": "The requested decision is application readiness, a live Career conclusion; capability assessment supports the review."
     },
     {
@@ -102,7 +103,7 @@
       "query": "I found one graduate AI vacancy asking for Kubernetes. Does this justify changing our overall capability priorities and strategy?",
       "primary_skill": "career-market-calibration",
       "allowed_secondary_skills": ["career-review"],
-      "must_not_use": ["career-capability-assessment", "career-claim-audit", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-claim-audit", "career-agent-retro", "career-personal-work-planning"],
       "reason": "First determine what one vacancy can establish. A formal review is secondary only if the evidence survives calibration and a material Career change is actually being considered."
     },
     {
@@ -110,7 +111,7 @@
       "query": "Why did the assistant fail to trigger the applicable Career skill in the previous completed session? Was the description bad or was it just an agent mistake?",
       "primary_skill": "career-agent-retro",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-personal-work-planning"],
       "reason": "This asks for root-cause analysis of completed agent behavior and skill routing."
     },
     {
@@ -118,7 +119,7 @@
       "query": "This specific trainee vacancy looks unusually well matched. Decide whether I should make a vacancy-specific application now even though normal applications are inactive.",
       "primary_skill": "career-review",
       "allowed_secondary_skills": ["career-market-calibration", "career-capability-assessment", "career-claim-audit"],
-      "must_not_use": ["career-agent-retro"],
+      "must_not_use": ["career-agent-retro", "career-personal-work-planning"],
       "reason": "Career already permits vacancy-specific readiness reviews; the final decision is Career-level even though one vacancy supplies the market evidence."
     },
     {
@@ -126,7 +127,7 @@
       "query": "Should Sentinel remain an active AI-full-implementation portfolio asset, or should Career reclassify it now? Run the project-role decision.",
       "primary_skill": "career-review",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-agent-retro", "career-personal-work-planning"],
       "reason": "The request is an explicit Career project-role/reclassification decision."
     },
     {
@@ -134,7 +135,7 @@
       "query": "What role does Sentinel currently have in Career?",
       "primary_skill": null,
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is a direct canonical portfolio-state lookup, not a review."
     },
     {
@@ -142,7 +143,7 @@
       "query": "I want to say in an interview that I can independently design FastAPI APIs because JobHunter uses FastAPI. Is that defensible?",
       "primary_skill": "career-claim-audit",
       "allowed_secondary_skills": ["career-capability-assessment"],
-      "must_not_use": ["career-market-calibration", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-market-calibration", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is an external interview claim whose personal-capability premise may require the capability record."
     },
     {
@@ -150,7 +151,7 @@
       "query": "The last market analysis concluded SQL is frequent, but it used only AI/Python-targeted searches from one source. Before changing strategy, tell me whether the evidence is actually strong enough.",
       "primary_skill": "career-market-calibration",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "The immediate task is sample/evidence calibration. A broader review should happen only after the market evidence is evaluated."
     },
     {
@@ -158,7 +159,7 @@
       "query": "Proofread this already-verified CV bullet for grammar only. Do not audit or change the facts.",
       "primary_skill": null,
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
       "reason": "This is pure copyediting with an explicit instruction not to reassess facts."
     },
     {
@@ -166,8 +167,72 @@
       "query": "We have a recurring pattern of assistants reading five extra governance files that never affect their decisions. Analyze the completed traces and tell me whether the problem belongs in AGENTS.md, a skill, or nowhere.",
       "primary_skill": "career-agent-retro",
       "allowed_secondary_skills": [],
-      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review"],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-personal-work-planning"],
       "reason": "This is an explicit multi-trace agent-environment retrospective about context economy and repair destination."
+    },
+    {
+      "id": "ROUTE-021",
+      "query": "Plan my next UpgradePilot session from Career priorities and the project's current live continuation.",
+      "primary_skill": "career-personal-work-planning",
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "reason": "The requested output is Ali's personal next-session work plan, not a technical project plan or a formal Career decision."
+    },
+    {
+      "id": "ROUTE-022",
+      "query": "Plan R4-A4 implementation in UpgradePilot, including the exact files, tests, sequence, and proof.",
+      "primary_skill": null,
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-personal-work-planning", "career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "reason": "This is project-local technical Planning/Design and must route to UpgradePilot's own planning procedure, not a Career skill."
+    },
+    {
+      "id": "ROUTE-023",
+      "query": "I have 90 minutes today. Based on our current Career priorities and active flagship, what should I personally focus on?",
+      "primary_skill": "career-personal-work-planning",
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "reason": "This is capacity-aware personal prioritization from existing Career/project truth."
+    },
+    {
+      "id": "ROUTE-024",
+      "query": "Run the formal application-readiness reassessment and decide whether normal applications should activate.",
+      "primary_skill": "career-review",
+      "allowed_secondary_skills": ["career-capability-assessment", "career-market-calibration", "career-claim-audit"],
+      "must_not_use": ["career-personal-work-planning", "career-agent-retro"],
+      "reason": "The requested result is a material Career decision. Planning may occur only after that decision if requested."
+    },
+    {
+      "id": "ROUTE-025",
+      "query": "What is the exact next Career-level action right now?",
+      "primary_skill": null,
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-personal-work-planning", "career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "reason": "This is a direct CAREER_STATE.md lookup rather than a request to synthesize a personal work plan."
+    },
+    {
+      "id": "ROUTE-026",
+      "query": "Make my next month's personal Career plan. A formal Career review tomorrow may change application status and priorities.",
+      "primary_skill": "career-personal-work-planning",
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-agent-retro"],
+      "reason": "Planning is primary, but it must stop detailed commitment at the unresolved review gate and keep later work conditional rather than silently performing the review."
+    },
+    {
+      "id": "ROUTE-027",
+      "query": "Does today's changed-case evidence justify D3 ownership, and if so should it change application readiness?",
+      "primary_skill": "career-review",
+      "allowed_secondary_skills": ["career-capability-assessment"],
+      "must_not_use": ["career-personal-work-planning", "career-market-calibration", "career-claim-audit", "career-agent-retro"],
+      "reason": "The final requested conclusion is application readiness; capability assessment supports the review. This is not a personal planning request."
+    },
+    {
+      "id": "ROUTE-028",
+      "query": "At the end of today's UpgradePilot work, tell me what I should personally do in the next session, but do not redesign UpgradePilot's technical continuation.",
+      "primary_skill": "career-personal-work-planning",
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
+      "reason": "This explicitly asks for personal planning while preserving the project-owned technical route."
     }
   ]
 }
