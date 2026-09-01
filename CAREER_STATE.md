@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-08-18 — Day-30 review completed and Career-to-project directive boundary clarified  
+**Last updated:** 2026-09-01 — interim application-readiness reassessment completed  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -17,29 +17,30 @@
 | Active portfolio/support asset | JobHunter: AI-full-implementation Applied-AI product + Career market-intelligence infrastructure + portfolio asset; not automatic Ali implementation evidence |
 | Active portfolio/research asset | Sentinel: AI-full-implementation ML/data/security research + portfolio case-study source; original Ali evidence and current AI implementation must remain distinct |
 | Historical project | AegisLab: historical security-learning/design evidence |
-| Current capability gap directive | Stronger current implementation/test/diagnostic ownership evidence must be produced through project-local work before Career raises those claims; SQL/relational-data remains a material market gap |
+| Current capability gap directive | Bounded current UpgradePilot source-flow understanding has improved, but stronger implementation/test/modification/diagnostic ownership evidence is still required before Career raises those claims; SQL/relational-data remains a material role-dependent market gap |
 | Employability phase | E1 — market calibrated; bounded ownership/positioning correction active; normal applications inactive |
 | Portfolio phase | Three-project role model established; master CV refreshed; market-facing GitHub/project positioning still requires completion |
 | Standard workload | Green ceiling up to 24 focused hours/week; recent 2–4 focused-hour active-day pattern and approximately 80/20 flagship-versus-other personal allocation appear sustainable |
-| Application-readiness reassessment | Earliest sufficient evidence, otherwise by 2026-09-01; do not wait automatically until Day 60 |
+| Application-readiness reassessment | 2026-09-01 interim reassessment completed; reassess earlier on material evidence or at Day 60 on 2026-09-17 |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
 
-## 2. Day-30 career interpretation
+## 2. Current career interpretation
 
-The 2026-08-18 Day-30 review is complete. Result class: **partial success with a bounded ownership/application correction**.
+The 2026-08-18 Day-30 review result remains **partial success with a bounded ownership/application correction**.
 
 UpgradePilot remains the correct sole primary capability-building flagship.
 
-Ali's strongest current personal technical evidence is now clearer:
+Ali's strongest current personal technical evidence includes:
 
 - D2 guided evidence/uncertainty/claim-boundary reasoning within UpgradePilot-style investigations;
 - retained understanding of selected real dependency, `uv`/`uv.lock`, CI/GitHub Actions, static-versus-runtime, upstream-authority, and bounded-LLM trust concepts after delay;
 - materially stronger ability to challenge AI scope, evidence strength, special-case/hardcoded implementation pressure, and complexity whose value has not been demonstrated;
-- one earlier bounded proxy/environment diagnostic-redirection case.
+- one earlier bounded proxy/environment diagnostic-redirection case;
+- a newer bounded reconstruction of the current UpgradePilot A1 → A3 → A2 trust/responsibility flow sufficient for the project to close its ownership re-entry gate before real-flow/live-model proof.
 
-The Day-30 ownership target was **not fully achieved**. Current central source understanding, representative test ownership, meaningful implementation/test modification, and a new relevant failure-diagnosis case were not established strongly enough for broader ownership claims.
+The 2026-09-01 interim reassessment therefore records **real improvement in current source-flow/trust understanding**, but it does not promote broad implementation ownership. The project evidence still does not establish an Ali-owned meaningful source/test modification plus a current reduced-assistance failure diagnosis at the Career threshold.
 
-Career therefore does not infer Python/test/debugging ownership from repository sophistication or test count.
+Career therefore does not infer Python/test/debugging ownership from repository sophistication, green tests, AI-authored changes, or successful live model execution.
 
 This conclusion creates a **Career evidence requirement**, not a Career-managed technical learning plan. UpgradePilot's own repository and sessions decide how legitimate project work may later generate the required evidence.
 
@@ -140,8 +141,8 @@ Remains historical evidence with no active Career learning allocation.
 
 - No prior technical-company employment is established.
 - Broad independent Python application ownership is not established.
-- Current source/test/modification/diagnostic ownership evidence is insufficient for stronger claims.
-- SQL and relational-data capability remains weak or unassessed.
+- Current source/test/modification/diagnostic ownership evidence is insufficient for stronger claims despite improved bounded source-flow understanding.
+- SQL and relational-data capability remains weak or unassessed; its blocking effect depends on the target role rather than applying universally.
 - Git/GitHub ordinary use exists, but professional code-review/collaboration evidence remains weak.
 - Testing, debugging, packaging, backend/API ownership, deployment, secure engineering, and ML evaluation contain mixed or bounded evidence rather than broad ownership.
 - JobHunter and current Sentinel continuation are AI-full-implementation and must not be presented as independently implemented by Ali.
@@ -169,24 +170,28 @@ Applied-AI roles may additionally value LLM/RAG integration, evaluation, data pi
 
 These differentiators do not justify replacing the core with more technology collection.
 
-Career therefore keeps implementation ownership and SQL as macro capability priorities while leaving exact technical execution to the relevant project environments.
+Career therefore keeps implementation ownership and SQL as macro capability priorities while leaving exact technical execution to the relevant project environments. SQL remains highly valuable and may be blocking for data-heavy roles, but the current reviewed market evidence does not justify treating it as a universal blocker for every Python/automation/implementation entry route.
 
 ## 8. Application-readiness decision
 
-**Normal calibration applications are not yet activated.**
+**Normal calibration applications remain inactive after the 2026-09-01 interim reassessment.**
 
-Current blockers:
+Current global blockers:
 
-1. insufficient demonstrated current implementation/test/diagnostic ownership in the primary capability flagship;
-2. weak/unassessed SQL and relational-data evidence despite repeated market relevance;
-3. market-facing GitHub/project explanations still need completion around the current three-project narrative and assistance boundaries;
-4. practical geography/work-authorization/degree/eligibility details remain vacancy-specific.
+1. insufficient demonstrated current implementation/test/diagnostic ownership in the primary capability flagship for a defensible normal application band;
+2. market-facing GitHub/project explanations still need completion around the current three-project narrative, Ali contribution, and assistance boundaries.
 
-This is a bounded hold, not an indefinite learning period.
+Important material gaps that are **role-dependent rather than universal blockers** include:
 
-A narrower internship, trainee, graduate, contribution, or structured-program opportunity may receive an earlier vacancy-specific Career review when unusually well matched.
+- weak/unassessed SQL and relational-data evidence, especially important for data-heavy roles;
+- practical geography/work-authorization/degree/eligibility constraints for specific vacancies;
+- ordinary Git/code-review evidence and other role-specific backend/data/deployment expectations.
 
-Reassess normal application readiness at the earliest sufficient evidence or by **2026-09-01**.
+This remains a bounded hold, not an indefinite learning period.
+
+A narrower internship, trainee, graduate, contribution, structured-program, or unusually well-matched junior opportunity may receive an immediate vacancy-specific Career review even while normal applications remain inactive.
+
+Reassess normal application readiness at the earliest material ownership + positioning evidence, or at the scheduled Day-60 review on **2026-09-17**.
 
 Career owns the readiness decision. Technical project repositories only supply relevant evidence.
 
@@ -194,16 +199,16 @@ Career owns the readiness decision. Technical project repositories only supply r
 
 1. **Allocation:** keep UpgradePilot as the sole primary capability-building flagship and dominant personal technical allocation.
 2. **Ownership evidence:** require stronger current implementation/test/modification/diagnostic evidence before raising those capability claims; leave the evidence-generation method to UpgradePilot.
-3. **SQL:** treat relational-data evidence as a material market gap; first allow project-local environments to determine whether a proportionate existing-project vehicle exists, then return to Career if a separate bounded intervention needs authorization.
+3. **SQL:** treat relational-data evidence as a material role-dependent market gap; do not make SQL completion a universal prerequisite for every entry-role application band.
 4. **JobHunter:** continue as independent market/product infrastructure; bring representative reviewed market evidence back to Career when it can influence a decision.
 5. **Sentinel:** continue as independent AI-full-implementation research/portfolio work; return at portfolio-significant gates or before stronger public claims.
-6. **Portfolio/positioning:** Career continues to own CV/GitHub/project-story claim boundaries and market-facing selection.
-7. **Applications:** keep normal applications inactive until the defined reassessment trigger; permit earlier vacancy-specific review for suitable structured entry routes.
+6. **Portfolio/positioning:** Career should now actively complete the minimum market-facing GitHub/project-story positioning needed for E2 rather than waiting for project completion.
+7. **Applications:** keep normal applications inactive pending ownership + positioning reassessment; permit immediate vacancy-specific review for suitable structured or unusually well-matched entry routes.
 8. **Workload:** retain the 24-hour Green ceiling as a ceiling, not a quota.
 9. **Anti-diversion:** do not create another learning flagship or force technologies into projects merely to fill CV keywords.
 10. **Boundary:** do not manage project learning, implementation, or day-by-day execution from Career.
 
-The active macro directive details are in [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md).
+The active macro directive details are in [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md); update that plan only when its current macro directive no longer reflects this state.
 
 ## 10. Current career-level risks
 
@@ -211,7 +216,7 @@ The active macro directive details are in [`plans/CURRENT_WEEK.md`](plans/CURREN
 2. **Project-boundary drift:** Career could accidentally become a project learning/execution manager instead of a macro Career authority.
 3. **SQL gap:** a recurring market requirement may remain unaddressed while more interesting advanced topics attract attention.
 4. **Portfolio-positioning delay:** strong project assets may remain difficult for employers to interpret if GitHub/project explanations lag.
-5. **Market-delay risk:** application activation could drift again unless the 2026-09-01-or-earlier reassessment is honored.
+5. **Market-delay risk:** application activation could drift again if Career waits passively for every technical gap rather than closing E2 positioning and reassessing at evidence triggers.
 6. **AI-full-implementation overclaim:** JobHunter/Sentinel sophistication may be mistaken for Ali implementation capability unless assistance boundaries remain explicit.
 7. **Breadth pressure:** active AI projects may tempt parallel learning across too many technologies/codebases.
 8. **Market-sensor bias:** JobHunter search/source/model coverage may create misleading demand patterns unless Career reviews representative source evidence.
@@ -220,27 +225,25 @@ The active macro directive details are in [`plans/CURRENT_WEEK.md`](plans/CURREN
 
 ## 11. Exact next career-level action
 
-> **No project-local learning or implementation continuation is operated from Career.** The post-Day-30 macro directives in [`plans/CURRENT_WEEK.md`](plans/CURRENT_WEEK.md) are now issued. Ali should continue the relevant work inside each project's own repository/session. The next Career action is to **inspect, test, validate, and reassess returned evidence when a defined trigger occurs**, while Career-owned market, portfolio, strategy, or application decisions may be handled here as needed.
+> **Use Career to close the minimum E2 positioning gap while UpgradePilot independently continues producing legitimate ownership evidence.** The next Career work should produce a bounded personal work plan that keeps UpgradePilot dominant, allocates a small Career-owned lane to market-facing GitHub/project explanation, and returns to Career when ownership/positioning evidence is sufficient for another readiness decision.
 
-The next mandatory application-readiness reassessment is the earliest sufficient evidence or **2026-09-01**.
+Career must not prescribe UpgradePilot's A4 implementation or learning sequence from here.
 
 ## 12. Next review triggers
 
 Return to Career at the earliest of:
 
-- UpgradePilot evidence sufficient to potentially change the Day-30 ownership conclusion;
-- completion of bounded SQL/relational-data evidence, or a project-level conclusion that no proportionate existing-project vehicle exists;
+- UpgradePilot evidence sufficient to potentially change the current implementation/test/diagnostic ownership conclusion;
+- market-facing GitHub/CV/project positioning becoming sufficiently mature to affect applications;
+- completion of bounded SQL/relational-data evidence when it could widen realistic role bands;
 - JobHunter producing a representative reviewed Career-facing Market Evidence Snapshot;
 - a material JobHunter or Sentinel portfolio/CV claim being proposed;
 - a specific vacancy requiring readiness analysis;
-- market-facing GitHub/CV/project positioning becoming sufficiently mature to affect applications;
 - material workload, project-fit, geography, or strategy change;
-- **2026-09-01 application-readiness reassessment**;
-- Ali's explicit request.
+- Ali's explicit request;
+- **2026-09-17 Day-60 review**.
 
 Ordinary project commits, learning chunks, implementation decisions, tests, and blockers do not require a Career update.
-
-The scheduled Day-60 review remains 2026-09-17 unless an earlier review supersedes part of its questions.
 
 ## 13. State maintenance
 
