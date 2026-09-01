@@ -455,6 +455,74 @@ Career must explicitly retain the non-claim that current source/test/modificatio
 
 **Next review trigger:** Earliest of the ownership/SQL/positioning evidence above, a vacancy-specific internship/trainee opportunity worth reviewing, 2026-09-01 application-readiness reassessment, or any material workload/strategy/project-fit change.
 
+---
+
+### 2026-09-01 — Interim application-readiness reassessment
+
+**Trigger:** Scheduled interim reassessment required by `plans/CURRENT_CAREER_CYCLE.md` and `CAREER_STATE.md`.
+
+**Career question:** Has the post-Day-30 evidence improved enough to activate normal calibration applications, and what is the smallest justified Career correction now?
+
+**Evidence inspected:**
+
+- current Career state, current cycle, active Career directive, capability ledger, employability/market plan, and prior review conclusions;
+- current UpgradePilot `AGENTS.md` and `MEMORY.md`;
+- UpgradePilot `working-memory/2026-09-01_B2-X1-R4-ownership-reentry-and-next-route.md`;
+- UpgradePilot `working-memory/2026-09-01_2055_B2-X1-R4-real-flow-proof-and-live-A3.md`.
+
+**Project contribution conclusion:**
+
+UpgradePilot remains the correct sole capability-building flagship. The current R4 ordinary-Python planner seam has progressed through real product composition and a successful live A3 structured-output call while preserving the deterministic authority boundary. No project-role or allocation change is justified.
+
+**Capability conclusion:**
+
+- There is real improvement in bounded current source-flow/trust understanding. Ali reconstructed the A1 → A3 → A2 responsibility split sufficiently for UpgradePilot to close its ownership re-entry gate before the real-flow/live-model proof.
+- This supports stronger current D2-style source-flow understanding than the Day-30 checkpoint, but it does not establish broad D3 implementation ownership.
+- The inspected evidence does not yet establish an Ali-owned meaningful source/test modification plus a current reduced-assistance failure diagnosis at the Career threshold.
+- The direct-script `ModuleNotFoundError` and subsequent module-launch correction are valid project debugging evidence, but the preserved record does not attribute the diagnosis/repair direction to Ali strongly enough to use it as new Ali debugging ownership evidence.
+- Green tests, real-flow proof, live LM Studio success, and AI-authored implementation remain project/product evidence unless Ali ownership is separately demonstrated.
+
+**Assistance and transfer limits:**
+
+UpgradePilot remains substantially AI-assisted in source generation, tests, analysis, and execution. The new evidence is strongest for Ali's bounded responsibility/trust-flow reconstruction and continued technical challenge, not independent implementation/test/debugging transfer to unfamiliar responsibilities.
+
+**Workload decision:**
+
+Retain the existing Green ceiling and dominant UpgradePilot allocation. No workload change is justified.
+
+**Portfolio decision:**
+
+The three-project role model remains valid. However, E2 market-facing GitHub/project explanation is now a direct Career-owned near-term responsibility and should not wait for UpgradePilot to finish.
+
+**Role/market decision:**
+
+- Keep the current working identity and target-role direction unchanged.
+- SQL/relational data remains a material market gap and may be blocking for data-heavy roles, but the existing reviewed market evidence does not justify treating SQL as a universal blocker for every Python/automation/implementation entry route.
+- Vacancy-specific internship, trainee, graduate, structured-program, contribution, or unusually well-matched junior opportunities remain eligible for immediate Career review.
+
+**Application-readiness decision:**
+
+**Normal calibration applications remain inactive.**
+
+Current global blockers are now narrowed to:
+
+1. insufficient demonstrated implementation/test/diagnostic ownership for a defensible normal application band;
+2. incomplete E2 market-facing GitHub/project positioning around Ali contribution and assistance boundaries.
+
+SQL, Git/collaboration, backend/data/deployment breadth, and geography/eligibility remain important role-dependent gaps rather than universal blockers.
+
+This is still a bounded hold. Career should actively close E2 positioning while UpgradePilot independently continues legitimate ownership work.
+
+**Career state changes:**
+
+- the September-1 reassessment is completed on time;
+- normal applications remain inactive;
+- SQL is reclassified from a de facto universal application blocker to a material role-dependent gap;
+- the exact Career action becomes closing the minimum E2 positioning gap while awaiting legitimate project-owned ownership evidence;
+- the next mandatory formal review becomes Day 60 on 2026-09-17, with earlier event-based reassessment if ownership/positioning evidence changes the decision.
+
+**Next review trigger:** Earliest of material UpgradePilot ownership evidence, E2 positioning becoming sufficient to affect applications, a vacancy-specific readiness question, SQL evidence that materially widens role bands, a representative JobHunter market snapshot, a material workload/strategy change, Ali's explicit request, or **2026-09-17 Day-60 review**.
+
 ## 4. Review triggers
 
 A new entry is appropriate when:
