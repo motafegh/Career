@@ -3,7 +3,7 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling current Career cycle  
 **Execution period:** 2026-07-20 through 2026-10-17  
-**Last reviewed:** 2026-08-18 — Day-30 review completed  
+**Last reviewed:** 2026-09-01 — interim application-readiness reassessment completed  
 **Responsibility:** Bounded career outcomes, allocation, review points, and closure evidence for the current cycle
 
 ## 1. Cycle objective
@@ -77,7 +77,9 @@ The cycle should produce stronger evidence in employment-critical responsibiliti
 
 At least several central responsibilities should show changed-case, failure, and reduced-prompt evidence. No broad D4 promise is imposed.
 
-**Day-30 correction:** conceptual/evidence reasoning improved materially, but current source reading, representative test ownership, meaningful source/test modification, and recent failure diagnosis were not established. These are now the highest-value ownership correction rather than a reason to start another project.
+**Day-30 correction:** conceptual/evidence reasoning improved materially, but current source reading, representative test ownership, meaningful source/test modification, and recent failure diagnosis were not established. These became the highest-value ownership correction rather than a reason to start another project.
+
+**September-1 progress:** UpgradePilot project evidence now shows stronger bounded understanding of the current A1 → A3 → A2 planner/trust flow and successful ownership re-entry before real-flow/live-model proof. This is real progress in current-source reasoning, but it does not yet establish broad implementation/test/debugging ownership because an Ali-owned meaningful modification and reduced-assistance current diagnosis are still not demonstrated at the required Career threshold.
 
 ### Lane C — Portfolio
 
@@ -91,7 +93,7 @@ The cycle should produce:
 - selected supporting portfolio claims where useful;
 - a GitHub and portfolio presentation suitable for market review.
 
-Day-30 portfolio roles are now complementary:
+Day-30 portfolio roles remain complementary:
 
 ```text
 UpgradePilot → ownership/capability flagship
@@ -99,6 +101,8 @@ JobHunter    → Applied-AI product/reliability asset
 Sentinel     → ML/data/evaluation/security research asset
 AegisLab     → historical evidence
 ```
+
+The September-1 review keeps **market-facing GitHub/project explanation** as an active Career-owned gap that should be closed before waiting for project completion.
 
 ### Lane D — Employability and market
 
@@ -115,7 +119,7 @@ Required progression:
 
 Applications are not guaranteed by a date, but readiness must be evaluated explicitly.
 
-**Day-30 decision:** normal calibration applications remain inactive because current source/test/modification ownership, SQL evidence, and market-facing positioning remain insufficient. This is a bounded correction with reassessment by 2026-09-01 or earlier when the blockers clear.
+**September-1 decision:** normal calibration applications remain inactive because current implementation/test/diagnostic ownership and E2 market-facing positioning are still insufficient. SQL remains a material and often important gap, especially for data-heavy roles, but is no longer treated as a universal blocker for every entry-role band. Vacancy-specific internship/trainee/graduate/structured or unusually well-matched junior opportunities may still receive immediate review.
 
 ## 5. Workload and allocation
 
@@ -134,13 +138,15 @@ A normal week should not require separate daily Career documentation.
 
 The Day-30 review found the recent approximate **80% UpgradePilot / 20% other** personal-attention pattern strategically healthy. Autonomous AI work in JobHunter/Sentinel is not counted as Ali focused learning time.
 
+The September-1 review does not change the workload ceiling or dominant flagship allocation; it does require that a small Career-owned positioning lane actually be used rather than deferred indefinitely.
+
 ### Optional breadth
 
 Supporting projects and advanced exposure are not automatically required.
 
 They may be admitted only through current Career and project policies when they address a real capability, portfolio, or market need without weakening the core.
 
-The Day-30 review did not authorize another project or advanced-system pilot.
+No additional project or advanced-system pilot is authorized by the September-1 review.
 
 ## 6. Formal review points
 
@@ -168,22 +174,25 @@ Outputs:
 - capability reassessment completed;
 - current market baseline recorded;
 - portfolio roles reconciled;
-- normal applications remain inactive with exact blockers;
+- normal applications remained inactive with exact blockers;
 - workload retained;
 - working identity and primary role direction retained;
-- application readiness to be reassessed by 2026-09-01 or earlier if evidence permits.
+- application readiness set for reassessment by 2026-09-01 or earlier.
 
-### Interim application-readiness reassessment — by 2026-09-01 or earlier
+### Interim application-readiness reassessment — 2026-09-01
 
-Reassess when enough evidence exists, especially:
+**Completed.**
 
-- one meaningful UpgradePilot source modification;
-- representative test ownership;
-- one current real failure/diagnosis with reduced assistance;
-- bounded SQL/relational-data evidence;
-- refreshed portfolio/CV/GitHub positioning.
+Result:
 
-A vacancy-specific internship/trainee/structured-program review may occur earlier.
+- UpgradePilot remains the correct sole capability-building flagship;
+- bounded current source-flow/trust understanding improved materially enough to count as real progress;
+- broad implementation/test/debugging ownership still does not cross the Career threshold;
+- normal calibration applications remain inactive;
+- E2 GitHub/project positioning is now a direct Career-owned near-term responsibility rather than something to postpone until project completion;
+- SQL remains a material role-dependent gap but is not a universal prerequisite for every entry-role application band;
+- vacancy-specific structured or unusually well-matched entry opportunities remain eligible for immediate Career review;
+- next mandatory formal review remains Day 60 on 2026-09-17, with earlier event-based reassessment when ownership or positioning evidence changes the decision.
 
 ### Day-60 review — 2026-09-17
 
@@ -223,15 +232,17 @@ The Day-30 review completed the first bounded current market baseline. Current e
 
 Applied-AI roles can value LLM/RAG/evaluation/cloud work, but those do not replace the core.
 
+SQL is important enough to remain a macro priority, particularly for data-heavy roles, but the Career system should not delay every Python/automation/implementation-oriented application band until SQL is complete.
+
 Future material market changes should use representative reviewed evidence, including JobHunter when its heterogeneous validation and first representative Career-facing snapshot are ready.
 
 ## 8. Application-readiness requirement
 
-The Day-30 explicit decision is:
+The current explicit decision is:
 
-> **Not yet ready for normal calibration applications; exact blockers and reassessment are defined.**
+> **Not yet ready for normal calibration applications; ownership + positioning remain the global blockers, while SQL and other gaps are evaluated by role band.**
 
-This decision must be reconsidered when the bounded blockers clear and no later than the interim reassessment target when enough evidence exists.
+This decision must be reconsidered as soon as material ownership/positioning evidence changes it and no later than the Day-60 review on 2026-09-17.
 
 E3 does not require every gap to close.
 
