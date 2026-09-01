@@ -1,14 +1,14 @@
-# Current Post-Day-30 Career Directive Plan
+# Current Post-September-1 Career Directive Plan
 
 **Owner:** Ali Rajabi  
 **Status:** Active Career-level directive plan  
-**Period:** 2026-08-18 through the next Career reassessment trigger  
+**Period:** 2026-09-01 through the next Career reassessment trigger  
 **Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md), and [`../governance/CAREER_OPERATING_CONTRACT.md`](../governance/CAREER_OPERATING_CONTRACT.md)  
 **Project execution authority:** Each technical project repository and its own governance/session system
 
 ## 1. Purpose
 
-Translate the 2026-08-18 Day-30 review into **macro-level Career directives, evidence requirements, allocation boundaries, and return-to-Career triggers**.
+Translate the 2026-09-01 interim application-readiness review into **macro-level Career directives, evidence requirements, allocation boundaries, positioning work, and return-to-Career triggers**.
 
 This plan does not prescribe project learning sessions, source files, tests, commands, implementation sequence, debugging steps, or technical milestones.
 
@@ -25,18 +25,19 @@ Career assessment
 
 Career states **what must become true and why it matters**. The relevant project decides **how to make it true**.
 
-## 2. Day-30 findings that control the directives
+## 2. September-1 findings that control the directives
 
-The Day-30 review established:
+The interim review established:
 
 ```text
-Evidence / uncertainty / claim-boundary reasoning   materially improved
-Technical critique and AI-direction                 meaningful current strength
-Current source ownership                            not established
-Representative test ownership                       not established
-Meaningful source/test modification ownership       not established
-New current failure-diagnosis evidence              not established
-SQL / relational-data evidence                      weak or unassessed
+Evidence / uncertainty / claim-boundary reasoning   strong guided evidence
+Current A1 → A3 → A2 source-flow understanding      materially improved at bounded D2-style depth
+Broad implementation ownership                      not established
+Representative test ownership                       not yet sufficient for a stronger claim
+Meaningful Ali-owned source/test modification        not yet sufficient
+Current reduced-assistance failure diagnosis         not yet sufficient
+SQL / relational-data evidence                      weak or unassessed; role-dependent gap
+Market-facing GitHub/project positioning             still incomplete
 Normal application readiness                        not yet active
 ```
 
@@ -54,7 +55,7 @@ Directive:
 
 - retain the majority of Ali's technical attention;
 - continue producing real engineering responsibilities and evidence through its own governance;
-- prioritize opportunities that can eventually close the Day-30 ownership gap without distorting the project's legitimate technical route;
+- preserve opportunities that can legitimately strengthen implementation/test/diagnostic ownership without distorting the project's technical route;
 - do not add Career-driven technology solely for résumé breadth.
 
 Career does not choose the exact responsibility, module, test, failure, implementation, or teaching method.
@@ -98,7 +99,9 @@ For the next meaningful ownership reassessment, Career wants evidence across the
 1. **Current-source understanding** — Ali can explain one meaningful current implementation responsibility beyond an AI summary.
 2. **Representative test understanding** — Ali can explain what one meaningful test establishes and what it does not establish.
 3. **Ownership-bearing change** — Ali materially understands and participates in at least one meaningful implementation or test change rather than only approving a generated result.
-4. **Failure diagnosis** — Ali contributes a useful hypothesis, discriminating evidence choice, localization, or repair direction on a real relevant failure with reduced assistance.
+4. **Failure diagnosis** — when a real relevant failure occurs, Ali contributes a useful hypothesis, discriminating evidence choice, localization, or repair direction with reduced assistance.
+
+The September-1 review recognizes real progress in the first class through the current A1 → A3 → A2 responsibility reconstruction. That does not automatically satisfy the remaining classes or establish broad D3 ownership.
 
 These are **assessment criteria**, not a prescribed project sequence.
 
@@ -106,71 +109,19 @@ UpgradePilot should satisfy them only through technically legitimate project wor
 
 When sufficient evidence exists, Ali returns to Career and Career tests/validates the claim directly.
 
-### 4.1 Registered project-local handoff
-
-UpgradePilot has now accepted a project-local execution/evidence overlay for this Career directive:
-
-```text
-motafegh/UpgradePilot
-learning/2026-08-17-b2-dependency-environment-ci-consumption-mastery/
-CAREER_DAY30_OWNERSHIP_HANDOFF.md
-```
-
-Career treats that file as **UpgradePilot's project-local implementation of this Career evidence directive**, not as Career authority and not as proof that any capability has already improved.
-
-The handoff does not change UpgradePilot technical sequencing. `motafegh/UpgradePilot:MEMORY.md` remains the project live-state owner.
-
-When UpgradePilot evidence later returns to Career, Career should inspect the smallest sufficient candidate package rather than re-reading the whole project:
-
-```text
-SOURCE CANDIDATE
-exact responsibility/source anchor
-+ what Ali can explain without an AI summary
-+ assistance/transfer limit
-
-TEST CANDIDATE
-exact representative test
-+ setup → action → assertion
-+ protected behavior
-+ non-proof boundary
-+ Ali prediction/explanation
-
-MODIFICATION CANDIDATE
-exact commit/diff or changed files
-+ Ali pre-change model/prediction
-+ AI assistance used
-+ Ali post-change source/test explanation
-+ validation result
-
-DIAGNOSIS CANDIDATE — only when a real opportunity occurred
-real failure/symptom
-+ Ali hypothesis
-+ discriminating check
-+ localization/repair direction
-+ verification/remaining uncertainty
-
-TRANSFER SUPPORT — when available
-changed case or materially different condition
-+ Ali prediction before answer
-+ what transferred / what did not
-```
-
-A missing real-failure opportunity must be recorded as **not observed**, not manufactured. Career may reassess other capability classes while leaving debugging/diagnosis depth unchanged.
-
-At reassessment, Career must still test Ali directly with reduced-context explanation, prediction, changed-case reasoning, and proportionate source/test questions. Project-local notes, comments, test counts, and AI-generated code are candidate evidence only; they do not promote the Career ledger by themselves.
-
 ## 5. SQL / relational-data directive
 
-Day-30 market evidence keeps SQL and relational-data capability as a material gap.
+SQL and relational-data capability remains a material market gap.
 
 Career directive:
 
 - do not start a new major SQL project;
 - do not force SQL into UpgradePilot or another project for résumé appearance;
-- allow the relevant project/session to determine whether an existing legitimate responsibility can produce bounded relational-data evidence;
-- if no current project can do so proportionately, return that fact to Career so Career can decide whether the smallest separate intervention is justified.
+- allow legitimate project/session opportunities to produce bounded relational-data evidence where proportionate;
+- if no current project can do so proportionately, Career may later authorize the smallest separate intervention;
+- treat SQL as potentially blocking for data-heavy roles but **not as a universal prerequisite for every Python/automation/implementation entry band**.
 
-Career will decide **whether SQL evidence is required and how much evidence is enough for the target role band**. The technical environment chosen later will own the detailed teaching and execution.
+Career decides **which target role bands require SQL evidence and how much is enough**. The technical environment owns detailed teaching and execution.
 
 ## 6. Portfolio and positioning directive
 
@@ -185,30 +136,35 @@ Sentinel     → ML / data / evaluation / security research story
 AegisLab     → historical role-specific evidence
 ```
 
-Career must continue to:
+The minimum E2 positioning work is now an **active Career responsibility**, not something to defer until UpgradePilot is finished.
 
-- keep public claims aligned with demonstrated Ali evidence and explicit AI assistance;
-- improve concise project explanations and GitHub/CV positioning when needed for application readiness;
+Career should:
+
+- make the active flagship and three-project role model easy to understand;
+- state Ali contribution and AI-assistance boundaries clearly;
+- improve concise technical/non-technical project explanations;
+- ensure GitHub/project presentation does not make AI-full-implementation assets look independently implemented by Ali;
 - select project emphasis by role family rather than treating every repository equally;
-- reject any claim that converts AI-full-implementation sophistication into Ali implementation ownership without assessment.
+- keep the work lean: improve only the market-facing surfaces that materially affect readiness.
 
-Detailed technical rehabilitation or README/source work needed inside a project belongs to that project repository/session after Career identifies the macro presentation need.
+Detailed technical README/source rehabilitation needed inside a project remains project-owned after Career defines the presentation requirement.
 
 ## 7. Market and application directive
 
-Normal applications remain inactive after Day 30.
+**Normal calibration applications remain inactive after the September-1 review.**
 
-Current reason:
+Global reasons:
 
-- the primary flagship still lacks sufficient demonstrated current implementation/test/diagnostic ownership for the intended normal target band;
-- SQL/relational evidence remains weak;
-- market-facing positioning is not yet fully closed.
+- the primary flagship still lacks sufficient demonstrated implementation/test/diagnostic ownership for a defensible normal target band;
+- E2 market-facing GitHub/project positioning is not yet closed.
+
+SQL, Git/collaboration, backend/data/deployment breadth, and geography/eligibility remain important **role-dependent** gaps rather than universal blockers.
 
 This is a bounded hold, not an indefinite learning period.
 
-A specific internship, trainee, graduate, contribution, or structured-program opportunity may trigger an earlier Career review if it is unusually well matched.
+A specific internship, trainee, graduate, contribution, structured-program, or unusually well-matched junior opportunity may trigger an immediate Career review.
 
-Normal application readiness must be reassessed at the earliest sufficient evidence or by **2026-09-01**.
+Normal application readiness must be reassessed at the earliest material ownership + positioning evidence or by **2026-09-17 Day 60**.
 
 Career, not a technical project, owns the activation decision.
 
@@ -217,9 +173,9 @@ Career, not a technical project, owns the activation decision.
 Retain Green mode:
 
 - up to 24 focused hours per week as a ceiling, not a quota;
-- recent 2–4 focused-hour active days are acceptable;
 - keep approximately 75–85% of Ali's personal technical attention available to the primary flagship unless a later Career decision changes allocation;
 - use the remainder for bounded Career/market/portfolio work and selective JobHunter/Sentinel review;
+- do not fill every available hour;
 - autonomous AI execution in JobHunter or Sentinel does not count as Ali learning/ownership evidence merely because it consumes machine time.
 
 Do not require Ali to study all active repositories simultaneously.
@@ -228,17 +184,18 @@ Do not require Ali to study all active repositories simultaneously.
 
 Ali should return to Career for assessment or a new macro decision when any of the following occurs:
 
-- UpgradePilot has enough new evidence that the Day-30 ownership conclusion may change;
-- a bounded SQL/relational-data evidence opportunity is completed or project owners report that no proportionate existing-project route exists;
+- UpgradePilot has enough new evidence that the current ownership conclusion may change;
+- GitHub/CV/project positioning becomes ready enough to affect applications;
+- bounded SQL/relational-data evidence could widen realistic role bands;
 - JobHunter produces a representative reviewed Career-facing market snapshot;
 - a JobHunter or Sentinel portfolio/CV claim is proposed or materially changes;
 - a specific vacancy merits readiness review;
-- GitHub/CV/project positioning becomes ready enough to affect applications;
 - workload or project allocation becomes materially unsustainable;
 - role/geography/strategy evidence materially changes;
-- **2026-09-01** arrives without an earlier readiness reassessment.
+- **2026-09-17 Day-60 review** arrives without an earlier reassessment;
+- Ali explicitly requests Career review.
 
-For an UpgradePilot-triggered return, begin by reading the registered project-local Day-30 ownership handoff plus only the exact source/test/commit/working-memory evidence it points to. Re-open broader project context only if the returned evidence cannot be interpreted safely without it.
+For an UpgradePilot-triggered return, inspect only the smallest current project evidence needed for the Career proposition. Do not reopen the entire project automatically.
 
 Ordinary project commits, learning chunks, tests, implementation decisions, and blockers do not by themselves require a Career update.
 
@@ -260,8 +217,9 @@ Career must not:
 
 This directive plan succeeds when:
 
-- each project operates independently inside its own repository/session;
-- Career retains only macro direction, allocation, evidence gates, claims, market strategy, and review triggers;
-- the next Career assessment receives project-local evidence rather than Career-managed execution detail;
+- UpgradePilot remains dominant and independently governed;
+- Career closes the minimum E2 positioning gap without becoming a technical project manager;
+- the next Career assessment receives legitimate ownership evidence rather than manufactured exercises;
 - capability claims change only after Career validates Ali's actual evidence;
-- application readiness is explicitly reassessed at the defined trigger.
+- SQL is handled proportionately by role band rather than as an all-or-nothing gate;
+- application readiness is explicitly reassessed at an evidence trigger or by Day 60.
