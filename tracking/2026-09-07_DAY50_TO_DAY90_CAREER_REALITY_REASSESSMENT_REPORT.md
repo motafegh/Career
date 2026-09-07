@@ -12,10 +12,19 @@ For material findings, preserve:
 
 ```text
 FACT / OBSERVATION
+→ source or direct evidence
+
 INTERPRETATION
+→ what the evidence appears to mean
+
 ALI-SPECIFIC CONSEQUENCE
+→ why it matters for our current Career position
+
 DECISION / PROPOSAL
+→ only when evidence is sufficient
+
 UNRESOLVED
+→ what still needs evidence
 ```
 
 Promote durable Career conclusions only through the applicable Career review/assessment procedure and canonical owner.
@@ -814,4 +823,92 @@ A4 identifies five evidence classes that could materially improve the position:
 
 Do not change `CAREER_STATE.md`, application status, working identity, or capability ledger yet. A7 remains the formal decision point.
 
-**Next:** A5 — UpgradePilot Career-value audit: determine which remaining project responsibilities are worth the remaining Career time as capability, ownership, portfolio, or employer-conversation value and which would mostly add project-internal sophistication.
+---
+
+# A5 — UpgradePilot Career-value audit
+
+**Status:** COMPLETE FOR CURRENT DECISION HORIZON.  
+**Detailed artifact:** `research/2026-09-07_A5_UPGRADEPILOT_CAREER_VALUE_AUDIT.md`
+
+### Fact / observation
+
+UpgradePilot remains a technically substantial, production-oriented Python dependency-update decision project with a real maintainer problem, public evidence acquisition, explicit provenance/uncertainty, mechanism-specific reasoning, tests, rejected experiments, and a Learning-by-Doing ownership system.
+
+The current 2026 ecosystem has also moved rapidly:
+
+- Dependabot and Renovate already automate dependency-update creation/management, grouping, scheduling, dashboards and optional automerge;
+- GitHub Copilot code review and CodeRabbit provide increasingly repository-aware automated PR review, suggested fixes and review workflows;
+- GitHub now allows selected Dependabot security alerts to be assigned directly to coding agents for remediation.
+
+Therefore generic `AI reviews dependency PRs` is no longer a meaningful UpgradePilot differentiation thesis.
+
+The strongest defensible UpgradePilot distinction is narrower:
+
+```text
+exact identity / provenance
++ repository-specific dependency and CI evidence
++ mechanism-specific impact and applicability
++ explicit missing / inaccessible / conflicting evidence
++ deterministic authority around AI proposals
++ uncertainty / non-activation / abstention
++ human-facing proof-strength explanation
+```
+
+### Interpretation
+
+UpgradePilot remains the correct primary flagship, but its Career role has matured.
+
+Earlier in the cycle, additional product sophistication created useful exposure and established a serious engineering environment. At Day 50, marginal Career return now depends much more on converting that environment into:
+
+- Ali-owned evidence;
+- executable proof;
+- diagnosis;
+- employer-visible demonstration;
+- concise project-defense clarity.
+
+Current complexity is still mostly justified, especially where it teaches identity/provenance, provider/domain/application boundaries, failure containment, static-vs-runtime proof, applicability, test semantics, and deterministic trust controls.
+
+The danger begins when new complexity adds mechanisms, frameworks, infrastructure, schemas, or edge-case breadth without materially improving user-visible behavior, proof strength, Ali capability, or employer explanation.
+
+### Ali-specific consequence
+
+The highest-Career-value remaining UpgradePilot responsibility classes are:
+
+1. current target artifact-environment/applicability composition when kept bounded;
+2. human-facing explanation;
+3. focused/nearby/end-to-end executable proof and closure of current proof debt;
+4. real failure diagnosis/recovery when naturally exposed;
+5. selective acquisition/replay robustness tied to reproducibility or real failures;
+6. diagnostics/evaluation;
+7. C1-style hardening, ownership, reviewer demonstration, limitation disclosure, and portfolio closure.
+
+The highest scope-risk classes are:
+
+- additional deterministic mechanism breadth pursued for completeness;
+- broad persistence/infrastructure before product need;
+- renewed LangGraph/LangChain/agent-framework experimentation without new pressure;
+- generic AI code-review or dependency-management features already covered by mature tools;
+- documentation/governance refinement whose marginal value is below ownership/proof work.
+
+### Decision / proposal
+
+A5 supports these provisional Career conclusions for A7:
+
+- keep UpgradePilot as the sole primary capability flagship unless later evidence changes the judgment;
+- stop measuring flagship value by sophistication/feature count;
+- judge future increments by product value **and** marginal Career return;
+- value executable proof and employer-facing explanation unusually highly;
+- preserve the current framework deferral absent new product pressure;
+- aim for a reviewer-understandable supported core and explicit ownership evidence before Day 90;
+- challenge any new substantial activity that cannot explain how it improves product truth, proof, Ali ownership, or portfolio value.
+
+Career does not alter UpgradePilot's technical route or implementation order. Its project-local governance remains authoritative.
+
+### Unresolved for A7
+
+- How much final-month capacity should remain with UpgradePilot versus Career-owned positioning/market work?
+- Is a separate bounded SQL/relational intervention needed, or will product need naturally create credible evidence?
+- Should normal applications activate at Day 60, remain inactive, or activate for a narrower band?
+- Is UpgradePilot converging quickly enough toward C1-quality demonstration/ownership outcomes within the remaining calendar?
+
+**Next:** A6 — portfolio/GitHub E2 positioning audit, followed by the formal A7 Day-60 synthesis/review.
