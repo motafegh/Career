@@ -911,4 +911,94 @@ Career does not alter UpgradePilot's technical route or implementation order. It
 - Should normal applications activate at Day 60, remain inactive, or activate for a narrower band?
 - Is UpgradePilot converging quickly enough toward C1-quality demonstration/ownership outcomes within the remaining calendar?
 
-**Next:** A6 — portfolio/GitHub E2 positioning audit, followed by the formal A7 Day-60 synthesis/review.
+---
+
+# A6 — Portfolio and GitHub E2 positioning audit
+
+**Status:** COMPLETE FOR CURRENT DECISION HORIZON.  
+**Detailed artifact:** `research/2026-09-07_A6_PORTFOLIO_AND_GITHUB_E2_POSITIONING_AUDIT.md`
+
+### Fact / observation
+
+The current public GitHub surface has substantial project material but lacks a deliberate employer entry layer.
+
+Verified current observations include:
+
+- no `motafegh/motafegh` profile repository exists, so there is no custom profile README;
+- UpgradePilot, JobHunter, Sentinel, and Career currently have no GitHub repository description and no topics;
+- the connected GitHub interface does not expose the rendered profile's current pinned repositories, so pin state/order remains unverified;
+- UpgradePilot's README is technically disciplined but foregrounds project controls/governance before a concrete `what works today / demo / Ali contribution` employer layer;
+- JobHunter currently has the strongest product-facing README, including `What JobHunter does today`, architecture, public corpus, quick start, stack, maturity, non-claims, and testing, but it does not make the AI-full development/authorship boundary clear near the top;
+- Sentinel's README is technically serious but opens with a very dense combination of smart-contract security, DATA, ML, LangGraph, EZKL and blockchain architecture and does not expose the critical distinction between Ali's original project era and the later AI-full-implementation R4 continuation;
+- the public Career repository is intentionally public-safe but exposes internal capability/employability machinery and currently contains stale dynamic README text referring to the old E1/Day-30 readiness horizon.
+
+### Interpretation
+
+The main portfolio problem is **translation and ordering, not lack of substance**.
+
+The current GitHub surface makes employers do too much work before they can answer:
+
+```text
+Who is Ali professionally?
+Which three projects matter?
+What does each project do today?
+What did Ali personally direct / understand / verify / modify?
+What was substantially implemented by AI?
+What can I inspect or run quickly?
+```
+
+The Career repository also demonstrates an important distinction:
+
+```text
+public-safe
+!=
+employer-optimized
+```
+
+Career transparency does not require making internal capability gaps and operating-state machinery part of the recruiter's default journey.
+
+### Ali-specific consequence
+
+E2 positioning remains incomplete, but the missing work is bounded and relatively cheap compared with new technical construction.
+
+The minimum correction does **not** require rebuilding repositories or deleting history. It requires a curated entry layer:
+
+1. concise profile README after A7 confirms the working headline;
+2. descriptions/topics for UpgradePilot, JobHunter, and Sentinel;
+3. manual verification/curation of pins, with UpgradePilot → JobHunter → Sentinel as the current broad default recommendation;
+4. an employer-facing first layer in UpgradePilot covering current behavior, differentiation, inspectable path, stack, Ali contribution, AI assistance, and limitations before deep governance;
+5. a concise development/contribution boundary near the top of JobHunter without rewriting its strong product README;
+6. a simplified Sentinel first screen that explains the research problem/result and Ali-era vs AI-full continuation before advanced architecture;
+7. keep Career out of the primary recruiter path and later decide whether its public role should remain unchanged.
+
+Older learning/experimental repositories do not need mass cleanup. Profile narrative, pins, descriptions, and first-screen README structure can deprioritize them at much lower cost.
+
+### Claim audit result
+
+The strongest current project-positioning verbs differ by evidence:
+
+- **UpgradePilot:** directing, learning through, challenging, selecting, verifying, increasingly modifying where specific evidence exists;
+- **JobHunter:** directed and evaluated AI-assisted development; required provenance/source-truth and semantic fail-closed behavior;
+- **Sentinel:** originally worked through/trained/diagnosed in the earlier AI-assisted project; later directed an AI-led research continuation.
+
+Do not convert repository ownership into first-person `implemented/built/owned` claims where Career evidence does not support them.
+
+### Decision / proposal
+
+A6 supports these provisional conclusions for A7:
+
+- E2 should be treated as a small mandatory correction lane rather than deferred until project completion;
+- the underlying three-project portfolio is already sufficient in breadth/substance for the current transition stage;
+- default broad project order remains UpgradePilot → JobHunter → Sentinel unless A7/role-specific evidence changes it;
+- Career should not spend a technical week polishing every old repository;
+- the public Career repository should not be featured to employers by default;
+- application-readiness decisions should distinguish the **bounded E2 presentation gap** from the still-more-material **ownership/debugging evidence gap**.
+
+### Unresolved for A7
+
+- What exact working identity/headline should anchor the new profile README?
+- Should normal applications activate once the minimum E2 correction is completed, or does the ownership gap still require a broader hold?
+- Should the public Career repository remain public in its current operating-record form, receive a public-facing boundary cleanup, or change privacy/presentation strategy?
+- What exact small time allocation should implement E2 without stealing meaningful flagship capacity?
+
+**Next:** A7 — formal Day-60 synthesis and Career review. A0–A6 now contain enough evidence for the review; no further broad research should precede it unless a new material fact would change the decision.
