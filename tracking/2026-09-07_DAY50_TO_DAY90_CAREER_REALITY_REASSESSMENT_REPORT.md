@@ -651,3 +651,167 @@ Primary/current sources inspected for A1 include:
 - Artificial Analysis — `Intelligence Index v4.2` (2026-09-04) and current coding-agent results: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
 
 Independent/preprint evidence is treated proportionately and not as settled labor-market evidence.
+
+---
+
+# A2 — AI-era engineering responsibility/value map
+
+**Status:** COMPLETE FOR CURRENT DECISION HORIZON.  
+**Detailed artifact:** `research/2026-09-07_A2_AI_ERA_ENGINEERING_RESPONSIBILITY_VALUE_MAP.md`
+
+### Fact / observation
+
+Current evidence indicates that syntax recall, boilerplate, straightforward implementation, first-pass repository search, first-pass test generation, routine refactors, documentation, and first-pass debugging suggestions are becoming substantially cheaper through coding agents.
+
+The responsibilities whose relative value rises include:
+
+- intent/problem ownership;
+- system mental models and architecture boundaries;
+- verification/evaluation/evidence design;
+- causal debugging;
+- security/trust/blast-radius control;
+- data/evidence quality;
+- cross-system integration;
+- operations/observability;
+- product judgment;
+- accountable explanation;
+- agent/harness engineering.
+
+Independent evidence also indicates that stronger prior expertise increases effective AI delegation and that AI-assisted task completion does not automatically produce equivalent underlying human learning.
+
+### Interpretation
+
+The correct 2026 ownership standard is neither blank-page coding nor repository output. It is responsibility ownership: understand, direct, verify, modify, diagnose, transfer, and defend important work while using AI heavily where appropriate.
+
+The specialization question resolved provisionally toward an **anchored-hybrid / T-shaped** model rather than a shallow generalist model. AI appears to expand the useful breadth of people who already have a credible technical substrate; it does not make expertise irrelevant.
+
+### Ali-specific consequence
+
+Ali should not optimize for manual code-production speed. He does need a technical substrate deep enough to inspect and challenge AI work, make representative changes, diagnose failures, and transfer reasoning to changed cases.
+
+His emerging AI-agent/harness direction capability is potentially valuable and should be treated as engineering evidence when it is demonstrated, not dismissed as mere prompting.
+
+### Decision / proposal
+
+Carry the A2 ownership model into A3/A4/A7. Do not change Career identity before market and Ali-specific evidence are reconciled.
+
+---
+
+# A3 — Current employment-market calibration
+
+**Status:** COMPLETE FOR CURRENT DECISION HORIZON, including revised Iran/Persian-market extension.  
+**Detailed artifacts:**
+
+- `research/2026-09-07_A3_CURRENT_EMPLOYMENT_MARKET_CALIBRATION.md`
+- `research/2026-09-07_A3_IRAN_PERSIAN_EMPLOYMENT_MARKET_EXTENSION.md`
+
+### Fact / observation
+
+The international bounded sample and the revised Iranian role-architecture study both support a recurring anchored-hybrid engineering shape:
+
+```text
+software/programming substrate
++ APIs/integration
++ data/SQL where role-relevant
++ testing/debugging/evaluation
++ AI/LLM/agent leverage where role-relevant
++ business/process/stakeholder translation
++ useful cloud/operations exposure
+```
+
+Current junior/early-career AI roles exist and increasingly include LLM/agent responsibilities, but they usually sit on top of software/data foundations rather than replacing them.
+
+The revised Iran research added several important adjacent entry lanes that an AI-keyword search would miss:
+
+- QA/testing;
+- systems analysis;
+- ERP/implementation/support;
+- Linux/cloud support;
+- SRE/operations;
+- backend + AI integration;
+- data + AI pipelines;
+- security/testing.
+
+Market access filters are distinct from technical fit. Degree/campus eligibility, nationality, language, work authorization, and experience windows can eliminate otherwise relevant roles.
+
+### Interpretation
+
+The market does not reward shallow breadth. It increasingly rewards one defendable substrate plus useful adjacent responsibility breadth.
+
+Applied AI / AI Implementation and Technical Implementation / AI Solutions appear especially relevant to the current strategic hypothesis, while Python/data/backend remain important anchors and alternative entry lanes should stay visible.
+
+### Ali-specific consequence
+
+Role selection must later distinguish:
+
+```text
+technical fit
+from
+entry-access fit
+```
+
+SQL remains a material role-dependent gap, not a universal blocker. Advanced cloud/Kubernetes mastery is not justified as a universal pre-application gate.
+
+### Decision / proposal
+
+Carry the expanded role map into A4/A7. Do not activate applications or change role identity from A3 alone.
+
+---
+
+# A4 — Ali capability and evidence reality
+
+**Status:** COMPLETE FOR CURRENT DECISION HORIZON.  
+**Detailed artifact:** `research/2026-09-07_A4_ALI_CAPABILITY_AND_EVIDENCE_REALITY.md`
+
+### Fact / observation
+
+A4 compared the current Career capability ledger and September-1 state with current UpgradePilot evidence.
+
+The main positive change is that one current source-flow + focused test-semantic responsibility is now credibly at **D2 guided understanding**. The September-7 artifact-serviceability slice records Ali selecting failure-containment behavior before mutation and later completing a post-implementation ownership check on the real source/test flow.
+
+Ali's strongest current areas remain:
+
+- evidence/uncertainty/trust-boundary reasoning;
+- technical challenge and anti-overengineering judgment;
+- AI-agent/harness direction;
+- bounded system-flow understanding;
+- increasingly credible test/evaluation reasoning;
+- substantial prior business/process responsibility.
+
+The weakest employment-relevant evidence remains:
+
+- ownership-bearing source/test modification;
+- current causal debugging/failure diagnosis;
+- SQL/relational data;
+- professional Git/review collaboration;
+- broad transfer beyond selected guided project contexts.
+
+### Interpretation
+
+The ownership gap has narrowed since September 1, but the global application-readiness ownership blocker has not disappeared.
+
+The current asymmetry is:
+
+```text
+technical reasoning / evidence / direction / critique
+>
+source/test execution ownership / diagnosis / relational data / professional collaboration evidence
+```
+
+### Ali-specific consequence
+
+The remaining Career problem is not "learn more technologies" and not "manually write a lot of code." The highest-value correction is to convert current sophisticated project context into a small amount of **ownership-bearing evidence** while preserving the AI-era strengths already developing.
+
+A4 identifies five evidence classes that could materially improve the position:
+
+1. one ownership-bearing source/test change;
+2. one current real failure diagnosis;
+3. bounded relational-data evidence for role bands where SQL matters;
+4. bounded Git/review evidence;
+5. a changed-context AI-harness improvement case as a differentiator rather than a global blocker.
+
+### Decision / proposal
+
+Do not change `CAREER_STATE.md`, application status, working identity, or capability ledger yet. A7 remains the formal decision point.
+
+**Next:** A5 — UpgradePilot Career-value audit: determine which remaining project responsibilities are worth the remaining Career time as capability, ownership, portfolio, or employer-conversation value and which would mostly add project-internal sophistication.
