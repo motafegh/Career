@@ -124,12 +124,12 @@ It must not become a second `CAREER_STATE.md`, capability ledger, market authori
 
 #### A1 — Current AI model, coding-agent, and tool reality
 
-- [ ] Identify the strongest materially relevant current model families and coding/agent systems rather than compiling a broad model catalog.
-- [ ] Examine current capabilities in code generation, repository navigation, multi-file change, tests, debugging, tool use, browser/computer use, long-horizon work, review, and autonomous execution.
-- [ ] Examine important limitations: reliability, verification burden, context loss, hallucination, reward hacking/specification failure, security, cost, latency, and supervision needs.
-- [ ] Distinguish benchmark/provider claims from demonstrated workflow capability.
-- [ ] Determine which engineering tasks have become substantially cheaper since the start of our current Career strategy.
-- [ ] Record Ali's own observed experience with current AI assistants and where it agrees or conflicts with external evidence.
+- [x] Identify the strongest materially relevant current model families and coding/agent systems rather than compiling a broad model catalog.
+- [x] Examine current capabilities in code generation, repository navigation, multi-file change, tests, debugging, tool use, browser/computer use, long-horizon work, review, and autonomous execution.
+- [x] Examine important limitations: reliability, verification burden, context loss, hallucination, reward hacking/specification failure, security, cost, latency, and supervision needs.
+- [x] Distinguish benchmark/provider claims from demonstrated workflow capability.
+- [x] Determine which engineering tasks have become substantially cheaper since the start of our current Career strategy.
+- [x] Record Ali's own observed experience with current AI assistants and where it agrees or conflicts with external evidence.
 
 **Output:** current AI capability landscape relevant to career decisions.
 
@@ -143,8 +143,10 @@ It must not become a second `CAREER_STATE.md`, capability ledger, market authori
   - unaided blank-page coding as the only valid ownership standard;
   - AI-produced output as sufficient evidence of human engineering capability.
 - [ ] Identify what Ali should understand, be able to supervise, be able to modify, and be able to perform with reduced assistance for our realistic target roles.
+- [ ] Research the **specialization vs bounded hybrid-breadth hypothesis**: whether AI weakens the relative value of narrow implementation specialization, increases the value of T-shaped/hybrid cross-domain ownership, or instead makes true deep expertise more valuable at the difficult boundaries where agents fail.
+- [ ] Distinguish useful cross-domain breadth for orchestration/integration from shallow technology collection; define where first-person depth is still required for accountability, debugging, architecture, security, and technical judgment.
 
-**Output:** provisional AI-era ownership and skill-depth model for later Career review.
+**Output:** provisional AI-era ownership, skill-depth, and breadth/depth model for later Career review.
 
 #### A3 — Current real-world employment market calibration
 
@@ -161,10 +163,11 @@ Use `career-market-calibration` when this item begins.
 - [ ] Separate core, frequent, occasional, differentiating, learnable-on-job, and employer-specific requirements.
 - [ ] Inspect signs of AI-agent/tool expectations and whether they replace or increase traditional implementation expectations.
 - [ ] Examine experience, degree, collaboration, Git/review, SQL, cloud/deployment, testing/debugging, API, LLM/agent, and production-ownership expectations.
+- [ ] Test whether actual roles are becoming materially more hybrid/cross-functional or whether employers still screen heavily through narrow role titles and specialist depth despite AI-assisted execution.
 - [ ] Evaluate geography/work-mode reality for the currently relevant UAE, broader Asia, European, and remote opportunities where evidence is sufficient.
 - [ ] Treat visa/work authorization, graduate/internship eligibility, language, and experience filters as practical constraints rather than technical footnotes.
 
-**Output:** current role-family requirement map and realistic opportunity bands.
+**Output:** current role-family requirement map and realistic opportunity bands, including evidence on specialist-vs-hybrid hiring reality.
 
 #### A4 — Ali evidence and capability reality
 
@@ -224,6 +227,7 @@ By 2026-09-17, synthesize the strongest available evidence from A0–A6 and deci
 
 - [ ] Is the current working identity still correct?
 - [ ] Are target role families still correct, too broad, or missing an important realistic band?
+- [ ] Should Ali retain the current breadth/depth allocation, become more deliberately hybrid/T-shaped, or narrow toward a stronger specialist core? If hybridization is justified, define a **bounded coherent adjacent-domain set and minimum depth floor**, not open-ended breadth.
 - [ ] Is UpgradePilot still the correct sole primary capability flagship for the remainder?
 - [ ] Has Ali's capability/ownership conclusion materially changed?
 - [ ] What ownership standard should Career use in the current AI-agent environment?
@@ -290,7 +294,7 @@ Throughout the program, Ali may provide:
 - project responsibilities he believes he understands or does not understand;
 - desired or undesired job types;
 - geography/work-mode constraints;
-- concerns about hiring, AI displacement, seniority, learning depth, or ownership;
+- concerns about hiring, AI displacement, seniority, learning depth, ownership, specialization, or breadth;
 - examples of work he believes AI now performs better than before;
 - disagreements with Career interpretations;
 - personal time/capacity changes;
@@ -327,6 +331,7 @@ Every important recommendation should make clear whether it is based on:
 - Do not turn market keywords directly into learning tasks.
 - Do not create another technical flagship during this investigation.
 - Do not change Career identity because one technology is exciting.
+- Do not equate "hybrid" with learning many unrelated technologies shallowly.
 - Do not pause legitimate UpgradePilot work for unlimited Career research.
 - Do not let UpgradePilot progress postpone E2 positioning indefinitely.
 - Do not let positioning work consume a full technical week.
@@ -341,6 +346,7 @@ This plan succeeds if, by Day 60 and then Day 90:
 - we can explain honestly where the original 90-day program diverged and why;
 - current AI capability changes have been translated into engineering-responsibility consequences rather than hype;
 - target role families are grounded in fresh representative market evidence;
+- the specialization-vs-hybrid-breadth question is decided from AI-era responsibility and market evidence rather than intuition alone;
 - Ali's capability is judged using an AI-era but non-inflated ownership standard;
 - UpgradePilot's remaining Career value is clear and selective;
 - E2 portfolio positioning is no longer passively deferred;
@@ -350,6 +356,6 @@ This plan succeeds if, by Day 60 and then Day 90:
 
 ## 11. Immediate next action
 
-Create the companion progressive report, record the completed A0 baseline from the Day-50 investigation, and then begin **A1 — Current AI model, coding-agent, and tool reality**.
+Begin **A2 — AI-era engineering responsibility/value map**, including the newly recorded specialization-vs-bounded-hybrid-breadth hypothesis.
 
-Do not begin A2 until A1 has produced enough evidence to distinguish actual capability change from model-release hype.
+Do not begin A3 until A2 has produced a provisional ownership/depth model and clear market questions to test.
