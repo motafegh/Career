@@ -233,7 +233,7 @@ Both propositions remain active until A1–A4 supply enough external and Ali-spe
 
 # A1 — Current AI model, coding-agent, and tool reality
 
-**Status:** EXTERNAL LANDSCAPE ESTABLISHED — Ali direct-experience evidence still pending before A1 closes.
+**Status:** COMPLETE FOR CURRENT DECISION HORIZON — external landscape and Ali direct-experience evidence recorded; re-open only if new evidence could materially change A2/A3/A7.
 
 ## A1.1 Scope and evidence quality
 
@@ -244,7 +244,7 @@ Evidence is separated into:
 1. **provider/product evidence** — useful for current capabilities and product surfaces, but may be promotional;
 2. **independent benchmark/research evidence** — stronger for capability limits and cross-model comparison, but still imperfect;
 3. **real deployment/case evidence** — useful for workflow change, but often organization-specific;
-4. **Ali direct experience** — required before A1 closes because our Career decision must reflect how current systems actually behave in Ali's work.
+4. **Ali direct experience** — required because our Career decision must reflect how current systems actually behave in Ali's work.
 
 ## A1.2 Frontier model reality as of 2026-09-07
 
@@ -495,24 +495,139 @@ The external evidence supports these provisional propositions:
 
 These are not yet canonical Career decisions. A2 must turn them into a responsibility/value map and a provisional 2026 ownership standard.
 
-## A1.10 Ali direct-experience evidence required before closure
+## A1.10 Ali direct-experience evidence
 
-A1 intentionally remains open until Ali's own experience is recorded.
+### Fact / observation
 
-Useful evidence includes:
+Ali reports that substantial AI assistance in long/complex coding is already effectively non-negotiable in his workflow and, in his view, this shift predates the newest September frontier models by at least roughly a month.
 
-- which current assistants/agents Ali actually uses;
-- what proportion/types of work he now delegates versus performs directly;
-- examples where an agent completed work that previously required much more manual effort;
-- examples where Ali caught a wrong assumption, weak design, invalid evidence claim, bad test, or implementation problem;
-- where Ali still feels unable to judge whether AI output is correct;
-- whether newer models materially changed how much supervision is needed compared with July;
-- whether Ali can now run parallel/long-running agents and how that changes his personal workflow;
-- what work Ali believes he personally must still understand deeply even if an agent writes it.
+Ali's strongest practical concern is no longer whether AI can generate code. It is **harnessing and orchestrating AI so that it reliably produces the exact kind of work he needs**.
 
-This is not a questionnaire to score Ali. It is evidence needed to compare external AI capability with Ali's actual workflow before A2.
+One frequently encountered example is learning. Ali has worked with AI agents to create repository rules, roles, procedures, and Skills that form a customized learning system. He reports that this materially improved learning quality, but that getting agents to teach at the right depth, sequence, and style still requires active design of the harness rather than merely asking a generic model question.
 
-## A1.11 External evidence register
+Ali also reports direct qualitative improvement in AI-generated source over time. Even as a beginner, he can see that newer-model code generally has fewer obvious errors and better design than older AI-written code. At the same time, he repeatedly observes a remaining failure mode: **unnecessary complexity or over-engineering**.
+
+During UpgradePilot, Ali reports multiple occasions where a high-tier AI model proposed a design, method, or implementation choice that he challenged. After further AI-assisted analysis, the project concluded that Ali's concern was valid and changed direction. Career already has project-level evidence of repeated scope/evidence/complexity challenges; this new self-report is consistent with that existing pattern but does not independently establish broad implementation ownership.
+
+Ali also reports observing experienced/specialized programmers publicly state that they have gone months without personally writing code because they have automated/delegated implementation to AI. This is recorded as **qualitative industry sentiment observed by Ali**, not as a representative labor-market statistic.
+
+### Interpretation
+
+Ali's direct experience strongly agrees with the external A1 finding that the bottleneck is moving from raw code production toward **harness design, orchestration, specification, supervision, evaluation, and correction**.
+
+The UpgradePilot examples matter because Ali is not merely reporting that AI is powerful; he has repeatedly encountered situations where AI output had to be challenged on design/evidence/complexity grounds and where his challenge materially improved the result.
+
+At the same time, this does not support the opposite overreach that implementation knowledge is unnecessary. Ali himself notes that he can identify some design/code quality changes precisely because he has enough developing technical context to compare outputs, while also acknowledging that some generated code remains beyond his comfortable independent judgment.
+
+### Ali-specific consequence
+
+Career should treat **AI orchestration/harnessing and technical challenge** as potentially important real strengths to develop and evidence—not as incidental prompting skills.
+
+However, the final ownership standard should still require enough technical understanding to detect when an agent is wrong, unnecessarily complex, insecure, poorly tested, or solving the wrong problem. The exact depth required remains an A2/A3 question.
+
+### Decision / proposal
+
+Carry forward an explicit distinction:
+
+```text
+manual code authorship
+≠ sole ownership standard
+
+agent orchestration alone
+≠ sufficient engineering ownership
+
+credible AI-era ownership
+likely requires
+problem/constraint control
++ technical judgment
++ verification/evaluation
++ meaningful correction/modification
++ diagnosis
++ accountable explanation
+```
+
+A2 must determine the appropriate depth of each responsibility rather than assuming equal mastery of every implementation detail.
+
+## A1.11 New strategic hypothesis from Ali: narrow specialization vs bounded hybrid breadth
+
+### Fact / observation
+
+Ali questions a long-standing Career convention: that a person should concentrate roughly 80% of learning/career effort in one narrow technical field because specialization historically increased employability and career durability.
+
+His hypothesis is that increasingly powerful specialist-capable AI agents may weaken some of that advantage. If AI can cheaply supply deep implementation assistance in many individual fields, a human who can **understand enough across several related domains to direct, integrate, observe, monitor, challenge, and verify specialized agents** may become more valuable than someone whose main differentiation is narrow implementation depth in only one area.
+
+Ali is not proposing unlimited breadth or learning dozens of unrelated technologies. The hypothesis is closer to a **hybrid/versatile engineering profile** spanning a bounded family of related responsibilities, with AI supplying some specialist execution while the human retains cross-domain coordination and judgment.
+
+### Interpretation
+
+This is strategically plausible but unresolved.
+
+AI could make cross-domain breadth more useful because learning/access costs fall and agents can supply specialist implementation. But the opposite mechanism may also exist: if AI makes ordinary implementation cheap, **real deep expertise may become even more valuable at the difficult boundaries where agents fail**, especially for architecture, debugging, security, domain-specific judgment, and production accountability.
+
+Therefore the question is not simply:
+
+> specialist or generalist?
+
+It is more usefully framed as:
+
+> What combination of deep ownership and cross-domain breadth is most resilient and employable when specialist execution is increasingly AI-assisted?
+
+### Ali-specific consequence
+
+This question could materially affect Ali's working identity, target roles, learning allocation, and how UpgradePilot is used during the final 40 days. It is too consequential to decide from intuition alone.
+
+### Decision / proposal
+
+Promote this hypothesis into the active plan for explicit investigation across A2, A3, and A7:
+
+1. **A2:** research the responsibility economics of specialization vs hybrid/T-shaped breadth in an AI-agent-heavy engineering environment;
+2. **A3:** test actual hiring evidence for whether roles are broadening/hybridizing or still strongly screen for narrow depth;
+3. **A7:** decide whether Ali's current working identity and breadth/depth allocation should change, and if so define a bounded adjacent-domain set rather than open-ended breadth.
+
+Do **not** change Career identity or add new learning tracks before those evidence steps.
+
+### Unresolved
+
+Key questions now include:
+
+- Which technical responsibilities still require deep first-person expertise even when AI executes most code?
+- Which responsibilities can be safely held at working/supervisory depth?
+- Does the current market reward broad hybrid ownership, or still hire primarily through narrow role labels even when actual work is cross-functional?
+- Would broader capability improve Ali's realistic entry path, or make an already broad transition profile harder to explain and defend?
+- What would a bounded hybrid profile actually contain for Ali: Python/data/AI/security/backend/cloud/agent engineering, or a smaller coherent subset?
+- What depth floor prevents "versatile" from becoming shallow keyword collection?
+
+## A1.12 A1 closure and handoff
+
+### Conclusion for the current decision horizon
+
+A1 now has both external and Ali-specific evidence sufficient to proceed.
+
+The combined evidence supports a strong direction, without yet making a Career identity decision:
+
+```text
+AI implementation capability has advanced enough that
+raw manual code production is a declining differentiator
+
+but
+
+AI autonomy still has enough specification, verification, security,
+and judgment failures that human engineering ownership remains necessary
+
+therefore
+
+the strategic question shifts from
+"how much code must Ali type himself?"
+to
+"what responsibilities must Ali understand, control, verify, modify,
+diagnose, integrate, and defend when AI performs much of the execution?"
+```
+
+The additional specialization-vs-hybrid-breadth hypothesis is now part of that handoff.
+
+**Next:** A2 — AI-era engineering responsibility/value map and provisional ownership/depth model.
+
+## A1.13 External evidence register
 
 Primary/current sources inspected for A1 include:
 
