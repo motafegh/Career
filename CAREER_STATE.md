@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-08 — early Day-60 A7 formal review completed  
+**Last updated:** 2026-09-08 — E2 repository-side public positioning completed; GitHub UI actions pending  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -20,7 +20,7 @@
 | Historical project | AegisLab: historical security-learning/design evidence |
 | Current capability interpretation | Selected current UpgradePilot source-flow and representative test reasoning now support bounded D2 guided understanding; ownership-bearing modification, current causal diagnosis, SQL/relational work, and professional Git/review evidence remain materially weaker |
 | Employability phase | **E1 — market calibrated; E2 correction active; narrow application activation conditionally authorized after minimum E2 closure** |
-| Portfolio phase | Three-project role model established; minimum GitHub/profile/project first-screen correction remains incomplete but bounded |
+| Portfolio phase | Three-project role model established; repository-side first-screen/attribution corrections complete; GitHub profile repository, repository metadata/topics, and pins remain pending |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/positioning/market/gap work |
 | Day-60 review | Completed early on 2026-09-08 by Ali request after A0–A6 and fresh project-state refresh; 2026-09-17 becomes a checkpoint/reassessment date rather than a duplicate full review unless material evidence changes |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -176,17 +176,22 @@ Remain interface/supervisory breadth unless repeated market/project pressure jus
 
 ## 8. Portfolio / E2 decision
 
-E2 is **not yet complete**, but A6 established that the remaining problem is bounded presentation/attribution rather than missing project substance.
+E2 is **not yet complete**, but the repository-side correction is now materially advanced.
 
-Minimum E2 correction remains:
+Completed on 2026-09-08:
 
-1. create a concise GitHub profile README using the public broad headline and the three-project narrative;
-2. add useful repository descriptions/topics for UpgradePilot, JobHunter, and Sentinel;
-3. verify/curate pins, with UpgradePilot → JobHunter → Sentinel as the broad default unless role-specific positioning changes it;
-4. improve UpgradePilot's first screen around current behavior, differentiation, inspectable path, Ali contribution, AI assistance, and limitations;
-5. add a concise contribution/AI-development boundary near the top of JobHunter;
-6. simplify Sentinel's first screen and expose original Ali-era versus later AI-led continuation before the advanced architecture;
-7. keep Career out of the primary recruiter journey and remove stale dynamic public-facing status where necessary.
+- UpgradePilot now has an employer/reviewer first-screen layer covering current behavior, differentiation, inspectable evidence flow, Ali contribution, AI assistance, and limitations;
+- JobHunter now exposes its development/AI-assistance contribution boundary near the top without weakening the product story;
+- Sentinel now opens with the research problem, two-era Ali/AI boundary, and a current Phase-8 summary before the deep architecture;
+- Career's public README now presents the repository as an operating system rather than duplicating stale employability/application status;
+- Career has an approved E2 profile/metadata/pin package at `portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`.
+
+Remaining minimum E2 actions are GitHub UI/account surfaces not exposed by the current connected GitHub write interface:
+
+1. create the public `motafegh/motafegh` profile repository and use the approved profile README copy;
+2. set the approved descriptions/topics for UpgradePilot, JobHunter, and Sentinel;
+3. verify/curate profile pins with UpgradePilot → JobHunter → Sentinel as the broad default;
+4. return to Career for the short final claim/materials consistency check.
 
 Do not mass-polish or delete older repositories.
 
@@ -237,7 +242,7 @@ Do not create a second daily Career bureaucracy.
 
 For the remainder of the cycle, optimize in this order:
 
-1. **Close minimum E2 positioning quickly and proportionately.**
+1. **Close the remaining GitHub UI E2 actions and run the short consistency check.**
 2. **Keep UpgradePilot dominant and convert sophistication into proof, ownership, diagnosis, demonstration, and explanation.**
 3. **Activate the narrow calibration application band immediately after E2 closure and collect real feedback.**
 4. **Address SQL/relational and Git/review gaps proportionately where they widen realistic opportunities.**
@@ -246,15 +251,15 @@ For the remainder of the cycle, optimize in this order:
 
 ## 12. Exact next Career action
 
-> **Execute the minimum E2 GitHub/project-positioning correction defined by A6 while UpgradePilot remains the dominant independent technical responsibility.** As soon as E2 closes, run the narrow application-activation check and begin bounded calibration applications under the A7 role-band decision.
+> **Complete the remaining GitHub UI E2 actions from `portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`: create the profile repository/README, set the three repository descriptions/topics, and curate pins.** Then return to Career for the short final claim/materials check and narrow application activation.
 
-Career must not prescribe UpgradePilot's project-local implementation or learning sequence.
+UpgradePilot remains the dominant independent technical responsibility in parallel.
 
 ## 13. Next review triggers
 
 Return to Career at the earliest of:
 
-- minimum E2 positioning is complete and the narrow application band can be activated;
+- the remaining GitHub UI E2 actions are complete and the narrow application band can be activated;
 - UpgradePilot evidence could materially change the source/test/modification/diagnostic ownership conclusion;
 - the first bounded application batch produces a meaningful screening/interview/rejection pattern;
 - bounded SQL/relational evidence materially widens role bands;
