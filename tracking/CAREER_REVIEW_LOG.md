@@ -241,7 +241,7 @@ Applications remain inactive pending a formal readiness review. The next readine
 
 **Evidence inspected:**
 
-- current Career charter, operating contract, state, strategy, current cycle, portfolio, market plan, capability ledger, and review history;
+- current Career charter, operating contract, state, strategy, current cycle, portfolio, capability ledger, market plan, and review history;
 - UpgradePilot `MEMORY.md` dated 2026-08-05, current recent commits, and current application/upstream boundaries sufficient to assess project contribution without moving technical operation into Career;
 - JobHunter Career-side authority and recent repository activity sufficient to assess allocation role, not implementation ownership;
 - Ali's retrospective report of the recent work pattern: approximately 4–6 measured focused hours on an active day, approximately 4–5 active days in a typical week, with stopwatch timing paused when work stops; no exact daily or weekly log exists, so no precise weekly total is claimed;
@@ -522,6 +522,93 @@ This is still a bounded hold. Career should actively close E2 positioning while 
 - the next mandatory formal review becomes Day 60 on 2026-09-17, with earlier event-based reassessment if ownership/positioning evidence changes the decision.
 
 **Next review trigger:** Earliest of material UpgradePilot ownership evidence, E2 positioning becoming sufficient to affect applications, a vacancy-specific readiness question, SQL evidence that materially widens role bands, a representative JobHunter market snapshot, a material workload/strategy change, Ali's explicit request, or **2026-09-17 Day-60 review**.
+
+---
+
+### 2026-09-08 — Early Day-60 A7 formal Career review
+
+**Trigger:** Ali explicitly requested continuation after the Day50–90 A0–A6 investigation program and fresh project-state refresh were complete. The evidence package was sufficient to run the scheduled Day-60 synthesis early rather than wait mechanically until 2026-09-17.
+
+**Career question:** What should the remaining cycle optimize for given current AI-era engineering economics, current international/Iranian market evidence, Ali's actual capability evidence, the real state of UpgradePilot/JobHunter/Sentinel, and the remaining positioning/application gap?
+
+**Evidence inspected:**
+
+- Career state, current cycle, current directive, strategy, employability plan, capability ledger, prior review history;
+- A0–A6 progressive report and detailed research artifacts;
+- fresh pre-A7 project-state refresh;
+- bounded current UpgradePilot source/test evidence sufficient to distinguish project progress from Ali capability;
+- current JobHunter and Sentinel live state sufficient to confirm their Career roles.
+
+**Project contribution conclusion:**
+
+- UpgradePilot remains the sole primary capability/ownership flagship. Its Career value now depends more on proof, ownership, diagnosis, demonstration, and explanation than on additional sophistication.
+- JobHunter remains an AI-full-implementation Applied-AI product + Career market-intelligence + portfolio asset, not a second learning flagship.
+- Sentinel remains an AI-full-implementation ML/data/security research + portfolio case-study asset, not an ordinary Ali learning allocation.
+- AegisLab remains historical.
+
+**Capability conclusion:**
+
+- The old combined Day-30 `source + test + modification + debugging` D0 conclusion is now too coarse.
+- One bounded current UpgradePilot source-flow and representative-test responsibility now supports **D2 guided understanding**.
+- Ownership-bearing source/test modification and a sufficiently current unfamiliar causal diagnosis with reduced assistance remain unestablished at the stronger Career threshold.
+- AI-assisted technical critique/harness direction remains a real strength at D2 with meaningful provisional D3 signals for selected direction responsibilities.
+- Broad D3 Python/application ownership, SQL/relational ownership, and professional Git/review collaboration remain unestablished.
+
+**Assistance and transfer limits:**
+
+UpgradePilot remains substantially AI-assisted and JobHunter/current Sentinel remain AI-full-implementation. The stronger A7 capability claim is bounded source/test reasoning, not first-person authorship of the implementation. Repository commits, green tests, and AI-generated source remain insufficient by themselves.
+
+**Workload decision:**
+
+Retain Green mode and the 24 focused-hour weekly ceiling. Keep approximately 75–85% of personal technical attention available to UpgradePilot and 15–25% for combined Career/E2/application/SQL/Git work.
+
+**Portfolio decision:**
+
+The three-project portfolio is already sufficient in substance. E2 remains incomplete because the public entry layer is weak, but the correction is bounded: profile README, repo metadata/pins, UpgradePilot first-screen employer narrative, JobHunter assistance boundary, Sentinel era/assistance boundary, and removal of stale Career-facing dynamic positioning from the recruiter path.
+
+**Role/market decision:**
+
+Retain the current working identity and formalize its breadth/depth interpretation as **anchored hybrid / T-shaped**:
+
+```text
+Python/software anchor
++ data/evidence/relational anchor
++ applied AI/LLM/agent differentiator
++ secure/trustworthy engineering cross-cutting responsibility
++ adjacent backend/cloud/CI/Linux/networking/operations breadth only when justified
+```
+
+Priority calibration bands after E2 closure become junior/mentored Applied AI / AI Implementation, Technical Implementation / AI Solutions / automation, Python automation/application, and selected junior backend/integration roles. Data-heavy, ML-specialist, QA/testing/systems/implementation, SRE/operations, and similar routes remain role-specific based on responsibility and access fit.
+
+**Application-readiness decision:**
+
+Broad applications remain inactive on 2026-09-08 because E2 positioning is not yet closed.
+
+The previous combined global hold is narrowed:
+
+> **After minimum E2 closure and a short claim/materials check, activate a bounded narrow calibration application band without waiting for SQL mastery or broad D3 implementation ownership.**
+
+Ownership/debugging, SQL, and Git/review evidence continue improving in parallel. Data-heavy or specialist roles remain gated where current evidence is insufficient.
+
+**SQL decision:**
+
+SQL remains a role-widening gap, not a universal activation gate. If no proportional existing-project responsibility emerges after E2 closure, one small bounded standalone relational-data intervention is authorized within this cycle; it must not become a new project or detached curriculum.
+
+**Career state changes:**
+
+- working identity retained;
+- anchored-hybrid depth model made explicit;
+- capability record split so bounded current source/test reasoning is D2 while stronger modification/diagnosis ownership remains unestablished;
+- sole-flagship allocation retained;
+- E2 becomes the only current global application-activation gate;
+- narrow calibration applications become conditionally pre-authorized after E2 closure;
+- September 17 becomes a checkpoint/reassessment date rather than a duplicate full Day-60 review unless material evidence changes.
+
+**Exact next Career action:** Close the minimum E2 GitHub/project-positioning correction while UpgradePilot remains dominant. When E2 closes, run the short activation check and begin the pre-authorized narrow calibration band.
+
+**Detailed review record:** `tracking/research/2026-09-08_A7_EARLY_DAY60_FORMAL_CAREER_REVIEW.md`.
+
+**Next review trigger:** Earliest of E2 closure/application activation, material UpgradePilot ownership evidence, meaningful first application-feedback pattern, SQL evidence widening role bands, vacancy-specific readiness, material JobHunter/Sentinel evidence, workload/geography/project-fit change, 2026-09-17 checkpoint if unresolved, 2026-10-17 Day-90 review, or Ali request.
 
 ## 4. Review triggers
 
