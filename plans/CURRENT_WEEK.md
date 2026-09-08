@@ -72,23 +72,28 @@ No ordinary Ali learning allocation is required. Use its research/evaluation sto
 
 Historical only.
 
-## 4. Immediate Career lane — close minimum E2
+## 4. Immediate Career lane — finish minimum E2
 
-Use the non-flagship allocation first to close the bounded A6 correction:
+Repository-side E2 work is complete:
 
-1. GitHub profile README with the approved broad headline and concise three-project narrative.
-2. Repository descriptions/topics for UpgradePilot, JobHunter, and Sentinel.
-3. Verify/curate pins; broad default is UpgradePilot → JobHunter → Sentinel.
-4. UpgradePilot employer-facing first screen: current behavior, differentiation, inspectable path, Ali contribution, AI assistance, limitations.
-5. JobHunter top-level AI-development/contribution boundary.
-6. Sentinel top-level original-Ali-era versus later-AI-led research boundary and simplified first screen.
-7. Keep Career out of the primary recruiter path and repair stale dynamic public-facing wording where necessary.
+- UpgradePilot has an employer/reviewer first-screen layer;
+- JobHunter exposes its AI-development/contribution boundary near the top;
+- Sentinel exposes the research problem, two project eras, and current Phase-8 boundary before deep architecture;
+- Career's public README no longer duplicates stale employability/application status;
+- approved profile README, repository descriptions/topics, and pin order are recorded in [`../portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`](../portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md).
 
-Stop when these surfaces are sufficient. Do not redesign every repository.
+The only remaining E2-P0 actions are GitHub UI/account actions not exposed by the current connected GitHub write interface:
+
+1. create public profile repository `motafegh/motafegh` and paste the approved profile `README.md`;
+2. set the approved descriptions/topics on UpgradePilot, JobHunter, and Sentinel;
+3. verify/curate profile pins with broad default order UpgradePilot → JobHunter → Sentinel;
+4. return to Career for the short final claim/materials consistency check.
+
+Stop there. Do not redesign every repository.
 
 ## 5. Application activation rule
 
-Broad applications remain inactive until the minimum E2 correction is complete.
+Broad applications remain inactive until the remaining minimum E2 UI actions are complete.
 
 **Once E2 is complete, the first narrow calibration band is pre-authorized by A7.** Career should perform a short activation check for claim consistency and practical materials, then begin bounded applications without waiting for SQL mastery or broad D3 ownership.
 
@@ -181,7 +186,7 @@ A negative market signal is useful if it is classifiable and changes the next de
 
 Return when the earliest occurs:
 
-- E2 is complete and the activation check should start applications;
+- remaining GitHub UI E2 actions are complete and the activation check should start applications;
 - UpgradePilot evidence could change the ownership conclusion;
 - the first bounded application batch produces a meaningful pattern;
 - SQL/relational evidence widens the role band;
