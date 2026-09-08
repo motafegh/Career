@@ -1,367 +1,218 @@
 # Day 50 to Day 90 Career Reality Reassessment and Execution Plan
 
 **Owner:** Ali Rajabi  
-**Status:** Active bounded Career-level investigation and execution plan  
+**Status:** Active — Phase A complete; Phase B execution active  
 **Created:** 2026-09-07  
 **Horizon:** 2026-09-07 through 2026-10-17  
-**Immediate decision gate:** Day-60 Career review — 2026-09-17  
+**Formal A7 review:** completed early on 2026-09-08  
+**Next checkpoint:** 2026-09-17 only if material evidence changes or E2/application activation remains unresolved  
 **Career authority:** `../CAREER_STATE.md`, `CURRENT_CAREER_CYCLE.md`, `CURRENT_WEEK.md`, `../governance/CAREER_OPERATING_CONTRACT.md`  
 **Project authority:** each technical project repository remains authoritative for its own implementation, learning, plans, tests, and technical continuation
 
 ## 1. Purpose
 
-Use the remaining 40 days of the current Career/UpgradePilot execution period deliberately rather than allowing project sophistication, AI change, market change, portfolio work, or learning activity to continue on separate tracks without a shared Career judgment.
+Use the remaining current-cycle time deliberately so technical sophistication, Ali ownership, portfolio positioning, AI-era engineering changes, and market feedback converge into a credible first-role transition rather than advancing on separate tracks.
 
-This plan coordinates a bounded Career investigation and decision program around five questions:
+The controlling A7 decision is now recorded in:
 
-1. Where are we actually relative to the original 90-day commitment and the evidence-derived route that replaced its first calendar decomposition?
-2. How has the real AI/model/agent environment changed, and which engineering responsibilities are becoming cheaper, more automated, more important, or newly expected?
-3. What does the current employment market actually ask from realistic entry-level or transition-role candidates in our target role families and geographies?
-4. What can Ali actually demonstrate today, what does the portfolio communicate, and where is repository sophistication still ahead of Ali ownership or employer-facing clarity?
-5. Given the remaining time, what should we continue, change, accelerate, defer, stop, or begin before Day 90?
+- `../CAREER_STATE.md`;
+- `../tracking/CAREER_REVIEW_LOG.md`;
+- `../tracking/research/2026-09-08_A7_EARLY_DAY60_FORMAL_CAREER_REVIEW.md`.
 
-The goal is not to maximize activity. The goal is to maximize credible employability, ownership growth, portfolio clarity, and strategic learning value before the cycle closes.
+This plan no longer owns the investigation conclusions. It coordinates the remaining execution.
 
-## 2. Starting facts
+## 2. Completed Phase A — reality reassessment
 
-As of 2026-09-07:
+| Item | Status | Durable result |
+|---|---|---|
+| A0 — 90-day baseline | COMPLETE | Day-50 calendar/evidence baseline and progress imbalance established |
+| A1 — AI/model/agent reality | COMPLETE | AI implementation is much cheaper; control/verification/diagnosis matter more |
+| A2 — AI-era responsibility/value map | COMPLETE | Anchored-hybrid/T-shaped model and AI-era ownership lens established |
+| A3 — employment-market calibration | COMPLETE | International + Iran/Persian market evidence supports anchored hybrid and separates technical fit from access fit |
+| A4 — Ali capability/evidence reality | COMPLETE | Bounded source/test reasoning improved; modification/diagnosis/SQL/Git remain weaker |
+| A5 — UpgradePilot Career-value audit | COMPLETE | Keep flagship; optimize marginal work for proof/ownership/demo rather than sophistication |
+| A6 — Portfolio/GitHub E2 audit | COMPLETE | Portfolio substance sufficient; public entry layer remains bounded correction |
+| Pre-A7 project refresh | COMPLETE | UpgradePilot/JobHunter/Sentinel current states refreshed before formal decision |
+| A7 — formal Day-60 synthesis/review | **COMPLETE 2026-09-08** | Current state, capability, allocation, E2/application policy, SQL rule, and final-cycle priorities decided |
 
-- UpgradePilot execution began on 2026-07-20 and the 90-day period ends on 2026-10-17.
-- 2026-09-07 is Day 50 of 90; 40 days remain after today.
-- The original dated project roadmap expected M0–M4 to be complete and M5 deterministic baseline/evaluation to be active by this point.
-- That original milestone decomposition was explicitly replaced on 2026-07-23 after real-case evidence showed its sequencing assumptions were technically wrong.
-- The current project route is evidence-derived and evidence-gated rather than calendar-gated.
-- UpgradePilot remains the sole primary capability-building flagship.
-- Project sophistication and evidence/trust reasoning have advanced materially.
-- Current Career evidence still does not establish broad Ali implementation/test/debugging ownership at the desired threshold.
-- E2 market-facing GitHub/project positioning remains incomplete.
-- Normal applications remain inactive under the latest Career decision.
-- SQL/relational-data evidence remains a material but role-dependent gap.
-- Day-60 Career review is due on 2026-09-17.
+Detailed findings remain in the progressive report and `tracking/research/` artifacts. Do not re-run broad A0–A7 research without material new evidence.
 
-These are starting conditions, not conclusions about what the final 40-day correction should be.
+## 3. A7 decisions that control Phase B
 
-## 3. Core risk to test throughout the work
+### Identity / depth
 
-The central risk is:
+Retain:
 
-> We could reach Day 90 with a technically sophisticated AI-assisted repository, extensive engineering artifacts, and broad exposure while still lacking a clear employer-facing demonstration of what Ali personally understands, directs, modifies, tests, diagnoses, and can defend.
+> **AI-augmented Python/data/ML engineer developing secure engineering capability.**
 
-Every major recommendation in this program should be tested against that risk.
+Public broad headline:
 
-The opposite risk must also be avoided:
+> **Junior Software Engineer | Python, Data & Applied AI**
 
-> We must not react to the ownership concern by pretending modern AI-assisted engineering requires unaided blank-page coding or by ignoring how rapidly professional engineering work is changing.
-
-The program therefore needs a current, evidence-backed ownership standard suitable for an AI-agent-heavy engineering environment.
-
-## 4. Operating method
-
-For each investigation item, separate:
+Depth model:
 
 ```text
-FACT / OBSERVATION
-→ source or direct evidence
-
-INTERPRETATION
-→ what the evidence appears to mean
-
-ALI-SPECIFIC CONSEQUENCE
-→ why it matters for our current Career position
-
-DECISION / PROPOSAL
-→ only when evidence is sufficient
-
-UNRESOLVED
-→ what still needs evidence
+Python/software anchor
++ data/evidence/relational anchor
++ applied AI/LLM/agent differentiator
++ secure/trustworthy engineering cross-cutting responsibility
++ adjacent breadth only when real work demands it
 ```
 
-Rules:
+### Portfolio allocation
 
-- use current authoritative external evidence when the question is time-sensitive;
-- distinguish model/provider claims from independent or real-world evidence where material;
-- do not infer a labor-market trend from one vacancy;
-- do not infer Ali capability from repository sophistication, AI-generated code, or green tests;
-- do not suppress legitimate Ali capability merely because AI assistance existed;
-- do not add technologies because they are fashionable or frequently mentioned without responsibility-level need;
-- preserve contradictory or negative evidence;
-- use Ali's direct experience, concerns, preferences, observed difficulties, and project decisions as evidence where relevant;
-- keep UpgradePilot technical execution project-local;
-- update canonical Career owners only after a material Career review or explicit durable decision;
-- treat Day 60 as a real decision gate, not merely another progress note.
-
-## 5. Progressive report
-
-The companion progressive report is:
-
-`tracking/2026-09-07_DAY50_TO_DAY90_CAREER_REALITY_REASSESSMENT_REPORT.md`
-
-It is the investigation record for this program and may contain:
-
-- evidence gathered;
-- Ali's own observations and corrections;
-- competing interpretations;
-- provisional findings;
-- unresolved questions;
-- decisions already reached through the appropriate Career procedure;
-- links to deeper evidence rather than duplicated project detail.
-
-It must not become a second `CAREER_STATE.md`, capability ledger, market authority, or project working memory. Material conclusions are promoted to their canonical Career owners only when the applicable review/assessment procedure supports the change.
-
-## 6. Work program / TODO
-
-### Phase A — Day 50 to Day 60: establish reality before the formal review
-
-#### A0 — Establish and preserve the 90-day baseline
-
-- [x] Record the exact original Day-1 commitment, dates, workload model, original calendar roadmap, and formal review dates.
-- [x] Record why the original milestone schedule was replaced and what remained fixed.
-- [x] Compare the original Day-50 expectation with the actual current evidence-derived UpgradePilot state.
-- [x] Classify progress separately across product maturity, technical sophistication, Ali ownership, learning, portfolio readiness, and market readiness.
-- [x] Identify schedule compression, genuine route correction, overinvestment, underinvestment, and unresolved uncertainty without collapsing them into one "ahead/behind" label.
-
-**Output:** clear 90-day progress baseline in the progressive report.
-
-#### A1 — Current AI model, coding-agent, and tool reality
-
-- [x] Identify the strongest materially relevant current model families and coding/agent systems rather than compiling a broad model catalog.
-- [x] Examine current capabilities in code generation, repository navigation, multi-file change, tests, debugging, tool use, browser/computer use, long-horizon work, review, and autonomous execution.
-- [x] Examine important limitations: reliability, verification burden, context loss, hallucination, reward hacking/specification failure, security, cost, latency, and supervision needs.
-- [x] Distinguish benchmark/provider claims from demonstrated workflow capability.
-- [x] Determine which engineering tasks have become substantially cheaper since the start of our current Career strategy.
-- [x] Record Ali's own observed experience with current AI assistants and where it agrees or conflicts with external evidence.
-
-**Output:** current AI capability landscape relevant to career decisions.
-
-#### A2 — AI-era engineering responsibility/value map
-
-- [x] Map responsibilities that are increasingly automated or commoditized.
-- [x] Map responsibilities whose value increases when implementation becomes cheaper.
-- [x] Examine the changing meaning of coding fluency, code reading, debugging, architecture, testing, evaluation, data quality, security, operations, product judgment, and communication.
-- [x] Define a provisional 2026 standard for credible AI-augmented engineering ownership.
-- [x] Explicitly test both bad extremes:
-  - unaided blank-page coding as the only valid ownership standard;
-  - AI-produced output as sufficient evidence of human engineering capability.
-- [x] Identify what Ali should understand, be able to supervise, be able to modify, and be able to perform with reduced assistance for our realistic target roles.
-- [x] Research the **specialization vs bounded hybrid-breadth hypothesis**: whether AI weakens the relative value of narrow implementation specialization, increases the value of T-shaped/hybrid cross-domain ownership, or instead makes true deep expertise more valuable at the difficult boundaries where agents fail.
-- [x] Distinguish useful cross-domain breadth for orchestration/integration from shallow technology collection; define where first-person depth is still required for accountability, debugging, architecture, security, and technical judgment.
-
-**Output:** `tracking/research/2026-09-07_A2_AI_ERA_ENGINEERING_RESPONSIBILITY_VALUE_MAP.md`.
-
-#### A3 — Current real-world employment market calibration
-
-Use `career-market-calibration` for this item.
-
-- [x] Refresh representative vacancy evidence for realistic role bands rather than relying on July/August assumptions.
-- [x] Analyze at minimum:
-  - Python / automation;
-  - data / junior data engineering;
-  - applied AI / AI implementation;
-  - junior backend with Python/data responsibilities;
-  - implementation / solutions engineering;
-  - ML trainee / junior ML where evidence supports relevance.
-- [x] Separate core, frequent, occasional, differentiating, learnable-on-job, and employer-specific requirements.
-- [x] Inspect signs of AI-agent/tool expectations and whether they replace or increase traditional implementation expectations.
-- [x] Examine experience, degree, collaboration, Git/review, SQL, cloud/deployment, testing/debugging, API, LLM/agent, and production-ownership expectations.
-- [x] Test whether actual roles are becoming materially more hybrid/cross-functional or whether employers still screen heavily through narrow role titles and specialist depth despite AI-assisted execution.
-- [x] Evaluate geography/work-mode reality for UAE, Germany/Europe, supporting Asia evidence, and the Iran/Persian market where evidence is sufficient.
-- [x] Treat visa/work authorization, graduate/internship eligibility, language, and experience filters as practical constraints rather than technical footnotes.
-- [x] Extend the Iranian analysis beyond `AI`/`هوش مصنوعی`/Python keywords into role architecture: backend, data, QA/testing, systems analysis, implementation/support, SRE/operations, security, AI integration, and other adjacent technical entry routes.
+```text
+UpgradePilot → sole capability/ownership flagship
+JobHunter    → AI-full Applied-AI product + market intelligence + portfolio
+Sentinel     → AI-full ML/data/security research + case study
+AegisLab     → historical
+```
 
-**Outputs:**
+### Capability boundary
 
-- `tracking/research/2026-09-07_A3_CURRENT_EMPLOYMENT_MARKET_CALIBRATION.md`
-- `tracking/research/2026-09-07_A3_IRAN_PERSIAN_EMPLOYMENT_MARKET_EXTENSION.md`
+Current bounded UpgradePilot source-flow + representative-test reasoning supports D2 guided understanding.
 
-#### A4 — Ali evidence and capability reality
+Still materially missing:
 
-Use `career-capability-assessment` only for bounded responsibilities that materially affect the decision.
+- ownership-bearing source/test modification;
+- current unfamiliar causal diagnosis with reduced assistance;
+- SQL/relational evidence;
+- professional Git/PR/review evidence.
 
-- [x] Compare current UpgradePilot evidence with the September-1 Career ownership conclusion.
-- [x] Separate:
-  - source/responsibility understanding;
-  - technical direction/challenge;
-  - meaningful modification participation;
-  - representative test understanding;
-  - debugging/failure diagnosis;
-  - reduced-prompt transfer;
-  - Git/review workflow;
-  - SQL/relational-data evidence;
-  - AI/LLM/agent engineering understanding and ownership.
-- [x] Capture legitimate improvement without automatically promoting broad capability levels.
-- [x] Identify the smallest evidence classes that would materially change application readiness.
-- [x] Record Ali's own confidence and uncertainty where available while distinguishing self-report from demonstrated evidence.
+### Application policy
 
-**Output:** `tracking/research/2026-09-07_A4_ALI_CAPABILITY_AND_EVIDENCE_REALITY.md`.
+E2 positioning is now the **only current global activation gate**.
 
-#### A5 — UpgradePilot Career-value audit
+Once minimum E2 is closed, a narrow calibration application band is pre-authorized without waiting for SQL mastery or broad D3 ownership.
 
-- [x] Assess UpgradePilot's current value as:
-  - capability-building flagship;
-  - portfolio artifact;
-  - AI-era engineering learning environment;
-  - vehicle for ownership evidence;
-  - employer conversation/project-defense story.
-- [x] Compare current product scope with the real 2026 dependency-update / PR-review / AI-code-review ecosystem enough to understand differentiation and redundancy.
-- [x] Identify which remaining UpgradePilot responsibilities have high Career value versus primarily project-internal sophistication.
-- [x] Test whether current project complexity is helping or obscuring the employment goal.
-- [x] Define Career-level desired outcomes/evidence for the remaining period without prescribing UpgradePilot's implementation sequence.
-- [x] Identify anything that should be deferred before Day 90 if it consumes disproportionate capacity without improving product, ownership, or portfolio value.
+## 4. Phase B — remaining-cycle execution
 
-**Output:** `tracking/research/2026-09-07_A5_UPGRADEPILOT_CAREER_VALUE_AUDIT.md`.
+### B1 — Close minimum E2 positioning
 
-#### A6 — Portfolio and GitHub E2 positioning audit
+**Status:** NEXT / ACTIVE CAREER RESPONSIBILITY
 
-Use `career-claim-audit` when evaluating or proposing external claims.
+Complete only the bounded A6 correction:
 
-- [x] Inspect the public GitHub/profile surface as an employer would encounter it to the extent supported by current GitHub evidence; preserve current pin arrangement as unresolved because the connected interface does not expose it.
-- [x] Determine whether the current professional direction is understandable within roughly the first minute.
-- [x] Audit UpgradePilot presentation for problem, implemented behavior, evidence, Ali contribution, AI assistance, limitations, and demonstration value.
-- [x] Audit the role of JobHunter and Sentinel so their sophistication is useful without becoming false Ali-implementation claims.
-- [x] Determine how older repositories should be contextualized, deprioritized, retained, or hidden from the main narrative without unnecessary cleanup.
-- [x] Identify the smallest market-facing changes required to close E2 positioning.
-- [x] Audit the public Career repository as a potential recruiter surface and distinguish public-safe operation from employer-facing usefulness.
+- [ ] concise GitHub profile README using the approved broad headline;
+- [ ] useful descriptions/topics for UpgradePilot, JobHunter, and Sentinel;
+- [ ] verify/curate pins; broad default UpgradePilot → JobHunter → Sentinel;
+- [ ] employer-facing UpgradePilot first screen;
+- [ ] JobHunter top-level AI-development/contribution boundary;
+- [ ] Sentinel top-level original-Ali-era versus later-AI-led boundary;
+- [ ] keep Career out of the recruiter's primary path and repair stale public-facing dynamic wording where needed;
+- [ ] run claim consistency check and declare E2 closed or name the exact remaining blocker.
 
-**Output:** `tracking/research/2026-09-07_A6_PORTFOLIO_AND_GITHUB_E2_POSITIONING_AUDIT.md`.
+**Stop rule:** do not redesign every repository or spend a technical week on positioning.
 
-#### A7 — Day-60 synthesis and formal Career review
+### B2 — Keep UpgradePilot dominant and convert sophistication into evidence
 
-Use `career-review` as the primary procedure.
+**Status:** CONTINUOUS / PROJECT-LOCAL
 
-By 2026-09-17, synthesize the strongest available evidence from A0–A6 and decide:
+Career-level desired outcomes:
 
-- [ ] Is the current working identity still correct?
-- [ ] Are target role families still correct, too broad, or missing an important realistic band?
-- [ ] Should Ali retain the current breadth/depth allocation, become more deliberately hybrid/T-shaped, or narrow toward a stronger specialist core? If hybridization is justified, define a **bounded coherent adjacent-domain set and minimum depth floor**, not open-ended breadth.
-- [ ] Is UpgradePilot still the correct sole primary capability flagship for the remainder?
-- [ ] Has Ali's capability/ownership conclusion materially changed?
-- [ ] What ownership standard should Career use in the current AI-agent environment?
-- [ ] Is SQL still the most important unaddressed conventional gap, and for which role bands?
-- [ ] Is E2 positioning sufficiently close to completion?
-- [ ] Should normal calibration applications remain inactive, activate, or activate only for a narrower band?
-- [ ] What should the final 30 days optimize for?
-- [ ] Which current activities should stop or be explicitly deprioritized?
-- [ ] Should the public Career repository retain its current public operating-record role, or should its public presentation/privacy strategy change?
+- stronger executable/reproducible proof;
+- stronger Ali-understood current source/test evidence;
+- ownership-bearing modification where legitimate project work creates it;
+- real causal diagnosis when failure occurs;
+- reviewer-understandable explanation/demo;
+- explicit limitations.
 
-**Output:** formal Day-60 Career decision and updated canonical owners only where conclusions materially change.
+Career does not prescribe source files, tests, commands, or project sequence.
 
-### Phase B — Day 60 to Day 90: conditional execution after the review
+### B3 — Activate narrow calibration applications after E2
 
-Do not pre-decide this phase in technical detail. The Day-60 review controls the final-month correction.
+**Status:** PRE-AUTHORIZED / WAITING FOR E2
 
-Expected conditional responsibilities may include:
+After E2 closure:
 
-#### B1 — Execute the Day-60 allocation/focus correction
+1. run a short activation check for claim consistency and private application materials;
+2. activate a bounded initial calibration band;
+3. track feedback patterns rather than raw application count;
+4. correct role targeting/positioning from repeated evidence.
 
-- [ ] Preserve the flagship as dominant if still justified.
-- [ ] Convert the Day-60 Career outcomes into a bounded personal work plan using `career-personal-work-planning`.
-- [ ] Keep project implementation detail inside the project repository.
+Initial emphasis:
 
-#### B2 — Close market-facing E2 positioning
+- junior/mentored Applied AI / AI Application / AI Implementation;
+- Technical Implementation / AI Solutions / automation;
+- Python automation/application;
+- selected junior backend/integration;
+- vacancy-specific QA/testing/systems/implementation when responsibility fit is strong.
 
-- [ ] Complete only the GitHub/project/CV/profile surfaces required by the Day-60 decision.
-- [ ] Audit all material external claims before use.
+Individually gate data-heavy, senior/specialist, unsupervised, or eligibility-infeasible roles.
 
-#### B3 — Address the highest-value capability gap proportionately
+### B4 — Address role-widening gaps proportionately
 
-- [ ] Use genuine project evidence where available.
-- [ ] If the market review shows a separate bounded intervention is necessary, authorize the smallest one rather than starting another flagship.
-- [ ] Do not force SQL, cloud, agents, security, or another technology into UpgradePilot merely for keywords.
+#### SQL / relational data
 
-#### B4 — Activate or continue market feedback if authorized
+- [ ] prefer proportional existing-project evidence;
+- [ ] if no natural route exists after E2, use the already-authorized **small bounded standalone relational intervention**;
+- [ ] do not create another project or database curriculum;
+- [ ] use evidence to widen data-heavy role bands rather than delay all applications.
 
-- [ ] If Day 60 activates applications, define a bounded calibration cadence and feedback method.
-- [ ] If applications remain inactive, record the exact remaining blocker and next reassessment trigger rather than waiting vaguely until Day 90.
-- [ ] Permit vacancy-specific review at any time for an unusually well-matched opportunity.
+#### Git / review
 
-#### B5 — Continue AI/market change monitoring only when decision-relevant
+- [ ] seek bounded real branch/PR/review/collaboration evidence when practical;
+- [ ] do not manufacture ceremony.
 
-- [ ] Do not chase every new model release.
-- [ ] Re-open AI landscape research only when a materially new capability could change our skill-depth, role, project, or application decision.
+### B5 — Monitor AI/market change only when decision-relevant
 
-#### B6 — Day-90 closure
+- [ ] do not chase every model release;
+- [ ] re-open A1/A3 only if new evidence could change role targeting, capability depth, project allocation, or application policy.
 
-By 2026-10-17, run the formal cycle review and answer:
+### B6 — September-17 checkpoint
 
-- [ ] What did the 90 days actually produce for Ali capability, not only repositories?
-- [ ] What is now demonstrable to employers?
-- [ ] What is the strongest realistic role band?
-- [ ] What remains a material blocker versus learnable on the job?
-- [ ] What should the next Career cycle optimize for?
-- [ ] Should UpgradePilot continue in the same Career role, change role, or enter maintenance/portfolio mode?
-- [ ] What applications/market activity should be active next?
+Run only if useful.
 
-## 7. Ali input protocol
+Questions:
 
-Throughout the program, Ali may provide:
+- Is E2 closed?
+- Are narrow applications active?
+- Has UpgradePilot ownership/proof evidence materially changed?
+- Is the SQL/Git gap intervention needed now?
+- Has any market feedback changed the active band?
 
-- personal observations from using AI models/agents;
-- what feels easy, difficult, boring, confusing, or overly AI-dependent;
-- project responsibilities he believes he understands or does not understand;
-- desired or undesired job types;
-- geography/work-mode constraints;
-- concerns about hiring, AI displacement, seniority, learning depth, ownership, specialization, or breadth;
-- examples of work he believes AI now performs better than before;
-- disagreements with Career interpretations;
-- personal time/capacity changes;
-- newly discovered opportunities or external information.
+Do not repeat the full A0–A7 research merely because the calendar reaches September 17.
 
-Record these in the progressive report as user evidence/context. Do not silently promote them into market facts or capability conclusions without the appropriate supporting evidence.
+### B7 — Day-90 closure — 2026-10-17
 
-## 8. Evidence/source discipline
+Required outputs:
 
-For current external research, prefer:
+- actual 90-day Career result;
+- UpgradePilot contribution and proof;
+- current Ali capability/ownership evidence;
+- portfolio/E2 state;
+- application and market-feedback state;
+- strongest realistic role band;
+- remaining blockers versus learnable-on-job gaps;
+- workload result;
+- next-cycle direction and UpgradePilot Career role.
 
-1. primary official model/provider/product documentation for capability claims;
-2. direct current job postings and employer career pages for hiring evidence;
-3. reputable independent evaluations/research for model and labor-market interpretation;
-4. high-quality industry surveys/data when methodology is visible;
-5. community reports only as supplementary qualitative evidence.
+## 5. Allocation
 
-For project-derived Career claims, prefer the project's canonical live state, exact source/tests/commits/working evidence, or registered Career handoff required by the proposition.
+Green ceiling remains **24 focused hours/week**.
 
-Every important recommendation should make clear whether it is based on:
+Default personal attention:
 
-- direct evidence;
-- representative external sample;
-- Ali-observed experience;
-- reasoned inference;
-- unresolved uncertainty.
+```text
+75–85%  UpgradePilot / primary technical responsibility
+15–25%  Career E2 + applications + SQL/Git + market work combined
+```
 
-## 9. Anti-rabbit-hole and stop rules
+This is guidance, not a quota or daily schedule.
 
-- Do not turn this into a general history of AI.
-- Do not benchmark every frontier model.
-- Do not scrape hundreds of vacancies when a representative bounded sample answers the question.
-- Do not audit every old GitHub repository equally.
-- Do not turn market keywords directly into learning tasks.
-- Do not create another technical flagship during this investigation.
-- Do not change Career identity because one technology is exciting.
-- Do not equate "hybrid" with learning many unrelated technologies shallowly.
-- Do not pause legitimate UpgradePilot work for unlimited Career research.
-- Do not let UpgradePilot progress postpone E2 positioning indefinitely.
-- Do not let positioning work consume a full technical week.
-- Do not wait until Day 90 to decide whether applications should start.
+## 6. Anti-rabbit-hole rules
 
-Stop an investigation item when additional evidence is unlikely to change the Career decision materially.
+- no second flagship;
+- no shallow technology collection under the word “hybrid”;
+- no framework re-entry without project pressure;
+- no mass audit/polish of old repositories;
+- no waiting for perfect capability before market feedback;
+- no application activation before E2 claim/presentation hygiene;
+- no SQL-as-universal-gate rule;
+- no project progress → Ali capability shortcut;
+- no Career management of project-local implementation/learning;
+- no broad repeat of A0–A7 unless new evidence could change a decision.
 
-## 10. Success conditions
+## 7. Exact next action
 
-This plan succeeds if, by Day 60 and then Day 90:
-
-- we can explain honestly where the original 90-day program diverged and why;
-- current AI capability changes have been translated into engineering-responsibility consequences rather than hype;
-- target role families are grounded in fresh representative market evidence;
-- the specialization-vs-hybrid-breadth question is decided from AI-era responsibility and market evidence rather than intuition alone;
-- Ali's capability is judged using an AI-era but non-inflated ownership standard;
-- UpgradePilot's remaining Career value is clear and selective;
-- E2 portfolio positioning is no longer passively deferred;
-- application activation is an explicit evidence-backed decision;
-- the remaining time is allocated to the highest-value Career outcomes rather than repository sophistication alone;
-- a progressive evidence record preserves the reasoning so Day-60 and Day-90 decisions do not depend on memory.
-
-## 11. Immediate next action
-
-Begin **A7 — Day-60 synthesis and formal Career review** using `career-review` as the primary Career procedure.
-
-A0–A6 now contain enough bounded evidence for synthesis. Do not change canonical Career state, application status, project allocation, or working identity until A7 evaluates the combined evidence and promotes only supported material conclusions.
+> **B1 — close the minimum E2 GitHub/project-positioning correction.** UpgradePilot continues independently and remains the dominant technical allocation. Once E2 closes, immediately perform the narrow application-activation check under A7.
