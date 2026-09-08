@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling cross-project capability record  
-**Last reviewed:** 2026-08-18 — Day-30 capability assessment  
+**Last reviewed:** 2026-09-08 — early Day-60 A7 capability reassessment  
 **Responsibility:** Capability depth, evidence, assistance, recency, confidence, transfer limits, claim boundaries, and reassessment across all projects and work
 
 ## 1. Boundary
@@ -299,7 +299,7 @@ Transfer limit: Does not establish independent uv-lock parsing, GitHub Actions i
 Next reassessment: Continue the real S001 route into actual source/functions/tests and require a changed-case prediction or focused modification
 ```
 
-### 8.12 Current UpgradePilot source, test, modification, and debugging ownership
+### 8.12 Historical Day-30 combined source/test/modification/debugging checkpoint
 
 ```text
 Responsibility: Read and explain central current Python source, understand representative project tests, materially modify source/test behavior, and diagnose a current real failure
@@ -307,59 +307,87 @@ Depth: D0 — Not established at the 2026-08-18 Day-30 review
 Best evidence: During direct assessment Ali stated that he could not name a current Python function/module he had personally read deeply enough to explain, had not inspected a representative current test, had not participated in a meaningful code/test modification with pre-change understanding, and had no new post-proxy debugging case where he formed/localized a failure hypothesis
 Assistance: Not applicable as a positive ownership claim; current repository implementation/testing is substantially AI-assisted/AI-generated
 Last demonstrated: Explicitly assessed 2026-08-18
-Confidence: High that the intended Day-30 ownership outcome is not yet established
-Transfer limit: Repository test count, passing CI, architecture discussion, source skimming, or AI summaries must not be used as substitutes
-Next reassessment: Earliest point with one selected central source responsibility that Ali can explain, one representative test he can reason about, one meaningful source/test modification, and one actual failure diagnosis with reduced assistance
+Confidence: High for the Day-30 checkpoint
+Transfer limit: Historical combined checkpoint only; later A7 assessment splits this bundle because some sub-responsibilities improved while modification/diagnosis did not
+Next reassessment: Superseded for current interpretation by 8.13 and 8.14 below
+```
+
+### 8.13 Current UpgradePilot source-flow and representative-test reasoning
+
+```text
+Responsibility: Read and explain one bounded current UpgradePilot source-flow responsibility and reason correctly about representative tests and their proof limits
+Depth: D2 — Guided application at the selected artifact-serviceability / target-composition scope
+Best evidence: September-7 project evidence records Ali selecting a failure-containment behavior before mutation and completing a post-implementation ownership check on the actual investigation flow, including branch independence, candidate-versus-applicability distinction, test-double semantics, and what static target evidence does not prove. The fresh pre-A7 inspection also confirms the related target artifact-environment source and focused-test changes reached main after the earlier MEMORY snapshot.
+Assistance: Substantial AI-generated implementation, tests, explanation, and review; Ali's evidence is in pre-change reasoning, bounded source/test interpretation, proof-limit explanation, and technical challenge rather than independent authorship
+Last demonstrated: 2026-09-07
+Confidence: Medium for the bounded current responsibility
+Transfer limit: Does not establish broad Python/application ownership, independent test design, independent implementation of the current flow, or transfer to unfamiliar modules
+Claim permitted: Ali can describe selected current source/test responsibilities at guided depth and explain important proof/uncertainty boundaries
+Claim prohibited: Independent ownership of UpgradePilot implementation or its test architecture
+Next reassessment: A changed current responsibility with less prompting plus an ownership-bearing modification and/or current failure diagnosis
+```
+
+### 8.14 Ownership-bearing source/test modification and current causal diagnosis
+
+```text
+Responsibility: Materially modify a current source/test responsibility with pre-change understanding and diagnose a real current failure through useful causal evidence with reduced assistance
+Depth: D0 — Not yet established at the A7 Career threshold
+Best evidence: Current project/source/test progress and Ali design challenges are real, but inspected evidence still does not establish a sufficiently ownership-bearing modification plus a current unfamiliar causal diagnosis attributable to Ali. Deferred executable proof also cannot be counted as a successful diagnostic/verification result.
+Assistance: Current implementation/test work remains substantially AI-assisted/AI-generated
+Last demonstrated: Insufficient positive evidence as of 2026-09-08
+Confidence: High that this stronger ownership proposition remains unestablished
+Transfer limit: Do not infer from commits under Ali's GitHub identity, green/AI-generated tests, source reading, or design approval
+Next reassessment: One legitimate current modification and one real failure/diagnosis with reduced assistance, whether in the same responsibility or separate bounded cases
 ```
 
 ## 9. Capability-family baseline
 
 | Family | Current Career interpretation | Main evidence source | Priority reassessment |
 |---|---|---|---|
-| Python application engineering | Conceptual/project exposure substantial; direct current source/modification ownership not established | UpgradePilot | One central source explanation + meaningful modification + changed case |
-| Testing and debugging | Guided historical/current exposure; one bounded proxy diagnostic signal; current representative test ownership absent | UpgradePilot, AegisLab | Own one representative test and diagnose one real current failure |
+| Python application engineering | Bounded current source-flow understanding now D2 at selected scope; direct modification/transfer ownership not established | UpgradePilot | Ownership-bearing modification + changed case |
+| Testing and debugging | Representative-test semantics now D2 at selected current scope; one older proxy diagnostic signal; current unfamiliar causal diagnosis remains unestablished | UpgradePilot, AegisLab | Real current failure diagnosis with reduced assistance |
 | API/HTTP acquisition | Guided conceptual/current evidence; one narrow proxy/environment diagnostic signal; implementation ownership mixed | UpgradePilot | Live/controlled acquisition or transport change and failure handling with reduced help |
 | Parsing, validation, provenance | Evidence/trust reasoning is a relative strength; implementation ownership unestablished | UpgradePilot | Explain and modify one trust-boundary path and its tests |
-| Data modeling, persistence, SQL | D0 or highly provisional; repository use in JobHunter is not Ali evidence | Future bounded responsibility, potentially JobHunter/UpgradePilot | Real schema, queries, changed case, and diagnosis |
+| Data modeling, persistence, SQL | D0 or highly provisional; repository use in JobHunter is not Ali evidence | Future bounded responsibility | Real schema, queries, changed case, and diagnosis |
 | Packaging and configuration | Guided setup evidence; ownership unestablished | UpgradePilot | Clean setup, dependency/config change, and packaging failure diagnosis |
-| Git/GitHub collaboration | Guided use | Multiple repositories | Independent bounded branch/review/conflict case |
+| Git/GitHub collaboration | Guided ordinary use; professional review/collaboration weak | Multiple repositories | Independent bounded branch/review/conflict case |
 | Deterministic analysis/evaluation | Guided conceptual reasoning improving | UpgradePilot | Build/change one deterministic evaluator or baseline and analyze errors |
-| ML experimentation | Historical broad exposure; current Sentinel R4 work is AI-full-implementation | Sentinel | Only reassess a bounded ML/evaluation responsibility when Career explicitly selects it |
-| Grounded AI/LLM evaluation | Stronger trust-boundary understanding; implementation/evaluation ownership unestablished | UpgradePilot, JobHunter portfolio evidence | Bounded semantic/evaluation responsibility with actual test/error analysis |
+| ML experimentation | Historical broad exposure; current Sentinel R4 work is AI-full-implementation | Sentinel | Reassess only a bounded ML/evaluation responsibility when Career explicitly selects it |
+| Grounded AI/LLM evaluation | Strong trust-boundary understanding; implementation/evaluation ownership unestablished | UpgradePilot, JobHunter portfolio evidence | Bounded semantic/evaluation responsibility with actual test/error analysis |
 | Secure engineering | Guided concepts and selected trust boundaries | AegisLab, UpgradePilot | Implement and diagnose one secure input/config/permission responsibility |
 | Docker/CI/operational reproducibility | Mixed exposure; ownership unestablished | Sentinel, UpgradePilot | Reproduce, modify, and diagnose a supported setup |
-| Cloud/distributed/Kubernetes/MLOps/agents | Exposure varies; professional capability unestablished | Portfolio projects/future pilots | Evidence-led only when market/project need justifies it |
-| Technical communication | Stronger delayed technical explanation and uncertainty disclosure; market-facing concision still untested | Day-30 review, project explanations | Concise technical/nontechnical project defense for a real vacancy |
-| AI-assisted technical critique | Real recurring strength at D2 with provisional D3 signals in selected direction/challenge work | UpgradePilot/Career discussions | Carry one critique through implementation/test/result verification |
+| Cloud/distributed/Kubernetes/MLOps/agents | Exposure varies; professional capability unestablished | Portfolio projects/future responsibilities | Evidence-led only when market/project need justifies it |
+| Technical communication | Stronger delayed explanation and uncertainty disclosure; market-facing concision still needs E2/project-defense use | Career/UpgradePilot | Concise technical/nontechnical project defense for a real vacancy |
+| AI-assisted technical critique / harness direction | Real recurring strength at D2 with provisional D3 signals in selected direction/challenge work | UpgradePilot/Career discussions | Carry one critique/harness decision through implementation/test/result verification and changed context |
 | Professional collaboration | Transferable business experience; technical-team evidence unestablished | Family business, future work | Code review, issue communication, planning, and feedback in real collaboration |
 
-## 10. Claims permitted after the 2026-08-18 review
+## 10. Claims permitted after the 2026-09-08 A7 review
 
 Career may say that Ali:
 
-- has D2 guided capability in evidence/uncertainty/claim-boundary reasoning within the current UpgradePilot context;
-- can reconstruct several central UpgradePilot product/trust concepts after delay without immediate AI prose, while exact orchestration sequencing remains uneven;
-- has D2 guided understanding of selected real dependency, lockfile, and CI concepts from the current S001 learning route;
-- understands the bounded LLM pattern of deterministic source selection → untrusted semantic candidate → deterministic source validation at a guided conceptual level;
-- demonstrates a recurring strength in AI-assisted technical critique and scope/evidence challenge, including questioning narrow/hardcoded implementation direction and asking whether provenance fields actually justify their complexity;
-- has one older bounded real proxy/environment diagnostic-redirection case;
-- is deliberately building evidence toward Python/data/AI engineering rather than claiming current mastery.
+- has D2 guided capability in evidence/uncertainty/claim-boundary reasoning within current UpgradePilot-style contexts;
+- has bounded D2 current source-flow and representative-test reasoning for a selected current UpgradePilot responsibility;
+- can explain why static target/workflow evidence does not establish stronger runtime or wheel-compatibility conclusions;
+- demonstrates a recurring strength in AI-assisted technical critique, anti-overengineering pressure, and harness/direction work, with provisional D3 signals for selected direction responsibilities;
+- has one older bounded proxy/environment diagnostic-redirection case;
+- is deliberately developing an anchored-hybrid Python/data/applied-AI profile while preserving explicit AI-assistance boundaries.
 
-Career must also state when relevant that:
+Career must state when relevant that:
 
-- the Day-30 source/test/modification/debugging ownership target was not achieved;
-- Ali had not yet deeply read a current central Python module, inspected a representative current test, completed a meaningful understood code/test modification, or produced a new current failure diagnosis at the review;
-- JobHunter and current Sentinel R4 implementation are AI-full-implementation portfolio/research assets, not automatic Ali capability evidence.
+- the stronger ownership proposition of meaningful current source/test modification plus current causal diagnosis remains unestablished;
+- SQL/relational-data and professional Git/review evidence remain weak;
+- JobHunter and current Sentinel implementation are AI-full-implementation portfolio/research assets, not automatic Ali capability evidence.
 
 Career may not yet say that Ali:
 
-- independently owns the UpgradePilot request-to-output implementation or current semantic/orchestration implementation;
-- independently designs the project's meaningful tests or diagnoses its main unfamiliar failures;
+- independently owns the UpgradePilot request-to-output implementation or test architecture;
 - has broad D3 Python/application engineering capability;
-- generally owns PyPI/API acquisition, HTTP/proxy debugging, packaging, SQL, data modeling, backend, security, CI, ML, or advanced systems;
+- independently diagnoses the project's main unfamiliar failures;
+- generally owns PyPI/API acquisition, HTTP/proxy debugging, packaging, SQL, data modeling, backend, security, CI, ML, cloud, or advanced systems;
 - owns JobHunter FastAPI/SQLite/LLM implementation or current Sentinel R4 ML/data implementation merely because he directs the projects;
-- is broadly application-ready for the primary target band;
 - is mid-level or senior.
+
+Application readiness is governed by `CAREER_STATE.md` and the employability plan rather than inferred directly from one capability record.
 
 ## 11. Review workflow
 
