@@ -1,141 +1,103 @@
 # Career
 
-This repository is Ali Rajabi's durable, public-safe career operating system.
+This repository is Ali Rajabi's durable, public-safe **career operating system**.
 
-It connects:
+It coordinates career direction, project allocation, capability evidence, portfolio claims, market calibration, application decisions, and formal Career reviews. It is **not a technical portfolio project** and is not the live operating repository for UpgradePilot, JobHunter, Sentinel, or any other technical project.
 
-```text
-current professional profile
-→ career strategy
-→ project and learning allocation
-→ capability evidence
-→ portfolio claims
-→ market calibration
-→ applications and interviews
-→ employment feedback
-→ next career decision
-```
+## Repository boundary
 
-It is not the live operating repository for UpgradePilot, JobHunter, Sentinel, or any other technical project.
+Career owns:
 
-## Current state
-
-Read [`CAREER_STATE.md`](CAREER_STATE.md) for the sole live Career position, including:
-
-- current career cycle;
-- working identity;
-- flagship allocation;
-- capability and employability phase;
-- workload decision;
-- career-level risks;
-- exact next career action and review trigger.
-
-For current UpgradePilot implementation or continuation, inspect `motafegh/UpgradePilot`, especially its `MEMORY.md`, active source, tests, plans, specifications, ADRs, commands, outputs, and environment.
-
-For current Sentinel implementation or rehabilitation, inspect `motafegh/sentinel-`. Career records only the resulting portfolio/capability interpretation and keeps later AI-led continuation separate from Ali capability evidence.
-
-For current JobHunter implementation or continuation, inspect `motafegh/jobhunter`. Career-side requirements for what JobHunter should provide are defined under [`market/jobhunter/`](market/jobhunter/README.md).
-
-## Career owns
-
-- Ali's public-safe career profile;
-- long-term direction and current working identity;
-- role, geography, and work-mode strategy;
-- current career-cycle outcomes and capacity;
+- Ali's public-safe career profile and working direction;
+- current career-cycle outcomes and workload boundaries;
 - project portfolio roles and flagship allocation;
 - cross-project capability assessment;
-- portfolio and professional claim limits;
-- employability and market-transition strategy;
-- requirements for Career-facing market intelligence and how it may influence Career decisions;
+- portfolio/CV claim limits;
+- employability and market-transition decisions;
 - formal and event-triggered Career reviews;
-- live career-level state.
+- the sole live Career position in [`CAREER_STATE.md`](CAREER_STATE.md).
 
-## Project repositories own
+Technical project repositories own their own product mission, implementation, source, tests, plans, specifications, working memory, technical evidence, and exact continuation.
 
-- product mission and technical boundary;
-- live project position and exact continuation;
-- routes, milestones, plans, and blockers;
-- source, tests, specifications, ADRs, and dependencies;
-- commands, outputs, technical evidence, working memory, experiments, and deployments;
-- ordinary technical and learning decisions.
-
-Career may inspect project evidence for a career question, but it records only the resulting career-level conclusion.
-
-## Start here
-
-1. [`CAREER_CHARTER.md`](CAREER_CHARTER.md) — durable mission, boundaries, evidence doctrine, and long-term success.
-2. [`CAREER_STATE.md`](CAREER_STATE.md) — current Career position and next career-level action.
-3. [`profile/CAREER_PROFILE.md`](profile/CAREER_PROFILE.md) — public-safe profile, evidence, preferences, constraints, and risks.
-4. [`strategy/CAREER_STRATEGY.md`](strategy/CAREER_STRATEGY.md) — direction, roles, capability priorities, and change logic.
-5. [`plans/CURRENT_CAREER_CYCLE.md`](plans/CURRENT_CAREER_CYCLE.md) — current bounded cycle and required career outcomes.
-6. [`portfolio/PROJECT_PORTFOLIO.md`](portfolio/PROJECT_PORTFOLIO.md) — project roles and career contribution.
-7. [`portfolio/projects/`](portfolio/projects/README.md) — separate Career-side areas for each portfolio project.
-8. [`tracking/CAPABILITY_EVIDENCE_LEDGER.md`](tracking/CAPABILITY_EVIDENCE_LEDGER.md) — cross-project capability evidence and claim limits.
-9. [`market/EMPLOYABILITY_AND_MARKET_PLAN.md`](market/EMPLOYABILITY_AND_MARKET_PLAN.md) — role gaps, portfolio readiness, and transition to applications.
-10. [`market/jobhunter/`](market/jobhunter/README.md) — Career-side role, requirements, and integration rules for JobHunter market intelligence.
-11. [`market/ALI_RAJABI_MASTER_CV.md`](market/ALI_RAJABI_MASTER_CV.md) — broad career-transition master CV and tailoring source.
-12. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal and event-triggered review decisions.
-13. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
-14. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
+Career may inspect project evidence for a Career question, but it records only the resulting Career-level conclusion.
 
 ## Current working direction
 
 > **AI-augmented Python/data/ML engineer developing secure engineering capability.**
 
-This is a current working identity, not a permanent title or broad mastery claim.
+The current depth strategy is anchored rather than technology-collecting:
 
-The long-term direction combines:
+```text
+Python / software engineering
++ data / evidence / relational foundations
++ applied AI / LLM / agent systems
++ secure / trustworthy / evaluative engineering
++ adjacent backend / cloud / CI / Linux / networking / operations when justified
+```
 
-- Python software engineering;
-- data systems and SQL;
-- machine learning and applied AI;
-- secure, reliable, and evidence-aware engineering;
-- justified exposure to backend, cloud, distributed, automation, and MLOps responsibilities.
+This is a direction of travel, not a claim of professional depth in every listed area.
 
 ## Current project portfolio
 
-- **UpgradePilot:** active primary flagship and main current capability-building vehicle.
-- **Sentinel:** historical evidence from Ali's original AI-assisted project work, with later AI-maintained portfolio rehabilitation that does not automatically become Ali capability evidence.
-- **AegisLab:** historical security-learning and project-design evidence; not an active route.
+- **[UpgradePilot](https://github.com/motafegh/UpgradePilot)** — sole primary capability/ownership flagship.
+- **[JobHunter](https://github.com/motafegh/jobhunter)** — AI-full-implementation applied-AI product, Career market-intelligence infrastructure, and portfolio asset; repository capability is not automatic Ali implementation evidence.
+- **[Sentinel](https://github.com/motafegh/sentinel-)** — original Ali-involved AI-assisted ML/data/security work plus a later AI-led R4 research continuation; the two eras remain explicitly distinct.
+- **AegisLab** — historical security-learning/design evidence, not an active route.
 
-**Career support infrastructure:** JobHunter is a separate AI-built market-intelligence and job-analysis tool. It may supply Career with reviewed market evidence, but its implementation is not automatically Ali capability evidence and it is not a competing learning flagship.
+The intended employer-facing portfolio path is **UpgradePilot → JobHunter → Sentinel**. This Career repository should not be treated as the primary recruiter destination.
 
-Detailed Career-side project records live in [`portfolio/projects/`](portfolio/projects/README.md). Detailed technical truth remains in each project repository or Git history.
+## Live state
+
+Do not use this README as a fast-changing status dashboard.
+
+Read [`CAREER_STATE.md`](CAREER_STATE.md) for the sole current Career position, including:
+
+- working identity and current depth model;
+- flagship allocation;
+- capability interpretation;
+- employability/application state;
+- workload decision;
+- exact next Career action;
+- next reassessment triggers.
+
+For current technical truth, use the relevant project repository and its own authoritative state/source/tests.
+
+## Start here
+
+1. [`CAREER_STATE.md`](CAREER_STATE.md) — current live Career position and exact next action.
+2. [`CAREER_CHARTER.md`](CAREER_CHARTER.md) — durable mission, boundaries, and evidence doctrine.
+3. [`strategy/CAREER_STRATEGY.md`](strategy/CAREER_STRATEGY.md) — long-term direction, role families, and capability priorities.
+4. [`plans/CURRENT_CAREER_CYCLE.md`](plans/CURRENT_CAREER_CYCLE.md) — current bounded cycle and required outcomes.
+5. [`portfolio/PROJECT_PORTFOLIO.md`](portfolio/PROJECT_PORTFOLIO.md) — project roles and Career contribution.
+6. [`tracking/CAPABILITY_EVIDENCE_LEDGER.md`](tracking/CAPABILITY_EVIDENCE_LEDGER.md) — cross-project capability evidence and claim limits.
+7. [`market/EMPLOYABILITY_AND_MARKET_PLAN.md`](market/EMPLOYABILITY_AND_MARKET_PLAN.md) — transition from market calibration to applications.
+8. [`tracking/CAREER_REVIEW_LOG.md`](tracking/CAREER_REVIEW_LOG.md) — formal Career decisions.
+9. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md) — workload, review, project-allocation, and anti-diversion rules.
+10. [`governance/SECURITY_AND_PRIVACY.md`](governance/SECURITY_AND_PRIVACY.md) — public/private boundary.
 
 ## Evidence standard
 
-Career does not infer capability from:
+Career does not infer personal capability from repository size, technology count, AI-generated implementation, successful commands, passing AI-generated tests, or project completion alone.
 
-- repository size;
-- documentation volume;
-- technology exposure;
-- successful commands;
-- immediate repetition;
-- AI-generated implementation;
-- passing AI-generated tests;
-- project completion alone.
+Career-facing claims separate:
 
-Claims require a specific responsibility, preserved evidence, assistance, recency, confidence, and transfer limits.
+```text
+repository / product capability
+Ali direction and decisions
+Ali verification / modification / diagnosis
+AI implementation contribution
+current transfer limits
+```
+
+The goal is the strongest defensible professional story, not inflated authorship and not unnecessary self-erasure.
 
 ## Update model
 
 Career is active but proportional.
 
-- Ordinary project work stays in project repositories.
-- A light Career pulse may happen weekly or biweekly without a commit.
-- Career files change when a material career fact or decision changes.
-- Formal reviews occur on scheduled dates, when Ali requests one, or when capability, portfolio, workload, market, project allocation, or strategy requires a decision.
+- ordinary technical work stays in project repositories;
+- Career files change when a material Career fact or decision changes;
+- formal reviews occur on scheduled dates, when Ali requests one, or when capability, portfolio, workload, market, project allocation, or strategy requires a decision;
+- fast-changing employability/application state belongs only in `CAREER_STATE.md`, not duplicated in this README.
 
-## Employability state
-
-The first refounded review established **E1 — Initial market calibration**.
-
-Current recurring market priorities are Python, SQL, APIs/data pipelines, testing/debugging, Git, practical project evidence, and technical communication. Applications are not yet active; the next formal readiness decision is due by the Day-30 review or earlier when evidence permits.
-
-A broad master CV exists, but it remains a working draft until its placeholders are replaced and its claims are tested against specific advertisements.
-
-JobHunter may increasingly automate market observation, job analysis, and evidence packaging, but Career will adopt its conclusions only through the review and authority rules in [`market/jobhunter/CAREER_INTEGRATION_AND_USE.md`](market/jobhunter/CAREER_INTEGRATION_AND_USE.md).
-
-## Refoundation record
-
-[`CAREER_REPOSITORY_REFOUNDATION_PLAN.md`](CAREER_REPOSITORY_REFOUNDATION_PLAN.md) is the completed transformation and audit record. The refoundation restored the broader Career mission without moving project operation back into this repository.
+[`CAREER_REPOSITORY_REFOUNDATION_PLAN.md`](CAREER_REPOSITORY_REFOUNDATION_PLAN.md) preserves the completed repository-refoundation history.
