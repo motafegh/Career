@@ -1,7 +1,7 @@
 # E2 GitHub Positioning Implementation Package
 
 **Date:** 2026-09-08  
-**Status:** ACTIVE / PARTIALLY EXECUTABLE FROM CAREER  
+**Status:** ACTIVE / REPOSITORY-SIDE COPY COMPLETE / GITHUB UI ACTIONS PENDING  
 **Owner:** Career portfolio and claim positioning  
 **Decision source:** `../CAREER_STATE.md` and `../tracking/research/2026-09-07_A6_PORTFOLIO_AND_GITHUB_E2_POSITIONING_AUDIT.md`
 
@@ -17,7 +17,7 @@ E2-P0 closes when:
 - each project first screen exposes the correct Ali-versus-AI contribution boundary;
 - the public Career repository is kept out of the primary recruiter path and does not duplicate stale employability status.
 
-This package is the Career-owned wording/claim source. Technical project repositories remain responsible for applying their own README changes under their local rules.
+This package is the Career-owned wording/claim source. Technical project repositories remain responsible for their own technical truth and later README maintenance.
 
 ---
 
@@ -152,33 +152,45 @@ Role-specific CV/application material may reorder projects without changing the 
 
 ---
 
-## 5. UpgradePilot README handoff
+## 5. UpgradePilot README result
 
-The project README already has a technically useful quickstart and strong claim discipline. Do not rewrite it broadly.
+Completed on 2026-09-08 in `motafegh/UpgradePilot`.
 
-Project-local README work should insert an employer-facing layer immediately after the opening product definition and before the detailed quickstart. That layer should answer:
+The README now includes an employer/reviewer layer before the detailed quickstart covering:
 
-1. What works today?
-2. Why is this distinct from generic dependency automation or generic AI code review?
-3. What is the shortest inspectable flow?
-4. What is Ali's actual contribution and what is AI-assisted?
-5. What is not yet proven/complete?
+- current product behavior;
+- differentiation from generic dependency automation / generic AI code review;
+- a short inspectable evidence flow;
+- Ali's actual contribution and AI-assistance boundary;
+- current product/proof limitations.
 
-Approved claim boundary:
+Commit:
+
+```text
+35b1fa56b08d10aa6211e2a1e06931f426ab0bdc
+```
+
+Approved claim boundary remains:
 
 ```text
 Ali directs and learns through the AI-assisted development of UpgradePilot, including product/evidence decisions, repeated challenge of scope and proof boundaries, selected pre-change design decisions, and bounded current source/test reasoning. The repository's substantive implementation and tests are heavily AI-assisted; the complete Python/test architecture is not presented as independently authored or independently owned by Ali.
 ```
 
-Do not claim the final maintainer recommendation is implemented until project truth says so. Do not claim production readiness, safe upgrades, complete compatibility proof, or independent full-repository authorship.
-
 ---
 
-## 6. JobHunter README handoff
+## 6. JobHunter README result
 
-Keep the existing product-first README. Add a concise development/contribution section near the top, after the opening product description and before deep feature detail.
+Completed on 2026-09-08 in `motafegh/jobhunter`.
 
-Approved wording:
+The product-first README is preserved and now includes a concise development/contribution boundary near the top.
+
+Commit:
+
+```text
+68bbad7c501a673950e73d59aa16439c63dc81e7
+```
+
+Published wording:
 
 ```markdown
 ## Development and contribution model
@@ -186,56 +198,56 @@ Approved wording:
 JobHunter is also an AI-assisted engineering project. Ali directs the product, evidence/authority boundaries, semantic-review rules, and acceptance/rejection decisions, and evaluates the resulting behavior and research. Substantial architecture, source, tests, debugging, and continuation have been produced with AI assistance. The repository's product capability is therefore kept separate from claims about Ali's independent FastAPI, SQLite/SQL, LLM-orchestration, or full-source implementation ownership.
 ```
 
-Do not weaken the product story merely because development is AI-assisted.
-
 ---
 
-## 7. Sentinel README handoff
+## 7. Sentinel README result
 
-Sentinel's first screen should become a research story before exposing the full stack.
+Completed on 2026-09-08 in `motafegh/sentinel-` after reconciling the public first screen against the canonical current-status owner.
 
-Required first-screen order:
+The README now opens with:
 
 ```text
-plain-language problem
-→ strongest current research/evaluation constraint
+plain-language research problem
+→ strongest current evidence/evaluation constraint
 → original Ali-involved era vs later AI-led R4 continuation
 → current Phase-8 boundary
 → then deep architecture
 ```
 
-Approved contribution wording:
+It also replaces the stale `Phase 8 next` framing with the current `Phase 8 IN_PROGRESS / G8 open` state and current R4 constraints.
 
-```markdown
-## Project eras and contribution boundary
+Commit:
 
-Sentinel has two important development eras. The original project was Ali's long-running AI-assisted learning/building work across Python, data preparation, repeated ML training, Linux, graph/agent experiments, and dataset-quality diagnosis. The later R4 continuation is substantially AI-led research under Ali's direction and should not be interpreted as independent ownership of the current ML/data, LangGraph, zkML, blockchain, or full-system implementation.
-
-The strongest current R4 result is methodological rather than a new model-quality claim: the project repaired data/evaluation assumptions, found representation and supervision problems, and continues to withhold full retraining/promotion while the evidence needed for trustworthy evaluation remains incomplete.
+```text
+b0c0e031b35785977a8be2c59cee3dff9f195d22
 ```
-
-The current README's older G7/"Phase 8 next" wording should be reconciled against the current `docs/handbook/16_current_status.md` before project-local publication, because current project evidence now places Phase 8 in progress with later accepted representation work.
 
 ---
 
 ## 8. Career repository public role
 
-`motafegh/Career` is an operating system and audit trail, not a technical portfolio project.
+Completed on 2026-09-08.
 
-Public README rules:
+The Career README now:
 
-- explain what the repository is and its repository-boundary purpose;
-- point to `CAREER_STATE.md` for live state instead of duplicating application/readiness status;
-- do not advertise detailed blockers or stale review dates in the README;
-- do not pin/feature this repository for employers by default.
+- describes Career as an operating system rather than a technical portfolio project;
+- delegates fast-changing truth to `CAREER_STATE.md`;
+- removes stale duplicated employability/application text;
+- keeps the three-project employer path explicit.
+
+Commit:
+
+```text
+e6278978b80c3dbd6ced6e2badac9ae27d481829
+```
 
 ---
 
 ## 9. Manual GitHub UI actions required
 
-The current connected GitHub interface available to this Career session can edit repository files but does not expose repository creation, profile pinning, repository descriptions, or topic mutations.
+The connected GitHub interface available to this Career session can edit repository files but does not expose repository creation, profile pinning, repository descriptions, or topic mutations.
 
-Ali therefore needs to perform these UI-only actions after the repository-side copy is ready:
+Ali therefore needs to perform only these remaining UI actions:
 
 1. Create public repository `motafegh/motafegh` with `README.md` using section 2.
 2. Set the descriptions/topics from section 3 on the three repositories.
@@ -252,13 +264,13 @@ These manual actions are required before E2-P0 can be called fully closed.
 | Career-owned approved profile copy | DONE |
 | Career-owned repository metadata copy | DONE |
 | Career-owned pin recommendation | DONE |
-| Career README stale recruiter-facing status removed | PENDING until committed |
-| UpgradePilot employer-facing first layer | PROJECT-LOCAL PENDING |
-| JobHunter contribution boundary | PROJECT-LOCAL PENDING |
-| Sentinel simplified/two-era first screen | PROJECT-LOCAL PENDING |
+| Career README stale recruiter-facing status removed | DONE |
+| UpgradePilot employer-facing first layer | DONE |
+| JobHunter contribution boundary | DONE |
+| Sentinel simplified/two-era first screen | DONE |
 | `motafegh/motafegh` repository + profile README | MANUAL GITHUB UI PENDING |
 | descriptions/topics | MANUAL GITHUB UI PENDING |
 | pins verified/curated | MANUAL GITHUB UI PENDING |
 | short final claim/materials check | PENDING AFTER ABOVE |
 
-Do not activate the pre-authorized narrow application band until the minimum E2 first-screen/profile corrections are actually in place and Career runs the short activation check.
+Do not activate the pre-authorized narrow application band until the remaining GitHub UI actions are in place and Career runs the short activation check.
