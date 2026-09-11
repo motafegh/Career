@@ -3,7 +3,7 @@
 **Date:** 2026-09-11  
 **Horizon:** 2026-09-11 through 2026-10-17  
 **Owner:** Ali Rajabi / Career  
-**Status:** Active Career-level personal execution plan  
+**Status:** Active Career-level personal execution plan; AI-era resilience refinements adopted 2026-09-11  
 **Technical authority:** `motafegh/UpgradePilot` root governance, `MEMORY.md`, selected project plan, active working memory, source/tests, and project-local Learning-by-Doing system  
 **Career authority:** `../../../CAREER_STATE.md`, `../../../plans/CURRENT_CAREER_CYCLE.md`, `../../../plans/CURRENT_WEEK.md`, and this project's `CAREER_RECORD.md`
 
@@ -52,6 +52,12 @@ several current source/test responsibilities genuinely understood
 
 These are directional evidence targets, not quotas. Do not manufacture changes, failures, or exercises merely to satisfy this list.
 
+The AI-era resilience lens is:
+
+> **Use AI aggressively for execution, but make Ali's learning increasingly about the engineering responsibility that remains: intent, technical mental model, acceptance criteria, verification, diagnosis, meaningful correction, transfer, risk and explanation.**
+
+This does not replace technical depth with management-only thinking.
+
 ---
 
 ## 3. Current entry point — 2026-09-11 snapshot
@@ -85,7 +91,15 @@ Ali should be able to state, in his own words:
 4. the main decision, uncertainty, or failure boundary;
 5. what would count as useful proof for this slice.
 
-Do not require full implementation knowledge before work begins. The goal is enough mental model to make the action meaningful.
+For a consequential new responsibility, also state proportionately:
+
+- what **success** means;
+- what important **failure / unresolved state** must remain distinguishable;
+- one important **non-goal or stronger claim that is not earned**;
+- what evidence/test/evaluation would justify acceptance;
+- one changed case that could discriminate a weak design from a good one.
+
+Do not require full implementation knowledge before work begins. The goal is enough mental model and acceptance intent to make the action meaningful, not to pre-design every line before learning from real implementation.
 
 ### B — During real work
 
@@ -126,6 +140,12 @@ What can fail or remain unresolved?
 Why is this design placed here rather than somewhere else?
 ```
 
+For consequential slices, use the **automation-compression reflection** when it adds value:
+
+> **If implementation became nearly free, what engineering responsibility would still be mine — and what technical understanding would I still need to verify, diagnose, modify, transfer and defend that responsibility?**
+
+The answer must name technical substrate, not only management or review language. Skip or compress this reflection for familiar/repetitive child work.
+
 ### E — Repair and transfer
 
 Repair only important understanding gaps.
@@ -138,7 +158,15 @@ Then ask at least one changed-context question, such as:
 - Would the same design still work for a nearby but different case?
 - What evidence would be needed before a stronger action/claim became justified?
 
-The objective is transfer, not memorization.
+For selected important slices, add the bounded **transferability reflection**:
+
+```text
+What is the transferable engineering responsibility here?
+What UpgradePilot-specific/domain knowledge only supports it?
+Where else would the same responsibility appear?
+```
+
+Do not manufacture a generic lesson from every file/function. The objective is transfer, not memorization or ceremony.
 
 ---
 
@@ -163,11 +191,13 @@ Prioritize when encountered in real source:
 - exceptions and typed problem states;
 - interfaces between application/domain/provider layers;
 - reading unfamiliar code;
-- making bounded changes without losing the surrounding contract.
+- making bounded changes without losing the surrounding contract;
+- predicting representative behavior before execution;
+- understanding and reviewing AI-generated diffs rather than only final output.
 
-Do not turn this into a detached Python curriculum. Learn syntax/concepts just in time from active source.
+Do not turn this into a detached Python curriculum. Learn syntax/concepts just in time from active source. Strength means engineering mental-model ownership, not syntax recall or blank-page boilerplate speed.
 
-### 5.2 Testing and verification
+### 5.2 Testing, verification, and evaluation
 
 Target: strong early-career working depth.
 
@@ -176,11 +206,14 @@ Ali should increasingly understand:
 - test setup / fixture / action / assertion;
 - why one test exists;
 - what product claim a test can and cannot support;
-- positive, negative, unresolved, malformed, and changed cases;
+- whether the test/eval oracle actually matches the intended requirement;
+- positive, negative, unresolved, malformed, changed and useful adversarial cases;
 - regression tests;
 - source bug vs fixture bug vs environment failure vs provider failure;
-- focused proof vs broader suite proof;
+- focused proof vs broader suite/system proof;
 - static validation vs executable validation;
+- false confidence from green checks;
+- model/agent evaluation where AI behavior is part of the responsibility;
 - why green tests do not prove production safety or personal ownership.
 
 ### 5.3 Debugging and causal diagnosis
@@ -192,9 +225,10 @@ When a real failure occurs, Ali should participate before accepting a complete A
 ```text
 observe symptom
 → form one or more plausible cause families
-→ choose useful evidence to inspect
+→ choose useful discriminating evidence
 → narrow the failing boundary
 → distinguish code/test/environment/external-system causes
+→ choose or challenge the repair
 → verify the repair or unresolved state
 ```
 
@@ -216,7 +250,26 @@ Become comfortable reasoning about:
 - explicit abstention/claim limits;
 - responsibility ownership between layers.
 
-### 5.5 AI-agent engineering
+Do not allow conceptual evidence reasoning to substitute for being able to inspect, change, test and diagnose the implementation carrying that evidence.
+
+### 5.5 Intent / specification / acceptance ownership
+
+Target: explicit cross-cutting engineering responsibility, not a detached curriculum.
+
+On consequential work Ali should increasingly be able to state:
+
+```text
+what problem/responsibility is actually owned
+what success means
+what failure/unresolved state matters
+what stronger claim is intentionally not earned
+what evidence would justify acceptance
+what changed case would pressure the design
+```
+
+This is technical responsibility ownership. It must remain tied to real source/tests/evidence rather than becoming abstract product-management prose.
+
+### 5.6 AI-agent engineering
 
 Target: preserve as a differentiator while strengthening technical accountability.
 
@@ -230,6 +283,8 @@ Continue practicing:
 - demanding evidence rather than polished prose;
 - using tests/evals as feedback;
 - preserving durable working state;
+- selecting tools/models proportionately where relevant;
+- setting permissions/human checkpoints where relevant;
 - deciding what requires human judgment;
 - checking that the produced source/test behavior matches the intended responsibility.
 
@@ -321,6 +376,7 @@ Aim for:
 - one representative test;
 - one failure/uncertainty case;
 - one design decision/tradeoff;
+- the transferable responsibility when useful;
 - accurate AI-assistance boundary.
 
 ---
@@ -356,7 +412,8 @@ Ali focus:
 - select the most important current source/test responsibility in each substantive slice;
 - use real modifications and real failures as ownership opportunities;
 - practice changed-context reasoning after important slices;
-- increasingly explain why tests/proof are sufficient for a bounded claim and insufficient for stronger claims.
+- increasingly explain why tests/proof are sufficient for a bounded claim and insufficient for stronger claims;
+- use automation-compression/transfer reflections only on consequential slices where they sharpen ownership.
 
 Career parallel lane:
 
@@ -372,7 +429,7 @@ Ali focus:
 - continue only high-value legitimate project work;
 - revisit selected central responsibilities if needed for integrated understanding, not memorization;
 - practice explaining UpgradePilot at multiple depths;
-- use application/interview feedback to identify only high-value gaps that UpgradePilot can legitimately improve;
+- use classified application/interview feedback to identify only high-value gaps that UpgradePilot can legitimately improve;
 - avoid new frameworks/architecture simply because Day 90 is approaching.
 
 Career parallel lane:
@@ -388,7 +445,7 @@ Ali should be able to present:
 
 1. **30-second explanation** — user/problem/product value;
 2. **2-minute explanation** — main evidence flow, current behavior, why trust/abstention matters, Ali-vs-AI contribution;
-3. **technical discussion** — selected source/test responsibilities, a real design decision, a real modification/diagnosis if available, proof limits, and one changed-context example.
+3. **technical discussion** — selected source/test responsibilities, a real design decision, a real modification/diagnosis if available, proof limits, one changed-context example, and the transferable engineering responsibility behind selected project-specific mechanisms.
 
 Do not chase project completion for its own sake during this closeout window.
 
@@ -423,7 +480,7 @@ UpgradePilot should **continue while applications begin** after E2 closure.
 
 Do not wait for UpgradePilot completion or broad D3 ownership before collecting bounded market feedback.
 
-Application evidence may later change what deserves emphasis inside this plan, but Career must not distort UpgradePilot's technical route for one vacancy keyword.
+Application evidence may later change what deserves emphasis inside this plan, but only after Career classifies whether the signal is a transferable technical gap, positioning issue, access gate, role-fit issue, or low-information noise. Career must not distort UpgradePilot's technical route for one vacancy keyword or unexplained rejection.
 
 ### SQL
 
@@ -450,12 +507,14 @@ For an ordinary UpgradePilot session, recover only these questions:
 2. What is the current A/B/C/D/E stage?
 3. What one engineering responsibility should I personally understand better today?
 4. What source/test/proof should I be able to explain afterward?
-5. Is there a legitimate modification or real failure where I should take more responsibility?
-6. What depth is enough today, and what should remain deferred?
-7. Did anything happen that materially changes my Career capability/portfolio evidence?
+5. What acceptance boundary or stronger non-claim matters for this responsibility?
+6. Is there a legitimate modification or real failure where I should take more responsibility?
+7. For a consequential slice, would the automation-compression or transferability question sharpen my ownership?
+8. What depth is enough today, and what should remain deferred?
+9. Did anything happen that materially changes my Career capability/portfolio evidence?
 ```
 
-If question 7 is no, do not update Career merely because a project session happened.
+If question 9 is no, do not update Career merely because a project session happened.
 
 ---
 
@@ -467,6 +526,8 @@ Do not:
 - manually rewrite AI-generated code merely to prove effort;
 - count repository progress as Ali capability automatically;
 - manufacture bugs or arbitrary modifications;
+- turn automation-compression into management-only learning or repetitive ceremony;
+- force a generic transfer lesson from every implementation detail;
 - force SQL/cloud/frameworks into UpgradePilot for résumé breadth;
 - reopen LangGraph/LangChain without real project justification;
 - spend days rereading historical plans when current source/plan is enough;
@@ -482,14 +543,15 @@ Do not:
 At the 2026-10-17 Career review, ask:
 
 1. Which current UpgradePilot responsibilities can Ali now trace and explain without heavy prompting?
-2. Which representative tests can he interpret correctly, including proof limits?
+2. Which representative tests/evaluations can he interpret correctly, including oracle quality and proof limits?
 3. Did a legitimate ownership-bearing modification occur? What exactly was Ali's responsibility?
 4. Did a real current failure diagnosis occur? What causal contribution was Ali's?
-5. Can Ali transfer reasoning to a changed case?
-6. Has AI-agent direction become more technically accountable rather than merely more elaborate?
-7. Can Ali defend UpgradePilot clearly to an employer without overclaiming authorship?
-8. Which gaps remain genuinely employment-relevant after actual application feedback?
-9. Should UpgradePilot remain the primary flagship for the next Career cycle?
+5. Can Ali transfer reasoning to a changed case and distinguish transferable responsibility from project-domain detail?
+6. Has Ali become better at stating acceptance/non-goal/claim boundaries before consequential work?
+7. Has AI-agent direction become more technically accountable rather than merely more elaborate?
+8. Can Ali defend UpgradePilot clearly to an employer without overclaiming authorship?
+9. Which gaps remain genuinely employment-relevant after **classified** application feedback?
+10. Should UpgradePilot remain the primary flagship for the next Career cycle?
 
 ---
 
