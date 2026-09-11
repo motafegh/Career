@@ -3,7 +3,7 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling Career strategy  
 **Activated:** 2026-07-27  
-**Last reviewed:** 2026-08-18 — Day-30 strategy/portfolio reconciliation  
+**Last reviewed:** 2026-09-11 — AI-era resilience and task-responsibility adoption  
 **Responsibility:** Long-term direction, working identity, role targets, capability priorities, portfolio strategy, geography, market-entry logic, and strategy change criteria
 
 ## 1. Strategic objective
@@ -70,6 +70,15 @@ These role families share a common foundation:
 - clear technical explanation;
 - Git and collaborative delivery;
 - increasingly independent implementation.
+
+### Current calibration emphasis
+
+For current applications and market calibration, treat these two responsibility families with **equal strategic seriousness** when access requirements and actual duties fit:
+
+1. **Applied AI / AI Application / AI Implementation** — especially roles that combine software/data integration, evaluation, reliability, grounding, tool/agent behavior, and bounded human oversight.
+2. **Technical Implementation / AI Solutions / Automation** — especially roles that combine business/process discovery, Python/APIs, integration, troubleshooting, acceptance criteria, AI use, and stakeholder responsibility.
+
+This does not change the working identity or remove the broader role universe. It recognizes that Ali's prior business/operational responsibility may transfer particularly well into implementation/solutions work when supported by enough technical ownership.
 
 ## 5. Secondary exploration
 
@@ -145,6 +154,21 @@ Standalone study is justified when:
 
 Study should return to an applied responsibility as soon as the required depth is reached.
 
+### Responsibility and transfer lens
+
+Because AI can make implementation tasks cheaper faster than whole engineering responsibilities disappear, Career should evaluate learning and role fit primarily through **responsibilities and transferable ownership**, not through code volume, tool count, or title alone.
+
+For important work, ask:
+
+```text
+What responsibility is actually being owned?
+What technical substrate is required to understand, verify, modify and diagnose it?
+What part transfers beyond this repository/domain?
+What project-specific detail is only supporting knowledge?
+```
+
+This lens does not weaken technical anchors. It determines where depth inside those anchors has the highest Career return.
+
 ## 8. AI-era engineering strategy
 
 Ali should develop both:
@@ -163,6 +187,58 @@ AI substitution
 ```
 
 The desired capability is AI-augmented engineering with explicit human responsibility.
+
+### 8.1 Implementation abundance does not remove technical substrate
+
+As implementation becomes cheaper, technical fluency should be measured less by syntax recall or manual typing speed and more by whether Ali can:
+
+- trace representative unfamiliar code and system state;
+- understand relevant contracts, types, interfaces and failure boundaries;
+- state useful acceptance criteria;
+- reason about what tests/evaluations prove and do not prove;
+- make or direct meaningful modifications and inspect the result;
+- participate materially in causal diagnosis;
+- challenge unsafe, inconsistent, unsupported or overengineered AI output;
+- transfer the mental model to changed cases;
+- defend limitations and trade-offs.
+
+Reduced-assistance work remains useful as a sampling mechanism for ownership. It is not an anti-AI ideology.
+
+### 8.2 AI progress must be interpreted across separate dimensions
+
+Do not infer labor-market change directly from one capability benchmark or model release.
+
+When AI developments could affect Career strategy, distinguish:
+
+```text
+technical capability
+≠ responsibility autonomy
+≠ real-world organizational adoption
+≠ productivity effect
+≠ labor demand / entry access
+≠ worker adjustment / reallocation
+```
+
+A model becoming better at code generation is important evidence about capability. It does not by itself establish that employers have removed the corresponding human responsibility or that accessible roles have disappeared.
+
+### 8.3 Durable AI-era responsibility emphasis
+
+Career should continue strengthening responsibilities that current evidence repeatedly shows becoming relatively more important when execution gets cheaper:
+
+- problem/intent ownership;
+- specification and acceptance criteria;
+- system/data mental models;
+- verification, testing and evaluation;
+- causal diagnosis;
+- security, permissions and trust boundaries;
+- data quality and provenance;
+- cross-system integration;
+- operations/reliability and recovery;
+- stakeholder/domain translation;
+- accountable technical communication;
+- agent/harness, autonomy, evaluator and human-checkpoint design.
+
+This does not claim that these responsibilities are permanently immune to automation. Section 14 defines how to reassess them if empirical evidence changes.
 
 ## 9. Current portfolio strategy
 
@@ -300,16 +376,59 @@ It also does not claim that current JobHunter or Sentinel implementation belongs
 
 ## 14. Strategy review triggers
 
-Review this strategy when:
+### Level 1 — observe, no strategy action
+
+Do **not** reopen strategy merely because of:
+
+- one frontier-model release or benchmark jump;
+- one impressive coding-agent demo;
+- one future-of-work scenario paper;
+- one employer anecdote or vacancy change;
+- one unexplained rejection;
+- one viral prediction.
+
+These may inform an already-open question but do not create a Career pivot by themselves.
+
+### Level 2 — bounded Career checkpoint
+
+Run a focused Career check when credible evidence could materially change one role band, learning priority, or application assumption, for example:
+
+- a strong empirical study changes the observed return to expertise in AI-assisted engineering;
+- several employers in an active target band shift the same responsibility toward materially greater autonomous AI ownership;
+- repeated vacancies turn a previously optional responsibility into a practical entry gate;
+- Ali's interviews repeatedly expose one responsibility-level weakness;
+- application results reveal a stable access/positioning problem in one band;
+- a materially better adjacent role family emerges around Ali's business + technical combination.
+
+Inspect only the affected assumption unless the evidence also meets the formal-review threshold.
+
+### Level 3 — formal strategy review
+
+Reopen the broader strategy when converging evidence could change the working identity, primary role-family ordering, flagship purpose/allocation, or the value of the technical-depth model.
+
+Material trigger classes include:
+
+- cross-source contraction of accessible entry/transition demand across Ali's target **responsibility bands**, not merely one title or geography;
+- multiple credible empirical sources showing that technical/domain expertise no longer materially improves AI delegation, verification, diagnosis, or responsibility outcomes relevant to target work;
+- reliable organizational evidence that agents are absorbing not only implementation but sustained ambiguous intent resolution, system planning, verification/oracle design, causal recovery, security/permission judgment, trade-off/acceptance decisions, stakeholder translation, and accountability-quality explanation with materially reduced expert review;
+- Ali's own repeated well-matched application/interview cycles showing a stable mismatch that is not mainly explained by one fixable gap or positioning issue;
+- a better adjacent responsibility family consistently showing materially stronger fit/access for Ali's business + technical + AI combination.
+
+A large strategy change should normally require independent evidence convergence proportional to the size of the proposed change, such as multiple high-quality external streams or Ali-specific repeated evidence plus supporting external evidence.
+
+### Existing ordinary triggers
+
+Also review strategy when:
 
 - representative job evidence materially changes role priorities;
 - capability evidence supports a stronger or narrower working identity;
 - the flagship fails to produce intended career value;
-- application or interview feedback shows a repeated pattern;
 - geography or work-mode feasibility changes;
 - a career cycle ends;
 - Ali explicitly requests a strategy review;
 - a new primary project is proposed.
+
+Do not create a standing AI-doom-monitoring lane. External AI/labor evidence should be checked at scheduled reviews, when Ali brings a materially relevant source, when a major empirical result directly challenges a controlling assumption, or when real market feedback creates a specific question.
 
 ## 15. Change standard
 
@@ -323,4 +442,4 @@ A strategy change must state:
 - market and portfolio consequences;
 - reassessment trigger.
 
-Do not rewrite strategy because of one difficult project session, one exciting technology, or one job description.
+Do not rewrite strategy because of one difficult project session, one exciting technology, one scenario, or one job description.
