@@ -266,21 +266,112 @@ Do not memorize explanations without changed-case practice.
 
 ## 12. Feedback loop
 
-Classify market feedback carefully:
+Market feedback is an evidence stream for what to target, explain, and learn next. It is **not** an automatic verdict on Ali's capability and does not automatically become a curriculum request.
+
+First classify the outcome:
 
 - no response;
 - recruiter screen failure;
-- location/visa mismatch;
+- location/visa/language/degree/access mismatch;
 - experience mismatch;
 - resume/positioning weakness;
 - technical knowledge gap;
 - practical implementation gap;
-- communication gap;
+- testing/debugging/diagnostic gap;
+- communication/project-defense gap;
 - role-fit mismatch;
 - compensation or availability mismatch;
 - unknown.
 
-One outcome does not justify a strategy change. Repeated or strong evidence may change role targeting, portfolio work, or capability priorities.
+Then classify its **information value**.
+
+### High-information feedback
+
+May justify immediate bounded inspection when it directly tests a relevant responsibility, for example:
+
+- explicit interviewer/hiring-manager technical feedback;
+- a concrete take-home or practical exercise failure that can be diagnosed;
+- Ali being unable to reason through a representative technical responsibility in an otherwise well-matched interview;
+- direct feedback that a capability central to the role is missing.
+
+One strong practical signal may justify bounded remediation even before repetition because it contains direct evidence about the responsibility.
+
+### Repeated-pattern feedback
+
+Several independent well-matched vacancies, applications, screens or interviews pointing to the same responsibility can justify stronger Career correction.
+
+Examples:
+
+- SQL repeatedly gates otherwise plausible data/AI roles;
+- several interviews expose the same debugging/system-design weakness;
+- recruiters repeatedly misunderstand Ali's AI-assisted contribution;
+- a role family repeatedly fails because the same access/evidence requirement is missing.
+
+Use patterns to change role weighting, positioning or bounded gap work proportionately.
+
+### Targeting feedback, not learning feedback
+
+Normally change vacancy filtering/targeting rather than technical study when the blocker is:
+
+- degree/campus eligibility;
+- nationality/residency/work authorization;
+- language;
+- location/on-site constraint;
+- structurally infeasible experience gate;
+- compensation/availability mismatch.
+
+Do not convert an access problem into a technical curriculum.
+
+### Low-information feedback
+
+Do not normally redirect Career work because of:
+
+- one unexplained rejection;
+- one ghosted application;
+- generic automated rejection text;
+- one employer-specific framework/tool preference;
+- one unusually broad wish list;
+- one vacancy that was never a realistic access fit;
+- one viral AI/tool trend.
+
+Several weak signals may become meaningful only after they form a coherent pattern and alternative explanations such as access or positioning are checked.
+
+### Feedback-to-action routing
+
+```text
+core transferable responsibility gap
+→ compare against existing capability evidence
+→ bounded learning/remediation if supported
+
+recurring role-specific substrate gap
+→ strengthen existing bounded gap lane
+
+portfolio / explanation problem
+→ repair positioning or interview defense
+
+access gate
+→ change targeting/filtering
+
+one employer-specific tool
+→ normally defer/ignore
+
+material role-strategy challenge
+→ formal/bounded Career review
+```
+
+Do not force a market gap into UpgradePilot merely because a vacancy mentions it. Use UpgradePilot only when legitimate project work naturally contains the responsibility; otherwise use the smallest appropriate Career-approved lane.
+
+A small well-matched application batch should therefore produce:
+
+```text
+outcomes
+→ classified signals
+→ public-safe aggregate pattern
+→ bounded correction where warranted
+→ next application batch
+```
+
+One outcome does not justify a broad strategy change. Repeated or unusually high-information evidence may change role targeting, portfolio work, capability priorities, or trigger the strategy-review process.
 
 ## 13. Privacy
 
@@ -298,59 +389,3 @@ Do not create until the relevant stage activates:
 - compensation tracker;
 - resume variants;
 - company-specific dossiers.
-
-Create only the minimum system required by actual activity.
-
-## 15. JobHunter market-intelligence support
-
-JobHunter (`motafegh/jobhunter`) is an approved Career-support instrument for market observation and job analysis.
-
-Its Career-side requirements and authority boundary are owned by:
-
-- [`jobhunter/CAREER_REQUIREMENTS.md`](jobhunter/CAREER_REQUIREMENTS.md);
-- [`jobhunter/CAREER_INTEGRATION_AND_USE.md`](jobhunter/CAREER_INTEGRATION_AND_USE.md).
-
-JobHunter may support:
-
-- representative vacancy acquisition;
-- responsibility and requirement analysis;
-- role-family/archetype discovery;
-- requirement and responsibility frequency;
-- geography, seniority, work-mode, and entry-barrier comparison;
-- search-coverage and data-quality assessment;
-- market-change observation;
-- Career capability/evidence comparison through an approved snapshot;
-- explainable gap and learning-priority proposals;
-- application dossiers;
-- CV-tailoring packs;
-- interview-preparation packs;
-- project-evidence opportunity maps.
-
-JobHunter does not automatically own or change:
-
-- Career strategy;
-- Ali capability claims;
-- project allocation or project scope;
-- employability stage;
-- application activation;
-- master-CV claims;
-- exact Career action.
-
-Its own implementation is not automatically Ali capability evidence. Market conclusions must remain sample-aware, source-aware, provenance-preserving, and reviewable.
-
-Career should not copy JobHunter's database or detailed job corpus into this public repository. Prefer versioned Career-facing JobHunter artifacts and record only durable Career conclusions.
-
-## 16. Review triggers
-
-Review this plan when:
-
-- target roles change;
-- the first representative market sample is completed;
-- JobHunter produces a materially new reviewed market pattern;
-- application readiness is assessed;
-- applications begin;
-- interview or rejection patterns emerge;
-- location or visa constraints change materially;
-- a career cycle ends.
-
-Current employability stage belongs in `CAREER_STATE.md`, not this plan.
