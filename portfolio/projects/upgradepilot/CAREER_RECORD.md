@@ -3,8 +3,9 @@
 **Owner:** Ali Rajabi  
 **Career role:** Primary flagship  
 **Status:** Active independently  
-**Last Career inspection:** 2026-08-18  
-**Technical authority:** `https://github.com/motafegh/UpgradePilot`
+**Last Career inspection:** 2026-09-11  
+**Technical authority:** `https://github.com/motafegh/UpgradePilot`  
+**Active Career-side execution plan:** [`2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md`](2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md)
 
 ## 1. Stable purpose
 
@@ -31,37 +32,46 @@ It is intended to produce evidence in:
 - GitHub, HTTP, and public-source acquisition;
 - dependency and package reasoning;
 - validation, evidence states, provenance, and trust boundaries;
-- data modeling, persistence, and SQL when admitted;
 - deterministic baselines and evaluation;
 - secure and reproducible engineering;
-- applied ML/AI experiments when evidence supports them;
-- project-connected advanced capability pilots when justified;
-- technical explanation and portfolio defense.
+- applied AI/LLM responsibilities where project evidence supports them;
+- technical explanation, changed-context transfer, and portfolio defense.
+
+SQL/relational-data evidence remains a Career gap but should not be forced into UpgradePilot unless a legitimate project responsibility requires it.
 
 These are intended outcomes, not pre-awarded claims.
 
 ## 3. Current coarse project contribution
 
-The 2026-08-18 Career inspection confirms that UpgradePilot has materially advanced beyond the July Career snapshot. The repository now contains a substantial responsibility-oriented Python product with active source and deterministic tests across dependency, CI, GitHub, PyPI, upstream, target, impact, investigation, and CLI/application surfaces.
+The 2026-09-11 Career inspection confirms that UpgradePilot has advanced substantially beyond the August snapshot. The repository now contains a responsibility-oriented Python product spanning dependency analysis, CI evidence, GitHub/PyPI/upstream acquisition, target/environment reasoning, impact/applicability investigation, application orchestration, CLI presentation, and a newly admitted overall maintainer-action synthesis layer.
 
-The latest repository live-state inspected during this Career reconciliation placed B2 work in Dependency Environment and CI Consumption Evidence, with Clusters 0–4 validated and Cluster 5 implemented awaiting its recorded validation gate. Recent repository work also contains a dedicated learning route focused on real cases, code reading, transfer pressure, seam audits, and ownership.
+At this inspection point, the project had just implemented the first deterministic maintainer-action evaluator and focused tests. The admitted runtime action was intentionally limited to explained `abstain`; stronger action paths remained gated by their own positive evidence/permission requirements. Source/static validation was recorded while focused executable proof against the actual project environment and broader regression proof remained explicit debt. The active project-local Learning-by-Doing slice was in its post-build ownership/proof stage.
 
-This paragraph is only a coarse Career snapshot. Current technical continuation and exact test/gate state belong exclusively to UpgradePilot `MEMORY.md`, active source/tests, and project records.
+This paragraph is only a dated coarse Career snapshot. Current technical continuation and exact test/gate state belong exclusively to UpgradePilot `MEMORY.md`, active source/tests, selected plans/specifications, and working records.
 
 ## 4. Current Career evidence
 
 ### Retained evidence-backed conclusions
 
-Career already has evidence that Ali has:
+Career currently has evidence that Ali has:
 
 - performed guided public dependency-update investigations;
-- participated in project contract, evidence-boundary, and method decisions;
-- challenged selected assumptions and requested corrected reasoning;
-- run and interpreted selected project-local tests and live read-only cases;
-- improved retained high-level architecture understanding through reduced-context reconstruction;
-- participated in bounded failure diagnosis and learning-by-building work.
+- participated materially in project contract, evidence-boundary, architecture, and method decisions;
+- repeatedly challenged overengineering, unsupported evidence strength, hardcoding/special-case pressure, and architecture assumptions;
+- developed bounded D2 guided understanding of selected current UpgradePilot source-flow and representative-test responsibilities;
+- reasoned correctly about important proof limits, including static evidence versus stronger runtime conclusions;
+- participated in bounded failure diagnosis and learning-by-building work;
+- developed a recurring strength in AI-assisted technical critique and harness/direction work, with stronger capability still requiring implementation/result verification and changed-context transfer.
 
-The August 2026 project learning work may support stronger conclusions, but those conclusions belong in the capability ledger only after the scheduled Career assessment evaluates the evidence.
+### Important remaining gaps
+
+Career still lacks strong evidence of:
+
+- broad D3 Python/application ownership;
+- a sufficiently ownership-bearing current source/test modification;
+- a sufficiently current unfamiliar causal diagnosis with reduced assistance;
+- broad professional Git/PR/code-review collaboration;
+- SQL/relational-data ownership.
 
 ### Assistance boundary
 
@@ -73,7 +83,7 @@ Project progress therefore does not establish broad independent Python or system
 
 ### Repository capability
 
-UpgradePilot is an increasingly substantial tested Python product with explicit evidence/provenance boundaries and real public-source inputs.
+UpgradePilot is an increasingly substantial tested Python product with explicit evidence/provenance boundaries, real public-source inputs, typed investigation state, and bounded maintainer-facing decision semantics.
 
 ### Ali evidence
 
@@ -85,7 +95,7 @@ AI assistance remains substantial in architecture, implementation, testing, docu
 
 ### Current Career claim
 
-Career may say that Ali is actively building and studying UpgradePilot as his primary learning-by-building flagship and is deliberately increasing ownership of selected Python/data/evidence/testing responsibilities.
+Career may say that Ali is directing and learning through the AI-assisted development of UpgradePilot, is materially involved in evidence/architecture decisions, and has bounded guided ownership of selected current source/test responsibilities while deliberately increasing implementation, verification, diagnosis, and transfer depth.
 
 ### Non-claim
 
@@ -93,24 +103,25 @@ Repository sophistication, test count, AI-generated code, documentation depth, o
 
 ## 6. Current strongest defensible claims
 
-Until the current Career checkpoint is formally assessed, Career may state that Ali:
+Career may currently state that Ali:
 
-- is building and studying a production-oriented Python project using real public GitHub and package evidence;
+- is building and studying a production-oriented Python dependency-update decision-support project using real public GitHub/package/upstream/CI evidence;
 - can perform bounded guided dependency-update investigations and discuss evidence limitations;
-- has participated in evidence-boundary, contract, architecture, and method decisions with substantial AI assistance;
-- has run and interpreted selected local tests and safe read-only cases;
-- is actively studying current real-case data flows and source responsibilities rather than only consuming generated code;
-- deliberately separates project sophistication from personal ownership.
-
-Stronger claims require the current capability review.
+- has bounded D2 guided understanding of selected current UpgradePilot source-flow and representative-test responsibilities;
+- has participated materially in evidence-boundary, contract, architecture, method, and anti-overengineering decisions with substantial AI assistance;
+- can explain important distinctions such as missing versus negative evidence and static declarations versus stronger runtime proof;
+- uses AI agents heavily while deliberately separating repository output from personal ownership;
+- is actively increasing source/test modification, diagnosis, and changed-context transfer depth through the project-local Learning-by-Doing route.
 
 ## 7. Current non-claims
 
 Career must not infer that Ali:
 
 - independently designed or implemented the complete UpgradePilot architecture;
-- owns the complete Python request-to-output path;
-- has established broad Python, data-engineering, ML, security, backend, or DevOps competence;
+- owns the complete Python request-to-output path or test architecture;
+- has broad D3 Python/application engineering capability;
+- independently diagnoses the project's main unfamiliar failures;
+- has established broad data-engineering, ML, security, backend, SQL, cloud, or DevOps competence;
 - has produced a final universal maintainer recommendation system;
 - has established compatibility or update safety;
 - has built a production-ready service;
@@ -124,12 +135,15 @@ UpgradePilot should primarily generate increasingly defensible evidence of:
 2. meaningful test responsibility;
 3. debugging and failure diagnosis;
 4. coherent architecture/data-flow understanding;
-5. evidence/provenance/trust reasoning;
+5. evidence/provenance/trust reasoning tied to real source behavior;
 6. Git/GitHub and external-source operation;
 7. technical explanation and changed-case transfer;
-8. portfolio-ready examples of decisions, failures, corrections, and Ali-specific contribution.
+8. AI-agent direction with technical verification/accountability;
+9. portfolio-ready examples of decisions, failures, corrections, and Ali-specific contribution.
 
 Career should not require total repository mastery.
+
+The active Career-side execution plan for these outcomes is [`2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md`](2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md).
 
 ## 9. Portfolio value to preserve
 
@@ -152,6 +166,7 @@ A future UpgradePilot portfolio package should demonstrate:
 - Flagship continuation may delay market/portfolio activity if Career does not enforce its review gates.
 - Advanced methods may arrive before employment-critical foundations are retained.
 - Source-reading may be mistaken for implementation ownership.
+- Trying to master the full repository may consume the remaining cycle without producing stronger transfer or market evidence.
 
 ## 11. Review triggers
 
@@ -160,18 +175,20 @@ Review this record when:
 - UpgradePilot completes a major project gate that changes portfolio value;
 - Ali proposes a capability or portfolio claim;
 - Ali completes a central changed-case modification or failure diagnosis with reduced help;
-- persistence, SQL, evaluation, ML/AI, deployment, or advanced pilots materially change Career value;
+- evaluation, ML/AI, deployment, persistence, or another advanced responsibility materially changes Career value;
 - the project becomes infeasible or misaligned;
-- application readiness is considered;
+- application feedback materially changes what UpgradePilot should contribute to Career;
+- application readiness is reconsidered;
 - the current career cycle ends.
 
 ## 12. Technical routing
 
 For current project truth, use:
 
-1. UpgradePilot `MEMORY.md`;
-2. active source and tests;
-3. selected plan and applicable specification/ADR;
-4. commands, outputs, environment, and dated working evidence.
+1. UpgradePilot `AGENTS.md` and local governance;
+2. UpgradePilot `MEMORY.md`;
+3. active source and tests;
+4. selected plan and applicable specification/ADR;
+5. commands, outputs, environment, and dated working evidence.
 
-Do not infer current technical state from this Career record.
+Do not infer current technical state from this Career record or the Career-side Day-90 execution plan.
