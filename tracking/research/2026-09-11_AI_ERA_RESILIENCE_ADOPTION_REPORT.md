@@ -1,174 +1,286 @@
 # AI-Era Resilience Adoption — Progressive Report
 
 **Date opened:** 2026-09-11  
-**Status:** ACTIVE — P0–P6 complete; final adoption/reconciliation pending  
+**Status:** COMPLETE  
 **Parent plan:** `../../plans/2026-09-11_AI_ERA_RESILIENCE_AND_LEARNING_ADOPTION_PLAN.md`  
-**Purpose:** preserve evidence and decisions progressively while the adoption program runs; not a canonical Career strategy owner.
+**Purpose:** preserve the evidence, reasoning, dispositions, and final adoption record for the September 2026 AI-era resilience review.
 
-## Phase record / provenance
+## Phase provenance
 
-Detailed snapshots remain in Git history:
+Detailed phase snapshots remain in Git history:
 
 - P0 evidence baseline: `4879e6569c4a271d05e65544c58cce41412d7dcf`;
 - P1 role/task decomposition: `9c68cb2a4fa6bcb650d91c45657836ce58d4476d`;
 - P2/P3 UpgradePilot + learning-depth findings: `636bc4fe520e3bede1479d677db7d291b62d5832`;
 - P4 market-feedback integration: `e78cd774ff3a7a1dc842cfa9224e5a756e3ff6a5`;
-- P5 reassessment-trigger design: `bd037c5eee723418aef08571424cf4ec8b9449da`.
+- P5 strategy-reassessment trigger: `bd037c5eee723418aef08571424cf4ec8b9449da`;
+- P6 adoption matrix: `136b52197f03650c5e08e81c58a1eea3ba63bdd0`.
 
----
+## P0 — Evidence baseline
 
-## P0–P5 cumulative findings
+**Result:** Anthropic's September 2026 scenarios are serious scenario-planning evidence, not forecasts of Ali's target roles.
 
-### Evidence interpretation
+Durable interpretation:
 
-Anthropic's September 2026 economic scenarios are useful as **scenario pressure**, not direct forecasts. Their most useful contribution is separating task capability, autonomy, real-world adoption, productivity, new-task creation and worker adjustment/reallocation. Current empirical evidence still shows incomplete adoption and persistent returns to expertise.
+- jobs can be analyzed as changing task bundles;
+- AI technical capability, responsibility autonomy, real-world adoption, productivity, labor demand, and worker adjustment are separate variables;
+- extreme displacement requires several strong assumptions to hold together;
+- current empirical evidence remains less extreme and still shows returns to expertise;
+- the article does not justify abandoning technical learning, reducing AI use, or searching for an imagined AI-proof profession.
 
-### Role/task interpretation
+## P1 — Role/task decomposition
 
-Routine production work is becoming cheaper as standalone value. Across our current target bands, more durable/rising responsibility clusters around:
+**Result:** responsibility shape is more robust than title alone, but technical anchors remain real entry gates.
+
+Durable/rising responsibility clusters:
 
 - problem/intent framing;
 - acceptance criteria and proof design;
 - system/data mental models;
 - verification/evaluation;
 - causal diagnosis;
-- security/trust/permission judgment;
+- security/trust/permissions;
 - data quality/provenance;
-- integration across systems;
+- integration;
 - operations/reliability;
 - stakeholder/domain translation;
-- communication/accountability;
-- prioritization/stopping;
+- accountable communication;
 - agent/harness/autonomy/evaluator design.
 
-Technical anchors remain necessary because these responsibilities require enough substrate to inspect, verify, modify and diagnose real systems.
+Role implication:
 
-### Ali/role consequence
+> **Applied AI / AI Implementation and Technical Implementation / AI Solutions / Automation now receive equal strategic seriousness for calibration when the actual responsibility and access fit are strong.**
 
-Applied AI / AI Implementation remains a priority. Technical Implementation / AI Solutions / Automation now deserves **equal strategic seriousness** because it combines Ali's prior business/process responsibility with Python/APIs, AI integration, troubleshooting, acceptance and stakeholder responsibility.
+No identity change was justified.
 
-### UpgradePilot/learning consequence
+## P2 — UpgradePilot transferability and automation compression
 
-Representative UpgradePilot work confirms that implementation can become cheaper while the important ownership remains in evidence admission, system/proof boundaries, changed-case reasoning, diagnosis, technology selection, claim limits and accountable explanation.
+**Result:** the heuristics survive real project pressure when technically bounded.
 
-Learning priority is therefore:
+Adopted selective automation-compression question:
+
+> **If implementation became nearly free, what engineering responsibility would still be mine — and what technical understanding would I still need to verify, diagnose, modify, transfer and defend that responsibility?**
+
+Adopted selective transferability questions:
 
 ```text
-Python/software mental model + meaningful modification
-→ testing/verification/evaluation + acceptance criteria
-→ debugging/causal diagnosis
-→ system/data/evidence/provenance
-→ AI-agent/harness with technical accountability
-→ APIs/integration + Git/review + Linux/ops
-→ practical SQL
-→ project domain at defend/reason depth
-→ advanced frameworks/infra only from real pressure
+What is the transferable engineering responsibility here?
+What UpgradePilot-specific/domain knowledge only supports it?
+Where else would the same responsibility appear?
 ```
 
-### Market-feedback consequence
+These are not mandatory new cycle stages and must be skipped/compressed for repetitive child work.
 
-After E2, application/interview feedback becomes a filtered learning-priority evidence stream. Direct responsibility-level failures or repeated patterns can change learning; access gates change targeting; one-off noise should not create curriculum.
+## P3 — Learning-depth design
 
-### Strategy-reassessment consequence
+**Result:** stronger AI justifies more selective technical depth, not shallower technical learning.
 
-Use an evidence-convergence trigger:
+Priority order:
 
-- most AI news → observe/no action;
-- credible evidence affecting one assumption → bounded Career checkpoint;
-- cross-source or repeated Ali-specific evidence affecting role demand, returns to expertise or responsibility ownership → formal Career review.
+1. Python/software mental model + meaningful modification;
+2. testing/verification/evaluation + acceptance criteria;
+3. debugging/causal diagnosis;
+4. code reading + meaningful modification;
+5. system/data/evidence/provenance reasoning tied to implementation;
+6. intent/specification/acceptance ownership;
+7. AI-agent/harness with technical accountability;
+8. APIs/integration + Git/review + Linux/ops working depth;
+9. practical SQL/relational depth;
+10. project-domain detail at defend/reason depth;
+11. frameworks/cloud/advanced infrastructure only from real pressure.
 
----
+## P4 — Market feedback as learning
 
-## P6 — Adoption decision matrix
+**Result:** E2 remains the immediate application gate; no new technical blocker was added.
 
-**State:** COMPLETE
+Feedback routing:
 
-| Candidate | Disposition | Correct owner(s) | Minimum adoption | Must NOT imply |
-|---|---|---|---|---|
-| **H1 — responsibility/task lens over title/technology lens** | **ADOPT** | `strategy/CAREER_STRATEGY.md` | Make responsibilities + access gates the primary durability/role-comparison unit while preserving technical anchors and recognizable role families. | Titles/technologies are irrelevant; technical depth can disappear; every role must be reinvented from tasks each session. |
-| **P0 distinction — capability ≠ autonomy ≠ adoption ≠ labor demand/adjustment** | **ADOPT** | `strategy/CAREER_STRATEGY.md` / review logic | Require Career to separate model capability from organizational adoption, responsibility autonomy and actual labor demand when reacting to AI change. | Every frontier-model improvement requires a Career review. |
-| **H2 — automation-compression test** | **ADOPT NARROWLY / PILOT** | `portfolio/projects/upgradepilot/2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md`; proposed UpgradePilot LbD handoff | On consequential slices only ask what responsibility remains if implementation is near-free **and what technical substrate is still required to verify/diagnose/modify/defend it**. | Management-only learning; anti-coding ideology; mandatory ceremony on every micro-step. |
-| **H3 — transferability test** | **ADOPT NARROWLY** | UpgradePilot Day-90 Career plan; later portfolio/interview use | For selected important slices distinguish transferable responsibility from project-domain detail and name nearby role contexts where it transfers. | Every function needs a generic lesson; domain understanding is unimportant. |
-| **H4 — preserve AI leverage while increasing human responsibility ownership** | **ADOPT / CLARIFY** | `strategy/CAREER_STRATEGY.md`; UpgradePilot Day-90 Career plan | Explicitly optimize for AI-heavy execution plus human intent, mental model, acceptance, verification, modification, diagnosis, transfer, risk and explanation. | Reduced AI use is inherently better; prompting/orchestration alone is ownership. |
-| **P3 — explicit intent/specification/acceptance ownership** | **ADOPT NARROWLY** | UpgradePilot Day-90 Career plan; proposed UpgradePilot LbD handoff | Before consequential work, Ali should increasingly state success/failure/non-goal, acceptance evidence, claim limit and useful changed case. | Ali must pre-design every implementation detail; plans replace learning from actual code/results. |
-| **P3 — stronger testing/debugging/modification emphasis** | **ADOPT** | UpgradePilot Day-90 Career plan; existing Career capability priorities already support it | Increase priority of verification/evaluation, causal diagnosis and meaningful modification relative to raw implementation volume. | Artificial failures/changes should be manufactured; manual code volume is the metric. |
-| **H5 — market feedback is part of learning** | **ADOPT / CLARIFY** | `market/EMPLOYABILITY_AND_MARKET_PLAN.md` | Explicitly classify feedback by information value and route technical gaps, positioning problems and access gates differently. | Every rejection becomes a learning task; applications replace technical learning. |
-| **H6 — explicit strategy-reassessment trigger** | **ADOPT** | `strategy/CAREER_STRATEGY.md` | Add three-level trigger: observe/no action → bounded checkpoint → formal review, with independent evidence convergence proportional to change size. | Continuous AI doom-monitoring; one article/model release triggers a pivot. |
-| **Technical depth remains selective but non-negotiable in anchors** | **ADOPT / CLARIFY** | `strategy/CAREER_STRATEGY.md`; UpgradePilot Day-90 plan | Define technical fluency as ability to inspect/modify/test/diagnose/defend representative responsibilities, not syntax speed. | Technical expertise is obsolete; Ali only needs business/management or AI prompting. |
-| **Technical Implementation / AI Solutions gets equal strategic seriousness with Applied AI** | **ADOPT NARROWLY** | `strategy/CAREER_STRATEGY.md` role emphasis / future application selection | Treat both as top calibration families when actual responsibility/access fit is strong. | Immediate identity/title change; Applied AI is deprioritized or abandoned. |
+- direct responsibility-level practical/interview evidence → inspect immediately and remediate proportionately;
+- repeated independent responsibility pattern → strong Career calibration signal;
+- portfolio/explanation problem → fix positioning/interview defense;
+- access gate → retarget, do not create technical study;
+- one unexplained rejection, one ghosting, one niche tool preference → normally no learning change;
+- material role-strategy challenge → Career review.
 
-### P6.1 Items explicitly rejected
+Market feedback is now explicitly a **filtered learning-priority evidence stream**, not an automatic curriculum generator.
 
-**REJECT — manual-only resilience.**
+## P5 — Strategy reassessment trigger
 
-Do not reduce AI use to manufacture human value. Use reduced assistance selectively as an ownership sampling mechanism.
+**Result:** adopt a three-level response to fast AI change.
 
-**REJECT — AI-proof profession search.**
+```text
+LEVEL 1 — observe / no action
+single model release, benchmark, scenario paper, anecdote, one rejection
 
-No current evidence supports a reliably AI-proof knowledge-work title. Optimize adaptability, responsibility ownership, technical substrate and market contact instead.
+LEVEL 2 — bounded Career checkpoint
+credible evidence could change one role band, gap, or application assumption
 
-**REJECT — technology-breadth hedge.**
+LEVEL 3 — formal strategy review
+converging evidence could change role-family ordering, identity, flagship purpose,
+or the economic value of the technical ownership model itself
+```
 
-Do not add cloud/Kubernetes/blockchain/frameworks/security tools merely because a broader stack feels safer.
+Formal review pressure should come from independent evidence convergence, such as:
 
-**REJECT — continuous future-of-work monitoring.**
+- accessible target-band contraction across credible sources;
+- sustained empirical collapse in returns to expertise;
+- agents reliably absorbing ambiguity, verification, diagnosis, permission/trade-off judgment and accountability in real organizational use, not merely implementation;
+- Ali-specific repeated well-matched application/interview mismatch plus external corroboration;
+- a clearly superior adjacent responsibility family using Ali's business + technical + AI combination.
 
-Use scheduled/event-triggered Career review, not a standing doom-research lane.
+No standing AI-doom-monitoring lane is justified.
 
-**REJECT — direct UpgradePilot technical-roadmap changes from this research.**
+## P6 — Final adoption matrix
 
-The findings concern learning/ownership method, not dependency-product architecture or implementation sequencing.
-
-### P6.2 Items deferred
-
-**DEFER — exact long-term role ranking beyond current calibration bands.** Real application feedback should inform later ranking.
-
-**DEFER — stronger cloud/ops/security specialization.** Require repeated role/project pressure.
-
-**DEFER — any claim that expertise returns will remain permanently positive.** Current evidence supports them now; P5 defines the reassessment trigger if that changes.
-
-### P6.3 Canonical change set authorized for P7
-
-Career-side:
-
-1. **`strategy/CAREER_STRATEGY.md`**
-   - add task/responsibility durability lens;
-   - add capability/autonomy/adoption/labor distinction;
-   - clarify AI-era ownership/technical substrate;
-   - give Technical Implementation / AI Solutions equal strategic seriousness in active calibration emphasis without changing working identity;
-   - add evidence-convergence AI-era strategy review trigger.
-
-2. **`portfolio/projects/upgradepilot/2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md`**
-   - add consequential-slice automation-compression prompt;
-   - add transferability prompt;
-   - strengthen intent/acceptance criteria before consequential slices;
-   - keep anti-ceremony and technical-substrate guard;
-   - preserve current technical-authority boundary.
-
-3. **`market/EMPLOYABILITY_AND_MARKET_PLAN.md`**
-   - refine feedback loop with information-value classification and routing;
-   - preserve E2/readiness rules and privacy.
-
-4. **`CAREER_STATE.md`**
-   - **NO change expected** because identity, flagship, workload and current application gate do not materially change.
-
-5. **`tracking/CAPABILITY_EVIDENCE_LEDGER.md`**
-   - **NO change** because this research changes desired method/strategy, not Ali's demonstrated evidence.
-
-UpgradePilot project-local:
-
-- prepare/review a bounded handoff under UpgradePilot governance;
-- likely minimal target = `OPERATING_GUIDE.md` and/or the LbD Skill only if those owners are the correct method surfaces;
-- add automation-compression/transfer/acceptance reflection only where it fits existing A/D/E behavior;
-- do not change product plans/source/tests/architecture because of Career research;
-- anti-ceremony requirement is mandatory.
-
-### P6 exit judgment
-
-**Exit condition satisfied.** We now know exactly what should be adopted, where, and what should not change.
-
----
+| Principle | Final disposition |
+|---|---|
+| Responsibility/task lens | **ADOPT** |
+| Capability ≠ autonomy ≠ adoption ≠ labor demand/adjustment | **ADOPT** |
+| Automation-compression reflection | **ADOPT NARROWLY / PILOT** |
+| Transferability reflection | **ADOPT NARROWLY** |
+| Preserve AI leverage + increase responsibility ownership | **ADOPT / CLARIFY** |
+| Explicit intent/specification/acceptance ownership | **ADOPT NARROWLY** |
+| Stronger testing/debugging/modification emphasis | **ADOPT** |
+| Market feedback as learning evidence | **ADOPT / CLARIFY** |
+| Evidence-convergence strategy trigger | **ADOPT** |
+| Selective technical depth remains non-negotiable | **ADOPT / CLARIFY** |
+| Technical Implementation / AI Solutions equal strategic seriousness with Applied AI | **ADOPT NARROWLY** |
+| Manual-only resilience | **REJECT** |
+| AI-proof profession search | **REJECT** |
+| Technology-breadth hedge | **REJECT** |
+| Continuous future-of-work monitoring | **REJECT** |
+| Career-driven UpgradePilot technical-roadmap change | **REJECT** |
 
 ## P7 — Final adoption and reconciliation
 
-**State:** NEXT
+**State:** COMPLETE
+
+### Career strategy
+
+Updated:
+
+`strategy/CAREER_STRATEGY.md`
+
+Commit:
+
+`531071bf5171bcd84d07346a7f86211c70b8693a`
+
+Adopted:
+
+- responsibility/transfer lens;
+- current calibration emphasis giving Applied AI and Technical Implementation/AI Solutions equal strategic seriousness;
+- technical-substrate definition for AI-heavy engineering;
+- explicit capability/autonomy/adoption/labor distinction;
+- durable AI-era responsibility emphasis;
+- three-level evidence-convergence strategy-review trigger;
+- anti-doom-monitoring rule.
+
+No working-identity change was made.
+
+### UpgradePilot Day-90 Career plan
+
+Updated:
+
+`portfolio/projects/upgradepilot/2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md`
+
+Commit:
+
+`323b6dd266ca5e987b6d67c67b42c8ec42159221`
+
+Adopted:
+
+- stronger acceptance-intent before consequential slices;
+- selective automation-compression reflection;
+- selective transferability reflection;
+- stronger testing/oracle/evaluation emphasis;
+- explicit intent/specification/acceptance ownership;
+- stronger modification/debugging/accountable-agent emphasis;
+- classified application feedback boundary.
+
+The file remains Career-level only and does not own UpgradePilot technical continuation.
+
+### Employability / market feedback plan
+
+Updated:
+
+`market/EMPLOYABILITY_AND_MARKET_PLAN.md`
+
+Commit:
+
+`532edd5572e5e68e84077fbdee6da83af34395a7`
+
+Adopted:
+
+- information-value classification for application/interview outcomes;
+- direct/high-information versus repeated-pattern evidence;
+- access-gate versus learning-gap routing;
+- low-information rejection/noise stop lines;
+- explicit feedback-to-action routing.
+
+E2 remains the immediate activation gate; no new pre-application technical blocker was added.
+
+### UpgradePilot project-local Learning-by-Doing pilot
+
+UpgradePilot governance was re-entered before mutation. The project-local full LbD procedural Skill was the smallest adequate adoption surface.
+
+Updated:
+
+`.agents/skills/upgradepilot-learning-by-doing/SKILL.md`
+
+Commit:
+
+`2a90547df5d2ba1d36b05cc07b2036c96c645b00`
+
+Adopted as a **selective pilot/refinement**, not a new cycle stage:
+
+- consequential-slice acceptance intent: success, important failure/unresolved state, non-goal/stronger non-claim, acceptance evidence, useful changed case;
+- selective automation-compression ownership reflection;
+- selective transferability reflection;
+- explicit anti-ceremony / anti-management-only guards;
+- completion check recognizes the refinement only when it sharpened a real substantive slice.
+
+Not changed:
+
+- UpgradePilot product roadmap;
+- `MEMORY.md`;
+- product source/tests;
+- specifications/ADRs;
+- technical continuation;
+- framework adoption status;
+- root A→B→C→D→E stage structure.
+
+The canonical `OPERATING_GUIDE.md` already contained the compatible AI-assisted ownership, proportionality, transfer, proof-limit and anti-technology-tourism foundations, so no duplicate permanent method section was added there during this pilot. The full LbD Skill continues to defer to it.
+
+### Explicit no-change decisions
+
+No changes were made to:
+
+- `CAREER_STATE.md` — live identity, flagship, allocation and E2 gate remain valid;
+- `tracking/CAPABILITY_EVIDENCE_LEDGER.md` — this research changes desired strategy/method, not Ali's demonstrated capability evidence;
+- UpgradePilot technical plans/source/tests/live state.
+
+## Final conclusion
+
+The Anthropic scenario work changed **how we make the current strategy resilient**, not the fundamental direction.
+
+The adopted model is:
+
+```text
+use AI aggressively
++ keep strong technical substrate
++ learn by engineering responsibility rather than code volume
++ own intent / acceptance / verification / diagnosis / meaningful correction
++ distinguish transferable responsibility from project-domain detail
++ use real market feedback as filtered evidence
++ reassess strategy only from converging evidence, not AI-news anxiety
+```
+
+## Exact next action after this program
+
+Return to the existing Career route:
+
+1. close the remaining manual E2 GitHub UI actions;
+2. run the short final E2 claim/materials check;
+3. activate the already-authorized narrow application-calibration lane;
+4. continue UpgradePilot independently under its current `MEMORY.md` and the refined Learning-by-Doing method;
+5. use application/interview feedback only through the new classification rules.
