@@ -3,9 +3,7 @@
 > [!CAUTION]
 > **This plan is deferred, superseded for active execution, and non-controlling. Do not execute its weekly packages, assignments, gates, or carry rules.**
 >
-> UpgradePilot is the formally selected primary 90-day flagship. [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter. The replacement UpgradePilot roadmap, milestones, and weekly plan have not yet been created, and implementation has not started.
->
-> The next authorized action is to create the **UpgradePilot Learning and Execution Contract**. The original AegisLab weekly plan below is preserved unchanged as historical planning evidence.
+> The original AegisLab weekly plan below is preserved as historical planning evidence. Current Career direction, flagship allocation, and next Career action belong to the current canonical Career owners; current technical continuation belongs to the active project's own repository.
 
 ---
 
@@ -13,7 +11,7 @@
 
 **Historical status:** Deferred by the formal UpgradePilot selection decision; not an active delivery plan.
 
-Each week contains six 4-hour production days, one delivery package, exact Must Deliver outputs, and one hard gate. Daily execution detail for the active week is expanded in `CURRENT_WEEK.md`.
+Each week contains six 4-hour production days, one delivery package, exact Must Deliver outputs, and one hard gate. Historical references to `CURRENT_WEEK.md` below describe the original operating design and do not define the current Career directive.
 
 ## Summary
 
