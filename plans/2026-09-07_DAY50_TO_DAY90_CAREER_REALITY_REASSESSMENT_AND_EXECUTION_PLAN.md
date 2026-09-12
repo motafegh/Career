@@ -1,25 +1,27 @@
 # Day 50 to Day 90 Career Reality Reassessment and Execution Plan
 
 **Owner:** Ali Rajabi  
-**Status:** Active — Phase A complete; Phase B execution active  
+**Status:** COMPLETE / HISTORICAL — A0–A7 reassessment program closed; no longer a live execution owner  
 **Created:** 2026-09-07  
 **Horizon:** 2026-09-07 through 2026-10-17  
 **Formal A7 review:** completed early on 2026-09-08  
-**Next checkpoint:** 2026-09-17 only if material evidence changes or E2/application activation remains unresolved  
-**Career authority:** `../CAREER_STATE.md`, `CURRENT_CAREER_CYCLE.md`, `CURRENT_WEEK.md`, `../governance/CAREER_OPERATING_CONTRACT.md`  
+**Current Career continuation:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md), and the current bounded directive when one is useful  
 **Project authority:** each technical project repository remains authoritative for its own implementation, learning, plans, tests, and technical continuation
+
+> [!NOTE]
+> This file preserves the A0–A7 reassessment program and the Phase-B execution model that was produced from it. After A7, live Career execution ownership returned to `CAREER_STATE.md`, `CURRENT_CAREER_CYCLE.md`, and the bounded current directive. Do not use this file to recover the exact current Career action or current E2/application status.
 
 ## 1. Purpose
 
-Use the remaining current-cycle time deliberately so technical sophistication, Ali ownership, portfolio positioning, AI-era engineering changes, and market feedback converge into a credible first-role transition rather than advancing on separate tracks.
+This program was created to use the remaining current-cycle time deliberately so technical sophistication, Ali ownership, portfolio positioning, AI-era engineering changes, and market feedback could converge into a credible first-role transition rather than advancing on separate tracks.
 
-The controlling A7 decision is now recorded in:
+The controlling A7 decision is preserved in:
 
-- `../CAREER_STATE.md`;
-- `../tracking/CAREER_REVIEW_LOG.md`;
-- `../tracking/research/2026-09-08_A7_EARLY_DAY60_FORMAL_CAREER_REVIEW.md`.
+- `../CAREER_STATE.md` for the live Career position;
+- `../tracking/CAREER_REVIEW_LOG.md` for review history;
+- `../tracking/research/2026-09-08_A7_EARLY_DAY60_FORMAL_CAREER_REVIEW.md` for the detailed A7 record.
 
-This plan no longer owns the investigation conclusions. It coordinates the remaining execution.
+This historical plan does not own current execution conclusions.
 
 ## 2. Completed Phase A — reality reassessment
 
@@ -37,11 +39,11 @@ This plan no longer owns the investigation conclusions. It coordinates the remai
 
 Detailed findings remain in the progressive report and `tracking/research/` artifacts. Do not re-run broad A0–A7 research without material new evidence.
 
-## 3. A7 decisions that control Phase B
+## 3. A7 decisions produced by this program
 
 ### Identity / depth
 
-Retain:
+A7 retained:
 
 > **AI-augmented Python/data/ML engineer developing secure engineering capability.**
 
@@ -59,7 +61,7 @@ Python/software anchor
 + adjacent breadth only when real work demands it
 ```
 
-### Portfolio allocation
+### Portfolio allocation at A7
 
 ```text
 UpgradePilot → sole capability/ownership flagship
@@ -68,47 +70,44 @@ Sentinel     → AI-full ML/data/security research + case study
 AegisLab     → historical
 ```
 
-### Capability boundary
+Current project roles are owned by `portfolio/PROJECT_PORTFOLIO.md`, not this historical plan.
 
-Current bounded UpgradePilot source-flow + representative-test reasoning supports D2 guided understanding.
+### Capability boundary at A7
 
-Still materially missing:
+A7 recognized bounded D2 UpgradePilot source-flow + representative-test reasoning while keeping stronger modification/diagnosis, SQL/relational, and professional Git/review evidence unestablished.
 
-- ownership-bearing source/test modification;
-- current unfamiliar causal diagnosis with reduced assistance;
-- SQL/relational evidence;
-- professional Git/PR/review evidence.
+Current capability conclusions belong to `tracking/CAPABILITY_EVIDENCE_LEDGER.md` and any later Career review.
 
-### Application policy
+### Application policy established by A7
 
-E2 positioning is now the **only current global activation gate**.
+A7 narrowed the global hold: once minimum E2 closes, a narrow calibration application band may activate without waiting for SQL mastery or broad D3 ownership.
 
-Once minimum E2 is closed, a narrow calibration application band is pre-authorized without waiting for SQL mastery or broad D3 ownership.
+Current activation state belongs to `CAREER_STATE.md`.
 
-## 4. Phase B — remaining-cycle execution
+## 4. Historical Phase-B execution model
+
+The following B1–B7 structure records how A7 intended the remaining cycle to be executed. It is retained as provenance, not as a second current plan.
 
 ### B1 — Close minimum E2 positioning
 
-**Status:** NEXT / ACTIVE CAREER RESPONSIBILITY
+Bounded correction originally included:
 
-Complete only the bounded A6 correction:
+- concise GitHub profile README using the approved broad headline;
+- useful descriptions/topics for UpgradePilot, JobHunter, and Sentinel;
+- curated pins;
+- employer-facing UpgradePilot first screen;
+- JobHunter AI-development/contribution boundary;
+- Sentinel original-Ali-era versus later-AI-led boundary;
+- Career kept out of the recruiter's primary path;
+- final claim consistency check.
 
-- [ ] concise GitHub profile README using the approved broad headline;
-- [ ] useful descriptions/topics for UpgradePilot, JobHunter, and Sentinel;
-- [ ] verify/curate pins; broad default UpgradePilot → JobHunter → Sentinel;
-- [ ] employer-facing UpgradePilot first screen;
-- [ ] JobHunter top-level AI-development/contribution boundary;
-- [ ] Sentinel top-level original-Ali-era versus later-AI-led boundary;
-- [ ] keep Career out of the recruiter's primary path and repair stale public-facing dynamic wording where needed;
-- [ ] run claim consistency check and declare E2 closed or name the exact remaining blocker.
+**Historical stop rule:** do not redesign every repository or spend a technical week on positioning.
 
-**Stop rule:** do not redesign every repository or spend a technical week on positioning.
+For current E2 status, use `CAREER_STATE.md` and the bounded E2 implementation package rather than this checklist.
 
 ### B2 — Keep UpgradePilot dominant and convert sophistication into evidence
 
-**Status:** CONTINUOUS / PROJECT-LOCAL
-
-Career-level desired outcomes:
+Career-level desired outcomes were:
 
 - stronger executable/reproducible proof;
 - stronger Ali-understood current source/test evidence;
@@ -121,49 +120,37 @@ Career does not prescribe source files, tests, commands, or project sequence.
 
 ### B3 — Activate narrow calibration applications after E2
 
-**Status:** PRE-AUTHORIZED / WAITING FOR E2
-
-After E2 closure:
+The historical sequence was:
 
 1. run a short activation check for claim consistency and private application materials;
 2. activate a bounded initial calibration band;
 3. track feedback patterns rather than raw application count;
 4. correct role targeting/positioning from repeated evidence.
 
-Initial emphasis:
-
-- junior/mentored Applied AI / AI Application / AI Implementation;
-- Technical Implementation / AI Solutions / automation;
-- Python automation/application;
-- selected junior backend/integration;
-- vacancy-specific QA/testing/systems/implementation when responsibility fit is strong.
-
-Individually gate data-heavy, senior/specialist, unsupervised, or eligibility-infeasible roles.
+The exact current application state is not owned here.
 
 ### B4 — Address role-widening gaps proportionately
 
 #### SQL / relational data
 
-- [ ] prefer proportional existing-project evidence;
-- [ ] if no natural route exists after E2, use the already-authorized **small bounded standalone relational intervention**;
-- [ ] do not create another project or database curriculum;
-- [ ] use evidence to widen data-heavy role bands rather than delay all applications.
+- prefer proportional existing-project evidence;
+- if no natural route exists after E2, use the already-authorized small bounded standalone relational intervention;
+- do not create another project or database curriculum;
+- use evidence to widen data-heavy role bands rather than delay all applications.
 
 #### Git / review
 
-- [ ] seek bounded real branch/PR/review/collaboration evidence when practical;
-- [ ] do not manufacture ceremony.
+- seek bounded real branch/PR/review/collaboration evidence when practical;
+- do not manufacture ceremony.
 
 ### B5 — Monitor AI/market change only when decision-relevant
 
-- [ ] do not chase every model release;
-- [ ] re-open A1/A3 only if new evidence could change role targeting, capability depth, project allocation, or application policy.
+- do not chase every model release;
+- re-open A1/A3 only if new evidence could change role targeting, capability depth, project allocation, or application policy.
 
 ### B6 — September-17 checkpoint
 
-Run only if useful.
-
-Questions:
+Questions defined by A7:
 
 - Is E2 closed?
 - Are narrow applications active?
@@ -187,9 +174,9 @@ Required outputs:
 - workload result;
 - next-cycle direction and UpgradePilot Career role.
 
-## 5. Allocation
+## 5. Allocation established by A7
 
-Green ceiling remains **24 focused hours/week**.
+Green ceiling remained **24 focused hours/week**.
 
 Default personal attention:
 
@@ -200,19 +187,34 @@ Default personal attention:
 
 This is guidance, not a quota or daily schedule.
 
-## 6. Anti-rabbit-hole rules
+## 6. Anti-rabbit-hole rules retained from the program
 
 - no second flagship;
 - no shallow technology collection under the word “hybrid”;
 - no framework re-entry without project pressure;
 - no mass audit/polish of old repositories;
 - no waiting for perfect capability before market feedback;
-- no application activation before E2 claim/presentation hygiene;
 - no SQL-as-universal-gate rule;
 - no project progress → Ali capability shortcut;
 - no Career management of project-local implementation/learning;
 - no broad repeat of A0–A7 unless new evidence could change a decision.
 
-## 7. Exact next action
+## 7. Post-A7 disposition
 
-> **B1 — close the minimum E2 GitHub/project-positioning correction.** UpgradePilot continues independently and remains the dominant technical allocation. Once E2 closes, immediately perform the narrow application-activation check under A7.
+This program is complete. It should be used for historical reasoning and provenance only.
+
+For current work:
+
+```text
+CAREER_STATE.md
+→ sole live Career position and exact next action
+
+CURRENT_CAREER_CYCLE.md
+→ current cycle outcomes / gates / allocation / closure criteria
+
+CURRENT_WEEK.md
+→ optional bounded macro directive
+
+project repository
+→ exact technical continuation
+```
