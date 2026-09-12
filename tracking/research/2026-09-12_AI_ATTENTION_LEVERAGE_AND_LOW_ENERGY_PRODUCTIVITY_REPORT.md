@@ -2,7 +2,7 @@
 
 **Date opened:** 2026-09-12  
 **Owner:** Ali Rajabi / Career  
-**Status:** ACTIVE — P0/P1 complete; P2 attention classification next  
+**Status:** ACTIVE — P0–P4 complete; P5 bounded real-world pilots next  
 **Plan:** `../../plans/2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_ADOPTION_PLAN.md`  
 **Responsibility:** Progressive evidence and decision record for using AI to increase useful progress per unit of Ali attention without weakening engineering ownership, creating fake productivity, or turning AI usage into a quota.
 
@@ -10,11 +10,19 @@
 
 ## 1. Executive state
 
-P0/P1 establish a strong opportunity, but the problem is narrower than "use unused AI capacity."
+P0–P4 establish a strong opportunity, but the problem is narrower than "use unused AI capacity."
 
 The useful target is:
 
 > **Move search, transformation, preparation, bounded research, low-risk synthesis, and reusable learning-material production away from Ali's scarce focused-attention window, while keeping judgment, technical understanding, verification, diagnosis, meaningful modification, Career decisions, and final claims human-owned.**
+
+The strongest current candidates are now:
+
+1. on-demand current-state project re-entry preparation;
+2. post-slice learning-package generation;
+3. low-energy audio + retrieval/transfer use;
+4. bounded background research scouting;
+5. independent challenge/review passes with strict output limits.
 
 The first evidence pass also changes one early idea:
 
@@ -23,6 +31,8 @@ The first evidence pass also changes one early idea:
 - a stored re-entry artifact is justified only when the project itself owns that snapshot or the work is frozen.
 
 The investigation must therefore optimize **attention leverage + freshness + reviewability**, not output volume.
+
+No Skill, automation, new governance layer, or recurring task is admitted yet. P5 must pressure the five pilots through real use first.
 
 ---
 
@@ -172,6 +182,18 @@ what Ali needs to review or decide
 ```
 
 Do not delegate a huge ambiguous task just because an agent can run for hours.
+
+### 6.4 Community/workflow evidence — useful but non-controlling
+
+Recent developer and Notebook/Gemini Notebook community examples repeatedly reinforce several practical patterns:
+
+- pre-generate learning/audio artifacts before the low-energy moment instead of waiting for generation during the moment;
+- pair passive audio with flashcards/quizzes/recall when retention matters;
+- give coding agents ticket-shaped work with explicit goal, scope, acceptance, tests, off-limits areas and expected return package;
+- fresh/independent agent review can be useful, but review burden can become the bottleneck;
+- vague autonomous software tasks perform materially worse than well-scoped tasks.
+
+These are practitioner observations, not formal proof, but they align with current official tool guidance and the P0–P7 ownership model.
 
 ## 7. Public-safety/privacy baseline
 
@@ -336,7 +358,383 @@ Examples currently likely **not worth building**:
 
 ---
 
-## 12. Evidence/source register — P0/P1
+# P2 — Attention classification — COMPLETE
+
+## 12. Classification rule
+
+Classify the **responsibility**, not the tool action.
+
+The same engineering slice can contain more than one class:
+
+```text
+AI gathers evidence / proposes tests                 → REVIEW_LATER
+AI formats a verified note                           → BACKGROUND_SAFE
+Ali evaluates the evidence / chooses the contract   → FOCUS_REQUIRED
+Ali later listens/retrieves from the note            → LOW_ENERGY
+```
+
+Do not call an entire task `BACKGROUND_SAFE` merely because a strong model can complete it.
+
+## 13. Attention-class map
+
+### `FOCUS_REQUIRED`
+
+Keep Ali materially present for:
+
+- consequential product/architecture/responsibility decisions;
+- acceptance criteria and stronger-claim boundaries;
+- interpretation of ambiguous/conflicting evidence;
+- final debugging/root-cause judgment;
+- deciding/accepting meaningful project changes;
+- project proof interpretation when it bears on Ali ownership;
+- final Career strategy/readiness/allocation decisions;
+- final public claims and application positioning;
+- actual interviews, technical exercises and capability demonstrations.
+
+### `REVIEW_LATER`
+
+Strong candidates:
+
+- current-state re-entry/orientation packs;
+- `what changed since I last studied/worked here?` deltas;
+- bounded technical/tool/architecture research scouts;
+- independent audit/challenge passes;
+- candidate test/evaluation/failure-case sets;
+- claim/material consistency audits;
+- 30-second / 2-minute / deep project-explanation drafts;
+- vacancy requirement/responsibility/access-gate extraction;
+- company/role/interview research packs;
+- application/interview feedback classification;
+- JobHunter market-review packet synthesis;
+- source/test/code-flow selection for later study;
+- proposed documentation/governance cleanup.
+
+### `BACKGROUND_SAFE`
+
+Narrow candidates where error consequences remain low and output can be regenerated:
+
+- learning-artifact generation from a clearly bounded already-selected responsibility under the project-local artifact procedure;
+- fast-relearning summaries derived from grounded learning artifacts;
+- Notebook/Gemini Notebook source-pack preparation;
+- conversion/segmentation/formatting of already-selected study material;
+- glossary/term-map extraction from verified material;
+- mechanical link/status/index scans;
+- source collection against an already-fixed research question/source boundary;
+- preparation of retrieval questions from a verified artifact, provided they remain prompts rather than capability scores.
+
+### `LOW_ENERGY`
+
+Optional Ali-involved use:
+
+- project-grounded Audio/Video Overview listening;
+- 3–5 recall questions;
+- one changed-case/transfer question;
+- one concept from current work;
+- one small source/test flow walkthrough;
+- project-story rehearsal;
+- review of a prepared re-entry/research pack;
+- flashcards/quizzes generated from verified project-grounded material.
+
+`LOW_ENERGY` must always permit `REST / STOP` as a valid choice.
+
+## 14. Explicitly rejected/misclassified automation shapes
+
+The following are **not** `BACKGROUND_SAFE` despite being technically automatable:
+
+- autonomous Career decisions;
+- automatic project architecture acceptance;
+- automatic merge/approval or unreviewed meaningful source change;
+- auto-updating capability evidence from repository output;
+- automatic public-claim strengthening;
+- deciding what Ali has mastered from quiz performance alone;
+- copying project live state into Career on every project change;
+- broad unattended research with no question/stop boundary.
+
+---
+
+# P3 — Candidate workflows and Attention-ROI — COMPLETE
+
+## 15. Candidate workflow matrix
+
+| ID | Workflow | Class | AI output | Ali requirement | Main risk | Tentative Attention-ROI |
+|---|---|---|---|---|---|---|
+| W01 | **Current-State Re-entry Pack** | REVIEW_LATER | fresh responsibility/owners/delta/flow/proof/non-proof/defer/3–5 recall questions | skim, correct if needed, then use canonical owners for consequential work | stale/incorrect synthesis if generated from old state | **HIGH** |
+| W02 | **Delta Since Last Meaningful Touchpoint** | REVIEW_LATER | project changes grouped by engineering responsibility rather than commit list | identify/confirm last meaningful touchpoint when needed | difficult touchpoint reconstruction; noisy commit summaries | **HIGH when recoverable** |
+| W03 | **Post-Slice Learning Bundle v2** | BACKGROUND_SAFE + project-local | grounded learning artifact + fast-relearn layer + terms/proof map + retrieval/transfer prompts | later study/answer; project retains technical authority | artifact quality can exceed actual learner ownership | **HIGH** |
+| W04 | **Notebook/Gemini Notebook Audio + Retrieval Pipeline** | BACKGROUND_SAFE transform + LOW_ENERGY use | audio/video/flashcards/quizzes from verified source bundle | listen/retrieve only when useful | passive-consumption illusion; generated inaccuracies | **HIGH** |
+| W05 | **Five-Minute Relearn Card** | BACKGROUND_SAFE / LOW_ENERGY | one-screen mental model, flow, 3 important distinctions, one proof/non-proof, 3 questions | quick use | oversimplification | **HIGH** |
+| W06 | **Bounded Research Scout** | REVIEW_LATER | current sources, evidence, disagreements, alternatives, practical implications, explicit unknowns | judge decision/relevance | source quality / false synthesis confidence | **HIGH** |
+| W07 | **Independent Challenge Pass** | REVIEW_LATER | maximum ~3 material findings + evidence + severity + no-change conclusions | inspect/accept/reject findings | second-agent noise/review overload | **HIGH if output-capped** |
+| W08 | **Candidate Test/Evaluation Pack** | REVIEW_LATER | negative/changed/adversarial cases + what each would discriminate | project/Ali selects admitted cases | AI-generated tests can encode wrong oracle | **MEDIUM-HIGH** |
+| W09 | **Representative Source/Test Study Selector** | REVIEW_LATER | smallest files/flow/snippets/tests worth learning now + deferred detail | follow selected material and correct route if needed | AI may select what is easy rather than what is central | **MEDIUM-HIGH** |
+| W10 | **Mechanical Repository Hygiene Scan** | BACKGROUND_SAFE → review if findings | broken links, stale status markers, duplicate owner pointers, lifecycle anomalies | review only material repair candidates | false positives / ceremony | **MEDIUM** |
+| W11 | **Claim Consistency Packet** | REVIEW_LATER | compare proposed/public wording with canonical evidence/assistance boundaries | final claim decision | source staleness; privacy if private material included | **HIGH at claim gates** |
+| W12 | **Project Explanation Pack** | REVIEW_LATER | 30s / 2m / deep explanation + likely follow-ups + evidence anchors | correct/own final explanation | polished wording can outrun actual understanding | **MEDIUM-HIGH** |
+| W13 | **Vacancy Triage Packet** | REVIEW_LATER | responsibility bundle, hard gates, core vs employer-specific requirements, Ali evidence/gaps | apply/skip/stretch decision | private data; job text/model inference blur | **HIGH after application activation** |
+| W14 | **Company/Interview Prep Packet** | REVIEW_LATER | current company/role research + likely topics + relevant project evidence | real interview preparation/answers | stale company info; over-preparation | **HIGH after interviews start** |
+| W15 | **Application Feedback Classifier** | REVIEW_LATER | access-gate vs positioning vs capability vs low-information outcome | decide Career implication | overinterpreting sparse rejection data | **HIGH once sample exists** |
+| W16 | **JobHunter Market Review Packet** | REVIEW_LATER | compact evidence/sample/pattern/counterevidence/quality/Ali-gap packet | Career review only at trigger | model/taxonomy bias hidden by aggregate | **HIGH periodically** |
+| W17 | **AI/Agent Capability Change Scout** | REVIEW_LATER, event-driven only | bounded research on a named strategic assumption | decide whether checkpoint/review is warranted | doom/news noise and strategy churn | **MEDIUM only on trigger** |
+| W18 | **GitHub Event Review Packet** | REVIEW_LATER / future automation | when real PR/CI event occurs, summarize changed scope/evidence/review points | normal project review | event noise/context-access limits | **MEDIUM; defer until workflow exists** |
+| W19 | **Background CI/Issue Triage Agent** | project-local future | classify routine failures/issues and prepare candidate diagnosis/PR | project acceptance/review | could steal debugging learning or create review load | **DEFER** |
+| W20 | **Daily Generic AI/Career/Learning Digest** | recurring automation | generic news/summary | recurring attention | notification noise, weak decision value | **LOW / REJECT** |
+| W21 | **Continuous Governance Monitor** | recurring automation | frequent repository governance alerts | repeated review | creates ceremony around low-rate change | **LOW / REJECT** |
+| W22 | **Automatic Career-State Updater** | autonomous decision | mutate live Career state from project/market changes | none | authority violation / false conclusions | **REJECT** |
+| W23 | **Automatic Project-State Mirror in Career** | background sync | copied project progress/TODO | none | staleness + duplicate owner | **REJECT** |
+| W24 | **Unused-Token Busywork Generator** | background | arbitrary docs/code/research to consume allowance | later review | fake progress and attention debt | **REJECT** |
+
+## 16. Design pattern emerging across high-ROI workflows
+
+The strongest candidates share one contract:
+
+```text
+TRIGGER
+real friction / real future decision / real learning need
+
+INPUT BOUNDARY
+canonical owners / exact evidence / selected source set
+
+AI WORK
+search / transform / compare / prepare / challenge
+
+RETURN PACKAGE
+small, source-grounded, uncertainty-visible, reviewable
+
+ALI / OWNER
+understand / judge / decide / accept / transfer
+
+STOP
+no extra output merely because model capacity remains
+```
+
+This may eventually deserve a reusable **delegation/review contract**, but P5 must prove that the common shape is genuinely useful across several pilots before any Career Skill/governance rule is created.
+
+## 17. Tool/adoption implications before pilots
+
+### Ordinary chat / one-off agent work is enough when:
+
+- trigger is manual and irregular;
+- context is already present;
+- result is consumed immediately or once;
+- no repeatable cross-session procedure is needed.
+
+### Work / Deep Research is promising when:
+
+- task is multi-step/source-heavy;
+- user attention during collection/search is low-value;
+- a bounded finished report/packet is desired;
+- source provenance matters.
+
+### Codex/project coding agents are promising when:
+
+- repository/source/tests are the real evidence surface;
+- the returned artifact can be diff/test/evidence reviewed;
+- project governance, not Career, authorizes any mutation.
+
+### Scheduled/event automation is promising only when:
+
+- a meaningful external condition/time trigger naturally exists;
+- repeated manual checking is otherwise necessary;
+- the output can be delivered in a bounded review packet;
+- required project/source context is actually accessible to the task.
+
+### Gemini Notebook is promising when:
+
+- sources are already curated/grounded;
+- low-energy or alternate-format study has value;
+- active retrieval/clarification can supplement passive overview consumption.
+
+---
+
+# P4 — Pilot selection — COMPLETE
+
+## 18. Selected five pilots
+
+The pilot set intentionally covers five different leverage mechanisms rather than five variants of summarization.
+
+### PILOT-1 — On-demand Current-State Re-entry Pack
+
+**Why selected:** highest recurring friction + strong external evidence that task resumption has real cognitive cost.
+
+**Real trigger:** Ali returns to UpgradePilot after a break or after meaningful parallel project progress.
+
+**Input:** current UpgradePilot root governance, `MEMORY.md`, selected current plan/working-memory, only source/tests/deltas necessary to orient.
+
+**Output cap:** concise pack containing:
+
+```text
+current responsibility
+what materially changed
+exact owners
+one current engineering flow
+current proof / non-proof
+important concepts to recall
+what not to load/learn now
+3–5 ownership/retrieval questions
+```
+
+**No durable Career file.** Generate on demand from current project truth.
+
+**Success signal:** Ali can reach useful project learning/work with materially less orientation effort while still understanding the real current responsibility.
+
+**Reject/modify if:** the pack becomes another long summary, misses canonical state, or causes Ali to skip material owner/source reading.
+
+### PILOT-2 — Post-Slice Learning Bundle v2
+
+**Why selected:** builds on an existing successful UpgradePilot workflow instead of inventing a new learning system.
+
+**Project boundary:** executed project-locally through UpgradePilot's existing learning-artifact procedure when a real completed/meaningful responsibility deserves a durable learning artifact.
+
+**Candidate bundle:** 
+
+1. normal grounded learning artifact;
+2. compact fast-relearning route/card;
+3. Notebook/Gemini Notebook-ready source selection/brief;
+4. 3–5 retrieval/transfer questions.
+
+Do not automatically create all four for every slice. The pilot should test whether the bundle is useful for one genuinely important responsibility.
+
+**Success signal:** Ali actually reuses at least part of the package and can reconnect/explain/transfer more easily than by rereading the source/history alone.
+
+**Reject/modify if:** derived artifacts become redundant, too long, or require more review/organization than they save.
+
+### PILOT-3 — Low-Energy Audio + Retrieval Session
+
+**Why selected:** directly targets otherwise-unused low-energy periods while protecting the distinction between exposure and ownership.
+
+**Input:** verified project-grounded learning material from PILOT-2 or another already-grounded artifact.
+
+**Use:** audio/video overview, followed only when energy permits by one of:
+
+- 3–5 recall questions;
+- one changed-case question;
+- one "what does this test prove/not prove?" prompt;
+- one short conversational recap.
+
+**Success signal:** useful reconnection/retention with very low activation cost and no pressure to convert rest into work.
+
+**Reject/modify if:** Ali mostly consumes content passively without useful later recall, or the workflow itself becomes a chore.
+
+### PILOT-4 — Bounded Background Research Scout
+
+**Why selected:** source discovery/comparison is recurrent and current AI research tools are especially strong here.
+
+**Delegation contract:** 
+
+```text
+one exact question
++ freshness/source requirements
++ what evidence could change the decision
++ alternatives/counterevidence
++ explicit non-goals
+→ source-backed compact report
+→ decision remains open for Ali/project/Career
+```
+
+**Return package:** answer/evidence, disagreement, limits, practical implications, and the 1–3 questions Ali still needs to decide.
+
+**Success signal:** materially reduces manual source-search/filtering time while leaving the actual engineering/Career decision understandable and owned.
+
+**Reject/modify if:** report is broad, generic, citation-heavy but decision-light, or expensive to verify.
+
+### PILOT-5 — Independent Challenge Pass
+
+**Why selected:** AI-heavy engineering benefits from a fresh skeptical pass, but review overload must be tested explicitly.
+
+**Input:** one finished/near-finished real artifact or change plus the controlling responsibility/evidence boundary.
+
+**Challenge target:** assumptions, proof gaps, negative/changed cases, stale owners, overengineering, security/trust, contradictions, claim overreach.
+
+**Output cap:** normally no more than **3 material findings**, each with:
+
+```text
+claim/finding
+why it matters
+evidence/source
+severity/confidence
+smallest discriminating check or repair direction
+```
+
+Also explicitly allow:
+
+```text
+NO MATERIAL FINDING
+```
+
+**Success signal:** either finds a useful issue cheaply or increases confidence with low review burden.
+
+**Reject/modify if:** it produces long speculative critique, duplicates the primary agent, or requires a second full work session to review.
+
+## 19. Deferred pilots until their real trigger exists
+
+Do not pilot yet:
+
+- vacancy triage;
+- company/interview preparation;
+- application feedback classification;
+- JobHunter Career-review packet automation;
+- GitHub PR/event-trigger automation;
+- CI/issue background triage.
+
+These remain strong candidates, but application/PR/issue triggers should exist first.
+
+## 20. Rejected/deferred machinery at P4
+
+No current evidence justifies:
+
+- a new Career Skill yet;
+- a new Career governance file yet;
+- an AI-usage dashboard;
+- a token/usage quota;
+- continuous AI-news monitoring;
+- continuous repository governance monitoring;
+- automatic project/Career live-state synchronization;
+- new software infrastructure for this program.
+
+---
+
+# P5 — Real-world pilots — READY / PARTIALLY STARTED
+
+## 21. Pilot evidence protocol
+
+For each selected pilot, record only:
+
+```text
+real trigger/input
+Ali setup burden: low / medium / high
+AI work performed
+Ali review/use burden: low / medium / high
+material errors/noise
+actual use / not used
+attention/re-entry/learning benefit: low / medium / high
+ownership effect: strengthened / neutral / weakened
+ADOPT / MODIFY / REJECT / NEED MORE EVIDENCE
+```
+
+No minute-by-minute timer or productivity dashboard is required.
+
+## 22. PILOT-4 provisional evidence from this investigation
+
+The current P0–P4 investigation itself produced an early **research-scout-shaped** trial:
+
+- exact question: what current AI capabilities and external evidence support unattended/review-later work, low-energy learning, re-entry preparation and bounded review?
+- AI performed current official-source discovery across OpenAI, GitHub, Google plus learning/attention research and limited community-practice sampling;
+- the resulting evidence materially changed the design:
+  - re-entry moved toward on-demand freshness rather than stored duplicate state;
+  - passive audio gained a retrieval/transfer companion;
+  - review burden became a first-class workflow cost;
+  - well-scoped ticket/delegation contracts became a candidate cross-workflow pattern;
+  - several tempting continuous automations were rejected before implementation.
+
+**Provisional result:** positive evidence for the research-scout pattern.
+
+**Still unproven:** how much Ali review effort this saved relative to Ali performing the research himself, and whether the preferred compact return format is small enough in ordinary use.
+
+Disposition: `CONTINUE PILOT-4 with one later real technical/Career research question`.
+
+---
+
+## 23. Evidence/source register — through P4
 
 Career/internal owners consulted:
 
@@ -348,52 +746,56 @@ Career/internal owners consulted:
 - UpgradePilot `OPERATING_GUIDE.md`
 - UpgradePilot `.agents/skills/upgradepilot-learning-artifact/SKILL.md`
 
-External sources consulted:
+External official/product sources consulted:
 
-- OpenAI Help Center — **Scheduled tasks in ChatGPT** (current September 2026 help documentation)
+- OpenAI Help Center — **Scheduled tasks in ChatGPT** (current September 2026 documentation)
 - OpenAI Help Center — **Deep research in ChatGPT**
 - OpenAI Help Center — **ChatGPT Work and Codex**
 - OpenAI — **ChatGPT is now a partner for your most ambitious work** (2026-07-09)
-- OpenAI — **Codex** product page and current Codex plan/help material
-- GitHub Docs — **Best practices for using GitHub Copilot to work on tasks** and current agent documentation
-- Google — current Gemini Notebook / NotebookLM Audio Overview and learning-feature announcements
+- OpenAI — current **Codex** product/help material
+- GitHub Docs — current coding/cloud agent documentation and **Best practices for using GitHub Copilot to work on tasks**
+- Google — current Gemini Notebook / NotebookLM Audio Overview, active-learning and research capability announcements
+
+External research sources consulted:
+
 - McDermott (2021), *Practicing Retrieval Facilitates Learning*, Annual Review of Psychology / PubMed
 - Binks (2018), *Testing enhances learning: A review of the literature* / PubMed
-- APA task-switching/interruption literature and UC Irvine interruption/resumption work
-- recent 2026 exploratory research on human oversight/review burden in agentic software engineering, used only as secondary design pressure rather than controlling evidence
+- Rowland (2014), meta-analytic testing-effect evidence / PubMed
+- APA task-switching literature
+- UC Irvine interruption/resumption research and summaries
+- NIST 2025–2026 agent/tool/monitoring publications as supporting safety/oversight context
+- recent 2026 exploratory research on human oversight/review burden and delegation reviewability in agentic software engineering, treated as secondary design pressure
+
+Community evidence sampled cautiously:
+
+- recent r/NotebookLM workflows around pre-generating audio and pairing overviews with flashcards/quizzes;
+- recent AI-coding community workflows emphasizing ticket-shaped delegation, acceptance criteria and independent review;
+- community counterevidence warning that code-review burden can erase apparent autonomous-agent productivity.
 
 ---
 
-## 13. P0/P1 conclusions
+## 24. Current conclusion and next gate
 
-### Confirmed
+P0–P4 are complete.
 
-- the opportunity is real and compatible with current Career strategy;
-- this is an **attention-allocation optimization**, not a new workstream allocation;
-- re-entry/orientation, learning transformation, bounded research, independent challenge and future application preparation are the strongest recurring opportunity families so far;
-- low-energy learning should combine passive formats with tiny retrieval/transfer opportunities when useful;
-- review burden is a first-class cost and can make autonomous work negative-ROI;
-- current project/Career authority boundaries already provide enough structure to prevent unsafe delegation if they are respected.
+The program has enough evidence to **stop broad discovery and begin real pilots**. More generic brainstorming would now add less value than observing actual use.
 
-### Open for P2/P3
-
-- exact attention class for each candidate subtask;
-- which re-entry packet should be on-demand vs session-end generated;
-- how much independent review is useful before challenge output becomes noise;
-- whether learning/audio packages should be one combined workflow or separate optional transforms;
-- which tasks deserve current-product features such as Work/Scheduled/Codex versus ordinary prompts;
-- which 3–5 pilots provide the best coverage with minimal setup.
-
----
-
-## 14. Next phase
-
-Proceed to:
+Next route:
 
 ```text
-P2 — attention classification
-→ P3 — concrete workflow candidates + Attention-ROI
-→ P4 — select only the smallest 3–5 real pilots
+P5
+→ run PILOT-1 at the next real UpgradePilot re-entry
+→ run PILOT-2 after one meaningful project responsibility deserves a learning artifact
+→ use PILOT-3 on that grounded learning material during a genuine low-energy period
+→ continue PILOT-4 on the next bounded real research question
+→ run PILOT-5 against one real completed/near-completed artifact/change
+→ record actual use/review burden and disposition
+
+then
+P6 low-energy menu
+→ P7 persistence/Skill/automation decision
+→ P8 minimum Career integration
+→ P9 final operating decision
 ```
 
-Do not create new Skills, governance, automations or recurring tasks yet.
+Do **not** create Skills/governance/automation before P5 produces enough real evidence to distinguish repeated high-value procedure from attractive theory.
