@@ -233,6 +233,14 @@
       "allowed_secondary_skills": [],
       "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro"],
       "reason": "This explicitly asks for personal planning while preserving the project-owned technical route."
+    },
+    {
+      "id": "ROUTE-029",
+      "query": "Audit the Career repository's governance, strategy, plans, portfolio, capability model, and market rules for stale or conflicting canonical content. I am asking about the repository design itself, not how a previous assistant executed a task.",
+      "primary_skill": null,
+      "allowed_secondary_skills": [],
+      "must_not_use": ["career-capability-assessment", "career-market-calibration", "career-claim-audit", "career-review", "career-agent-retro", "career-personal-work-planning"],
+      "reason": "This is a substantive audit of canonical Career content. Use the relevant controlling owners directly; career-agent-retro is reserved for completed agent-execution retrospectives."
     }
   ]
 }
