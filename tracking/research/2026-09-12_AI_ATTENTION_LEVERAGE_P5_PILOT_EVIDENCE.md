@@ -2,332 +2,328 @@
 
 **Date opened:** 2026-09-12  
 **Owner:** Ali Rajabi / Career  
-**Status:** ACTIVE supporting evidence — reconcile into the main report at P5 closure  
+**Status:** ACTIVE supporting evidence — PILOT-1/2/4/5 have real evidence; PILOT-3 still awaits genuine low-energy use  
 **Parent report:** `2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_REPORT.md`  
 **Purpose:** Preserve real P5 pilot evidence without creating a second live Career-state owner.
 
 ---
 
-## PILOT-1 — On-demand Current-State Re-entry Pack
+## 1. Current pilot ledger
 
-### Real trigger/input
+| Pilot | Current state | Provisional disposition |
+|---|---|---|
+| PILOT-1 — Current-State Re-entry Pack | one real current UpgradePilot generation; actual repeated Ali use still pending | `LIKELY ADOPT SHAPE` |
+| PILOT-2 — Post-Slice Learning Bundle v2 | one real project-local artifact generated from completed CI correlation slice | `PROVISIONAL ADOPT / REUSE STILL TO TEST` |
+| PILOT-3 — Low-Energy Audio + Retrieval | grounded source is now prepared; genuine low-energy use still pending | `READY / NOT YET TESTED` |
+| PILOT-4 — Bounded Research Scout | three real research-scout uses now materially changed design | `PROVISIONAL ADOPT` |
+| PILOT-5 — Independent Challenge Pass | two materially different capped passes produced useful bounded corrections | `PROVISIONAL ADOPT WITH STRICT OUTPUT CAP` |
 
-Use the current UpgradePilot state after the CI static↔runtime correlation slice reached E-phase orientation.
+P5 is not yet fully closed because PILOT-3 needs genuine use and PILOT-1/PILOT-2 still benefit from later real reuse evidence. Enough evidence exists, however, to refine the P7 persistence decision without manufacturing more pilots.
 
-Evidence consulted:
+---
+
+## 2. PILOT-1 — On-demand Current-State Re-entry Pack
+
+### Real trigger
+
+Use current UpgradePilot state after the CI static↔runtime correlation bridge reached E-phase orientation.
+
+Evidence used:
 
 - UpgradePilot `MEMORY.md`;
 - active `working-memory/2026-09-12_ci-static-runtime-correlation-bridge.md`;
-- `src/upgradepilot/ci/workflow_runtime_correlation.py`;
-- `tests/test_workflow_runtime_correlation.py`.
+- representative correlation source/tests.
 
-### Ali setup burden
+### Result
 
-`LOW`
-
-The trigger can be expressed as simply as:
-
-> Re-orient me to current UpgradePilot work from the canonical current owners; keep it compact and do not take over project planning.
-
-### AI work performed
-
-Recovered current responsibility, current implementation/proof, one representative source/test flow, stronger-claim exclusions, current E questions, and deferred scope.
-
-### Compact re-entry packet produced
-
-**Current responsibility**
-
-UpgradePilot is no longer building the first CI static↔runtime bridge. A/B/C/D are complete. The current responsibility is **E — decide which remaining evidence gap actually matters next before authorizing another implementation slice**.
-
-**What materially changed**
-
-- added deterministic static↔runtime workflow/job/step correlation for a deliberately bounded ordinary named-workflow class;
-- introduced the stronger dependency-CI state `supported_runtime_correlated`;
-- preserved `supported_not_correlated` as a conservative fallback when static consumption + successful CI exist but safe step correlation cannot be established;
-- full deterministic suite is green at **549 tests**;
-- maintainer-action synthesis remains abstention-only; no targeted-check/merge/investigate/block/defer permission was added.
-
-**One current engineering flow**
+The useful packet stayed compact:
 
 ```text
-exact static workflow definition
-+
-exact workflow run / exact-attempt jobs / runtime step summaries
-↓
-workflow_runtime_correlation
-↓
-static job/step identity ↔ runtime job/step identity
-↓
-dependency-CI interpretation
-↓
-supported_runtime_correlated OR conservative weaker/unresolved state
+current responsibility
+→ what materially changed, only when the prior baseline is known
+→ one current engineering flow
+→ proof / non-proof
+→ what not to broaden into
+→ 3–5 ownership/retrieval questions
 ```
 
-The correlation layer establishes **identity/relationship**, not dependency installation, exact version, wheel selection, compatibility, proposal safety, or maintainer action.
+The generated packet correctly preserved:
 
-**Representative safety boundary**
+- A/B/C/D complete and E current;
+- `supported_runtime_correlated` as stronger than `supported_not_correlated` without overstating version/wheel/compatibility proof;
+- no new maintainer-action permission;
+- explicit deferral of matrix/reusable/log parsing/wheel semantics until a decision-relevant proposition requires them.
 
-Positive correlation currently requires literal unique names, exact static/runtime job-name-set agreement, ordered unique runtime step numbers, one runtime match per static step, and preserved step order. Matrix/strategy, reusable workflows, dynamic/missing names, ambiguity, or mismatched sets stay unresolved rather than guessed.
+### Cost / benefit
 
-**Proof / non-proof**
+- Ali setup burden: `LOW`
+- expected review burden: `LOW`
+- material generation errors: none found
+- benefit: `PROVISIONALLY HIGH`
+- ownership effect: `NEUTRAL-TO-STRENGTHENING`
 
-Proven:
+### Important correction
 
-- bounded static job↔runtime job correlation;
-- bounded static user-step↔runtime-step correlation;
-- stronger runtime-correlated dependency-CI classification;
-- focused/nearest/full deterministic regressions green.
-
-Not proven:
-
-- exact installed dependency version;
-- selected/downloaded wheel;
-- wheel compatibility;
-- behavioral compatibility;
-- complete CI coverage;
-- proposal safety;
-- any non-abstention maintainer action.
-
-**What not to broaden into now**
-
-Do not automatically add:
-
-- matrix/reusable/dynamic-name support;
-- job-log parsing;
-- exact wheel/version semantics;
-- targeted-check permission;
-- other maintainer actions;
-- CLI/report redesign.
-
-E must first identify which missing proposition is actually decision-relevant.
-
-**Four ownership/retrieval questions**
-
-1. Why is `supported_runtime_correlated` stronger than `supported_not_correlated`, and what still remains unproven?
-2. Why can a matrix workflow make the *correlation layer* unresolved without forcing the whole dependency-CI result to lose already-earned static/support evidence?
-3. Why are display names acceptable matching anchors only together with the surrounding uniqueness/set/order constraints?
-4. Before requesting job logs or broader workflow support, what exact missing proposition would those new data/capabilities need to establish?
-
-### Ali review/use burden
-
-Expected `LOW` for orientation; actual user-use benefit still needs Ali's real use/feedback in a later UpgradePilot return.
-
-### Material errors/noise observed
-
-None found during generation. The packet remained consistent with the canonical current state and representative source/test evidence.
-
-### Attention/re-entry benefit
-
-`PROVISIONALLY HIGH`
-
-The packet compresses several large owners/source/test surfaces into one current responsibility and preserves exact links back to canonical truth without storing another live-state copy.
-
-### Ownership effect
-
-`NEUTRAL-TO-STRENGTHENING`
-
-It does not answer E for Ali. It prepares the current model and questions Ali must still reason through.
+If Ali's last meaningful touchpoint cannot be established confidently, do **not** invent a delta narrative. Generate a current-state-only pack and state that the historical delta horizon is unknown.
 
 ### Disposition
 
-`CONTINUE / LIKELY ADOPT SHAPE`
-
-Important correction:
-
-> If the last meaningful touchpoint cannot be established confidently, do **not** invent a "what changed since last time" delta. Fall back to a **current-state-only re-entry pack** and say the delta horizon is unknown.
+`LIKELY ADOPT SHAPE`; repeated actual use should confirm whether a reusable prompt/procedure is enough or project-local Skill support adds value.
 
 ---
 
-## PILOT-4 — Bounded Background Research Scout, second real trial
+## 3. PILOT-2 — Post-Slice Learning Bundle v2
 
-### Exact question
+### Natural trigger
 
-What evidence supports a compact delegation/return-package contract for unattended or review-later AI work, and what should it *not* claim?
+The completed UpgradePilot CI static↔runtime correlation bridge is a genuine meaningful engineering slice with:
 
-### Evidence inspected
+- a new cross-source identity mechanism;
+- bounded proof;
+- important failure/unresolved paths;
+- a corrected state distinction;
+- current relevance to E-phase reasoning.
 
-Current official guidance and research, including:
+This is therefore a legitimate learning-artifact trigger rather than synthetic work created for the pilot.
 
-- GitHub Copilot coding-agent best practices;
-- GitHub Copilot agent review guidance;
-- OpenAI's 2026 Codex safety/operating-boundary guidance;
-- Schmalbach (2026), *Software Delegation Contracts: Measuring Reviewability in AI Coding-Agent Work*.
+### Project-local procedure used
 
-### Findings
+UpgradePilot's existing:
 
-1. **Well-scoped task definitions matter.** GitHub explicitly recommends a clear problem, complete acceptance criteria, and enough repository/change scope to make the task reviewable.
-2. **Research/plan before mutation is often useful.** Current cloud-agent guidance supports repository research and planning before opening a PR or committing to a change.
-3. **Agent output still needs normal review.** GitHub states agent PRs/reviews can be wrong and should receive ordinary human review.
-4. **Explicit delegation contracts mainly improve reviewability, not necessarily correctness.** The 2026 controlled pilot found evidence sufficiency/reviewer clarity improved under explicit return-package requirements while objective task correctness did not materially improve; this came with additional token/wall-clock cost.
-5. **Risk/authority boundaries should be explicit.** OpenAI's Codex deployment guidance emphasizes bounded access, explicit higher-risk approvals, and auditability/telemetry.
+` .agents/skills/upgradepilot-learning-artifact/SKILL.md `
 
-### Practical implication for this program
+with `learning/README.md` as the artifact owner.
 
-A repeatable `REVIEW_LATER` delegation contract should normally recover only:
+### Artifact produced
 
-```text
-TASK / QUESTION
-→ exact responsibility and desired output
+`motafegh/UpgradePilot`:
 
-INPUT / AUTHORITY BOUNDARY
-→ what sources/context the AI may rely on
+`learning/2026-09-12-ci-static-runtime-correlation-bridge.md`
 
-ACCEPTANCE / STOP CONDITION
-→ what would make the returned work useful and where to stop
+Creation commit:
 
-RETURN PACKAGE
-→ findings/output
-→ evidence/source anchors
-→ material limitations/unknowns
-→ changed files/actions when applicable
-→ what Ali/owner must review or decide
-```
+`83d5d47b13f20b9b168a040861319de58cf56e63`
 
-Do **not** require this ceremony for tiny obvious background-safe transformations. Its value is highest when reviewability is otherwise the bottleneck.
+Index commit:
 
-### Ali setup burden
+`8186a58e793508762583755fbbfa8e2918c46890`
 
-`LOW`
+The note is pinned to repository horizon:
 
-### Ali review/use burden
+`e8acb761b347a1bdc0dcc9ec4207221c4058b5e2`
 
-`LOW-MEDIUM`
+### Bundle design actually tested
 
-The result is compact enough to guide workflow design without requiring Ali to read the full source set.
+The pilot intentionally produced **one canonical grounded learning note**, not several files.
 
-### Material errors/noise
+The same note contains:
 
-No material contradiction found across the selected sources. The research study is treated as supporting evidence rather than universal proof.
+- central mental model;
+- real static→runtime correlation flow;
+- job and step safety boundaries;
+- representative example;
+- `supported_not_correlated` vs `supported_runtime_correlated`;
+- tests and explicit non-proof;
+- current limitations and upstream-evidence lesson;
+- depth calibration;
+- fast-relearning route;
+- small Notebook/Gemini source-grounding suggestion;
+- five retrieval/transfer questions.
 
-### Attention benefit
+This validates the design correction from the first challenge pass:
 
-`HIGH`
+> persist one grounded artifact; derive audio/relearn/quiz formats on demand rather than creating a permanent folder of duplicates.
 
-The scout converts a multi-source search into one bounded design conclusion while leaving the adoption decision open.
+### Cost / benefit so far
 
-### Ownership effect
+- Ali setup burden: `VERY LOW` once the completed slice was selected
+- AI authoring burden: background-safe
+- Ali review/use burden: not yet fully observed
+- artifact sprawl: avoided
+- ownership effect: `NEUTRAL-TO-STRENGTHENING` if later used for retrieval/transfer rather than treated as mastery proof
 
-`STRENGTHENING`
+### Current limitation
 
-The output clarifies what Ali still owns: acceptance, review, and consequential decision.
+The artifact has been generated, but the strongest success condition still needs later real use:
+
+- does Ali actually return to it?
+- does the fast-relearning route reduce rereading cost?
+- does the source-grounded transform help recall/transfer?
 
 ### Disposition
 
-`PROVISIONAL ADOPT`
+`PROVISIONAL ADOPT / REUSE STILL TO TEST`.
 
-Likely future persistence: reusable cross-workflow delegation/return-package procedure, but only after the remaining pilots show the same contract generalizes beyond research.
-
----
-
-## PILOT-5 — Independent Challenge Pass on the AI-leverage program
-
-### Real artifact challenged
-
-- `plans/2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_ADOPTION_PLAN.md`;
-- `tracking/research/2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_REPORT.md` through P4.
-
-### Challenge boundary
-
-Return at most three material findings. Prefer `NO MATERIAL FINDING` over speculative critique.
-
-### Finding 1 — Re-entry delta must fail closed when the prior touchpoint is uncertain
-
-**Severity:** Medium  
-**Confidence:** High
-
-A "delta since Ali last worked here" is only trustworthy when the last meaningful touchpoint can be recovered from conversation/project evidence. Otherwise the AI can create a plausible but false change narrative.
-
-**Smallest repair direction:** make current-state orientation the default invariant; include a delta only when its baseline is explicit/recoverable.
-
-### Finding 2 — Derived learning formats can recreate artifact/maintenance bloat
-
-**Severity:** Medium  
-**Confidence:** High
-
-The proposed learning bundle can easily become:
-
-```text
-canonical learning artifact
-+ fast-relearn file
-+ Notebook source pack
-+ audio
-+ video
-+ flashcards
-+ quiz
-+ term map
-```
-
-That would violate the same proportionality principles this program is trying to enforce.
-
-**Smallest repair direction:** preserve one grounded canonical learning artifact where project-local governance justifies it; generate derivative formats **on demand** and do not persist them all by default.
-
-### Finding 3 — Durable Career governance/Skills must be tool-agnostic
-
-**Severity:** Medium  
-**Confidence:** High
-
-The research report necessarily discusses current products such as ChatGPT Work, Codex, GitHub Copilot and Gemini Notebook. These product capabilities change quickly.
-
-**Smallest repair direction:** if a durable Skill/governance rule is later adopted, define stable capability classes such as:
-
-```text
-research agent
-repository/coding agent
-scheduled/conditional automation
-source-grounded learning transformer
-```
-
-and keep named-product selection in replaceable tool guidance or current workflow examples, not the durable Career contract.
-
-### No-change conclusions from the challenge pass
-
-No material defect found in:
-
-- the four attention classes;
-- the prohibition on capability inference from AI output;
-- the rule that rest remains valid;
-- the rejection of token-utilization quotas;
-- the Career↔project authority boundary;
-- the requirement to test workflows before creating Skills/governance.
-
-### Ali setup burden
-
-`VERY LOW`
-
-### Ali review/use burden
-
-`LOW`
-
-Three findings are bounded and directly actionable.
-
-### Attention/quality benefit
-
-`MEDIUM-HIGH`
-
-The challenge pass found three issues worth carrying into P6/P7 without opening a second broad audit.
-
-### Ownership effect
-
-`STRENGTHENING`
-
-The pass supplies pressure/counterevidence; Ali/Career still decides adoption.
-
-### Disposition
-
-`PROVISIONAL ADOPT WITH STRICT OUTPUT CAP`
-
-A future challenge procedure should default to at most three material findings and explicitly support `NO MATERIAL FINDING`.
+This result strengthens the case for a **small enhancement to the existing UpgradePilot learning-artifact Skill**, not a new Career learning Skill.
 
 ---
 
-## P5 state after first execution batch
+## 4. PILOT-3 — Low-Energy Audio + Retrieval
 
-| Pilot | Current evidence |
-|---|---|
-| PILOT-1 Re-entry pack | generated successfully from live UpgradePilot truth; actual Ali-use benefit still needs later confirmation |
-| PILOT-2 Learning bundle v2 | waiting for a natural project-local learning-artifact trigger |
-| PILOT-3 Low-energy audio + retrieval | waiting for grounded source material + a genuine low-energy use period |
-| PILOT-4 Research scout | two positive real trials; provisional adopt |
-| PILOT-5 Independent challenge | one positive real trial with three useful findings; provisional adopt with output cap |
+PILOT-2 now supplies a legitimate grounded source set.
 
-Do not call P5 complete yet. PILOT-2/PILOT-3 require natural real use, and PILOT-1 still benefits from Ali's actual re-entry experience before final persistence decisions.
+Recommended source set for the first real low-energy trial:
+
+1. `learning/2026-09-12-ci-static-runtime-correlation-bridge.md`;
+2. pinned correlation source at the artifact's snapshot horizon;
+3. pinned representative correlation tests;
+4. optional pinned dated working memory if engineering progression is useful.
+
+Preferred use:
+
+```text
+source-grounded audio / overview
+→ optional 3–5 retrieval questions or one transfer question
+→ stop
+```
+
+Do not call this pilot successful until Ali actually uses it during a genuine low-energy period. Rest remains a valid alternative.
+
+Disposition: `READY / NOT YET TESTED`.
+
+---
+
+## 5. PILOT-4 — Bounded Background Research Scout
+
+Three real research-scout shapes have now been used.
+
+### Trial A — broad capability/evidence scan
+
+Question:
+
+> Which current AI capabilities and external evidence support unattended/review-later work, low-energy learning, re-entry preparation and bounded review?
+
+Material effects:
+
+- re-entry shifted from stored snapshot to on-demand freshness;
+- passive audio gained an optional retrieval/transfer companion;
+- review burden became a first-class cost;
+- continuous low-value automations were rejected.
+
+### Trial B — delegation/return-package contract
+
+Question:
+
+> What evidence supports a compact delegation/return-package contract for review-later AI work, and what should it not claim?
+
+Material effects:
+
+- exact task/question + source/authority boundary + acceptance/stop + compact return package became the common pattern;
+- human review/decision ownership remained explicit;
+- explicit delegation contracts were treated as reviewability aids, not correctness guarantees.
+
+### Trial C — Skill vs lighter persistence
+
+Question:
+
+> Does the emerging repeated delegation/review procedure deserve a Skill, or should it remain lighter reusable guidance/templates?
+
+Current external guidance converges on a useful distinction:
+
+- always-on/custom instructions should remain short and broadly applicable;
+- reusable prompts/templates suit bounded task-specific interactions;
+- Skills are appropriate for specific, repeatable, more detailed workflows that should load only when relevant;
+- progressive disclosure/on-demand loading is a core reason to use Skills rather than putting all procedure into permanent context.
+
+Practical implication for Career:
+
+> The short durable principles—do not optimize for token usage, preserve Ali/project/Career ownership, and require bounded reviewable return packages for non-trivial delegation—fit existing Career guidance. A new support Skill should be created only if the **full** attention-classification/delegation/review procedure is repeatedly useful enough to justify on-demand procedural context.
+
+### Cost / benefit
+
+Across the three uses:
+
+- setup burden: `LOW`
+- review burden: `LOW-MEDIUM`
+- benefit: `HIGH`
+- ownership effect: `STRENGTHENING`
+
+Disposition: `PROVISIONAL ADOPT`.
+
+---
+
+## 6. PILOT-5 — Independent Challenge Pass
+
+### Trial A — challenge the AI-leverage plan/report
+
+Output cap: maximum three material findings.
+
+Useful findings:
+
+1. re-entry delta must fail closed when baseline is uncertain;
+2. derived learning formats can recreate artifact bloat;
+3. durable Career procedure must be tool-agnostic.
+
+No material finding was identified against:
+
+- four attention classes;
+- rest as valid;
+- token-quota rejection;
+- Career↔project boundary;
+- pilot-before-Skill rule.
+
+### Trial B — challenge the new UpgradePilot learning artifact
+
+A materially different artifact type was reviewed after PILOT-2 generation.
+
+Useful bounded finding:
+
+> The learning note is snapshot-pinned, but its future Notebook/Gemini source suggestions name mutable repository paths. When recreating the frozen package later, source/test/working-memory inputs should be read at the artifact's pinned horizon; current `main` should be used only when intentionally relearning current implementation.
+
+No broader design defect was needed to make the pass useful.
+
+This is positive evidence for the intended challenge behavior:
+
+```text
+small artifact/change
+→ fresh skeptical pass
+→ one material correction OR NO MATERIAL FINDING
+→ stop
+```
+
+### Cost / benefit
+
+- setup burden: `VERY LOW`
+- review burden: `LOW`
+- speculative noise: low because output was capped
+- quality benefit: `MEDIUM-HIGH`
+- ownership effect: `STRENGTHENING`
+
+Disposition: `PROVISIONAL ADOPT WITH STRICT OUTPUT CAP`.
+
+---
+
+## 7. Persistence pressure after this P5 batch
+
+Current evidence now supports the following provisional split:
+
+```text
+PROJECT-LOCAL
+re-entry preparation
+post-slice learning artifact
+
+EXTERNAL / ON-DEMAND
+source-grounded audio/retrieval transform
+
+CROSS-CUTTING
+bounded research/delegation/review contract
+independent challenge shape
+
+CAREER DURABLE PRINCIPLES
+preserve ownership
+optimize attention ROI, not token utilization
+keep review packages bounded
+avoid automation without a real trigger
+```
+
+The open question is no longer whether these patterns are useful. It is **how much durable machinery they deserve**.
+
+P7 should therefore prefer:
+
+1. concise durable principles in existing Career owners where routing requires them;
+2. reusable templates/prompts for simple bounded shapes;
+3. at most one new Career support Skill if the full cross-cutting procedure proves worth loading on demand;
+4. existing UpgradePilot learning-artifact Skill enhancement rather than a new learning Skill;
+5. no scheduled automation until a real repeated trigger exists.
+
+P5 remains open only for genuine usage evidence, especially PILOT-3 and later reuse of PILOT-1/PILOT-2. Do not manufacture those uses solely to close the report.
