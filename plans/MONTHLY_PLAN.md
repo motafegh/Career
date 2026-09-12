@@ -3,9 +3,7 @@
 > [!CAUTION]
 > **This plan is deferred, superseded for active execution, and non-controlling. Do not execute its outcomes, reviews, or failure responses.**
 >
-> UpgradePilot is the formally selected primary 90-day flagship. [`../UpgradePilot.md`](../UpgradePilot.md) is the governing project charter. The replacement UpgradePilot roadmap and monthly allocation have not yet been created, and implementation has not started.
->
-> The next authorized action is to create the **UpgradePilot Learning and Execution Contract**. The original AegisLab monthly plan below is preserved unchanged as historical planning evidence.
+> The original AegisLab monthly plan below is preserved as historical planning evidence. Current Career direction, flagship allocation, and next action belong to the current canonical Career owners; current technical continuation belongs to the active project's own repository.
 
 ---
 
