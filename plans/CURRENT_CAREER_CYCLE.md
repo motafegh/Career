@@ -99,7 +99,7 @@ No broad D4 promise is imposed.
 
 ### Lane C — Portfolio / E2
 
-The cycle must now close the **small bounded E2 correction** established by A6:
+The cycle must close the **small bounded E2 correction** established by A6:
 
 - concise GitHub profile README;
 - clear repository descriptions/topics and curated pins;
@@ -127,9 +127,9 @@ recognizable engineering anchor
 
 Technical fit must remain separate from entry-access fit such as degree, campus, nationality, language, work authorization, and experience gates.
 
-A7 changed the application rule:
+A7 changed the cycle gate:
 
-> Broad applications remain inactive only until minimum E2 positioning closes. Once E2 closes, a narrow calibration band may activate without waiting for SQL mastery or broad D3 implementation ownership.
+> Minimum E2 positioning must close before the first narrow calibration application band activates. SQL mastery or broad D3 implementation ownership are not universal prerequisites for that first band.
 
 Initial active bands should emphasize mentored/junior:
 
@@ -140,6 +140,8 @@ Initial active bands should emphasize mentored/junior:
 - vacancy-specific QA/testing/systems/implementation where responsibilities fit strongly.
 
 Data-heavy SQL roles, specialist/senior AI/ML, and responsibilities clearly beyond current ownership remain gated or vacancy-specific.
+
+For the current live application state, use `CAREER_STATE.md` rather than this cycle file.
 
 ## 5. Workload and allocation
 
@@ -157,11 +159,11 @@ Keep approximately:
 15–25%  Career-owned E2 / applications / SQL / Git / market work combined
 ```
 
-Use the non-flagship lane in this order:
+Use the non-flagship lane according to the current live state and current directive. The stable cycle ordering is:
 
-1. E2 closure;
-2. narrow application/feedback work after activation;
-3. bounded SQL/Git evidence when it materially widens opportunities.
+1. close required public-positioning/claim hygiene;
+2. collect bounded market feedback once activation conditions are satisfied;
+3. address SQL/Git or other role-widening gaps proportionately when they materially improve access.
 
 Autonomous AI work in JobHunter/Sentinel does not count as Ali ownership evidence or focused learning time.
 
@@ -228,13 +230,13 @@ Additional reviews occur on material triggers or Ali request.
 
 ## 8. Application-readiness requirement
 
-Current state:
+The A7 cycle rule is:
 
-> **E1 — market calibrated; E2 correction active; narrow application activation conditionally authorized after minimum E2 closure.**
+> after minimum E2 closure and a short claim/materials check, a bounded narrow calibration application band may begin without waiting for SQL mastery or broad D3 implementation ownership.
 
 E3 does not require every gap to close.
 
-The activation check after E2 should confirm only that:
+The activation check should confirm only that:
 
 - selected role bands are explicit;
 - public claims are consistent and defensible;
@@ -244,6 +246,8 @@ The activation check after E2 should confirm only that:
 - the role does not depend on a known hard gap beyond current evidence.
 
 Do not reintroduce a vague global hold after these conditions are satisfied.
+
+Use `CAREER_STATE.md` for whether those conditions are currently satisfied.
 
 ## 9. Advanced-capability outcome
 
@@ -309,9 +313,11 @@ Day-90 closure should inspect:
 - workload/review history;
 - explicit limitations and next-cycle proposal.
 
-## 13. Current exact action
+## 13. Live-state handoff
 
-Follow [`CURRENT_WEEK.md`](CURRENT_WEEK.md): close the minimum E2 positioning correction while UpgradePilot remains dominant, then perform the narrow application-activation check immediately when E2 is complete.
+This file owns the cycle's bounded outcomes, allocation ranges, gates, review points, and closure evidence. It does **not** own the exact current Career action.
+
+For the live Career position and exact next Career-level action, read [`../CAREER_STATE.md`](../CAREER_STATE.md). When a short current macro work package is useful, `CURRENT_WEEK.md` may translate State/Cycle into immediate bounded work without becoming another live-state owner.
 
 ## 14. Change control
 
