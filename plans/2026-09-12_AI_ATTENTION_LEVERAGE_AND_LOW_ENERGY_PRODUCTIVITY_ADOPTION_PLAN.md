@@ -2,9 +2,10 @@
 
 **Date:** 2026-09-12  
 **Owner:** Ali Rajabi / Career  
-**Status:** PLANNED — investigation and adoption work not yet executed  
-**Responsibility:** Identify, test, and selectively adopt AI-assisted workflows that increase useful Career/project progress per unit of Ali attention, including productive use of low-energy periods and review-later AI work, without weakening technical ownership, creating fake productivity, or turning subscription usage into a quota.  
-**Planned progressive report:** `tracking/research/2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_REPORT.md`
+**Status:** COMPLETE / HISTORICAL — P0–P9 executed; bounded operating model adopted  
+**Responsibility:** Historical execution plan for identifying, testing, and selectively adopting AI-assisted workflows that increase useful Career/project progress per unit of Ali attention without weakening technical ownership, creating fake productivity, or turning subscription usage into a quota.  
+**Final report:** `tracking/research/2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_REPORT.md`  
+**Formal adoption review:** `tracking/research/2026-09-12_AI_ATTENTION_LEVERAGE_ADOPTION_REVIEW.md`
 
 ---
 
@@ -680,24 +681,15 @@ Therefore:
 
 ## 13. Progressive evidence discipline
 
-Create the planned report when execution begins:
+Execution was recorded progressively in:
 
 `tracking/research/2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_REPORT.md`
 
-Progressively record:
+Supporting P5 evidence is preserved in:
 
-- real-work inventory;
-- opportunity/attention classification;
-- candidate workflow matrix;
-- reasons for rejection/defer;
-- pilot evidence;
-- attention/review-cost observations;
-- errors/failure modes;
-- low-energy menu findings;
-- adoption/persistence decisions;
-- no-change decisions.
+`tracking/research/2026-09-12_AI_ATTENTION_LEVERAGE_P5_PILOT_EVIDENCE.md`
 
-Do not wait until the end and reconstruct the reasoning from memory.
+The report records the real-work inventory, attention classification, workflow matrix, rejection/defer reasons, pilot evidence, attention/review-cost observations, low-energy menu, persistence decisions, and no-change decisions.
 
 The report is evidence/decision support, not another live Career-state owner.
 
@@ -719,13 +711,13 @@ where Ali's attention is genuinely required
 
 A strong result is a **small set of high-ROI repeatable workflows**, not a large catalog.
 
+**Result:** Passed proportionately. PILOT-1/2/4/5 produced enough real evidence for bounded adoption; PILOT-3 remains a future natural-use reassessment rather than a closure blocker.
+
 ---
 
 ## 15. Stop line
 
-Stop this plan when the initial adopted workflow set and low-energy menu are evidence-backed and integrated at the smallest appropriate level.
-
-Do not automatically continue into:
+This plan is closed. It does not automatically continue into:
 
 - building a general personal AI agent platform;
 - multi-agent orchestration infrastructure;
@@ -739,19 +731,24 @@ Any of those requires a separate real problem and admission decision.
 
 ---
 
-## 16. Exact execution route
+## 16. Executed route and closure
 
 ```text
-P0  baseline constraints and success definition
-→ P1  real recurring-work / attention-friction inventory
-→ P2  attention-class map
-→ P3  candidate workflow + Attention-ROI matrix
-→ P4  select 3–5 pilots
-→ P5  run real-work pilots
-→ P6  design low-energy menu
-→ P7  decide prompt/template/Skill/automation/tool level
-→ P8  minimum Career/project integration
-→ P9  final adoption review
+P0  baseline constraints and success definition          DONE
+→ P1  real recurring-work / attention-friction inventory DONE
+→ P2  attention-class map                                DONE
+→ P3  candidate workflow + Attention-ROI matrix          DONE
+→ P4  select 3–5 pilots                                  DONE
+→ P5  run real-work pilots                               DONE ENOUGH FOR ADOPTION
+→ P6  design low-energy menu                             DONE
+→ P7  decide prompt/template/Skill/automation/tool level DONE
+→ P8  minimum Career/project integration                 DONE
+→ P9  final adoption review                              DONE
 ```
 
-**Immediate next step after approval:** execute **P0 and P1** together: create the progressive report, freeze current Career constraints, and inventory Ali's real recurring work/friction before adding more workflow ideas.
+Final durable integration is deliberately small:
+
+- Career Operating Contract owns the durable attention/delegation rules;
+- project-local re-entry and learning remain project-owned;
+- research/challenge use compact reusable delegation shapes;
+- no new Career Skill, governance file, automation system, tracker, or token quota was admitted.
