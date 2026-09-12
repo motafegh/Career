@@ -1,198 +1,112 @@
-# Current Post-A7 Career Directive Plan
+# Current Career Directive
 
 **Owner:** Ali Rajabi  
-**Status:** Active Career-level directive plan  
+**Status:** Active bounded Career directive  
 **Period:** 2026-09-08 through the next Career reassessment trigger  
-**Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md), and [`../governance/CAREER_OPERATING_CONTRACT.md`](../governance/CAREER_OPERATING_CONTRACT.md)  
+**Live-state owner:** [`../CAREER_STATE.md`](../CAREER_STATE.md)  
+**Cycle owner:** [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
 **Project execution authority:** Each technical project repository and its own governance/session system
 
 ## 1. Purpose
 
-Translate the early Day-60 A7 review into a small number of macro responsibilities for the remainder of the current cycle.
+Translate the current Career state and cycle into a **small immediate macro work package** without duplicating Strategy, Portfolio, Capability Ledger, or project technical continuation.
 
-Career defines **what must become true and why**. Technical projects decide **how** to satisfy legitimate project-local responsibilities.
+This file does not own the working identity, current project-role table, exact Career state, capability scores, or project technical next actions. When those truths change, their canonical owners win.
 
-## 2. Current strategic model
+## 2. Current macro responsibilities
 
-Working identity remains:
+### A. Keep the flagship dominant
 
-> **AI-augmented Python/data/ML engineer developing secure engineering capability.**
-
-Public broad headline:
-
-> **Junior Software Engineer | Python, Data & Applied AI**
-
-The breadth/depth model is now explicitly **anchored hybrid / T-shaped**:
+Protect the current cycle allocation:
 
 ```text
-Python/software engineering anchor
-+ data/evidence/relational anchor
-+ applied AI/LLM/agent differentiation
-+ secure/trustworthy engineering across the stack
-+ adjacent backend/cloud/CI/Linux/networking/operations breadth only as needed
+75–85%  UpgradePilot / flagship technical responsibility
+15–25%  Career-owned positioning / applications / SQL / Git / market work combined
 ```
 
-Do not convert this into equal-depth study across many technologies.
+UpgradePilot remains project-controlled. Career wants legitimate project work to produce stronger evidence around:
 
-## 3. Allocation
-
-### UpgradePilot
-
-Career role:
-
-> **Sole primary capability / ownership flagship**
-
-Keep roughly **75–85%** of Ali's personal technical attention available to UpgradePilot.
-
-Career wants the remaining cycle to produce stronger evidence around:
-
-- executable proof;
+- executable/reproducible proof;
 - Ali-understood current source/test responsibilities;
-- ownership-bearing modification where legitimate project work creates it;
-- real diagnosis when failures occur;
-- reviewer-understandable product explanation and demonstration.
+- ownership-bearing modification when real work creates the opportunity;
+- causal diagnosis when real failures occur;
+- changed-context transfer;
+- concise reviewer-understandable explanation.
 
-These are acceptance/evidence classes, not a project implementation plan.
+These are evidence/outcome classes, not a project source/test/session plan.
 
-Do not force SQL, frameworks, cloud, agents, or other technologies into UpgradePilot for Career keywords.
+### B. Close the remaining minimum E2 UI work
 
-### JobHunter
+Repository-side E2 work is complete. The bounded implementation package is:
 
-Remain an AI-full-implementation Applied-AI product + Career market-intelligence + portfolio asset.
+[`../portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`](../portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md)
 
-Do not make it a second learning flagship. Bring back representative reviewed market evidence or a material portfolio claim when it can change Career decisions.
+Remaining actions are limited to the GitHub UI/account work recorded there, followed by the short claim/materials consistency check.
 
-### Sentinel
+Do not redesign every repository or reopen completed repository-side E2 work without evidence of a real claim/presentation defect.
 
-Remain an AI-full-implementation ML/data/security research + portfolio case-study asset.
+### C. Activate bounded market calibration when the live gate clears
 
-No ordinary Ali learning allocation is required. Use its research/evaluation story selectively and preserve the original-Ali versus later-AI boundary.
+The cycle rule is already decided: after minimum E2 closure and the short activation check, begin a narrow calibration application band without waiting for SQL mastery or broad D3 implementation ownership.
 
-### AegisLab
+Use `CAREER_STATE.md` for whether activation is currently allowed. Use `market/EMPLOYABILITY_AND_MARKET_PLAN.md` for feedback classification and application-market method.
 
-Historical only.
+### D. Address role-widening gaps proportionately
 
-## 4. Immediate Career lane — finish minimum E2
+**SQL / relational data**
 
-Repository-side E2 work is complete:
+- prefer legitimate existing-project evidence when proportionate;
+- if no proportional route appears after E2 closure, the cycle already authorizes one small bounded standalone relational-data intervention;
+- do not turn it into a new project or curriculum track.
 
-- UpgradePilot has an employer/reviewer first-screen layer;
-- JobHunter exposes its AI-development/contribution boundary near the top;
-- Sentinel exposes the research problem, two project eras, and current Phase-8 boundary before deep architecture;
-- Career's public README no longer duplicates stale employability/application status;
-- approved profile README, repository descriptions/topics, and pin order are recorded in [`../portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`](../portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md).
+**Git / review**
 
-The only remaining E2-P0 actions are GitHub UI/account actions not exposed by the current connected GitHub write interface:
+- use real branch/PR/review/collaboration opportunities when practical;
+- do not manufacture synthetic team ceremony solely for evidence.
 
-1. create public profile repository `motafegh/motafegh` and paste the approved profile `README.md`;
-2. set the approved descriptions/topics on UpgradePilot, JobHunter, and Sentinel;
-3. verify/curate profile pins with broad default order UpgradePilot → JobHunter → Sentinel;
-4. return to Career for the short final claim/materials consistency check.
+## 3. Evidence opportunities to notice, not manufacture
 
-Stop there. Do not redesign every repository.
+Career should reassess only when legitimate work creates evidence that could materially change a current conclusion, especially:
 
-## 5. Application activation rule
+- an ownership-bearing source/test modification;
+- a current real causal diagnosis with meaningful Ali participation;
+- changed-context transfer;
+- a bounded SQL/relational responsibility;
+- a real professional Git/review responsibility;
+- application/interview feedback with enough information value to change targeting, positioning, or learning priority.
 
-Broad applications remain inactive until the remaining minimum E2 UI actions are complete.
+Do not create fake failures, arbitrary code changes, detached exercises, or unnecessary technologies to satisfy the ledger.
 
-**Once E2 is complete, the first narrow calibration band is pre-authorized by A7.** Career should perform a short activation check for claim consistency and practical materials, then begin bounded applications without waiting for SQL mastery or broad D3 ownership.
+## 4. Workload rule
 
-First-band emphasis:
+Green mode remains up to **24 focused hours/week**, as a ceiling rather than a quota.
 
-- junior/mentored Applied AI / AI Application / AI Implementation;
-- Technical Implementation / AI Solutions / automation using Python;
-- Python automation/application roles;
-- selected junior backend/integration roles;
-- vacancy-specific QA/testing/systems/implementation roles when the responsibility match is strong.
+Career administration should remain small. Autonomous AI activity in JobHunter or Sentinel is not Ali focused learning time or automatic capability evidence.
 
-Continue to gate or individually review:
-
-- SQL/data-heavy roles beyond current relational evidence;
-- senior/specialist AI/ML roles;
-- roles requiring broad independent production-backend ownership;
-- clearly unsupervised roles beyond current evidence;
-- practical degree/campus/nationality/language/work-authorization mismatches.
-
-## 6. Ownership-evidence directive
-
-Current selected source-flow and representative-test reasoning supports bounded D2 guided understanding.
-
-The next evidence that can materially strengthen Career conclusions remains:
-
-- one ownership-bearing source/test modification;
-- one current real causal failure diagnosis with reduced assistance;
-- changed-context transfer rather than memorized repetition;
-- continued ability to challenge AI design/complexity and then verify the resulting behavior.
-
-Do not manufacture artificial failures or meaningless manual coding merely to satisfy the ledger.
-
-## 7. SQL / relational-data directive
-
-SQL is a role-widening gap, not an initial universal application gate.
-
-- Prefer legitimate existing-project evidence when proportionate.
-- Do not force SQL into UpgradePilot.
-- If no proportional project path appears after E2 closure, a **small standalone relational-data intervention is authorized** within this cycle.
-- Keep it bounded; it is not a new project or curriculum track.
-
-Its purpose is to make selected data-heavy Python/AI roles more realistic, not to become a database specialization.
-
-## 8. Git / review directive
-
-Professional Git/PR/code-review evidence remains weak.
-
-Seek one or more bounded real collaboration/review responsibilities during the final cycle when practical. Do not create ceremony or a synthetic team process solely for evidence.
-
-## 9. Workload
-
-Retain Green mode:
-
-- up to **24 focused hours/week** as a ceiling, not a quota;
-- roughly **75–85%** flagship technical attention;
-- roughly **15–25%** combined Career/E2/application/SQL/Git work;
-- no requirement to fill every hour;
-- autonomous JobHunter/Sentinel machine activity is not Ali focused learning time.
-
-## 10. Stop lines
+## 5. Stop lines
 
 Do not:
 
 - start another flagship;
-- restart broad LangGraph/LangChain/framework exploration without project pressure;
-- turn the anchored-hybrid strategy into shallow technology collection;
-- wait for perfect capability before collecting any market feedback;
-- start applications before minimum E2 claim/presentation hygiene is complete;
-- make SQL a universal gate;
-- treat project sophistication or green tests as Ali ownership;
-- let portfolio work consume a technical week;
-- manage UpgradePilot's source/test/session sequence from Career.
+- turn the anchored-hybrid direction into shallow technology collection;
+- force SQL, frameworks, cloud, agents, or other technologies into UpgradePilot for Career keywords;
+- treat repository sophistication, commits, or green tests as Ali ownership;
+- wait for perfect capability before collecting market feedback once the approved activation gate clears;
+- let portfolio/application administration consume a technical week;
+- manage a technical project's source/test/learning/debugging sequence from Career;
+- duplicate current Strategy, Portfolio, Capability Ledger, or project `MEMORY.md` content here.
 
-## 11. Success before Day 90
+## 6. Return-to-Career triggers
 
-The remainder of the cycle should ideally produce:
+Return to formal Career assessment/review at the earliest material trigger defined by `CAREER_STATE.md` or the current cycle, including when:
 
-```text
-E2 public positioning closed
-+ narrow applications active and producing real feedback
-+ stronger UpgradePilot proof/ownership evidence
-+ at least one clearer modification or diagnosis signal if legitimate work produces it
-+ bounded SQL/Git evidence where it materially widens roles
-+ no new scope explosion
-```
-
-A negative market signal is useful if it is classifiable and changes the next decision.
-
-## 12. Return-to-Career triggers
-
-Return when the earliest occurs:
-
-- remaining GitHub UI E2 actions are complete and the activation check should start applications;
-- UpgradePilot evidence could change the ownership conclusion;
-- the first bounded application batch produces a meaningful pattern;
-- SQL/relational evidence widens the role band;
-- a specific vacancy needs readiness/eligibility analysis;
-- JobHunter/Sentinel evidence changes a material portfolio or market conclusion;
-- workload/geography/project fit changes;
-- **2026-09-17 checkpoint** if E2/application activation is still unresolved;
-- **2026-10-17 Day-90 review**;
+- the remaining E2 actions are complete and application activation must be checked;
+- project evidence could change a Career capability/ownership conclusion;
+- a bounded application batch produces a meaningful pattern;
+- SQL/Git evidence materially widens a role band;
+- a specific vacancy requires readiness/eligibility analysis;
+- workload, geography, project role, or strategy assumptions materially change;
+- the scheduled checkpoint/Day-90 review is due;
 - Ali explicitly requests review.
+
+For the exact current Career action at any moment, use `CAREER_STATE.md`, not this directive.
