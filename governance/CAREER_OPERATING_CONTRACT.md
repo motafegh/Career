@@ -75,6 +75,72 @@ Health, safety, legality, privacy, credentials, cost, and platform limits overri
 - Do not begin consequential new work merely to avoid stopping.
 - Documentation is justified when it controls a material decision, preserves reusable evidence, enables operation, or communicates a real result better than a simpler mechanism.
 
+### 3.1 AI attention leverage and delegation
+
+Use capable AI aggressively when it can move **search, transformation, preparation, bounded research, low-risk synthesis, review preparation, or reusable learning-material production** outside Ali's scarce focused-attention window.
+
+The objective is not maximum token usage, maximum output volume, or continuous automation. The objective is:
+
+> **useful progress and future focused-time saved per unit of Ali attention.**
+
+Keep these responsibilities Ali-owned or owner-controlled when they are material:
+
+- consequential problem/acceptance decisions;
+- architecture, trust, responsibility, and risk judgment;
+- interpretation of ambiguous or conflicting evidence;
+- causal diagnosis;
+- meaningful modification decisions;
+- final verification/proof interpretation where ownership matters;
+- Career strategy/readiness/allocation decisions;
+- final public claims;
+- actual interview/capability demonstration.
+
+When useful, classify work proportionately as:
+
+```text
+FOCUS_REQUIRED
+→ Ali must participate materially
+
+REVIEW_LATER
+→ AI may perform substantial bounded preparation; Ali/owner reviews before trust/adoption
+
+BACKGROUND_SAFE
+→ low-risk transform/preparation from already-bounded evidence; later review may be light
+
+LOW_ENERGY
+→ optional Ali use when full focused work is not appropriate
+```
+
+Do not classify every trivial action. Use the distinction only when it changes how work should be delegated or reviewed.
+
+For non-trivial `REVIEW_LATER` delegation, prefer a compact contract:
+
+```text
+TASK / QUESTION
+→ exact desired result
+
+INPUT / AUTHORITY BOUNDARY
+→ sources/context the AI may rely on
+
+ACCEPTANCE / STOP
+→ what makes the result useful and where to stop
+
+RETURN PACKAGE
+→ findings/output
+→ evidence/source anchors
+→ important limitations/unknowns
+→ changed files/actions when applicable
+→ what Ali/owner still must review or decide
+```
+
+Keep return packages small enough to review. Independent challenge passes should prefer a few material findings or `NO MATERIAL FINDING` over speculative exhaustive critique.
+
+Low-energy work is optional productive capacity, not a workload requirement. `REST / STOP / DO NOTHING` remains valid and creates no catch-up debt. Passive exposure may support reconnection but does not establish mastery or capability ownership.
+
+Automation is justified only when a real recurring/time/condition trigger exists, repeated manual checking/preparation has demonstrated cost, required sources are accessible, output is bounded/reviewable, and no authority boundary is bypassed.
+
+Project-local technical delegation, re-entry, learning artifacts, source/test work, and implementation methods remain governed by the relevant project repository. Career may define the attention/ownership outcome but must not become a second project-control system.
+
 ## 4. Career pulse and review cadence
 
 ### Light Career pulse
@@ -132,7 +198,8 @@ Do not:
 - treat documentation, repository size, or AI-generated sophistication as capability;
 - delay market calibration indefinitely while waiting for perfect readiness;
 - create trackers, plans, or templates before the relevant phase becomes active;
-- duplicate project live state, execution plans, learning plans, TODOs, or working memory in Career.
+- duplicate project live state, execution plans, learning plans, TODOs, or working memory in Career;
+- create AI work merely to consume subscription capacity or avoid stopping.
 
 ## 7. Capability and claim discipline
 
@@ -229,6 +296,6 @@ Use Git history as the default archive. Retain explicit historical files only wh
 
 ## 12. Maintenance
 
-Change this contract only when workload modes, Career review behavior, Career-to-project handoff, project allocation rules, anti-diversion commitments, capability claims, market activation, route-change logic, or document discipline changes.
+Change this contract only when workload modes, Career review behavior, Career-to-project handoff, project allocation rules, AI-attention/delegation rules, anti-diversion commitments, capability claims, market activation, route-change logic, or document discipline changes.
 
 Current cycle dates and outcomes belong in `plans/CURRENT_CAREER_CYCLE.md`; current position belongs in `CAREER_STATE.md`.
