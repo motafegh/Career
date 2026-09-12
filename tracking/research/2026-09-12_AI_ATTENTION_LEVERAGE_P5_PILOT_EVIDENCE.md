@@ -1,24 +1,25 @@
 # AI Attention Leverage — P5 Pilot Evidence
 
 **Date opened:** 2026-09-12  
+**Date closed for current adoption decision:** 2026-09-12  
 **Owner:** Ali Rajabi / Career  
-**Status:** ACTIVE supporting evidence — PILOT-1/2/4/5 have real evidence; PILOT-3 still awaits genuine low-energy use  
+**Status:** COMPLETE SUPPORTING EVIDENCE — current pilot set reconciled; later real-use observations are reassessment evidence, not continuation of this program  
 **Parent report:** `2026-09-12_AI_ATTENTION_LEVERAGE_AND_LOW_ENERGY_PRODUCTIVITY_REPORT.md`  
-**Purpose:** Preserve real P5 pilot evidence without creating a second live Career-state owner.
+**Purpose:** Preserve the real P5 pilot evidence that supported the 2026-09-12 adoption decision without creating a second live Career-state owner.
 
 ---
 
-## 1. Current pilot ledger
+## 1. Final pilot ledger for this adoption decision
 
-| Pilot | Current state | Provisional disposition |
+| Pilot | Evidence reached in this program | Disposition |
 |---|---|---|
-| PILOT-1 — Current-State Re-entry Pack | one real current UpgradePilot generation; actual repeated Ali use still pending | `LIKELY ADOPT SHAPE` |
-| PILOT-2 — Post-Slice Learning Bundle v2 | one real project-local artifact generated from completed CI correlation slice | `PROVISIONAL ADOPT / REUSE STILL TO TEST` |
-| PILOT-3 — Low-Energy Audio + Retrieval | grounded source is now prepared; genuine low-energy use still pending | `READY / NOT YET TESTED` |
-| PILOT-4 — Bounded Research Scout | three real research-scout uses now materially changed design | `PROVISIONAL ADOPT` |
-| PILOT-5 — Independent Challenge Pass | two materially different capped passes produced useful bounded corrections | `PROVISIONAL ADOPT WITH STRICT OUTPUT CAP` |
+| PILOT-1 — Current-State Re-entry Pack | one real current UpgradePilot generation; repeated Ali use remains a future reassessment trigger | `ADOPT SHAPE / REASSESS WITH REUSE` |
+| PILOT-2 — Post-Slice Learning Bundle v2 | one real project-local artifact generated from completed CI correlation slice | `PROVISIONAL ADOPT / REASSESS WITH REUSE` |
+| PILOT-3 — Low-Energy Audio + Retrieval | grounded source prepared; genuine low-energy use not manufactured | `DEFER OPERATIONAL PROOF` |
+| PILOT-4 — Bounded Research Scout | three real research-scout uses materially changed design | `ADOPT` |
+| PILOT-5 — Independent Challenge Pass | two materially different capped passes produced useful bounded corrections | `ADOPT WITH STRICT OUTPUT CAP` |
 
-P5 is not yet fully closed because PILOT-3 needs genuine use and PILOT-1/PILOT-2 still benefit from later real reuse evidence. Enough evidence exists, however, to refine the P7 persistence decision without manufacturing more pilots.
+P5 closed proportionately because waiting for a manufactured low-energy session or artificial repeated reuse would violate the program's own evidence and anti-ceremony rules. Future natural use may strengthen, narrow, or reverse these dispositions through normal reassessment.
 
 ---
 
@@ -68,7 +69,9 @@ If Ali's last meaningful touchpoint cannot be established confidently, do **not*
 
 ### Disposition
 
-`LIKELY ADOPT SHAPE`; repeated actual use should confirm whether a reusable prompt/procedure is enough or project-local Skill support adds value.
+`ADOPT SHAPE / REASSESS WITH REUSE`.
+
+Start with a reusable project-local prompt/procedure. Reconsider more machinery only if repeated real use exposes stable routing/context needs that a simple prompt does not handle well.
 
 ---
 
@@ -76,7 +79,7 @@ If Ali's last meaningful touchpoint cannot be established confidently, do **not*
 
 ### Natural trigger
 
-The completed UpgradePilot CI static↔runtime correlation bridge is a genuine meaningful engineering slice with:
+The completed UpgradePilot CI static↔runtime correlation bridge was a genuine meaningful engineering slice with:
 
 - a new cross-source identity mechanism;
 - bounded proof;
@@ -84,13 +87,13 @@ The completed UpgradePilot CI static↔runtime correlation bridge is a genuine m
 - a corrected state distinction;
 - current relevance to E-phase reasoning.
 
-This is therefore a legitimate learning-artifact trigger rather than synthetic work created for the pilot.
+This was therefore a legitimate learning-artifact trigger rather than synthetic work created for the pilot.
 
 ### Project-local procedure used
 
 UpgradePilot's existing:
 
-` .agents/skills/upgradepilot-learning-artifact/SKILL.md `
+`.agents/skills/upgradepilot-learning-artifact/SKILL.md`
 
 with `learning/README.md` as the artifact owner.
 
@@ -107,6 +110,10 @@ Creation commit:
 Index commit:
 
 `8186a58e793508762583755fbbfa8e2918c46890`
+
+Challenge-finding repair commit:
+
+`d924fb2775a7b25a34636e9209252c51c3d081ea`
 
 The note is pinned to repository horizon:
 
@@ -127,10 +134,10 @@ The same note contains:
 - current limitations and upstream-evidence lesson;
 - depth calibration;
 - fast-relearning route;
-- small Notebook/Gemini source-grounding suggestion;
+- source-grounded transform guidance;
 - five retrieval/transfer questions.
 
-This validates the design correction from the first challenge pass:
+This validates the design correction:
 
 > persist one grounded artifact; derive audio/relearn/quiz formats on demand rather than creating a permanent folder of duplicates.
 
@@ -142,27 +149,19 @@ This validates the design correction from the first challenge pass:
 - artifact sprawl: avoided
 - ownership effect: `NEUTRAL-TO-STRENGTHENING` if later used for retrieval/transfer rather than treated as mastery proof
 
-### Current limitation
-
-The artifact has been generated, but the strongest success condition still needs later real use:
-
-- does Ali actually return to it?
-- does the fast-relearning route reduce rereading cost?
-- does the source-grounded transform help recall/transfer?
-
 ### Disposition
 
-`PROVISIONAL ADOPT / REUSE STILL TO TEST`.
+`PROVISIONAL ADOPT / REASSESS WITH REUSE`.
 
-This result strengthens the case for a **small enhancement to the existing UpgradePilot learning-artifact Skill**, not a new Career learning Skill.
+This supports future bounded refinement of the **existing UpgradePilot learning-artifact Skill**, not a new Career learning Skill. Career does not prescribe that project-local change from this review.
 
 ---
 
 ## 4. PILOT-3 — Low-Energy Audio + Retrieval
 
-PILOT-2 now supplies a legitimate grounded source set.
+PILOT-2 supplies a legitimate grounded source set.
 
-Recommended source set for the first real low-energy trial:
+Recommended source set for a future natural low-energy trial:
 
 1. `learning/2026-09-12-ci-static-runtime-correlation-bridge.md`;
 2. pinned correlation source at the artifact's snapshot horizon;
@@ -177,15 +176,15 @@ source-grounded audio / overview
 → stop
 ```
 
-Do not call this pilot successful until Ali actually uses it during a genuine low-energy period. Rest remains a valid alternative.
+No genuine low-energy session was manufactured just to close the investigation. Rest remains a valid alternative.
 
-Disposition: `READY / NOT YET TESTED`.
+Disposition: `DEFER OPERATIONAL PROOF`; actual use is a future reassessment trigger.
 
 ---
 
 ## 5. PILOT-4 — Bounded Background Research Scout
 
-Three real research-scout shapes have now been used.
+Three real research-scout shapes were used.
 
 ### Trial A — broad capability/evidence scan
 
@@ -218,16 +217,16 @@ Question:
 
 > Does the emerging repeated delegation/review procedure deserve a Skill, or should it remain lighter reusable guidance/templates?
 
-Current external guidance converges on a useful distinction:
+Current external guidance converged on:
 
-- always-on/custom instructions should remain short and broadly applicable;
+- persistent instructions should remain short and broadly applicable;
 - reusable prompts/templates suit bounded task-specific interactions;
-- Skills are appropriate for specific, repeatable, more detailed workflows that should load only when relevant;
-- progressive disclosure/on-demand loading is a core reason to use Skills rather than putting all procedure into permanent context.
+- Skills suit specific, repeatable, more detailed workflows that should load only when relevant;
+- progressive disclosure/on-demand loading is a central reason to use Skills instead of putting all procedure into permanent context.
 
-Practical implication for Career:
+Practical implication:
 
-> The short durable principles—do not optimize for token usage, preserve Ali/project/Career ownership, and require bounded reviewable return packages for non-trivial delegation—fit existing Career guidance. A new support Skill should be created only if the **full** attention-classification/delegation/review procedure is repeatedly useful enough to justify on-demand procedural context.
+> The short durable principles fit existing Career governance. A new support Skill should be created only if repeated use proves the full attention-classification/delegation/review procedure is too detailed to keep in permanent context and costly to restate manually.
 
 ### Cost / benefit
 
@@ -238,7 +237,7 @@ Across the three uses:
 - benefit: `HIGH`
 - ownership effect: `STRENGTHENING`
 
-Disposition: `PROVISIONAL ADOPT`.
+Disposition: `ADOPT`.
 
 ---
 
@@ -264,20 +263,20 @@ No material finding was identified against:
 
 ### Trial B — challenge the new UpgradePilot learning artifact
 
-A materially different artifact type was reviewed after PILOT-2 generation.
-
 Useful bounded finding:
 
-> The learning note is snapshot-pinned, but its future Notebook/Gemini source suggestions name mutable repository paths. When recreating the frozen package later, source/test/working-memory inputs should be read at the artifact's pinned horizon; current `main` should be used only when intentionally relearning current implementation.
+> The learning note was snapshot-pinned, but its future transform-source suggestions initially named mutable repository paths. Recreating the frozen package later must use source/test/working-memory inputs at the pinned horizon; current `main` is appropriate only for intentional current-implementation relearning.
 
-No broader design defect was needed to make the pass useful.
+The issue was repaired in UpgradePilot commit:
 
-This is positive evidence for the intended challenge behavior:
+`d924fb2775a7b25a34636e9209252c51c3d081ea`
+
+This supports the intended challenge behavior:
 
 ```text
 small artifact/change
 → fresh skeptical pass
-→ one material correction OR NO MATERIAL FINDING
+→ a few material corrections OR NO MATERIAL FINDING
 → stop
 ```
 
@@ -289,13 +288,13 @@ small artifact/change
 - quality benefit: `MEDIUM-HIGH`
 - ownership effect: `STRENGTHENING`
 
-Disposition: `PROVISIONAL ADOPT WITH STRICT OUTPUT CAP`.
+Disposition: `ADOPT WITH STRICT OUTPUT CAP`.
 
 ---
 
-## 7. Persistence pressure after this P5 batch
+## 7. Final persistence pressure from P5
 
-Current evidence now supports the following provisional split:
+The evidence supported this split:
 
 ```text
 PROJECT-LOCAL
@@ -316,14 +315,12 @@ keep review packages bounded
 avoid automation without a real trigger
 ```
 
-The open question is no longer whether these patterns are useful. It is **how much durable machinery they deserve**.
+The final P7–P9 decision therefore chose:
 
-P7 should therefore prefer:
-
-1. concise durable principles in existing Career owners where routing requires them;
-2. reusable templates/prompts for simple bounded shapes;
-3. at most one new Career support Skill if the full cross-cutting procedure proves worth loading on demand;
-4. existing UpgradePilot learning-artifact Skill enhancement rather than a new learning Skill;
+1. concise durable principles in the existing Career Operating Contract;
+2. reusable prompts/templates for simple bounded shapes;
+3. no seventh Career Skill yet;
+4. existing UpgradePilot learning-artifact ownership rather than a new Career learning Skill;
 5. no scheduled automation until a real repeated trigger exists.
 
-P5 remains open only for genuine usage evidence, especially PILOT-3 and later reuse of PILOT-1/PILOT-2. Do not manufacture those uses solely to close the report.
+Future real usage is not a continuation requirement for this file. It is evidence for the reassessment triggers recorded in the final report and formal adoption review.
