@@ -1,25 +1,28 @@
 # 2026-08-18 Technical Capability Checkpoint
 
 **Owner:** Ali Rajabi  
-**Status:** Active Career assessment contract for the 2026-08-18 Day-30 review  
+**Status:** COMPLETE / HISTORICAL — frozen Career assessment contract used for the 2026-08-18 Day-30 review  
 **Assessment date:** 2026-08-18  
-**Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
-**Execution aid:** [`CURRENT_WEEK.md`](CURRENT_WEEK.md)  
+**Career authority at execution:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
+**Execution aid at execution:** [`CURRENT_WEEK.md`](CURRENT_WEEK.md)  
 **Technical truth owner:** `motafegh/UpgradePilot` source, tests, `MEMORY.md`, active plans, ADRs, and project-local evidence  
-**UpgradePilot technical anchor used to define this checkpoint:** 2026-08-05 B2 / Step 7F state, including the live upstream-repository generality gap recorded at commit `d0d4e90642b2479d8a41eafe241fa0a5872b4be3`
+**UpgradePilot technical anchor used to define this checkpoint:** 2026-08-05 B2 / Step 7F state, including the then-live upstream-repository generality gap recorded at commit `d0d4e90642b2479d8a41eafe241fa0a5872b4be3`
+
+> [!NOTE]
+> This checkpoint is preserved as frozen historical assessment evidence. It no longer defines current UpgradePilot learning targets, current Career capability, or current application readiness. Use the Capability Ledger and `CAREER_STATE.md` for current conclusions, and UpgradePilot's own current authorities for technical continuation.
 
 ## 1. Purpose
 
-This file defines what Ali should be able to **understand, explain, read, reason about, test, modify, and diagnose by 2026-08-18** based on the actual UpgradePilot system and the current Career objective.
+This file defined what Ali should be able to **understand, explain, read, reason about, test, modify, and diagnose by 2026-08-18** based on the then-current UpgradePilot system and Career objective.
 
-It exists for two uses:
+It served two historical uses:
 
-1. **Now through 2026-08-17:** a concrete checkpoint for project-local learning and ownership work.
+1. **Through 2026-08-17:** a concrete checkpoint for project-local learning and ownership work.
 2. **On 2026-08-18:** the technical capability rubric used by Career during the Day-30 reassessment.
 
 This is **not** an UpgradePilot implementation plan and must not control project sequencing. UpgradePilot owns how gaps are taught, practised, implemented, tested, and repaired. Career owns only the capability target, evidence standard, and later assessment.
 
-The goal is not to master the entire repository. The goal is to convert the most employment-relevant current UpgradePilot responsibilities from scattered guided familiarity into one coherent, defensible technical model with bounded ownership evidence.
+The goal was not to master the entire repository. The goal was to convert the most employment-relevant current UpgradePilot responsibilities from scattered guided familiarity into one coherent, defensible technical model with bounded ownership evidence.
 
 ## 2. Target state on 2026-08-18
 
