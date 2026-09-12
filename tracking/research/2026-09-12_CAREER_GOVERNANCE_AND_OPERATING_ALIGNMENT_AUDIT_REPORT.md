@@ -1,277 +1,282 @@
 # Career Governance, Strategy, and Operating Alignment Audit Report
 
 **Date opened:** 2026-09-12  
-**Status:** ACTIVE — C0–C7 complete; C8 next  
+**Status:** ACTIVE — C0–C9 complete; C10 next  
 **Parent plan:** `../../plans/2026-09-12_CAREER_GOVERNANCE_STRATEGY_AND_OPERATING_ALIGNMENT_AUDIT_PLAN.md`  
 **Audit mode:** read-only against canonical Career owners until C12 decision gate  
 **Inspected Career `main` horizon:** `be8bf2db57f13d3bf643861a367a51d100c31f01`
 
 ## Audit discipline
 
-Dated audit evidence only; no canonical remediation authorized yet. Detailed phase evidence is preserved in prior Git revisions of this report.
+Dated audit evidence only; no canonical remediation authorized yet. Detailed earlier phase evidence remains preserved in Git history.
 
 ---
 
-## C0–C5 cumulative result
-
-### Strong foundations to preserve
-
-- Authority chain and Career↔project boundary are clear.
-- Every major truth class has a normal owner.
-- P0–P7 is already represented in the right high-level owners; no repo-wide terminology propagation is justified.
-- Project-admission rules are strong and already reject technology-first/new-project sprawl.
-- D0–D5 capability/evidence model is highly aligned with AI-heavy engineering: responsibility-specific, assistance-aware, changed-case/failure/transfer-sensitive, and explicitly resistant to AI-output-as-ownership or manual-authorship fetishism.
-
-### Confirmed findings from C2–C4
-
-#### C2-F01 — Current Cycle duplicates exact live-action ownership
-- **Class:** CONFLICT
-- **Severity:** MEDIUM
-- **Confidence:** HIGH
-- `CURRENT_CAREER_CYCLE.md` contains `Current exact action` although `CAREER_STATE.md` is the sole live/exact-action owner.
-- **Disposition:** MOVE / NARROW.
-
-#### C3-F01 — Charter `reduced AI dependence over time`
-- **Class:** CONFLICT
-- **Severity:** HIGH
-- **Confidence:** HIGH
-- High-authority wording is ambiguous against accepted `strong AI leverage + increasing verification/modification/diagnosis/ownership` model.
-- **Disposition:** CLARIFY / REPLACE wording only; reduce opaque/unverified dependence, not useful AI leverage.
-
-#### C3-F02 — Strategy retains superseded Day-30 application hold
-- **Class:** STALE
-- **Severity:** MEDIUM
-- **Confidence:** HIGH
-- Historical source/test/SQL/positioning blocker paragraph + Sep-1 reassessment remains inside active Strategy despite A7 making E2 the sole current global gate.
-- **Disposition:** CLARIFY / HISTORICAL / remove stale operational statement.
-
-#### C4-F01 — Selection Policy embeds stale current project allocation
-- **Class:** CONFLICT + STALE
-- **Severity:** HIGH
-- **Confidence:** HIGH
-- Policy says Sentinel historical and omits JobHunter, conflicting with canonical Portfolio/current records.
-- **Root cause:** current project-role truth is duplicated inside durable admission policy.
-- **Disposition:** MOVE / REMOVE current-allocation section; link to `PROJECT_PORTFOLIO.md`.
-
-#### C4-F02 — Portfolio contains stale current weaknesses/priorities
-- **Class:** STALE
-- **Severity:** MEDIUM
-- **Confidence:** HIGH
-- Role table is correct but current weaknesses/priorities still reflect Day-30 source/test/E2 state.
-- **Disposition:** NARROW / REFRESH; keep role/contribution/claim truth, delegate fast-changing capability/E2 status.
-
-#### C4-F03 — Profile duplicates mutable roles/projects and has drifted
-- **Class:** STALE + COST
-- **Severity:** MEDIUM
-- **Confidence:** HIGH
-- Profile duplicates Strategy target-role list and Portfolio project-role list; Sentinel/JobHunter classification is stale.
-- **Disposition:** NARROW / MOVE mutable classifications to links.
-
-### C5 — Capability/evidence system
-
-**No new material defect.**
-
-Keep:
-
-- D0–D5;
-- assistance labels;
-- performative-check prohibition;
-- recency/confidence/transfer limits;
-- changed-case/failure/delayed/reduced-prompt evidence;
-- A7 nine-dimension ownership lens as explanatory lens, not second scoring scale;
-- separation of capability from application readiness.
-
----
-
-## C6 — Market, application activation, and feedback system
-
-**State:** COMPLETE
-
-### C6.1 Current application gate is coherent across the correct owners
-
-The following all converge:
-
-- `CAREER_STATE.md`;
-- `plans/CURRENT_CAREER_CYCLE.md`;
-- `plans/CURRENT_WEEK.md`;
-- A7 formal review;
-- `market/EMPLOYABILITY_AND_MARKET_PLAN.md`;
-- `portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`.
-
-Current rule:
-
-> **Minimum E2 public-positioning closure is the sole current global activation gate. After E2 and the short claim/materials check, begin the pre-authorized narrow calibration application band without waiting for SQL mastery or broad D3 implementation ownership.**
-
-SQL, Git/review, stronger modification/diagnosis, backend/data depth, and access constraints remain role-dependent/widening issues.
-
-### C6.2 E2 package is bounded rather than perfectionistic
-
-Repository-side corrections are complete. Remaining E2 actions are the manual GitHub UI surfaces plus a short final consistency check. The package explicitly says to stop there rather than mass-polish repositories.
-
-This is aligned with P0–P7's adjustment-risk lesson: enter real market contact rather than indefinitely preparing.
-
-### C6.3 Feedback loop is well-designed
-
-Market Plan correctly distinguishes:
-
-- high-information direct technical/practical/interviewer evidence;
-- repeated independent patterns;
-- positioning/explanation failures;
-- access/eligibility constraints;
-- low-information rejection/ghosting/niche-tool noise.
-
-The routing prevents both overreaction and denial:
-
-```text
-transferable responsibility gap → bounded remediation
-recurring role-specific substrate → strengthen existing gap lane
-positioning problem → repair claim/explanation
-access gate → retarget
-one niche tool → usually defer
-material strategy challenge → Career review
-```
-
-### C6.4 Master CV readiness
-
-The master CV remains claim-bounded and already reflects the three-project Ali/AI separation. It deliberately excludes SQL from demonstrated skills and requires private application copies for sensitive contact/eligibility information.
-
-Its metadata says last updated Day 30, but the current content already reflects JobHunter/Sentinel active portfolio roles and the public headline. A short final claim/materials check is explicitly pending after E2 UI completion, which is the correct place to catch any remaining wording drift before applications.
-
-No separate pre-application rewrite project is justified.
-
-### C6 confirmation of C3-F02
-
-The only material market/readiness inconsistency found is already recorded as **C3-F02**: the stale Day-30 readiness paragraph inside durable Strategy. Current State/Cycle/Week/Market/A7 all use the newer E2-only global gate.
-
-### C6 no-change conclusions
-
-- Employability stage model — **KEEP**.
-- E2-only current global gate — **KEEP**.
-- pre-authorized narrow calibration band — **KEEP**.
-- filtered feedback model — **KEEP**.
-- access-fit vs technical-fit separation — **KEEP**.
-- SQL as role-widening rather than universal blocker — **KEEP**.
-- E2 implementation package stop line — **KEEP**.
-- public/private application boundary — **KEEP**.
-
-**C6 defect result:** no new material defect beyond C3-F02.
-
----
-
-## C7 — Plan, staleness, supersession, and live-work ownership
-
-**State:** COMPLETE
-
-### C7.1 Root problem
-
-The repository's current planning problem is **not lack of plans**. It is that too many artifacts still look active/current after their decision has matured elsewhere.
-
-Current execution truth is spread across:
-
-- `CAREER_STATE.md` — supposed sole exact live action;
-- `CURRENT_CAREER_CYCLE.md` — stable cycle outcomes, but also exact action;
-- `CURRENT_WEEK.md` — active post-A7 directive through next trigger, not actually one week;
-- `2026-09-07_DAY50_TO_DAY90...PLAN.md` — active Phase-B execution program and exact next action;
-- dated completed P0–P7 plan;
-- project-specific Career Day-90 plan;
-- audit plans.
-
-Several historical AegisLab/day-30 planning artifacts also remain in `plans/`.
-
-### C7-F01 — Day-50 reassessment plan duplicates current directive/live continuation after A7
-
-- **Class:** COST + STALE
-- **Severity:** MEDIUM
-- **Confidence:** HIGH
-- **Area:** `plans/2026-09-07_DAY50_TO_DAY90_CAREER_REALITY_REASSESSMENT_AND_EXECUTION_PLAN.md`
-
-**Evidence:** Phase A/A7 is complete. The file still marks Phase B active, contains B1–B7 execution directives, checklist state, allocation, and `Exact next action`. Much of this is also represented more currently in `CURRENT_WEEK.md`, Current Cycle, and State.
-
-Some B1 checklist items are stale because repository-side E2 work has since completed while the older plan still shows them unchecked.
-
-**Why it matters:** fresh agents can load an older but still `Active` program and reconstruct current work from stale checkboxes rather than current State/Week.
-
-**Provisional disposition:** **MARK HISTORICAL / NARROW** after preserving A0–A7 research-program provenance. Current execution should route through State + Cycle + at most one current directive surface.
-
-### C7-F02 — Day-30 one-time review artifacts remain `Active`
-
-- **Class:** STALE
-- **Severity:** MEDIUM
-- **Confidence:** HIGH
-- **Area:** `plans/2026-08-18_DAY30_REVIEW_SESSION_PLAN.md`, `plans/2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`
-
-Both are explicitly dated 2026-08-18, and the Day-30 review is completed/superseded by later reviews, yet metadata still says **Active**.
-
-**Why it matters:** these files contain intentionally frozen older technical/capability expectations. `Active` status can make them appear to be present-day ownership requirements.
-
-**Disposition:** **MARK HISTORICAL / COMPLETE**. Preserve them as evidence of the frozen Day-30 assessment target; do not rewrite their substantive historical content.
-
-### C7-F03 — Historical AegisLab plan warnings themselves contain obsolete current pointers
-
-- **Class:** STALE
-- **Severity:** LOW
-- **Confidence:** HIGH
-- **Area:** `plans/90_DAY_MASTER_PLAN.md`, `WEEKLY_PLAN.md`, `MONTHLY_PLAN.md`
-
-These files are commendably labeled `Historical Only` and strongly say not to execute them. However, their caution headers also contain old dynamic claims such as:
-
-- `../UpgradePilot.md` is the governing project charter;
-- UpgradePilot implementation has not started;
-- the next authorized action is to create the UpgradePilot Learning and Execution Contract.
-
-Those claims are long obsolete and the referenced Career-side `UpgradePilot.md` route no longer represents the current project boundary.
-
-**Why it matters:** the historical guard itself can mislead even though the body is clearly frozen.
-
-**Disposition:** **CLARIFY historical header only** or remove obsolete redirect/current-action sentences. Preserve the historical body unchanged. Do not “update” historical AegisLab content to modern UpgradePilot truth.
-
-### C7-F04 — Multiple active plan surfaces recreate a second live-state system
-
-- **Class:** COST + CONFLICT
-- **Severity:** HIGH
-- **Confidence:** HIGH
-- **Area:** State / Current Cycle / Current Week / Day50 execution plan
-
-Even though each file has a plausible purpose, their combined current contents repeat:
-
-- allocation;
-- E2 state;
-- application gate;
-- project roles;
-- ownership gaps;
-- SQL/Git decisions;
-- exact continuation.
-
-This is exactly the mutable truth the refoundation attempted to centralize.
-
-**Why it matters:** every material Career event currently implies pressure to synchronize several planning/state artifacts, increasing stale-source risk and context loading.
-
-**Provisional disposition:** **NARROW / MERGE responsibilities, not necessarily files**:
+## C0–C7 cumulative result
+
+### Strong foundations
+
+- Career/project authority boundary is strong.
+- Every major truth class has a clear owner.
+- P0–P7 is already concentrated in appropriate Strategy/Market/Capability owners.
+- Project-admission rules strongly resist new-project/technology sprawl.
+- Capability/evidence system is highly compatible with AI-heavy engineering and should largely be preserved unchanged.
+- Market/application system is coherent: E2 is the sole current global activation gate; narrow calibration follows E2; SQL/Git/ownership gaps continue in parallel; feedback is classified by information value.
+
+### Confirmed findings before C8
+
+| ID | Finding | Severity | Disposition direction |
+|---|---|---:|---|
+| C2-F01 | Current Cycle states `Current exact action` despite State sole ownership | MEDIUM | MOVE / NARROW |
+| C3-F01 | Charter `reduced AI dependence over time` conflicts semantically with strong-AI-leverage ownership model | HIGH | CLARIFY / REPLACE wording |
+| C3-F02 | Strategy retains superseded Day-30 application blocker paragraph | MEDIUM | CLARIFY / HISTORICAL |
+| C4-F01 | Project-selection policy embeds stale current allocation | HIGH | MOVE / REMOVE current allocation |
+| C4-F02 | Portfolio current weaknesses/priorities retain Day-30/E2 staleness | MEDIUM | NARROW / REFRESH |
+| C4-F03 | Profile duplicates mutable role/project truth and has drifted | MEDIUM | NARROW / MOVE |
+| C7-F01 | Day50 plan remains active/duplicative after A7 with stale B1 checklist | MEDIUM | MARK HISTORICAL / NARROW |
+| C7-F02 | Day30 one-time review/checkpoint artifacts still say `Active` | MEDIUM | MARK COMPLETE/HISTORICAL |
+| C7-F03 | Historical AegisLab plan warning headers contain obsolete pointers/current action | LOW | CLARIFY header only |
+| C7-F04 | Multiple active plan surfaces recreate live-state duplication | HIGH | NARROW / MERGE responsibilities |
+
+Planning target emerging from C7:
 
 ```text
 CAREER_STATE
-→ sole live position + exact next action
+→ sole live position + exact next Career action
 
 CURRENT_CAREER_CYCLE
-→ stable cycle outcomes / allocations / gates / closure criteria
+→ stable cycle outcomes / allocation / gates / closure
 
-one current directive/work-plan surface when genuinely needed
-→ short macro work package consuming State/Cycle, not restating full strategy/status
+at most one current directive/work-plan when genuinely useful
+→ short macro work package consuming State/Cycle
 
 completed dated programs
-→ historical evidence, no active continuation ownership
+→ historical evidence, no live continuation ownership
 ```
 
-Final choice of whether `CURRENT_WEEK.md` remains the one current directive or is itself unnecessary belongs to C10/C11 after Skill/usability testing.
+---
 
-### C7 no-change conclusions
+## C8 — Career Skill/routing architecture
 
-- Completed refoundation plan is clearly marked completed and root `AGENTS.md` explicitly classifies it as historical — **KEEP**.
-- Completed P0–P7 adoption plan is clearly status `COMPLETE` and functions as provenance — **KEEP**.
-- Historical plans may remain as evidence if clearly non-controlling; deletion is not required merely for cleanliness.
-- Do **not** add a new plan-navigation bureaucracy before testing whether status cleanup + single-owner routing is sufficient.
+**State:** COMPLETE
 
-**C7 exit:** satisfied.
+### C8.1 Overall result
+
+The six-Skill architecture is strong and should **not** be replaced with a new router or larger meta-skill system.
+
+Current clean responsibility split:
+
+```text
+what has Ali demonstrated?
+→ career-capability-assessment
+
+what does a current vacancy/sample establish?
+→ career-market-calibration
+
+what may Career truthfully say externally?
+→ career-claim-audit
+
+what material Career decision should change?
+→ career-review
+
+what did an agent actually do / where did routing/context fail?
+→ career-agent-retro
+
+what should Ali personally focus on next from current Career + project truth?
+→ career-personal-work-planning
+
+project implementation/teaching/technical planning,
+simple canonical lookup, plain job discovery,
+substantive Career governance-content audit with no matching procedure
+→ no Career Skill / direct canonical-owner operation
+```
+
+### C8.2 Strong design properties
+
+Across all six Skills:
+
+- procedures explicitly defer to `AGENTS.md` and canonical truth owners;
+- Skills do not own live truth;
+- context loading is deliberately minimal/lazy;
+- persistence is opt-in/material rather than automatic;
+- project-derived evidence is separated from Career conclusions;
+- specialist skills do not silently make broad Career decisions;
+- `career-review` composes capability/market/claim specialists only when needed;
+- `career-personal-work-planning` explicitly preserves project technical authority and uses rolling-wave planning across unresolved gates;
+- `career-agent-retro` explicitly rejects turning one agent mistake into more governance;
+- no-Skill cases are first-class and covered by the routing matrix.
+
+The 28-case routing fixture covers especially important boundaries:
+
+- capability vs application-readiness review;
+- claim audit vs capability;
+- market evidence vs strategy review;
+- exact-state lookup vs personal planning;
+- personal planning vs project technical planning;
+- project teaching/debugging vs Career Skills;
+- retrospective vs ordinary work.
+
+No `career-operation-router` is currently justified.
+
+### C8-F01 — `career-agent-retro` short trigger wording can overmatch governance-content audits
+
+- **Class:** GAP / ROUTING AMBIGUITY
+- **Severity:** LOW-MEDIUM
+- **Confidence:** HIGH
+- **Area:** `.agents/skills/career-agent-retro/SKILL.md` metadata/trigger wording
+
+**Evidence:** description says use when Ali explicitly asks for a `governance/skill-use audit`. The body, however, clearly defines the responsibility as reconstructing **completed agent execution**—what files/tools/Skills were actually used, what friction occurred, and where repair belongs.
+
+A request such as the current one—`audit Career governance files against P0–P7 and current strategy`—is a substantive **canonical governance-content audit**, not an execution retrospective. It has no dedicated Skill and correctly runs from canonical owners directly.
+
+**Why it matters:** keyword-style routing could select `career-agent-retro` merely because the user says “governance audit,” shifting the task toward execution traces instead of auditing the governance content itself.
+
+**Provisional disposition:** **CLARIFY** the short description to say `governance/skill-use audit of completed agent execution/routing`, not substantive governance-content review. Add one routing-matrix no-Skill case for a direct Career governance-content audit if remediation is authorized.
+
+**Counterevidence:** the body and root routing already make the intended scope clear; this is a trigger/discoverability refinement, not a broken procedure.
+
+### C8 no-change conclusions
+
+- capability-assessment Skill — **KEEP**;
+- market-calibration Skill — **KEEP**;
+- claim-audit Skill — **KEEP**;
+- career-review Skill — **KEEP**;
+- personal-work-planning Skill — **KEEP**;
+- agent-retro body/procedure — **KEEP**, only trigger wording clarification proposed;
+- six-Skill architecture — **KEEP**;
+- explicit no-Skill model — **KEEP**;
+- no new router/meta-Skill — **NO CHANGE**.
+
+**C8 exit:** satisfied.
+
+---
+
+## C9 — Ceremony, context cost, and real-operation stress tests
+
+**State:** COMPLETE
+
+C9 tested the governance system against recent actual Career responsibilities rather than prose alone.
+
+### Trace A — E2 public positioning / claim correction
+
+Observed system behavior was appropriate:
+
+```text
+Career claim/portfolio question
+→ inspect capability + project-role boundaries
+→ create bounded E2 wording package
+→ update public project first screens without changing technical project truth
+→ leave account/UI-only actions to manual step
+→ stop rather than mass-polish repositories
+```
+
+This is a **PASS** for claim discipline, Career/project separation and proportionality.
+
+### Trace B — P0–P7 AI-era resilience research/adoption
+
+The research used a strong lifecycle:
+
+```text
+external evidence trigger
+→ bounded research/adoption plan
+→ progressive evidence record
+→ hypothesis-by-hypothesis pressure test
+→ explicit ADOPT / NARROW / REJECT decisions
+→ promote only accepted conclusions to correct Career owners
+→ separately re-enter UpgradePilot governance for one minimal project-local LbD refinement
+→ close the research program
+```
+
+This is a **PASS** for evidence-before-policy, owner routing, anti-overreaction and cross-repository authority separation.
+
+It also demonstrates that the system can use new AI/labor evidence without rewriting identity/flagship/capability claims unnecessarily.
+
+### Trace C — Current Career self-audit
+
+The current audit itself has so far followed the intended pattern:
+
+- freeze evidence horizon;
+- inventory owners before judging them;
+- preserve findings progressively in a dated research report;
+- no canonical mutation during evidence collection;
+- distinguish defects from `KEEP` decisions;
+- avoid creating a new governance Skill merely because the audit is large.
+
+This is a **PASS** for proportional governance maintenance, although the many duplicated current-state surfaces materially increase how much context must be reconciled—supporting C7-F04.
+
+### C9-F01 — UpgradePilot Day-90 Career plan duplicates volatile technical project state despite its own boundary disclaimer
+
+- **Class:** CONFLICT + STALE + COST
+- **Severity:** HIGH
+- **Confidence:** HIGH
+- **Area:** `portfolio/projects/upgradepilot/2026-09-11_DAY90_PERSONAL_OWNERSHIP_AND_LEARNING_EXECUTION_PLAN.md`
+
+**Evidence**
+
+The file correctly says:
+
+> it does not own UpgradePilot exact technical continuation;
+> UpgradePilot `MEMORY.md` wins;
+> Career should own personal outcomes/depth/evidence opportunities.
+
+But it then persists:
+
+- a detailed `Current entry point — 2026-09-11 snapshot` naming `maintainer_action.py`, exact evaluator state, focused-test/proof debt and D/E stage;
+- calendar Phase-1 instructions to close that exact synthesis slice;
+- a section titled **Exact immediate action** that reproduces the project-local D/E/proof sequence.
+
+UpgradePilot had already moved by 2026-09-12 into CI attempt-coherence/static→runtime correlation analysis, so the persisted technical continuation became stale within a day.
+
+**Why it matters**
+
+This is exactly the drift pattern prohibited by:
+
+- root Career↔project boundary;
+- Career Operating Contract;
+- `career-personal-work-planning`, which says volatile project continuation should be **referenced rather than duplicated** in durable Career plans.
+
+The disclaimer reduces authority risk but does not eliminate stale-context cost or the chance that an agent/user follows the copied sequence.
+
+**Provisional disposition:** **NARROW** the Day-90 Career plan:
+
+Keep:
+
+- Day-90 personal capability outcomes;
+- learning-depth priorities;
+- automation-compression/transferability/acceptance principles;
+- evidence-opportunity guidance;
+- allocation, application/SQL/Git relationship;
+- Day-90 review criteria.
+
+Remove or replace with project-authority links:
+
+- dated technical current-entry snapshot;
+- exact source/test current state;
+- project technical Phase-1 continuation;
+- `Exact immediate action` technical sequence.
+
+A durable Career plan may say `resume from UpgradePilot's current MEMORY/project-local LbD owner` and state the **Career outcome to seek**, but should not preserve the technical continuation itself.
+
+### C9-F02 — Context burden is concentrated in duplicated current-state prose, not in the core authority model
+
+- **Class:** COST
+- **Severity:** MEDIUM
+- **Confidence:** HIGH
+
+A normal material Career review/planning task may currently encounter the same facts—identity, flagship, allocation, E2 gate, role bands, SQL/Git gaps, ownership gaps—in State, Cycle, Current Week, Day50 plan, Strategy, Portfolio, Profile and project-specific Day90 plan.
+
+The root authority model tells the agent which owner wins, so correctness is often recoverable. The cost is **reconciliation effort and stale-source exposure**.
+
+**Disposition:** fix by narrowing duplicated current-state surfaces already identified in C2/C4/C7/C9. Do **not** add another summary/router file.
+
+### C9 no-change conclusions
+
+- P0–P7 evidence/adoption lifecycle — **KEEP as model**.
+- E2 bounded positioning lifecycle — **KEEP as model**.
+- progressive read-only audit report pattern — **KEEP when a large audit genuinely warrants it**.
+- governance should not become an automatic artifact after every conversation — existing document-discipline rules already say this; **KEEP**.
+
+**C9 exit:** satisfied.
 
 ---
 
@@ -287,8 +292,11 @@ Final choice of whether `CURRENT_WEEK.md` remains the one current directive or i
 | C4-F03 | Profile duplicate current roles/projects | STALE + COST | MEDIUM | HIGH | NARROW / MOVE |
 | C7-F01 | Day50 plan still active/duplicative after A7 | COST + STALE | MEDIUM | HIGH | MARK HISTORICAL / NARROW |
 | C7-F02 | Day30 review/checkpoint still `Active` | STALE | MEDIUM | HIGH | MARK COMPLETE/HISTORICAL |
-| C7-F03 | Historical AegisLab headers contain obsolete pointers | STALE | LOW | HIGH | CLARIFY header only |
+| C7-F03 | Historical AegisLab headers obsolete pointers | STALE | LOW | HIGH | CLARIFY header only |
 | C7-F04 | Multiple active plan surfaces duplicate live state | COST + CONFLICT | HIGH | HIGH | NARROW / MERGE responsibilities |
+| C8-F01 | Agent-retro trigger can overmatch governance-content audit | GAP | LOW-MEDIUM | HIGH | CLARIFY trigger + routing eval |
+| C9-F01 | UpgradePilot Day90 Career plan duplicates project technical continuation | CONFLICT + STALE + COST | HIGH | HIGH | NARROW / link to project owner |
+| C9-F02 | Repeated current-state prose creates context burden | COST | MEDIUM | HIGH | Repair through existing findings, no new summary |
 
 ---
 
@@ -302,8 +310,8 @@ Final choice of whether `CURRENT_WEEK.md` remains the one current directive or i
 - C5 — COMPLETE
 - C6 — COMPLETE
 - C7 — COMPLETE
-- C8 — NEXT
-- C9 — PENDING
-- C10 — PENDING
+- C8 — COMPLETE
+- C9 — COMPLETE
+- C10 — NEXT
 - C11 — PENDING
 - C12 — PENDING
