@@ -3,7 +3,7 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling Career strategy  
 **Activated:** 2026-07-27  
-**Last reviewed:** 2026-09-11 — AI-era resilience and task-responsibility adoption  
+**Last reviewed:** 2026-09-12 — governance/alignment remediation after AI-era resilience audit  
 **Responsibility:** Long-term direction, working identity, role targets, capability priorities, portfolio strategy, geography, market-entry logic, and strategy change criteria
 
 ## 1. Strategic objective
@@ -254,7 +254,7 @@ UpgradePilot remains the main current vehicle for:
 - later persistence, evaluation, ML/AI, and selected operations work;
 - portfolio explanation and ownership defense.
 
-Day-30 correction: recent conceptual/architecture progress was real, but direct source reading, representative test understanding, meaningful modification, and current failure diagnosis remain the most important missing ownership evidence. The next phase should convert current project context into those behaviors rather than adding another project.
+The durable correction is to prevent project sophistication from outrunning Ali's owned source/test/modification/diagnosis evidence. Career should keep converting real project context into stronger understanding, verification, meaningful modification, diagnosis, transfer, and explanation rather than adding another project merely to create breadth. Exact current capability gaps belong to the Capability Ledger and live Career state, not this strategy.
 
 ### Active AI-full-implementation portfolio/support assets
 
@@ -289,7 +289,7 @@ A supporting mini-project or exercise may be admitted only when:
 - the allocation does not undermine the primary project;
 - completion or stop criteria are explicit.
 
-The Day-30 review did **not** justify another supporting project. SQL/relational-data evidence should first be sought through a bounded responsibility in an existing project or a minimal exercise if no proportional project path exists.
+Current Career policy does **not** justify another supporting project merely to accumulate technologies. SQL/relational-data evidence should first be sought through a bounded responsibility in an existing project or a minimal exercise if no proportional project path exists.
 
 ## 10. Portfolio claim strategy
 
@@ -359,7 +359,7 @@ Market work has four stages:
 
 Ali should not wait for every capability gap to close before M2. Application activation requires a reasoned readiness decision, not perfection.
 
-The 2026-08-18 Day-30 review retained M1/E1 and set a bounded correction rather than indefinite delay: current source/test/modification/debugging ownership, SQL evidence, and market-facing portfolio/CV/GitHub positioning are the main readiness blockers. Reassess by 2026-09-01 or earlier when sufficient evidence exists.
+The 2026-09-08 A7 review narrowed the earlier global hold: minimum public positioning/claim hygiene may gate the first narrow calibration band, but SQL mastery and broad D3 implementation ownership are not universal prerequisites. Exact current activation status and remaining blockers belong to `CAREER_STATE.md`; historical Day-30/September-1 blocker states belong in the review log rather than active strategy.
 
 ## 13. Current strategic non-claims
 
