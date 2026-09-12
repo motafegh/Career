@@ -1,7 +1,7 @@
 ---
 name: career-agent-retro
 description: >
-  Reconstruct and audit how an AI assistant actually operated during a completed Career task or session. Use only when Ali explicitly asks for a retrospective, execution trace, governance/skill-use audit, context/tool-efficiency review, or analysis of what the agent really read, used, missed, or found ambiguous. Distinguish observed execution from inference, material guidance from incidental context, and agent error from governance, skill, stale-source, tool, or unavoidable-uncertainty causes. Recommend the smallest durable repair and the correct destination. Do not self-invoke after ordinary work, and do not modify repository files unless the current instruction separately authorizes changes.
+  Reconstruct and audit how an AI assistant actually operated during a completed Career task or session. Use only when Ali explicitly asks for a retrospective, execution trace, agent-behavior or skill-use audit, context/tool-efficiency review, or analysis of what the agent really read, used, missed, or found ambiguous. This skill is about completed agent execution, not a substantive audit of Career's canonical governance/strategy content; canonical-content audits should use the controlling Career owners directly unless another specific Skill clearly applies. Distinguish observed execution from inference, material guidance from incidental context, and agent error from governance, skill, stale-source, tool, or unavoidable-uncertainty causes. Recommend the smallest durable repair and the correct destination. Do not self-invoke after ordinary work, and do not modify repository files unless the current instruction separately authorizes changes.
 compatibility: Designed for the motafegh/Career repository and agents with access to the relevant conversation/tool trace, session logs, or other execution evidence for the task being reviewed.
 ---
 
@@ -13,7 +13,9 @@ Analyze what an AI assistant **actually did** during a completed Career task and
 
 This is not an idealized description of how the task should have been performed. It is an evidence-based execution retrospective.
 
-Use this skill only on explicit request or during an explicitly authorized governance/skill-system audit. Default to analysis-only.
+Use this skill only on explicit request or during an explicitly authorized **agent-execution / skill-system retrospective**. A substantive audit of Career's canonical governance, strategy, plans, portfolio, capability model, or market rules is not automatically an agent retrospective merely because governance files are involved; use the canonical owners directly unless the task specifically asks how a completed agent actually navigated or applied them.
+
+Default to analysis-only.
 
 ## Evidence sources
 
