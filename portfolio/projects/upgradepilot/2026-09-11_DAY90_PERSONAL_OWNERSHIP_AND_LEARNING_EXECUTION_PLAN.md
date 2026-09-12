@@ -1,11 +1,11 @@
-# UpgradePilot — Day-90 Personal Ownership and Learning Execution Plan
+# UpgradePilot — Day-90 Personal Ownership and Learning Plan
 
 **Date:** 2026-09-11  
 **Horizon:** 2026-09-11 through 2026-10-17  
 **Owner:** Ali Rajabi / Career  
-**Status:** Active Career-level personal execution plan; AI-era resilience refinements adopted 2026-09-11  
-**Technical authority:** `motafegh/UpgradePilot` root governance, `MEMORY.md`, selected project plan, active working memory, source/tests, and project-local Learning-by-Doing system  
-**Career authority:** `../../../CAREER_STATE.md`, `../../../plans/CURRENT_CAREER_CYCLE.md`, `../../../plans/CURRENT_WEEK.md`, and this project's `CAREER_RECORD.md`
+**Status:** Active Career-level personal-outcome plan; technical continuation intentionally delegated to UpgradePilot  
+**Technical authority:** `motafegh/UpgradePilot` root governance, `MEMORY.md`, selected project plan/working memory, source/tests, and project-local Learning-by-Doing system  
+**Career authority:** `../../../CAREER_STATE.md`, `../../../plans/CURRENT_CAREER_CYCLE.md`, and this project's `CAREER_RECORD.md`
 
 ## 1. Purpose
 
@@ -13,9 +13,9 @@ Use UpgradePilot as Ali's sole primary capability-building flagship for the rema
 
 This plan answers:
 
-> What should Ali personally learn, understand, practice, verify, modify, diagnose, and be able to explain through legitimate UpgradePilot work before the Day-90 Career review?
+> What should Ali personally become better able to understand, verify, modify, diagnose, transfer, and explain through legitimate UpgradePilot work before the Day-90 Career review?
 
-It does **not** own UpgradePilot's exact technical continuation, implementation order, source/test TODO, or project gate sequence.
+It does **not** own UpgradePilot's exact technical continuation, implementation order, source/test TODO, proof debt, active phase, or next slice.
 
 Use the separation:
 
@@ -25,12 +25,11 @@ Career plan
 
 UpgradePilot
 → exact current responsibility
-→ A→B→C→D→E Learning-by-Doing sequence
-→ source/tests/commands/proof
+→ learning / implementation / source / tests / commands / proof
 → technical next slice
 ```
 
-When this file and UpgradePilot's current `MEMORY.md` differ about technical continuation, UpgradePilot wins.
+Every project session must begin from UpgradePilot's **current** project-local owners. Do not recover technical continuation from this Career plan.
 
 ---
 
@@ -42,483 +41,306 @@ A strong cycle result is:
 
 ```text
 several current source/test responsibilities genuinely understood
-+ representative tests Ali can reason through
-+ at least one legitimate ownership-bearing modification if project work creates the opportunity
++ representative tests/evaluations Ali can reason through
++ at least one legitimate ownership-bearing modification if real project work creates the opportunity
 + at least one credible current causal-diagnosis case if a real failure occurs
 + changed-context transfer beyond memorized examples
 + concise technical explanation of UpgradePilot at multiple depths
-+ continued strong AI-agent direction without pretending AI output is personal implementation ownership
++ continued strong AI-agent direction with explicit verification/accountability
 ```
 
 These are directional evidence targets, not quotas. Do not manufacture changes, failures, or exercises merely to satisfy this list.
 
 The AI-era resilience lens is:
 
-> **Use AI aggressively for execution, but make Ali's learning increasingly about the engineering responsibility that remains: intent, technical mental model, acceptance criteria, verification, diagnosis, meaningful correction, transfer, risk and explanation.**
+> **Use AI aggressively for execution while increasing Ali's ownership of intent, technical mental model, acceptance criteria, verification, diagnosis, meaningful correction, transfer, risk and explanation.**
 
 This does not replace technical depth with management-only thinking.
 
 ---
 
-## 3. Current entry point — 2026-09-11 snapshot
+## 3. Session-start rule
 
-At plan creation, UpgradePilot `main` has advanced into the overall maintainer-action synthesis responsibility.
+At the start of each UpgradePilot session:
 
-Current project-local state, for orientation only:
+1. read UpgradePilot's current root governance and `MEMORY.md`;
+2. follow the project-local owner selected there;
+3. identify the one current engineering responsibility Ali should personally understand better;
+4. decide the personal outcome for the session without changing the project's technical route from Career.
 
-- the accepted synthesis layer consumes `PublicPullRequestInvestigation` and produces bounded maintainer-facing action reasoning;
-- the first deterministic evaluator is implemented in `src/upgradepilot/maintainer_action.py`;
-- the first evaluator currently admits only explained `abstain`;
-- focused tests exist in `tests/test_maintainer_action.py`;
-- source/static validation is recorded, while focused execution against the actual repository environment and broader regression proof remain explicit debt;
-- the active project-local Learning-by-Doing record places the current slice in D/E ownership learning before selecting the next implementation slice.
-
-This snapshot is **not** a durable technical continuation rule. Re-read UpgradePilot `MEMORY.md` whenever resuming project work.
+Career may read through project state to make Ali's plan usable, but volatile project continuation must remain project-local and must not be copied back into this file.
 
 ---
 
-## 4. Ali's operating rule for every substantive UpgradePilot slice
+## 4. Ali's ownership loop for substantive slices
 
-UpgradePilot's own A→B→C→D→E loop remains controlling. Ali should use it with the following personal ownership emphasis.
+UpgradePilot's own Learning-by-Doing procedure remains controlling. Career adds only this personal ownership lens.
 
-### A — Before real work
+### Before consequential work
 
-Ali should be able to state, in his own words:
+Ali should be able to state proportionately:
 
-1. what responsibility is being changed, investigated, or proved;
-2. where its input comes from;
-3. what output/state it is expected to produce;
-4. the main decision, uncertainty, or failure boundary;
-5. what would count as useful proof for this slice.
+- what responsibility is being changed, investigated, or proved;
+- where its important input/evidence comes from;
+- what output/state matters;
+- the main failure, uncertainty, or trust boundary;
+- what useful proof would look like;
+- one stronger claim or non-goal that is not earned.
 
-For a consequential new responsibility, also state proportionately:
+Do not require full implementation knowledge before work begins.
 
-- what **success** means;
-- what important **failure / unresolved state** must remain distinguishable;
-- one important **non-goal or stronger claim that is not earned**;
-- what evidence/test/evaluation would justify acceptance;
-- one changed case that could discriminate a weak design from a good one.
-
-Do not require full implementation knowledge before work begins. The goal is enough mental model and acceptance intent to make the action meaningful, not to pre-design every line before learning from real implementation.
-
-### B — During real work
+### During work
 
 AI may write substantial or most code.
 
-Ali should personally engage when the slice contains:
+Ali should engage materially when work contains:
 
-- a consequential behavior or contract choice;
-- a new data/state representation;
-- a new failure or uncertainty rule;
-- a test that establishes an important product claim;
-- a potentially overengineered abstraction/framework;
-- a security/trust/provenance boundary;
-- a meaningful implementation alternative.
+- consequential behavior or contract choices;
+- important data/state representation;
+- new failure/uncertainty semantics;
+- tests/evaluations that establish a product claim;
+- security/trust/provenance boundaries;
+- potentially unnecessary abstractions/frameworks;
+- meaningful implementation alternatives.
 
-Ali does not need to type code manually merely to create ownership evidence.
+Manual typing is not the ownership metric.
 
-### C — Preserve project truth
+### After work
 
-Let UpgradePilot maintain its own working memory and technical state.
-
-Career should only retain the resulting capability/portfolio conclusion when something materially changes Ali's demonstrated evidence.
-
-### D — After implementation/investigation
-
-Ali should trace the **real** result rather than only reread the plan.
-
-For the selected responsibility, Ali should be able to answer:
+For the selected responsibility, Ali should increasingly be able to answer:
 
 ```text
 What enters this responsibility?
 What important types/states exist?
 What branches or transformations matter?
 What leaves it?
-What does the representative test establish?
-What does it NOT establish?
+What does the representative test/evaluation establish?
+What does it not establish?
 What can fail or remain unresolved?
-Why is this design placed here rather than somewhere else?
+Why is this responsibility placed here?
 ```
 
-For consequential slices, use the **automation-compression reflection** when it adds value:
+For consequential slices, also ask:
 
-> **If implementation became nearly free, what engineering responsibility would still be mine — and what technical understanding would I still need to verify, diagnose, modify, transfer and defend that responsibility?**
+> If implementation became nearly free, what engineering responsibility would still be mine, and what technical understanding would I need to verify, diagnose, modify, transfer and defend it?
 
-The answer must name technical substrate, not only management or review language. Skip or compress this reflection for familiar/repetitive child work.
+The answer must include technical substrate, not only review/management language.
 
-### E — Repair and transfer
+### Transfer
 
-Repair only important understanding gaps.
+After important learning, use one changed-context question when useful:
 
-Then ask at least one changed-context question, such as:
-
-- What changes if this input is missing instead of malformed?
+- What changes if the input is missing instead of malformed?
 - What changes if evidence conflicts instead of being unavailable?
-- Which test would fail if this invariant were removed?
-- Would the same design still work for a nearby but different case?
-- What evidence would be needed before a stronger action/claim became justified?
+- Which test would fail if this invariant disappeared?
+- Would the same design work for a nearby but different case?
+- What evidence would justify a stronger action or claim?
 
-For selected important slices, add the bounded **transferability reflection**:
+Then distinguish:
 
 ```text
-What is the transferable engineering responsibility here?
-What UpgradePilot-specific/domain knowledge only supports it?
-Where else would the same responsibility appear?
+transferable engineering responsibility
+vs
+UpgradePilot-specific supporting/domain knowledge
 ```
 
-Do not manufacture a generic lesson from every file/function. The objective is transfer, not memorization or ceremony.
+Do not create ceremony around every small function or repetitive child task.
 
 ---
 
 ## 5. What Ali should become strong in through UpgradePilot
 
-These are the primary transferable engineering anchors.
-
 ### 5.1 Python / software engineering
 
-Target: increasingly strong working depth.
+Target: increasingly strong working depth in responsibilities such as:
 
-Prioritize when encountered in real source:
+- tracing control/data flow across modules;
+- functions/classes/dataclasses/types and their practical contracts;
+- interfaces and responsibility boundaries;
+- explicit state and error/failure handling;
+- reading and modifying unfamiliar relevant code;
+- understanding why a representation or abstraction exists;
+- spotting unnecessary or case-shaped implementation.
 
-- functions, parameters, return values;
-- modules/import boundaries;
-- classes and dataclasses;
-- collections and immutable/mutable data structures;
-- `None`, unions, `Literal`, enums/state vocabularies where used;
-- practical type annotations and their runtime limits;
-- control flow and branching;
-- helper/private functions;
-- exceptions and typed problem states;
-- interfaces between application/domain/provider layers;
-- reading unfamiliar code;
-- making bounded changes without losing the surrounding contract;
-- predicting representative behavior before execution;
-- understanding and reviewing AI-generated diffs rather than only final output.
+### 5.2 Testing / evaluation / proof reasoning
 
-Do not turn this into a detached Python curriculum. Learn syntax/concepts just in time from active source. Strength means engineering mental-model ownership, not syntax recall or blank-page boilerplate speed.
+Target: strong working depth in:
 
-### 5.2 Testing, verification, and evaluation
+- fixture/input → action → assertion;
+- what a test proves and does not prove;
+- semantic faithfulness of test doubles/fixtures;
+- positive, negative, missing, conflicting and changed cases;
+- regression reasoning;
+- acceptance criteria and oracle quality;
+- executable proof versus static/documented claims.
 
-Target: strong early-career working depth.
+### 5.3 Debugging / causal diagnosis
 
-Ali should increasingly understand:
-
-- test setup / fixture / action / assertion;
-- why one test exists;
-- what product claim a test can and cannot support;
-- whether the test/eval oracle actually matches the intended requirement;
-- positive, negative, unresolved, malformed, changed and useful adversarial cases;
-- regression tests;
-- source bug vs fixture bug vs environment failure vs provider failure;
-- focused proof vs broader suite/system proof;
-- static validation vs executable validation;
-- false confidence from green checks;
-- model/agent evaluation where AI behavior is part of the responsibility;
-- why green tests do not prove production safety or personal ownership.
-
-### 5.3 Debugging and causal diagnosis
-
-Target: meaningful evidence before Day 90 if real failures arise.
-
-When a real failure occurs, Ali should participate before accepting a complete AI diagnosis:
+Target: stronger responsibility for:
 
 ```text
-observe symptom
-→ form one or more plausible cause families
-→ choose useful discriminating evidence
-→ narrow the failing boundary
-→ distinguish code/test/environment/external-system causes
-→ choose or challenge the repair
-→ verify the repair or unresolved state
+symptom
+→ plausible cause families
+→ evidence selection
+→ boundary localization
+→ repair choice
+→ verification
 ```
 
-AI may run commands and inspect code. Ali's evidence comes from useful causal participation, not manual keystrokes.
+Use real failures when they occur. Do not inject fake bugs for Career evidence.
 
-### 5.4 System/data/evidence reasoning
+### 5.4 External systems / data / evidence
 
-Target: maintain as a relative strength and connect it more tightly to implementation.
+Target: practical depth in:
 
-Become comfortable reasoning about:
+- API/external-source boundaries;
+- identity/revision/provenance;
+- validation and typed states;
+- missing versus negative versus conflicting evidence;
+- trust boundaries;
+- composition of evidence from independent sources;
+- retries/errors/timeouts only where current project work legitimately requires them.
 
-- exact identity and revisions;
-- provenance/authority;
-- missing vs negative evidence;
-- unsupported vs unresolved vs conflicted states;
-- data/state composition across modules;
-- external-provider boundaries;
-- evidence strength versus decision permission;
-- explicit abstention/claim limits;
-- responsibility ownership between layers.
+### 5.5 System design judgment
 
-Do not allow conceptual evidence reasoning to substitute for being able to inspect, change, test and diagnose the implementation carrying that evidence.
+Target: stronger judgment about:
 
-### 5.5 Intent / specification / acceptance ownership
+- responsibility placement;
+- module/layer boundaries;
+- when abstraction is earned;
+- deterministic versus model authority;
+- preserving uncertainty;
+- avoiding hard-coded special cases;
+- avoiding unnecessary framework/infrastructure expansion.
 
-Target: explicit cross-cutting engineering responsibility, not a detached curriculum.
+### 5.6 AI-agent engineering as a differentiator
 
-On consequential work Ali should increasingly be able to state:
+Continue improving:
 
-```text
-what problem/responsibility is actually owned
-what success means
-what failure/unresolved state matters
-what stronger claim is intentionally not earned
-what evidence would justify acceptance
-what changed case would pressure the design
-```
+- repository/context selection;
+- decomposition and scope control;
+- agent/harness instructions;
+- evidence demands and acceptance checks;
+- review of generated source/tests;
+- overengineering detection;
+- context/memory/state design;
+- human checkpoints and escalation;
+- accountability for the final technical claim.
 
-This is technical responsibility ownership. It must remain tied to real source/tests/evidence rather than becoming abstract product-management prose.
-
-### 5.6 AI-agent engineering
-
-Target: preserve as a differentiator while strengthening technical accountability.
-
-Continue practicing:
-
-- scoping tasks for agents;
-- supplying the right repository context;
-- selecting the right operation/Skill;
-- preventing scope drift and overengineering;
-- challenging model assumptions;
-- demanding evidence rather than polished prose;
-- using tests/evals as feedback;
-- preserving durable working state;
-- selecting tools/models proportionately where relevant;
-- setting permissions/human checkpoints where relevant;
-- deciding what requires human judgment;
-- checking that the produced source/test behavior matches the intended responsibility.
-
-Avoid reducing this to "prompting skill". The professional claim is engineering leverage with verification and accountability.
+This is not reducible to prompting skill and does not replace the technical anchors above.
 
 ---
 
-## 6. What Ali only needs at working/domain depth
+## 6. What should remain working-depth or deferred
 
-Understand these well enough to reason about and defend UpgradePilot, but do not make them standalone specialization goals this cycle:
+UpgradePilot-specific details such as dependency-update mechanics, PyPI/package metadata, CI-consumption details, artifact serviceability, support-drop reasoning, and maintainer-action semantics are primarily the **domain vehicle** for learning engineering. Learn them deeply enough to understand and defend the project, not as separate career specializations.
 
-- Dependabot behavior;
-- Python packaging/PyPI specifics;
-- dependency-update evidence;
-- GitHub Actions/CI consumption details;
-- upstream changelog/release evidence;
-- Python-support-drop reasoning;
-- artifact serviceability;
-- target-environment composition;
-- maintainer-action synthesis;
-- product-specific evidence-state vocabularies.
+Do not reopen or pursue these merely for breadth unless the project legitimately requires them:
 
-These are the **domain vehicle** for learning engineering, not the target profession.
-
----
-
-## 7. What should remain deferred unless real project pressure appears
-
-Do not spend the remaining cycle mastering or re-opening these merely for breadth:
-
-- LangGraph internals;
-- LangChain internals;
+- LangGraph/LangChain internals;
 - generic multi-agent architecture;
 - broad cloud/Kubernetes infrastructure;
 - advanced Python metaprogramming/type-theory rabbit holes;
-- every GitHub API endpoint;
+- every GitHub/PyPI API detail;
 - every UpgradePilot module or historical plan;
-- persistence/database machinery merely to create SQL résumé keywords;
-- new frameworks or abstractions without demonstrated product need.
-
-If UpgradePilot later re-admits one of these for a real responsibility, reassess proportionately.
+- SQL/persistence machinery inserted only for résumé keywords;
+- new frameworks/abstractions without product pressure.
 
 ---
 
-## 8. Evidence opportunities to use when they naturally occur
+## 7. Evidence opportunities to use when they naturally occur
 
-### Priority A — ownership-bearing modification
+### Ownership-bearing modification
 
-A high-value case has this shape:
+High-value shape:
 
 ```text
-Ali understands the pre-change responsibility
-→ real project need requires a change
+Ali understands pre-change responsibility
+→ real project need requires change
 → Ali predicts/helps decide intended behavior
 → AI may implement substantial code
-→ Ali inspects source/tests/results
-→ Ali can explain why the change is correct and what remains limited
+→ Ali inspects source/tests/result
+→ Ali explains why it is correct and what remains limited
 ```
 
-Do not count commits under Ali's GitHub identity without this responsibility evidence.
+### Real causal diagnosis
 
-### Priority B — real causal diagnosis
+When a real failure appears, high-value evidence includes Ali selecting a useful cause family, inspection step, or boundary that materially advances diagnosis.
 
-Use a real current failure when one appears.
-
-Good evidence includes Ali selecting a useful cause family, inspection step, or boundary that materially advances diagnosis.
-
-Do not inject fake bugs for Career evidence.
-
-### Priority C — changed-context transfer
+### Changed-context transfer
 
 After learning one responsibility, use a nearby changed case to test whether the mental model transfers.
 
-This is especially valuable for:
+### Technical explanation
 
-- missing vs conflicting evidence;
-- different dependency source shapes;
-- different CI/static-consumption states;
-- different applicability states;
-- different synthesis permissions/abstention boundaries.
+Periodically practice explaining selected responsibilities through:
 
-### Priority D — technical explanation
-
-Periodically practice explaining one selected responsibility without reading the implementation line-by-line.
-
-Aim for:
-
-- concise architecture/data-flow explanation;
-- one representative test;
+- concise architecture/data flow;
+- one representative test/evaluation;
 - one failure/uncertainty case;
-- one design decision/tradeoff;
-- the transferable responsibility when useful;
+- one design trade-off;
+- transferable responsibility;
 - accurate AI-assistance boundary.
+
+Career should preserve evidence only when the resulting event is material enough to change a capability/portfolio conclusion.
 
 ---
 
-## 9. Calendar route to Day 90
+## 8. Remaining-cycle Career expectations
 
-### Phase 1 — 2026-09-11 through 2026-09-17
+### Through the September checkpoint
 
-**Primary UpgradePilot outcome:** close the current legitimate synthesis slice properly and continue only through project-owned gates.
+- keep UpgradePilot dominant;
+- continue the project-owned route;
+- convert current legitimate work into stronger source/test/proof understanding;
+- close remaining E2 Career work in parallel without displacing the flagship;
+- return to Career if project evidence materially changes an ownership conclusion.
 
-Ali focus:
+### Late September
 
-- complete the current D/E ownership check on the active maintainer-action synthesis slice;
-- understand the current source/test flow at practical depth;
-- participate in pending executable proof when an eligible project environment is available;
-- if proof fails, participate in the diagnosis before accepting a fix;
-- let UpgradePilot choose the next justified technical slice after the gate closes.
+- continue legitimate project work and increasingly use real modification/failure opportunities for ownership;
+- begin/continue the pre-authorized narrow application-calibration lane once the live Career gate clears;
+- keep SQL/Git work bounded and secondary.
 
-Career parallel lane:
+### Early October
 
-- finish the very small remaining E2 GitHub UI work;
-- do not let portfolio work displace meaningful UpgradePilot work.
+- consolidate transferable engineering depth;
+- use classified application/interview evidence to prioritize only high-value gaps;
+- strengthen employer-defensible project explanation;
+- avoid new architecture/framework expansion for its own sake.
 
-**September 17 checkpoint:** inspect whether E2/application activation or a material UpgradePilot ownership event requires a Career update. Do not run a duplicate full review automatically.
+### Final Day-90 window
 
-### Phase 2 — 2026-09-18 through 2026-09-30
-
-**Primary UpgradePilot outcome:** convert continuing legitimate project work into stronger implementation/test ownership.
-
-Ali focus:
-
-- continue the real project route, not a Career-invented exercise sequence;
-- select the most important current source/test responsibility in each substantive slice;
-- use real modifications and real failures as ownership opportunities;
-- practice changed-context reasoning after important slices;
-- increasingly explain why tests/proof are sufficient for a bounded claim and insufficient for stronger claims;
-- use automation-compression/transfer reflections only on consequential slices where they sharpen ownership.
-
-Career parallel lane:
-
-- after E2 closure, begin the pre-authorized narrow application-calibration band;
-- keep SQL/Git work bounded and secondary to the flagship.
-
-### Phase 3 — 2026-10-01 through 2026-10-12
-
-**Primary UpgradePilot outcome:** consolidate transferable engineering depth and interview-defensible project ownership.
-
-Ali focus:
-
-- continue only high-value legitimate project work;
-- revisit selected central responsibilities if needed for integrated understanding, not memorization;
-- practice explaining UpgradePilot at multiple depths;
-- use classified application/interview feedback to identify only high-value gaps that UpgradePilot can legitimately improve;
-- avoid new frameworks/architecture simply because Day 90 is approaching.
-
-Career parallel lane:
-
-- refine role targeting from real market response;
-- strengthen SQL/Git/interview skills only where evidence shows value.
-
-### Phase 4 — 2026-10-13 through 2026-10-17
-
-**Primary UpgradePilot outcome:** consolidate and assess, not expand.
+Consolidate and assess rather than expand.
 
 Ali should be able to present:
 
-1. **30-second explanation** — user/problem/product value;
-2. **2-minute explanation** — main evidence flow, current behavior, why trust/abstention matters, Ali-vs-AI contribution;
-3. **technical discussion** — selected source/test responsibilities, a real design decision, a real modification/diagnosis if available, proof limits, one changed-context example, and the transferable engineering responsibility behind selected project-specific mechanisms.
+1. a 30-second user/problem/product explanation;
+2. a 2-minute evidence-flow and Ali-versus-AI explanation;
+3. a deeper technical discussion of selected responsibilities, tests/evaluations, design trade-offs, proof limits, changed-context reasoning, and any legitimate modification/diagnosis evidence that occurred.
 
-Do not chase project completion for its own sake during this closeout window.
-
-Day 90 assesses capability, evidence, market feedback, and next-cycle direction—not feature count.
+Exact technical work inside each period remains UpgradePilot-owned and may change without requiring edits to this plan.
 
 ---
 
-## 10. Weekly capacity guidance
+## 9. Capacity and parallel Career work
 
 Career's Green ceiling remains up to **24 focused hours/week**, not a quota.
 
-Default allocation:
+The controlling cycle allocation is approximately:
 
 ```text
-UpgradePilot personal technical attention: approximately 18–20 hours
-Career / E2 / applications / SQL / Git:    approximately 4–6 hours combined
+75–85%  UpgradePilot / flagship technical responsibility
+15–25%  Career-owned positioning / applications / SQL / Git / market work combined
 ```
 
-Use the range flexibly.
+Use the current Career state/directive for exact macro priorities in the non-flagship lane.
 
-A meaningful UpgradePilot slice may justify more flagship time in one week. Career administration should not consume a technical week.
-
-Autonomous JobHunter/Sentinel AI work is not Ali's personal learning time.
+Applications should proceed in parallel once their approved gate clears; do not wait for UpgradePilot to finish. SQL/Git should remain bounded role-widening work rather than distort UpgradePilot's product route.
 
 ---
 
-## 11. Relationship to applications, SQL, and Git
-
-### Applications
-
-UpgradePilot should **continue while applications begin** after E2 closure.
-
-Do not wait for UpgradePilot completion or broad D3 ownership before collecting bounded market feedback.
-
-Application evidence may later change what deserves emphasis inside this plan, but only after Career classifies whether the signal is a transferable technical gap, positioning issue, access gate, role-fit issue, or low-information noise. Career must not distort UpgradePilot's technical route for one vacancy keyword or unexplained rejection.
-
-### SQL
-
-SQL remains a material role-widening gap.
-
-Do not force relational persistence into UpgradePilot if the product does not need it.
-
-If no legitimate UpgradePilot responsibility supplies relational evidence, Career may run the separately authorized bounded SQL intervention after E2 closure.
-
-### Git / review
-
-When legitimate UpgradePilot work naturally supports branch/PR/review practice, use it.
-
-Do not create synthetic collaboration ceremony solely to satisfy Career evidence.
-
----
-
-## 12. Practical session template for Ali
-
-For an ordinary UpgradePilot session, recover only these questions:
-
-```text
-1. What does UpgradePilot MEMORY.md say is current?
-2. What is the current A/B/C/D/E stage?
-3. What one engineering responsibility should I personally understand better today?
-4. What source/test/proof should I be able to explain afterward?
-5. What acceptance boundary or stronger non-claim matters for this responsibility?
-6. Is there a legitimate modification or real failure where I should take more responsibility?
-7. For a consequential slice, would the automation-compression or transferability question sharpen my ownership?
-8. What depth is enough today, and what should remain deferred?
-9. Did anything happen that materially changes my Career capability/portfolio evidence?
-```
-
-If question 9 is no, do not update Career merely because a project session happened.
-
----
-
-## 13. Stop lines
+## 10. Stop lines
 
 Do not:
 
@@ -526,47 +348,40 @@ Do not:
 - manually rewrite AI-generated code merely to prove effort;
 - count repository progress as Ali capability automatically;
 - manufacture bugs or arbitrary modifications;
-- turn automation-compression into management-only learning or repetitive ceremony;
-- force a generic transfer lesson from every implementation detail;
+- turn AI-era reflection into management-only learning or repetitive ceremony;
+- force generic transfer lessons from every implementation detail;
 - force SQL/cloud/frameworks into UpgradePilot for résumé breadth;
-- reopen LangGraph/LangChain without real project justification;
-- spend days rereading historical plans when current source/plan is enough;
+- reopen deferred frameworks without real project justification;
+- spend days rereading historical plans when current project owners are sufficient;
 - let documentation/governance replace real source/test/proof work;
-- wait until UpgradePilot is "finished" before applying for jobs;
+- wait until UpgradePilot is finished before applying for jobs;
 - let applications consume the flagship learning route;
-- pursue mid/senior claims unsupported by current evidence.
+- pursue unsupported mid/senior claims;
+- copy UpgradePilot's volatile technical next action into Career.
 
 ---
 
-## 14. Day-90 evidence review questions
+## 11. Day-90 evidence review questions
 
 At the 2026-10-17 Career review, ask:
 
-1. Which current UpgradePilot responsibilities can Ali now trace and explain without heavy prompting?
-2. Which representative tests/evaluations can he interpret correctly, including oracle quality and proof limits?
-3. Did a legitimate ownership-bearing modification occur? What exactly was Ali's responsibility?
+1. Which current UpgradePilot responsibilities can Ali trace and explain without heavy prompting?
+2. Which representative tests/evaluations can he interpret correctly, including proof limits?
+3. Did a legitimate ownership-bearing modification occur? What was Ali's responsibility?
 4. Did a real current failure diagnosis occur? What causal contribution was Ali's?
-5. Can Ali transfer reasoning to a changed case and distinguish transferable responsibility from project-domain detail?
-6. Has Ali become better at stating acceptance/non-goal/claim boundaries before consequential work?
+5. Can Ali transfer reasoning to changed cases and distinguish transferable responsibility from domain detail?
+6. Has Ali improved at stating acceptance/non-goal/claim boundaries before consequential work?
 7. Has AI-agent direction become more technically accountable rather than merely more elaborate?
 8. Can Ali defend UpgradePilot clearly to an employer without overclaiming authorship?
-9. Which gaps remain genuinely employment-relevant after **classified** application feedback?
+9. Which gaps remain employment-relevant after classified market feedback?
 10. Should UpgradePilot remain the primary flagship for the next Career cycle?
 
 ---
 
-## 15. Exact immediate action
+## 12. Technical handoff
 
-Resume UpgradePilot from its current project-local owner, not from this Career plan.
+There is intentionally **no exact immediate UpgradePilot technical action in this Career file**.
 
-At the 2026-09-11 snapshot that means:
+Resume every technical session from UpgradePilot's current project-local authority chain, beginning with its root governance and `MEMORY.md`, then follow whatever current plan/working-memory/source/test owner that repository selects.
 
-```text
-complete the active maintainer-action synthesis D/E ownership stage
-→ obtain the pending focused executable proof when the real environment permits
-→ participate in diagnosis if proof fails
-→ let UpgradePilot select the next legitimate bounded slice
-→ repeat the project A→B→C→D→E loop with increasing Ali ownership
-```
-
-In parallel, close the remaining E2 GitHub UI actions and then activate the already-authorized narrow application-calibration lane.
+Career defines the personal outcome and later evaluates evidence. UpgradePilot defines the technical continuation.
