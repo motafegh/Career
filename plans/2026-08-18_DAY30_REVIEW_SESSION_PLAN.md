@@ -1,11 +1,14 @@
 # 2026-08-18 Day-30 Career Review Session Plan
 
 **Owner:** Ali Rajabi  
-**Status:** Active one-time Career review execution plan  
+**Status:** COMPLETE / HISTORICAL — one-time Day-30 review execution plan; do not execute as current guidance  
 **Review date:** 2026-08-18  
-**Career authority:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md), [`../governance/CAREER_OPERATING_CONTRACT.md`](../governance/CAREER_OPERATING_CONTRACT.md)  
+**Career authority at execution:** [`../CAREER_STATE.md`](../CAREER_STATE.md), [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md), [`../governance/CAREER_OPERATING_CONTRACT.md`](../governance/CAREER_OPERATING_CONTRACT.md)  
 **Technical assessment contract:** [`2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`](2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md)  
-**Purpose:** Execute the formal Day-30 review completely and convert current evidence into explicit Career decisions and canonical records.
+**Purpose:** Preserve the procedure used to execute the formal Day-30 review and convert that evidence into explicit Career decisions and canonical records.
+
+> [!NOTE]
+> The Day-30 review was completed on 2026-08-18. This file is frozen historical process evidence. Current Career state, capability, portfolio, application readiness, and next action must be read from their canonical current owners rather than reconstructed from this plan.
 
 ## 1. Session objective
 
