@@ -130,7 +130,9 @@ Career should favor:
 - learning around active responsibilities;
 - production-oriented quality without premature infrastructure;
 - explicit scope and stopping controls;
-- reduced AI dependence over time.
+- continued effective AI leverage with decreasing opaque or unverified dependence and increasing human judgment, verification, modification, diagnosis, and ownership.
+
+Using less AI is not a Career objective by itself. The objective is stronger accountable engineering capability while using AI proportionately and effectively.
 
 Career should reject detached technology collecting and projects created mainly to display résumé keywords.
 
