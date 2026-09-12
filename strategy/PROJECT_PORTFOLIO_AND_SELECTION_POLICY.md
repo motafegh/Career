@@ -68,13 +68,13 @@ A project with no active Career role beyond Git history or a concise record.
 
 Retirement is not failure. It may reflect completed value, poor fit, duplication, infeasibility, or an evidence-based decision to stop.
 
-## 3. Current portfolio allocation
+## 3. Current-role ownership
 
-- **UpgradePilot:** Primary.
-- **Sentinel:** Historical evidence.
-- **AegisLab:** Historical evidence.
+This policy defines the role taxonomy and admission/reclassification rules. It does **not** own the current project allocation.
 
-No other major project is currently authorized.
+Use [`../portfolio/PROJECT_PORTFOLIO.md`](../portfolio/PROJECT_PORTFOLIO.md) and the relevant project Career record for the current project list and assigned roles. Use `CAREER_STATE.md` only for the live Career position and allocation emphasis.
+
+Do not copy the current portfolio allocation back into this durable policy. A project-role change should update the current portfolio owner and, when material, the live Career state/review record without rewriting this policy unless a general rule changed.
 
 ## 4. Admission decision order
 
@@ -150,8 +150,10 @@ Define:
 
 - which responsibilities Ali must understand, modify, test, diagnose, and explain;
 - where AI generation is acceptable;
-- how assistance decreases or ownership evidence increases;
+- how opaque/unverified dependence should decrease or ownership evidence should increase;
 - which prior work cannot be treated as proof.
+
+The goal is not to minimize AI use. The goal is increasing accountable human understanding, verification, modification, diagnosis, transfer, and claim defensibility while using AI effectively.
 
 ### Scope gate
 
