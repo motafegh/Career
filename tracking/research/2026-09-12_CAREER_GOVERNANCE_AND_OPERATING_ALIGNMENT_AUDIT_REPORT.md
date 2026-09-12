@@ -1,248 +1,277 @@
 # Career Governance, Strategy, and Operating Alignment Audit Report
 
 **Date opened:** 2026-09-12  
-**Status:** ACTIVE — C0–C5 complete; C6 next  
+**Status:** ACTIVE — C0–C7 complete; C8 next  
 **Parent plan:** `../../plans/2026-09-12_CAREER_GOVERNANCE_STRATEGY_AND_OPERATING_ALIGNMENT_AUDIT_PLAN.md`  
 **Audit mode:** read-only against canonical Career owners until C12 decision gate  
 **Inspected Career `main` horizon:** `be8bf2db57f13d3bf643861a367a51d100c31f01`
 
 ## Audit discipline
 
-This is dated audit evidence, not a canonical Career owner. No remediation is authorized until C12 and Ali's review.
-
-Detailed earlier phase versions remain in Git history. This file keeps cumulative decision-relevant findings.
+Dated audit evidence only; no canonical remediation authorized yet. Detailed phase evidence is preserved in prior Git revisions of this report.
 
 ---
 
-## C0 — Horizon / authority
+## C0–C5 cumulative result
 
-**COMPLETE.** Audit horizon frozen at `be8bf2db57f13d3bf643861a367a51d100c31f01`.
+### Strong foundations to preserve
 
-Authority chain and live-state doctrine confirmed. Current Career position remains: UpgradePilot sole flagship; E2 manual UI actions are the current global activation gate; narrow applications pre-authorized after E2; SQL/Git are bounded widening gaps; no P0–P7 identity/flagship/workload change.
+- Authority chain and Career↔project boundary are clear.
+- Every major truth class has a normal owner.
+- P0–P7 is already represented in the right high-level owners; no repo-wide terminology propagation is justified.
+- Project-admission rules are strong and already reject technology-first/new-project sprawl.
+- D0–D5 capability/evidence model is highly aligned with AI-heavy engineering: responsibility-specific, assistance-aware, changed-case/failure/transfer-sensitive, and explicitly resistant to AI-output-as-ownership or manual-authorship fetishism.
 
----
+### Confirmed findings from C2–C4
 
-## C1 — Owner inventory
-
-**COMPLETE.** Every major truth type has a normal owner:
-
-| Responsibility | Owner |
-|---|---|
-| Mission / boundary / evidence doctrine | `CAREER_CHARTER.md` |
-| Live position / exact next Career action | `CAREER_STATE.md` |
-| Workload / review / handoff / anti-diversion | `governance/CAREER_OPERATING_CONTRACT.md` |
-| Durable role/capability/AI-era strategy | `strategy/CAREER_STRATEGY.md` |
-| Project admission / taxonomy / reuse / closure | `strategy/PROJECT_PORTFOLIO_AND_SELECTION_POLICY.md` |
-| Advanced capability exposure | `strategy/ADVANCED_CAPABILITY_EXPOSURE_POLICY.md` |
-| Current cycle outcomes / allocation / review points | `plans/CURRENT_CAREER_CYCLE.md` |
-| Current project roles | `portfolio/PROJECT_PORTFOLIO.md` |
-| Project-specific Career interpretation | `portfolio/projects/<project>/CAREER_RECORD.md` |
-| Demonstrated capability | `tracking/CAPABILITY_EVIDENCE_LEDGER.md` |
-| Employability / market method | `market/EMPLOYABILITY_AND_MARKET_PLAN.md` |
-| Review decisions/history | `tracking/CAREER_REVIEW_LOG.md` |
-| Stable public-safe personal facts | `profile/CAREER_PROFILE.md` |
-| Procedure routing | `.agents/README.md` + selected Skill |
-| Security/privacy | `governance/SECURITY_AND_PRIVACY.md` |
-
-No missing major owner found.
-
----
-
-## C2 — Root governance / project boundary
-
-**COMPLETE.** Root Career↔project separation is a strong part of the system and should be preserved.
-
-### C2-F01 — Cycle duplicates exact live-action ownership
-
+#### C2-F01 — Current Cycle duplicates exact live-action ownership
 - **Class:** CONFLICT
 - **Severity:** MEDIUM
 - **Confidence:** HIGH
-- **Area:** `plans/CURRENT_CAREER_CYCLE.md` vs `CAREER_STATE.md`
-- **Evidence:** root governance says only State may own exact next Career action; Cycle contains `Current exact action`.
-- **Why it matters:** creates two mutable owners for intentionally single-owner live state.
-- **Provisional disposition:** **MOVE / NARROW** — keep stable sequence/gates in Cycle, link to State for exact action.
-- **Pending:** C7 reconciliation with `CURRENT_WEEK.md`.
+- `CURRENT_CAREER_CYCLE.md` contains `Current exact action` although `CAREER_STATE.md` is the sole live/exact-action owner.
+- **Disposition:** MOVE / NARROW.
 
-**Keep:** root Career↔project boundary, Operating Contract handoff model, README live-state disclaimer, Security/Privacy.
-
----
-
-## C3 — P0–P7 / AI-era alignment
-
-**COMPLETE.** Adoption is substantively successful and already concentrated in the right places. Strategy owns the responsibility/transfer model and AI-era review logic; Market owns filtered feedback; Ledger already measures AI-assisted ownership appropriately; Profile already says the goal is not to stop using AI; Advanced Exposure rejects technology tourism.
-
-### C3-F01 — Charter `reduced AI dependence over time`
-
+#### C3-F01 — Charter `reduced AI dependence over time`
 - **Class:** CONFLICT
 - **Severity:** HIGH
 - **Confidence:** HIGH
-- **Area:** `CAREER_CHARTER.md` §7
-- **Evidence:** high-authority Charter language can be read as `use AI less`, while accepted Strategy/Profile/P0–P7 preserve strong AI leverage and target stronger verification/modification/diagnosis/ownership.
-- **Why it matters:** Charter outranks Strategy.
-- **Disposition:** **CLARIFY / REPLACE wording only** — reduce opaque/unverified dependence, not effective AI leverage.
+- High-authority wording is ambiguous against accepted `strong AI leverage + increasing verification/modification/diagnosis/ownership` model.
+- **Disposition:** CLARIFY / REPLACE wording only; reduce opaque/unverified dependence, not useful AI leverage.
 
-### C3-F02 — Strategy retains superseded Day-30 application hold
-
+#### C3-F02 — Strategy retains superseded Day-30 application hold
 - **Class:** STALE
 - **Severity:** MEDIUM
 - **Confidence:** HIGH
-- **Area:** `strategy/CAREER_STRATEGY.md` §12
-- **Evidence:** dated paragraph still calls source/test/debugging, SQL and positioning the main readiness blockers and points to Sep 1; A7 later made E2 the sole current global gate and allowed narrow applications without SQL mastery/broad D3.
-- **Disposition:** **CLARIFY / MARK HISTORICAL / REMOVE stale operational text**.
+- Historical source/test/SQL/positioning blocker paragraph + Sep-1 reassessment remains inside active Strategy despite A7 making E2 the sole current global gate.
+- **Disposition:** CLARIFY / HISTORICAL / remove stale operational statement.
 
-**Keep:** responsibility/transfer lens, capability/autonomy/adoption/labor distinction, evidence-convergence review trigger, Advanced Exposure philosophy, Profile AI philosophy.
-
----
-
-## C4 — Portfolio / project admission
-
-**COMPLETE.** The substantive project-admission model is strong: one flagship, smaller intervention before new project, bounded supporting work, experiments with stop conditions, no technology-first mission, no automatic capability transfer from AI-full projects.
-
-Current correct project picture is consistent across Portfolio and per-project records:
-
-- UpgradePilot — sole primary capability-building flagship;
-- JobHunter — active AI-full applied-AI product + market infrastructure + portfolio asset;
-- Sentinel — active AI-full ML/data/security research + portfolio case-study asset;
-- AegisLab — historical.
-
-### C4-F01 — Selection policy embeds stale current allocation
-
+#### C4-F01 — Selection Policy embeds stale current project allocation
 - **Class:** CONFLICT + STALE
 - **Severity:** HIGH
 - **Confidence:** HIGH
-- **Area:** `strategy/PROJECT_PORTFOLIO_AND_SELECTION_POLICY.md` §3
-- **Evidence:** policy says UpgradePilot Primary, Sentinel Historical, AegisLab Historical, omits JobHunter; current Portfolio owner disagrees.
-- **Root cause:** durable policy is storing live/current role truth that belongs in `portfolio/PROJECT_PORTFOLIO.md`.
-- **Disposition:** **MOVE / REMOVE** current-allocation section and link to Portfolio; do not simply refresh table.
+- Policy says Sentinel historical and omits JobHunter, conflicting with canonical Portfolio/current records.
+- **Root cause:** current project-role truth is duplicated inside durable admission policy.
+- **Disposition:** MOVE / REMOVE current-allocation section; link to `PROJECT_PORTFOLIO.md`.
 
-### C4-F02 — Portfolio retains Day-30 current weakness/priority detail
+#### C4-F02 — Portfolio contains stale current weaknesses/priorities
+- **Class:** STALE
+- **Severity:** MEDIUM
+- **Confidence:** HIGH
+- Role table is correct but current weaknesses/priorities still reflect Day-30 source/test/E2 state.
+- **Disposition:** NARROW / REFRESH; keep role/contribution/claim truth, delegate fast-changing capability/E2 status.
+
+#### C4-F03 — Profile duplicates mutable roles/projects and has drifted
+- **Class:** STALE + COST
+- **Severity:** MEDIUM
+- **Confidence:** HIGH
+- Profile duplicates Strategy target-role list and Portfolio project-role list; Sentinel/JobHunter classification is stale.
+- **Disposition:** NARROW / MOVE mutable classifications to links.
+
+### C5 — Capability/evidence system
+
+**No new material defect.**
+
+Keep:
+
+- D0–D5;
+- assistance labels;
+- performative-check prohibition;
+- recency/confidence/transfer limits;
+- changed-case/failure/delayed/reduced-prompt evidence;
+- A7 nine-dimension ownership lens as explanatory lens, not second scoring scale;
+- separation of capability from application readiness.
+
+---
+
+## C6 — Market, application activation, and feedback system
+
+**State:** COMPLETE
+
+### C6.1 Current application gate is coherent across the correct owners
+
+The following all converge:
+
+- `CAREER_STATE.md`;
+- `plans/CURRENT_CAREER_CYCLE.md`;
+- `plans/CURRENT_WEEK.md`;
+- A7 formal review;
+- `market/EMPLOYABILITY_AND_MARKET_PLAN.md`;
+- `portfolio/2026-09-08_E2_GITHUB_POSITIONING_IMPLEMENTATION.md`.
+
+Current rule:
+
+> **Minimum E2 public-positioning closure is the sole current global activation gate. After E2 and the short claim/materials check, begin the pre-authorized narrow calibration application band without waiting for SQL mastery or broad D3 implementation ownership.**
+
+SQL, Git/review, stronger modification/diagnosis, backend/data depth, and access constraints remain role-dependent/widening issues.
+
+### C6.2 E2 package is bounded rather than perfectionistic
+
+Repository-side corrections are complete. Remaining E2 actions are the manual GitHub UI surfaces plus a short final consistency check. The package explicitly says to stop there rather than mass-polish repositories.
+
+This is aligned with P0–P7's adjustment-risk lesson: enter real market contact rather than indefinitely preparing.
+
+### C6.3 Feedback loop is well-designed
+
+Market Plan correctly distinguishes:
+
+- high-information direct technical/practical/interviewer evidence;
+- repeated independent patterns;
+- positioning/explanation failures;
+- access/eligibility constraints;
+- low-information rejection/ghosting/niche-tool noise.
+
+The routing prevents both overreaction and denial:
+
+```text
+transferable responsibility gap → bounded remediation
+recurring role-specific substrate → strengthen existing gap lane
+positioning problem → repair claim/explanation
+access gate → retarget
+one niche tool → usually defer
+material strategy challenge → Career review
+```
+
+### C6.4 Master CV readiness
+
+The master CV remains claim-bounded and already reflects the three-project Ali/AI separation. It deliberately excludes SQL from demonstrated skills and requires private application copies for sensitive contact/eligibility information.
+
+Its metadata says last updated Day 30, but the current content already reflects JobHunter/Sentinel active portfolio roles and the public headline. A short final claim/materials check is explicitly pending after E2 UI completion, which is the correct place to catch any remaining wording drift before applications.
+
+No separate pre-application rewrite project is justified.
+
+### C6 confirmation of C3-F02
+
+The only material market/readiness inconsistency found is already recorded as **C3-F02**: the stale Day-30 readiness paragraph inside durable Strategy. Current State/Cycle/Week/Market/A7 all use the newer E2-only global gate.
+
+### C6 no-change conclusions
+
+- Employability stage model — **KEEP**.
+- E2-only current global gate — **KEEP**.
+- pre-authorized narrow calibration band — **KEEP**.
+- filtered feedback model — **KEEP**.
+- access-fit vs technical-fit separation — **KEEP**.
+- SQL as role-widening rather than universal blocker — **KEEP**.
+- E2 implementation package stop line — **KEEP**.
+- public/private application boundary — **KEEP**.
+
+**C6 defect result:** no new material defect beyond C3-F02.
+
+---
+
+## C7 — Plan, staleness, supersession, and live-work ownership
+
+**State:** COMPLETE
+
+### C7.1 Root problem
+
+The repository's current planning problem is **not lack of plans**. It is that too many artifacts still look active/current after their decision has matured elsewhere.
+
+Current execution truth is spread across:
+
+- `CAREER_STATE.md` — supposed sole exact live action;
+- `CURRENT_CAREER_CYCLE.md` — stable cycle outcomes, but also exact action;
+- `CURRENT_WEEK.md` — active post-A7 directive through next trigger, not actually one week;
+- `2026-09-07_DAY50_TO_DAY90...PLAN.md` — active Phase-B execution program and exact next action;
+- dated completed P0–P7 plan;
+- project-specific Career Day-90 plan;
+- audit plans.
+
+Several historical AegisLab/day-30 planning artifacts also remain in `plans/`.
+
+### C7-F01 — Day-50 reassessment plan duplicates current directive/live continuation after A7
+
+- **Class:** COST + STALE
+- **Severity:** MEDIUM
+- **Confidence:** HIGH
+- **Area:** `plans/2026-09-07_DAY50_TO_DAY90_CAREER_REALITY_REASSESSMENT_AND_EXECUTION_PLAN.md`
+
+**Evidence:** Phase A/A7 is complete. The file still marks Phase B active, contains B1–B7 execution directives, checklist state, allocation, and `Exact next action`. Much of this is also represented more currently in `CURRENT_WEEK.md`, Current Cycle, and State.
+
+Some B1 checklist items are stale because repository-side E2 work has since completed while the older plan still shows them unchecked.
+
+**Why it matters:** fresh agents can load an older but still `Active` program and reconstruct current work from stale checkboxes rather than current State/Week.
+
+**Provisional disposition:** **MARK HISTORICAL / NARROW** after preserving A0–A7 research-program provenance. Current execution should route through State + Cycle + at most one current directive surface.
+
+### C7-F02 — Day-30 one-time review artifacts remain `Active`
 
 - **Class:** STALE
 - **Severity:** MEDIUM
 - **Confidence:** HIGH
-- **Area:** `portfolio/PROJECT_PORTFOLIO.md`
-- **Evidence:** current role table is correct, but `Current weaknesses/priorities` still say source/test understanding was not established and broad positioning needs refresh; A7 and E2 moved beyond those statements.
-- **Disposition:** **NARROW / REFRESH** — keep project roles/contribution/claim boundaries; reduce fast-changing capability/E2 duplication and link to Ledger/State/E2 owner.
+- **Area:** `plans/2026-08-18_DAY30_REVIEW_SESSION_PLAN.md`, `plans/2026-08-18_TECHNICAL_CAPABILITY_CHECKPOINT.md`
 
-### C4-F03 — Profile duplicates current roles/projects and has drifted
+Both are explicitly dated 2026-08-18, and the Day-30 review is completed/superseded by later reviews, yet metadata still says **Active**.
 
-- **Class:** STALE + COST
-- **Severity:** MEDIUM
+**Why it matters:** these files contain intentionally frozen older technical/capability expectations. `Active` status can make them appear to be present-day ownership requirements.
+
+**Disposition:** **MARK HISTORICAL / COMPLETE**. Preserve them as evidence of the frozen Day-30 assessment target; do not rewrite their substantive historical content.
+
+### C7-F03 — Historical AegisLab plan warnings themselves contain obsolete current pointers
+
+- **Class:** STALE
+- **Severity:** LOW
 - **Confidence:** HIGH
-- **Area:** `profile/CAREER_PROFILE.md`
-- **Evidence:** profile duplicates current role list and portfolio list; Sentinel described as historical, JobHunter omitted; last reviewed Jul 27.
-- **Disposition:** **NARROW / MOVE** — keep stable facts/preferences/background; link to Strategy/Portfolio for mutable classifications.
+- **Area:** `plans/90_DAY_MASTER_PLAN.md`, `WEEKLY_PLAN.md`, `MONTHLY_PLAN.md`
 
-**Keep:** admission gates, one-primary rule, support non-duplication gate, experiment rules, historical reuse, per-project AI/Ali claim boundaries, project-area boundary.
+These files are commendably labeled `Historical Only` and strongly say not to execute them. However, their caution headers also contain old dynamic claims such as:
 
----
+- `../UpgradePilot.md` is the governing project charter;
+- UpgradePilot implementation has not started;
+- the next authorized action is to create the UpgradePilot Learning and Execution Contract.
 
-## C5 — Capability / evidence / claim system
+Those claims are long obsolete and the referenced Career-side `UpgradePilot.md` route no longer represents the current project boundary.
 
-**State:** COMPLETE
+**Why it matters:** the historical guard itself can mislead even though the body is clearly frozen.
 
-### C5.1 Core judgment
+**Disposition:** **CLARIFY historical header only** or remove obsolete redirect/current-action sentences. Preserve the historical body unchanged. Do not “update” historical AegisLab content to modern UpgradePilot truth.
 
-The capability system is one of the strongest parts of the Career repository and is already well aligned with P0–P7.
+### C7-F04 — Multiple active plan surfaces recreate a second live-state system
 
-The controlling `CAPABILITY_EVIDENCE_LEDGER.md` correctly:
+- **Class:** COST + CONFLICT
+- **Severity:** HIGH
+- **Confidence:** HIGH
+- **Area:** State / Current Cycle / Current Week / Day50 execution plan
 
-- assesses **specific responsibilities**, not broad technology labels;
-- separates exposure, guided application, independent bounded application, technical ownership and advanced capability;
-- requires actual Ali demonstration rather than repository output;
-- records AI/human assistance, recency, confidence and transfer limit;
-- uses changed-case, failure, delayed and reduced-prompt evidence proportionately;
-- prohibits optimistic averaging across mixed responsibilities;
-- treats failures as possible diagnostic evidence rather than automatic failure;
-- refuses to infer capability from green tests, typing AI-provided code, immediate repetition, documentation/repository sophistication or project completion.
+Even though each file has a plausible purpose, their combined current contents repeat:
 
-### C5.2 D0–D5 remains compatible with AI-heavy engineering
+- allocation;
+- E2 state;
+- application gate;
+- project roles;
+- ownership gaps;
+- SQL/Git decisions;
+- exact continuation.
 
-The depth model does **not** require manual-only coding:
+This is exactly the mutable truth the refoundation attempted to centralize.
 
-- D2 permits substantial guidance when bounded application/evidence interpretation is real;
-- D3 requires limited-assistance responsibility selection, changed case and relevant failure handling because it claims **independent bounded application**;
-- D4 explicitly accepts `implement OR materially modify`, plus test/diagnosis/trade-off ownership;
-- reduced assistance is therefore evidence for **independence at the claimed depth**, not a general objective to use less AI.
+**Why it matters:** every material Career event currently implies pressure to synchronize several planning/state artifacts, increasing stale-source risk and context loading.
 
-This fits P0–P7's rule:
-
-```text
-high AI leverage is compatible with engineering ownership
-but stronger independence claims need evidence that Ali can still reason/act when support is reduced
-```
-
-### C5.3 Assistance labels are useful and non-inflationary
-
-The labels:
-
-- AI-generated;
-- AI-assisted;
-- Ali-directed;
-- Ali-verified;
-- Ali-owned;
-
-allow mixed responsibility evidence without either erasing Ali's real judgment or converting AI implementation into personal authorship.
-
-`Ali-owned` has a deliberately high threshold: explanation + modification + testing + diagnosis + reduced-prompt reproduction at stated scope. That is appropriate because the label is stronger than `Ali-directed` or `Ali-verified`.
-
-### C5.4 Current records preserve asymmetric reality
-
-The ledger correctly represents the current profile as asymmetric rather than globally weak or globally strong:
-
-- bounded D2 current UpgradePilot source-flow/test reasoning;
-- evidence/uncertainty/trust reasoning as a relative strength;
-- AI-assisted critique/harness direction D2 + provisional D3 signals;
-- stronger current source/test modification ownership and unfamiliar causal diagnosis still unestablished;
-- SQL/relational D0 at employment-relevant ownership scope;
-- professional Git/review weak;
-- JobHunter/current Sentinel implementation not transferable automatically.
-
-Historical combined checkpoints are explicitly marked as historical/superseded where later evidence split the responsibility, which is good evidence hygiene.
-
-### C5.5 A4/A7/review-log promotion behavior is correct
-
-A4 explicitly states:
+**Provisional disposition:** **NARROW / MERGE responsibilities, not necessarily files**:
 
 ```text
-project capability != Ali capability
-Ali direction != implementation ownership
-AI-assisted performance != no human capability
-missing evidence != inability
+CAREER_STATE
+→ sole live position + exact next action
+
+CURRENT_CAREER_CYCLE
+→ stable cycle outcomes / allocations / gates / closure criteria
+
+one current directive/work-plan surface when genuinely needed
+→ short macro work package consuming State/Cycle, not restating full strategy/status
+
+completed dated programs
+→ historical evidence, no active continuation ownership
 ```
 
-A7 formal review uses nine ownership dimensions—intent, mental model, harness direction, verification, modification, diagnosis, transfer, risk/accountability, explanation—but explicitly keeps D0–D5 as the sole scoring model. This avoids a second competing scale.
+Final choice of whether `CURRENT_WEEK.md` remains the one current directive or is itself unnecessary belongs to C10/C11 after Skill/usability testing.
 
-The Review Log preserves older Day-30/Sept-1 decisions historically and records A7 as the later correction rather than rewriting history. It does not inflate D2 source/test reasoning into broad D3 readiness.
+### C7 no-change conclusions
 
-### C5.6 Potential concern tested: failure evidence requirement
+- Completed refoundation plan is clearly marked completed and root `AGENTS.md` explicitly classifies it as historical — **KEEP**.
+- Completed P0–P7 adoption plan is clearly status `COMPLETE` and functions as provenance — **KEEP**.
+- Historical plans may remain as evidence if clearly non-controlling; deletion is not required merely for cleanliness.
+- Do **not** add a new plan-navigation bureaucracy before testing whether status cleanup + single-owner routing is sufficient.
 
-D3/D4 reference failure diagnosis. This could have become a ceremony encouraging manufactured failures. It has **not** done so:
-
-- requirements are phrased as normal evidence expectations at relevant scope;
-- A4/A7 explicitly wait for a **real** current failure rather than injecting one;
-- project and Career policies reject manufactured evidence exercises where not justified.
-
-**Disposition:** **KEEP**.
-
-### C5 no-change conclusions
-
-- D0–D5 depth model — **KEEP**.
-- assistance labels — **KEEP**.
-- performative-check prohibition — **KEEP**.
-- recency/confidence/transfer-limit requirements — **KEEP**.
-- changed-case/failure/reduced-prompt evidence model — **KEEP**.
-- separation of capability from application readiness — **KEEP**.
-- A7 nine-dimension ownership lens as an explanatory lens, not second score — **KEEP**.
-- current bounded capability conclusions — **NO CHANGE from this governance audit**; audit itself creates no new capability evidence.
-
-### C5 defect result
-
-**No new material defect identified.**
-
-The capability/evidence system should be protected from unnecessary P0–P7 wording expansion. Its current semantics already encode the desired behavior more precisely than a generic `AI resilience` section would.
-
-**C5 exit:** satisfied.
+**C7 exit:** satisfied.
 
 ---
 
@@ -250,12 +279,16 @@ The capability/evidence system should be protected from unnecessary P0–P7 word
 
 | ID | Area | Class | Severity | Confidence | Provisional disposition |
 |---|---|---|---|---|---|
-| C2-F01 | Current cycle exact-action duplication | CONFLICT | MEDIUM | HIGH | MOVE / NARROW |
+| C2-F01 | Current Cycle exact-action duplication | CONFLICT | MEDIUM | HIGH | MOVE / NARROW |
 | C3-F01 | Charter AI-dependence wording | CONFLICT | HIGH | HIGH | CLARIFY / REPLACE wording |
 | C3-F02 | Strategy Day-30 application paragraph | STALE | MEDIUM | HIGH | CLARIFY / HISTORICAL |
-| C4-F01 | Selection policy stale current allocation | CONFLICT + STALE | HIGH | HIGH | MOVE / REMOVE live allocation |
+| C4-F01 | Selection Policy stale current allocation | CONFLICT + STALE | HIGH | HIGH | MOVE / REMOVE live allocation |
 | C4-F02 | Portfolio stale current weaknesses/priorities | STALE | MEDIUM | HIGH | NARROW / REFRESH |
-| C4-F03 | Profile duplicates current roles/projects | STALE + COST | MEDIUM | HIGH | NARROW / MOVE |
+| C4-F03 | Profile duplicate current roles/projects | STALE + COST | MEDIUM | HIGH | NARROW / MOVE |
+| C7-F01 | Day50 plan still active/duplicative after A7 | COST + STALE | MEDIUM | HIGH | MARK HISTORICAL / NARROW |
+| C7-F02 | Day30 review/checkpoint still `Active` | STALE | MEDIUM | HIGH | MARK COMPLETE/HISTORICAL |
+| C7-F03 | Historical AegisLab headers contain obsolete pointers | STALE | LOW | HIGH | CLARIFY header only |
+| C7-F04 | Multiple active plan surfaces duplicate live state | COST + CONFLICT | HIGH | HIGH | NARROW / MERGE responsibilities |
 
 ---
 
@@ -267,9 +300,9 @@ The capability/evidence system should be protected from unnecessary P0–P7 word
 - C3 — COMPLETE
 - C4 — COMPLETE
 - C5 — COMPLETE
-- C6 — NEXT
-- C7 — PENDING
-- C8 — PENDING
+- C6 — COMPLETE
+- C7 — COMPLETE
+- C8 — NEXT
 - C9 — PENDING
 - C10 — PENDING
 - C11 — PENDING
