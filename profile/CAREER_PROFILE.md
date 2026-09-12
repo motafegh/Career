@@ -2,8 +2,8 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Approved active Career profile  
-**Last reviewed:** 2026-07-27  
-**Responsibility:** Public-safe facts, evidence, preferences, constraints, strengths, gaps, and reassessment needs that materially affect Career decisions
+**Last reviewed:** 2026-09-12 — governance/alignment remediation; mutable role/project state delegated to canonical owners  
+**Responsibility:** Public-safe stable facts, evidence context, preferences, constraints, strengths, gaps, and reassessment needs that materially affect Career decisions
 
 ## 1. Interpretation rules
 
@@ -20,6 +20,8 @@ This is not a promotional biography. It intentionally records limits and uncerta
 
 Sensitive medical, medication, legal, financial, family, credential, address, and private-routine information is excluded.
 
+Current target-role ordering belongs to `strategy/CAREER_STRATEGY.md`. Current project roles belong to `portfolio/PROJECT_PORTFOLIO.md`. Current capability depth belongs to `tracking/CAPABILITY_EVIDENCE_LEDGER.md`. Current Career position belongs to `CAREER_STATE.md`.
+
 ## 2. Current professional situation
 
 ### Facts
@@ -29,7 +31,7 @@ Sensitive medical, medication, legal, financial, family, credential, address, an
 - His responsibilities included management, sales, purchasing/buying, coordination, and operational decision-making.
 - The family business is closed and is not his current employment.
 - He has not yet worked in a technology company.
-- He can commit substantial weekly time to structured learning and project work; the current standard planning capacity is 24 focused hours per week in Green mode.
+- He can commit substantial weekly time to structured learning and project work; current planning capacity is governed by the Operating Contract and current cycle rather than duplicated here as a live schedule.
 
 ### Transferable professional experience
 
@@ -67,49 +69,17 @@ Ali has encountered and worked with:
 - Docker, graphs, agents, MLOps, and security concepts at mixed exposure levels;
 - real public APIs, repositories, package data, and external technical evidence.
 
-### Project evidence
+These are exposure/context statements, not unrestricted capability claims. Current demonstrated depth is owned by the Capability Ledger.
 
-#### UpgradePilot
+### Project evidence context
 
-UpgradePilot is the current primary flagship. It provides current evidence in:
+Ali has substantial evidence history across multiple AI-assisted projects. Current project role and claim boundaries must be read from `portfolio/PROJECT_PORTFOLIO.md` and the relevant project Career record rather than duplicated here.
 
-- Python package and application work;
-- public GitHub and PyPI acquisition;
-- exact identity and evidence boundaries;
-- testing and failure-state design;
-- command-line workflow development;
-- dependency-update and CI evidence reasoning;
-- AI-assisted implementation and source-study practices.
+The stable profile-level lesson is:
 
-Current capability claims remain narrow and assistance-aware. Project progress is ahead of broad independent ownership.
+> Large or sophisticated AI-assisted repositories can create valuable learning, portfolio, and decision evidence, but repository capability must remain separate from Ali's demonstrated personal capability and ownership.
 
-#### Sentinel
-
-Sentinel is the strongest prior example of sustained mission-driven learning through a large AI-assisted project. It exposed Ali to:
-
-- substantial Python and modular repository structures;
-- data and ML pipelines;
-- repeated model training and dataset failure;
-- Linux use;
-- graph, agent, zkML, and blockchain areas;
-- prolonged experimentation and integration.
-
-Sentinel also demonstrates the central risk of architecture and technology breadth growing faster than independent ownership. Its size and sophistication are not proof that Ali can reconstruct or own the complete system independently.
-
-#### AegisLab
-
-AegisLab preserved useful evidence and design thinking around:
-
-- secure engineering and network-defense interests;
-- safe lab boundaries;
-- deliberate failure and diagnosis;
-- evidence-aware learning;
-- capability depth and assistance tracking;
-- project governance and scope control.
-
-It did not become the current flagship and must not be treated as an active implementation route.
-
-## 4. Current capability assessment
+## 4. Working strengths and limitations
 
 ### Working strengths
 
@@ -120,14 +90,15 @@ It did not become the current flagship and must not be treated as an active impl
 - Can read and explain meaningful portions of AI-assisted code when taught and reviewed.
 - Has real experience with long-running experimentation and failure, including dataset and model-quality problems.
 - Can direct AI work, question plans, and identify when a project or document has drifted from its purpose.
+- Shows recurring interest in evidence, provenance, uncertainty, trust boundaries, and why a result does or does not justify a stronger claim.
 
-### Important current limitations
+### Important stable limitations / reassessment needs
 
-Reliable independent breadth is not yet established for:
+Reliable independent breadth is not automatically established by prior exposure or project stacks. Areas that require responsibility-specific evidence before strong external claims include, depending on the role:
 
-- blank-page Python application construction;
-- test design across changed and failing cases;
-- debugging with low assistance;
+- Python implementation and modification across changed contexts;
+- test design and failure reasoning;
+- debugging and causal diagnosis;
 - packaging and dependency-management ownership;
 - SQL and relational data modeling;
 - production-oriented data pipelines;
@@ -135,10 +106,10 @@ Reliable independent breadth is not yet established for:
 - Docker and CI diagnosis;
 - backend/API design;
 - ML evaluation and model-selection ownership;
-- graphs, LLM evaluation, agents, queues, cloud, Kubernetes, microservices, or MLOps;
+- advanced AI/agent/cloud/distributed/MLOps responsibilities;
 - professional team workflows, pull-request review, and software-delivery collaboration.
 
-Some sub-responsibilities may already be introduced or guided. Broad claims remain inappropriate until specific evidence is assessed.
+Some of these may already have guided or bounded evidence. The exact current conclusion must come from the Capability Ledger rather than this stable profile.
 
 ## 5. Career interests and ambition
 
@@ -159,6 +130,8 @@ Ali is strongly interested in combinations of:
 Ali wants to become a hybrid engineer rather than remain in one narrow technology label.
 
 The ambition is valid as a long-term direction. The Career system must convert it into staged, evidence-backed capability rather than claim simultaneous professional depth across all areas.
+
+Current role-family priorities and working identity are controlled by `strategy/CAREER_STRATEGY.md` and `CAREER_STATE.md`.
 
 ## 6. Preferred learning and working method
 
@@ -223,7 +196,7 @@ The Career system therefore does not demand that all work be performed without A
 - Ali-diagnosed failures;
 - Ali-owned responsibilities.
 
-AI should teach, scaffold, inspect, review, and accelerate. It must not silently replace the central reasoning, implementation, testing, or diagnosis that a capability claim is meant to establish.
+AI should teach, scaffold, inspect, review, and accelerate. It must not silently replace the central reasoning, verification, modification, testing, diagnosis, or accountability that a capability claim is meant to establish.
 
 The intended progression is not “stop using AI.” It is:
 
@@ -232,6 +205,7 @@ better problem direction
 + better AI use
 + stronger verification
 + increasing modification and diagnosis
++ decreasing opaque/unverified dependence
 + defensible human ownership
 ```
 
@@ -261,62 +235,33 @@ The appropriate correction is scope and ownership control, not reducing ambition
 
 ## 9. Role and work preferences
 
-### Current target families
+Ali generally prefers roles and environments where:
 
-Primary or near-primary role families include:
+- Python/data/applied-AI responsibilities are substantive rather than purely cosmetic;
+- mentorship, review, or structured collaboration exists at the early-career stage;
+- AI tools can be used productively while human verification and accountability remain important;
+- technical work connects to real users, evidence, business processes, or operational outcomes;
+- hybrid technical/business strengths can become useful rather than hidden.
 
-- Junior Python Developer;
-- Python Data or Automation Engineer;
-- Junior Data Engineer;
-- Applied AI or AI Application Engineer;
-- AI Implementation Engineer;
-- Junior Backend Engineer with data-heavy responsibilities;
-- Technical Implementation or Solutions Engineer using Python;
-- Data Analyst roles requiring meaningful Python and SQL engineering;
-- ML engineering trainee, internship, or junior role.
+Exact active role families, geographic priorities, and work-mode ordering are strategy decisions and should be read from `strategy/CAREER_STRATEGY.md` rather than maintained as a second mutable list here.
 
-Secondary exploration may include:
+## 10. Portfolio context
 
-- security automation;
-- test automation;
-- developer tooling;
-- MLOps trainee roles;
-- cloud or platform trainee roles;
-- distributed/backend infrastructure trainee roles;
-- AI agent-system implementation roles.
+Ali's public portfolio should present only selected projects with explicit assistance and ownership boundaries.
 
-### Geographic and work-mode direction
-
-Current strategic priority:
-
-1. English-language opportunities in the United Arab Emirates and broader Asia region;
-2. hybrid or on-site roles with real engineering mentorship;
-3. structured remote roles with code review and supervision;
-4. fully remote unsupervised roles only when demonstrated capability closely matches the responsibility.
-
-This remains a strategy subject to real job, visa, location, and personal evidence during Career reviews.
-
-## 10. Portfolio assets
-
-Current or potential portfolio evidence includes:
-
-- UpgradePilot as the active flagship;
-- Sentinel as a large historical AI-assisted Python/ML/data project;
-- AegisLab as historical security-engineering and learning-system evidence;
-- smaller Git/GitHub, CI, Linux, and technical practice repositories where relevant;
-- future technical writing, demonstrations, and evidence indexes created through active Career phases.
-
-Every portfolio item requires a clear claim boundary and assistance disclosure.
+The current project list, role classification, ordering, and claim boundaries are owned by `portfolio/PROJECT_PORTFOLIO.md` and its project records. This profile intentionally does not duplicate that mutable classification.
 
 ## 11. Main career risks
 
 1. No established technical employment history.
-2. Independent implementation depth remains below the sophistication of prior AI-assisted repositories.
-3. SQL, data engineering, testing/debugging, backend, and secure engineering require stronger practical evidence.
+2. Independent ownership can lag behind the sophistication of AI-assisted repositories.
+3. Some employment-critical foundations still require stronger responsibility-specific evidence.
 4. Advanced interests may fragment attention.
-5. Market calibration and applications may begin too late.
-6. Portfolio presentation may overstate project sophistication or understate transferable business experience.
+5. Market calibration and applications may begin too late if preparation becomes open-ended.
+6. Portfolio presentation can overstate project sophistication or understate transferable business experience.
 7. Variable execution capacity requires a flexible but accountable operating system.
+
+Exact current blockers and priorities belong to the live state/cycle/Capability Ledger.
 
 ## 12. Current non-claims
 
@@ -327,19 +272,18 @@ This profile does not claim that Ali is currently:
 - a cybersecurity engineer;
 - a production-ready systems engineer;
 - an expert in Python, SQL, cloud, Kubernetes, agents, blockchain, or MLOps;
-- able to reconstruct Sentinel or UpgradePilot independently from a blank repository;
-- ready for every listed target role.
+- able to reconstruct large AI-assisted projects independently from a blank repository;
+- ready for every target role.
 
 ## 13. Reassessment triggers
 
 Review this profile when:
 
-- a formal capability assessment changes a material conclusion;
-- a project produces new ownership or transfer evidence;
+- a stable public-safe personal fact changes;
+- a formal capability assessment changes a long-lived profile-level conclusion rather than only one current capability record;
 - technical employment, education, certification, or major experience changes;
-- target roles or geography change;
-- application or interview feedback reveals a stable pattern;
-- time availability or working constraints change materially;
-- a new career cycle begins.
+- long-term interests or learning/work preferences change materially;
+- target geography/work-mode preferences change durably;
+- a new career cycle reveals that a stable profile assumption is no longer accurate.
 
-Do not update this profile after every project session.
+Do not update this profile after every project session, capability checkpoint, portfolio-role change, or application decision. Mutable current truth belongs to its canonical owner.
