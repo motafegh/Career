@@ -11,7 +11,7 @@
 - `career-agent-retro`
 - `career-personal-work-planning`
 
-Each skill keeps its own output and trigger eval fixtures under its skill directory. `career-skill-routing.json` preserves the current 28-case cross-skill routing expectations, including valid no-skill outcomes.
+Each skill keeps its own output and trigger eval fixtures under its skill directory. `career-skill-routing.json` preserves the current **29-case** cross-skill routing expectations, including valid no-skill outcomes.
 
 ## Routing summary
 
@@ -37,16 +37,23 @@ Ali-facing next session/day/week/month plan from current Career + project truth
 completed-agent execution retrospective
 → career-agent-retro
 
+substantive audit of canonical Career governance / strategy / planning / portfolio / capability / market content
+→ no Career skill by default
+   + inspect the relevant canonical owners directly
+   + use a specific specialist only when a real sub-question requires it
+
 project implementation / project teaching / project technical planning / simple canonical lookup / plain job discovery
 → no Career skill
 ```
 
 ## Validation status
 
-The current material includes static Agent Skills metadata/specification checks, governance-boundary review, per-skill output fixtures, positive/negative trigger fixtures, and the 28-case cross-skill routing matrix.
+The current material includes static Agent Skills metadata/specification checks, governance-boundary review, per-skill output fixtures, positive/negative trigger fixtures, and the **29-case** cross-skill routing matrix.
+
+The routing matrix now explicitly distinguishes a substantive canonical-content governance audit from a completed-agent execution retrospective, preventing `career-agent-retro` from being selected merely because the word “governance audit” appears.
 
 A clean blind empirical benchmark was intentionally **not made an activation gate** after Ali explicitly chose to activate and merge the current skill set on 2026-09-01. Do not describe the skills as empirically benchmarked unless such testing is actually performed later.
 
 ## Router decision
 
-Do not add `career-operation-router` merely because multiple skills exist. The current routing ambiguities were resolved through skill descriptions, review composition, and the explicit personal-planning/project-planning boundary. Reconsider a router only if real usage shows repeated routing failures that cannot be fixed proportionately in the existing surfaces.
+Do not add `career-operation-router` merely because multiple skills exist. The current routing ambiguities are handled through skill descriptions, review composition, explicit no-skill cases, and the personal-planning/project-planning boundary. Reconsider a router only if real usage shows repeated routing failures that cannot be fixed proportionately in the existing surfaces.
