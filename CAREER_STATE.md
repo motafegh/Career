@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-14 — broad E3 responsibility-market review completed; narrow calibration readiness established; E2 UI work explicitly deferred  
+**Last updated:** 2026-09-14 — E3 broad review and first 12-vacancy calibration shortlist completed; candidate verification is next  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -21,7 +21,7 @@
 | Current capability interpretation | Selected current UpgradePilot source-flow and representative-test reasoning support bounded D2 guided understanding; ownership-bearing modification, current causal diagnosis, SQL/relational work, and professional Git/review evidence remain materially weaker |
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
-| Application state | Current-vacancy intake/shortlisting is authorized now; each actual submission still requires vacancy-specific access, claim/public-surface, and private-material checks |
+| Application state | First 12-vacancy calibration shortlist completed; strongest candidates now require minimal vacancy-specific access/detail/material verification before submission |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoints | 2026-09-17 bounded checkpoint if useful; 2026-10-17 Day-90 formal review |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -138,8 +138,34 @@ Detailed evidence:
 - `tracking/research/2026-09-14_IRAN_PERSIAN_PLATFORM_ACQUISITION_AND_MARKET_RESEARCH_REPORT.md`
 - `tracking/research/2026-09-14_E3_FRESH_VACANCY_RESPONSIBILITY_EVIDENCE_SET.md`
 - `tracking/research/2026-09-14_E3_APPLICATION_READINESS_AND_ROLE_BAND_REVIEW.md`
+- `tracking/research/2026-09-14_E3_FIRST_CALIBRATION_VACANCY_SHORTLIST.md`
 
-## 6. Access-gate rule
+## 6. First calibration-batch result
+
+The first 12-vacancy intake is complete.
+
+### Strongest current candidates pending private/access checks
+
+1. **Tech Pipeline — Junior AI Implementation Specialist** — strong responsibility fit; verify current-open/access state.
+2. **talentsconnect — Junior Technical Implementation Specialist** — strong fit; resolve German/work-access requirements.
+3. **octonomy — Junior AI Implementation Developer** — strong role shape with a technical stretch; resolve German B2/work-access requirements.
+
+### Strong-shape holds
+
+- zvoove Junior Product Support Engineer — degree/access + SQL/support-depth questions;
+- Nerdio Solutions Engineer (Early Career) — US work-authorization gate;
+- current Iranian QA/support/ERP candidates — direct job-description/access details still required before APPLY/REJECT.
+
+### First-batch rejects / future benchmarks
+
+- ANA AI Automation Specialist — proven automation experience exceeds current evidence;
+- Global Software Solutions Junior QA — explicit professional QA experience requirement;
+- Humai Junior AI Engineer — solid Python/SQL + owned LLM-project expectation exceeds current evidence;
+- BNESIM Junior AI Automation Engineer — SQL joins + Python/OpenAI project ownership exceeds current evidence.
+
+This result supports the E3 band selection rather than weakening it: the best-fit opportunities cluster around implementation/integration, while several attractive AI titles demand more ownership than Career can currently defend.
+
+## 7. Access-gate rule
 
 Technical/responsibility fit and access eligibility are separate.
 
@@ -156,7 +182,7 @@ Career does not infer missing private facts. `UNRESOLVED` is valid until the rel
 
 Do not convert an access-gate failure into a technical-learning gap.
 
-## 7. E2 and E3 decision
+## 8. E2 and E3 decision
 
 ### E2
 
@@ -183,9 +209,7 @@ The previous A7 rule that E2 must close before any calibration is superseded for
 
 E2 incompleteness still matters vacancy by vacancy when a specific application would expose a misleading or weak public surface.
 
-## 8. Application / E4 boundary
-
-Career may begin current-vacancy **intake, shortlisting and fit classification now**.
+## 9. Application / E4 boundary
 
 Before actual submission, classify each vacancy:
 
@@ -205,11 +229,9 @@ APPLY / HOLD FOR MISSING FACT / REJECT
 
 Also confirm the minimum required private application/contact materials for that vacancy.
 
-The first calibration batch should be deliberately small and information-rich rather than a mass campaign: approximately **8–12 current vacancies** across the primary/conditional bands.
-
 Do not create a public detailed application tracker containing private employer correspondence, contact details, compensation discussions or sensitive information.
 
-## 9. SQL, Git and ownership gaps
+## 10. SQL, Git and ownership gaps
 
 ### SQL / relational data
 
@@ -223,7 +245,7 @@ Remains material but not a universal pre-calibration blocker. Prefer real branch
 
 These remain among the highest-value ownership evidence classes for strengthening broader engineering readiness while applications/calibration proceed in parallel.
 
-## 10. Workload / allocation
+## 11. Workload / allocation
 
 Retain Green mode:
 
@@ -234,17 +256,19 @@ Retain Green mode:
 
 Do not let vacancy research or application administration consume the flagship week.
 
-## 11. Exact next Career action
+## 12. Exact next Career action
 
-> **Build the first current 8–12-vacancy calibration shortlist across Technical Implementation/Integration, AI Automation/Solutions, Technical Product/Application Support, and selected QA/Applied-AI cases. Run the four-way access/responsibility/evidence/decision filter on each. For candidates that pass, verify the minimum private submission materials and proceed to bounded real-market feedback.**
+> **Resolve only the minimum missing facts for the strongest first-batch candidates: verify current-open status and vacancy details; check the relevant private language/education/work-authorization/location gates; inspect the held Iranian native job descriptions where available; then run the final claim/public-material/private-submission check and apply to candidates that remain defensible.**
+
+Do not broaden the vacancy pool until this first batch is resolved unless the current candidates expire or become clearly inaccessible.
 
 E2 remains deferred in parallel; UpgradePilot remains the dominant technical responsibility.
 
-## 12. Next review triggers
+## 13. Next review triggers
 
 Return to Career at the earliest of:
 
-- the first bounded application batch produces a meaningful response/screen/interview/rejection pattern;
+- the first actual applications produce a meaningful response/screen/interview/rejection pattern;
 - a high-information technical screen or practical task exposes a capability gap;
 - repeated access gates materially change geography/role targeting;
 - UpgradePilot evidence materially changes modification/diagnosis/transfer ownership;
