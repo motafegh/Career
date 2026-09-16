@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-14 — E3 broad review and first 12-vacancy calibration shortlist completed; candidate verification is next  
+**Last updated:** 2026-09-16 — Iranian market becomes the sole active market-calibration lane; first Iran vacancy sequence established  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -21,9 +21,10 @@
 | Current capability interpretation | Selected current UpgradePilot source-flow and representative-test reasoning support bounded D2 guided understanding; ownership-bearing modification, current causal diagnosis, SQL/relational work, and professional Git/review evidence remain materially weaker |
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
-| Application state | First 12-vacancy calibration shortlist completed; strongest candidates now require minimal vacancy-specific access/detail/material verification before submission |
+| Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
+| Application state | Iran-only priority sequence established; native vacancy detail/access checks and minimum private application materials remain before first submission |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
-| Next scheduled checkpoints | 2026-09-17 bounded checkpoint if useful; 2026-10-17 Day-90 formal review |
+| Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
 
 ## 2. Controlling depth / ownership interpretation
@@ -75,7 +76,7 @@ Material limits remain:
 - professional Git/pull-request/code-review collaboration evidence remains weak;
 - JobHunter and current Sentinel implementation remain AI-full-implementation and do not transfer automatically to Ali capability.
 
-The 2026-09-14 E3 review changed **no D-levels**. Market demand is not capability evidence.
+The 2026-09-14 E3 review changed **no D-levels**. The 2026-09-16 Iran-market focus also changes no capability conclusion. Market demand is not capability evidence.
 
 ## 4. Project portfolio decision
 
@@ -108,7 +109,7 @@ Historical evidence only.
 
 ## 5. Current market / E3 interpretation
 
-The September 14 broad responsibility-market review supersedes the earlier title-narrow interpretation without changing Career identity.
+The September 14 broad responsibility-market review remains the controlling role-shape interpretation. The September 16 instruction narrows only the **active operational market lane** to Iran; it does not change Career identity or erase international evidence.
 
 ### Primary narrow calibration bands
 
@@ -139,43 +140,51 @@ Detailed evidence:
 - `tracking/research/2026-09-14_E3_FRESH_VACANCY_RESPONSIBILITY_EVIDENCE_SET.md`
 - `tracking/research/2026-09-14_E3_APPLICATION_READINESS_AND_ROLE_BAND_REVIEW.md`
 - `tracking/research/2026-09-14_E3_FIRST_CALIBRATION_VACANCY_SHORTLIST.md`
+- `tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`
+- `tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`
 
-## 6. First calibration-batch result
+## 6. Iran-only current calibration sequence
 
-The first 12-vacancy intake is complete.
+Ali explicitly selected the Iranian job market and the four requested Persian platforms as the only active market lane for the current step.
 
-### Strongest current candidates pending private/access checks
+International candidates from the September 14 shortlist are **deferred during this focus**, not rejected, downgraded, or erased.
 
-1. **Tech Pipeline — Junior AI Implementation Specialist** — strong responsibility fit; verify current-open/access state.
-2. **talentsconnect — Junior Technical Implementation Specialist** — strong fit; resolve German/work-access requirements.
-3. **octonomy — Junior AI Implementation Developer** — strong role shape with a technical stretch; resolve German B2/work-access requirements.
+### Current Iran priority order
 
-### Strong-shape holds
+1. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`** — very fresh JobVision entry-level evidence; native detail/access check first.
+2. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار (ERP)`** — strong implementation/support responsibility shape; verify current degree/experience/ERP/SQL/access gates.
+3. **Tabansoft — `کارشناس پشتیبان نرم افزار`** — very fresh; determine whether the role is genuinely technical/product-diagnostic rather than generic support.
+4. **Novo Nordisk Pars — ERP functional support, then ERP technical support** — same-day IranTalent evidence; recover current native duties and access requirements.
+5. **Digify — `Technical Support`** — active Jobinja evidence; recover exact technical support depth and access requirements.
+6. Inspect one or two fresh **QA/testing** roles only if the first five do not yield enough viable applications.
 
-- zvoove Junior Product Support Engineer — degree/access + SQL/support-depth questions;
-- Nerdio Solutions Engineer (Early Career) — US work-authorization gate;
-- current Iranian QA/support/ERP candidates — direct job-description/access details still required before APPLY/REJECT.
+### Current benchmark / reject
 
-### First-batch rejects / future benchmarks
+**Serita — Junior Software Developer** remains a useful Iranian junior-software benchmark but is rejected from the first Iran application batch because its combined Python/FastAPI + JavaScript/frontend + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
 
-- ANA AI Automation Specialist — proven automation experience exceeds current evidence;
-- Global Software Solutions Junior QA — explicit professional QA experience requirement;
-- Humai Junior AI Engineer — solid Python/SQL + owned LLM-project expectation exceeds current evidence;
-- BNESIM Junior AI Automation Engineer — SQL joins + Python/OpenAI project ownership exceeds current evidence.
+### e-estekhdam
 
-This result supports the E3 band selection rather than weakening it: the best-fit opportunities cluster around implementation/integration, while several attractive AI titles demand more ownership than Career can currently defend.
+No e-estekhdam technical vacancy is currently promoted into the active sequence because the accessible targeted results repeatedly exposed stale historical publication dates despite fresh crawl dates.
+
+This is an **acquisition limitation**, not evidence that e-estekhdam or the Iranian market lacks relevant technical jobs.
 
 ## 7. Access-gate rule
 
 Technical/responsibility fit and access eligibility are separate.
 
-Every vacancy must check, privately where appropriate:
+Every serious Iranian vacancy must verify, only where employer-stated and relevant:
 
-- education / graduate-program requirements;
+- current-open state;
+- city / on-site requirement;
+- education and field;
+- internship student/recent-graduate status;
+- years and type of experience;
+- prior software/ERP/support experience;
+- military-service status;
+- gender/age constraints;
 - language requirements;
-- nationality / residency / work authorization;
-- location/on-site requirements;
-- experience gates;
+- travel/customer-site expectations;
+- schedule or internship-duration requirements;
 - other employer-specific eligibility conditions.
 
 Career does not infer missing private facts. `UNRESOLVED` is valid until the relevant fact is known.
@@ -186,7 +195,7 @@ Do not convert an access-gate failure into a technical-learning gap.
 
 ### E2
 
-E2 remains **incomplete and deferred** by Ali's explicit 2026-09-14 sequencing decision.
+E2 remains **incomplete and deferred** by Ali's explicit sequencing decision.
 
 Repository-side first-screen/attribution work completed earlier remains valid. Outstanding GitHub UI/account actions remain backlog work for later:
 
@@ -205,7 +214,7 @@ The broad September 14 review establishes:
 
 It does **not** establish broad junior software/data/ML readiness.
 
-The previous A7 rule that E2 must close before any calibration is superseded for the current sequence by Ali's explicit instruction plus this formal review.
+The Iran-only focus does not require a new readiness score. It applies the existing E3 decision to a specific market evidence stream.
 
 E2 incompleteness still matters vacancy by vacancy when a specific application would expose a misleading or weak public surface.
 
@@ -214,6 +223,9 @@ E2 incompleteness still matters vacancy by vacancy when a specific application w
 Before actual submission, classify each vacancy:
 
 ```text
+CURRENT / OPEN
+CONFIRMED / LIKELY CURRENT / UNRESOLVED / CLOSED-STALE
+
 ACCESS GATE
 PASS / FAIL / UNRESOLVED
 
@@ -224,10 +236,16 @@ EVIDENCE / CLAIM FIT
 DEFENSIBLE / STRETCH / NOT DEFENSIBLE
 
 DECISION
-APPLY / HOLD FOR MISSING FACT / REJECT
+APPLY / APPLY IF ACCESS PASSES / HOLD / REJECT
 ```
 
 Also confirm the minimum required private application/contact materials for that vacancy.
+
+### Current material state
+
+The Career repository contains no canonical role-tailored Iranian CV/resume artifact.
+
+Therefore do **not** create many speculative CV variants now. Once the first one or more Iranian vacancies survive native-detail and access screening, create one minimal claim-bounded Iran-appropriate CV package and tailor only what the actual surviving vacancy requires.
 
 Do not create a public detailed application tracker containing private employer correspondence, contact details, compensation discussions or sensitive information.
 
@@ -251,16 +269,18 @@ Retain Green mode:
 
 - up to **24 focused hours/week** as a ceiling, not a quota;
 - approximately **75–85%** of personal technical attention remains available to UpgradePilot;
-- approximately **15–25%** covers Career market/application work plus bounded SQL/Git/positioning work combined;
+- approximately **15–25%** covers the Iran market/application lane plus bounded SQL/Git/positioning work combined;
 - JobHunter/Sentinel autonomous AI work does not become Ali ownership evidence.
 
 Do not let vacancy research or application administration consume the flagship week.
 
 ## 12. Exact next Career action
 
-> **Resolve only the minimum missing facts for the strongest first-batch candidates: verify current-open status and vacancy details; check the relevant private language/education/work-authorization/location gates; inspect the held Iranian native job descriptions where available; then run the final claim/public-material/private-submission check and apply to candidates that remain defensible.**
+> **Resolve the Iran-only candidate sequence in order: Avisa Python/Django internship → Fara Samaneh ERP implementation/support → Tabansoft software support → Novo Nordisk Pars ERP functional/technical support → Digify Technical Support. For each, verify current-open/native job detail and only the actual employer access gates; then apply the responsibility/evidence filter. Once the first candidate(s) survive, create one minimal claim-bounded Iran-appropriate private CV/application package, run the final claim check, and submit.**
 
-Do not broaden the vacancy pool until this first batch is resolved unless the current candidates expire or become clearly inaccessible.
+Do not spend the current Career market lane on international candidates unless Ali explicitly changes the focus.
+
+Do not broaden to another large Iran batch until these candidates are resolved/expired or fewer than roughly 2–3 credible application candidates survive.
 
 E2 remains deferred in parallel; UpgradePilot remains the dominant technical responsibility.
 
@@ -268,15 +288,15 @@ E2 remains deferred in parallel; UpgradePilot remains the dominant technical res
 
 Return to Career at the earliest of:
 
-- the first actual applications produce a meaningful response/screen/interview/rejection pattern;
-- a high-information technical screen or practical task exposes a capability gap;
-- repeated access gates materially change geography/role targeting;
+- the first Iranian applications produce a meaningful response/screen/interview/rejection pattern;
+- a high-information Iranian technical screen or practical task exposes a capability gap;
+- repeated Iran-specific access gates materially change role targeting;
+- the current Iran candidate sequence resolves with too few viable applications and needs a second bounded search;
 - UpgradePilot evidence materially changes modification/diagnosis/transfer ownership;
 - SQL/Git evidence materially widens role bands;
 - E2 is resumed or completed;
 - a specific vacancy requires a consequential readiness/eligibility decision;
 - workload, geography or project fit changes materially;
-- **2026-09-17 checkpoint** if useful;
 - **2026-10-17 Day-90 formal review**;
 - Ali explicitly requests review.
 
