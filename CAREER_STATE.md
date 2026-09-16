@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-16 — Iran-only native-detail pass refined the active candidate sequence; Viuna/Avisa are highest-priority resolutions  
+**Last updated:** 2026-09-16 — Iran employer-centric layer added; Gostaresh Fanavari Novin joins Viuna/Avisa for immediate access resolution  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -22,7 +22,8 @@
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
 | Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
-| Application state | Iran-only native-detail sequence active; no submission yet because remaining vacancy-specific access checks and the minimum private Iran application package are unresolved |
+| Iran acquisition mode | **Two lanes:** current-vacancy search across the four requested platforms + bounded employer-watch intelligence across platform/company pages |
+| Application state | Viuna, Avisa, and Gostaresh Fanavari Novin now form the highest-value access-resolution set; no submission yet because vacancy-specific access checks and the minimum private Iran application package are unresolved |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -142,6 +143,8 @@ Detailed evidence:
 - `tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`
 - `tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`
 - `tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`
+- `tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`
+- `tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`
 
 ## 6. Iran-only active calibration sequence
 
@@ -149,46 +152,97 @@ Ali explicitly selected the Iranian job market and the four requested Persian pl
 
 International candidates are **deferred during this focus**, not rejected, downgraded, or erased.
 
-The native-detail pass supersedes the first-pass ranking where it found stronger evidence.
+The Iran acquisition system now uses two complementary lanes:
 
-### Current priority order
+```text
+LANE 1 — vacancy-first
+Jobinja + JobVision + IranTalent + e-estekhdam
+→ Persian + English responsibility search
+→ current/open verification
+→ native duties
+→ access
+→ fit
+
+LANE 2 — employer-watch
+platform/company ranking and directory signals
+→ company job pages
+→ recurring relevant responsibility families
+→ junior/intern history
+→ current specific vacancy
+→ same native-duty/access/fit gate
+```
+
+Employer popularity, ranking, active-job count, employee rating, résumé responsiveness or historical employer-brand signal never creates an automatic application. A specific current vacancy must still survive the ordinary gate.
+
+### Highest-value current access-resolution set
 
 1. **Viuna — `کارشناس پشتیبانی فنی نرم‌افزار`**  
    Strongest current detailed responsibility match. Employer evidence explicitly includes ticketing, logs/error analysis, SQL/database concepts, APIs, coordination with developers, documentation and operational reporting. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF ACCESS PASSES** after remaining native/access verification.
 
 2. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**  
-   Strongest explicit entry-level Python route currently found. **Decision: HOLD for native access/detail → APPLY IF ACCESS PASSES.**
+   Strongest explicit Python internship route currently found. **Decision: HOLD for native access/detail → APPLY IF ACCESS PASSES.**
 
-3. **Carbon Internship Development Center — `برنامه نویس پایتون`**  
+3. **Gostaresh Fanavari Novin — `برنامه‌نویس نرم‌افزار – سطح Junior`**  
+   JobVision employer-centric discovery. Employer explicitly says prior work experience is not required, Python basics are sufficient, implementation occurs under senior guidance, and specialist training/ongoing learning is provided. Hard gates include education/field, age, military-service status and English. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF ACCESS PASSES and the vacancy is still open.**
+
+### Next vacancy-resolution group
+
+4. **Carbon Internship Development Center — `برنامه نویس پایتون`**  
    Fresh JobVision urgent-feed evidence in Tehran. Seniority/JD remains unresolved; do not assume internship status from employer identity. **Decision: HOLD for native JD.**
 
-4. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار ERP`**  
+5. **Mahak Software Group — current `کارشناس پشتیبان نرم‌افزار` / technical-support roles**  
+   Employer-centric Jobinja evidence shows very fresh recurring software-support vacancies. **Decision: HOLD for native JD/access.**
+
+6. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار ERP`**  
    Strong implementation/support responsibility family; current exact gates remain unresolved. **Decision: HOLD → APPLY IF ACCESS PASSES.**
 
-5. **Tabansoft — `کارشناس پشتیبان نرم افزار`**  
-   Very fresh JobVision evidence; determine whether it is genuinely technical/product-diagnostic. **Decision: HOLD.**
+7. **Parmis IT — `کارشناس تست نرم‌افزار مالی`**  
+   Strong employer/family signal for the conditional QA band. **Decision: HOLD for native requirements/access.**
 
-6. **Novo Nordisk Pars — ERP Functional Support, then ERP Technical Support**  
-   Current IranTalent title evidence; exact native duties/access remain unresolved. **Decision: HOLD.**
+8. **Didar CRM — `کارشناس استقرار نرم‌افزار`**  
+   Current/recent implementation vacancy inside a company where implementation/support/customer-technical responsibility recurs. **Decision: HOLD for native JD/access.**
 
-7. **Digify — `Technical Support`**  
-   Current/recent employer + Jobinja evidence; exact support depth remains unavailable. **Decision: HOLD.**
+### Existing holds
 
-8. **Carbon software-test opportunity**  
-   Strong conditional QA shape with explicit education and military-service/access requirements. **Decision: HOLD FOR ACCESS.**
+- **Tabansoft — `کارشناس پشتیبان نرم افزار`** — very fresh JobVision evidence; determine whether it is genuinely technical/product-diagnostic. **HOLD.**
+- **Novo Nordisk Pars — ERP Functional Support, then ERP Technical Support** — current IranTalent title evidence; exact native duties/access unresolved. **HOLD.**
+- **Digify — `Technical Support`** — current/recent employer + Jobinja existence evidence; exact support depth unavailable. **HOLD.**
+- **Carbon software-test opportunity** — strong conditional QA shape with explicit education and military-service/access requirements. **HOLD FOR ACCESS.**
+
+### Employer-watch set
+
+High-value application-watch employers from the current employer-centric evidence include:
+
+- Didar CRM;
+- Asiatech;
+- Parmis IT;
+- Mahak Software Group;
+- Fanavaran;
+- System Group / Hamkaran ecosystem;
+- Mobinhost;
+- Gostaresh Fanavari Novin;
+- Golrang System.
+
+Use mature/specialist employers such as Digikala, Bime Bazar, Snapp ecosystem, Mohaymen, ParsPack, PART AI, AbrNOC and Payam Pardaz mainly as market/capability benchmarks unless a genuinely suitable current vacancy appears.
+
+Jobinja Top-50, JobVision company ratings, IranTalent employee/employer-brand signals and e-estekhdam company rankings use different methodologies and time horizons. **Do not merge them into one synthetic company score.**
 
 ### Supporting ERP evidence
 
 - **Dio Pars** provides very fresh evidence for ERP support/configuration/testing/customer-needs/training work, but explicitly asks for prior Rahkaran experience; treat as conditional unless that gate passes.
 - **Atra Vision** independently validates the ERP support/implementation responsibility bundle; exact vacancy freshness/access must be checked before application.
+- **Asiatech ERP Support** is a strong current responsibility benchmark, but its native JD asks for 3–6 years, bachelor's degree, military-service completion/exemption and Rahkaran/SQL/BPMN familiarity; do not treat it as a current first-batch fit.
 
-### Current benchmark / reject
+### Current benchmarks / rejects
 
-**Serita — Junior Software Developer** remains a useful Iranian junior-software benchmark but is rejected from the first Iran application batch because its combined Python/FastAPI + JavaScript/frontend + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
+- **Serita — Junior Software Developer** remains a useful Iranian junior-software benchmark but is rejected from the first Iran application batch because its combined Python/FastAPI + JavaScript/frontend + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
+- **Didar Technical Customer Success Specialist** is a useful technical-customer benchmark; native detail shows materially deeper software/integration/debugging responsibility than the title alone suggests.
 
 ### e-estekhdam
 
-No e-estekhdam technical vacancy is currently promoted into the active sequence because targeted accessible results again exposed stale historical publication dates despite fresh crawl dates.
+No e-estekhdam technical vacancy is currently promoted into the active sequence because targeted accessible results repeatedly exposed stale historical publication dates despite fresh crawl dates.
+
+The employer-ranking surface remains useful for company discovery and cross-source confirmation, but its accessible cached state must be refreshed before consequential current-vacancy use.
 
 This is an **acquisition limitation**, not evidence that e-estekhdam or the Iranian market lacks relevant technical jobs.
 
@@ -238,7 +292,7 @@ The broad September 14 review establishes:
 
 It does **not** establish broad junior software/data/ML readiness.
 
-The Iran-only focus applies that existing decision to a specific market evidence stream; it does not create a new readiness score.
+The Iran-only focus and employer-centric extension apply that existing decision to a richer market evidence stream; they do not create a new readiness score.
 
 E2 incompleteness still matters vacancy by vacancy when a specific application would expose a misleading or weak public surface.
 
@@ -250,6 +304,9 @@ Before actual submission, classify each vacancy:
 CURRENT / OPEN
 CONFIRMED / LIKELY CURRENT / UNRESOLVED / CLOSED-STALE
 
+EXACT NATIVE / EMPLOYER DUTIES
+what work is actually owned
+
 ACCESS GATE
 PASS / FAIL / UNRESOLVED
 
@@ -259,11 +316,14 @@ STRONG / PLAUSIBLE / WEAK
 EVIDENCE / CLAIM FIT
 DEFENSIBLE / STRETCH / NOT DEFENSIBLE
 
+MATERIALS READY
+YES / NO
+
 DECISION
 APPLY / APPLY IF ACCESS PASSES / HOLD / REJECT
 ```
 
-Also confirm the minimum required private application/contact materials for that vacancy.
+Employer evidence is an additional information layer, not a replacement for these gates.
 
 ### Current material state
 
@@ -296,13 +356,15 @@ Retain Green mode:
 - approximately **15–25%** covers the Iran market/application lane plus bounded SQL/Git/positioning work combined;
 - JobHunter/Sentinel autonomous AI work does not become Ali ownership evidence.
 
-Do not let vacancy research or application administration consume the flagship week.
+Do not let vacancy or employer research/application administration consume the flagship week.
 
 ## 12. Exact next Career action
 
-> **Resolve Viuna first: verify its current native listing/access gates while preserving the detailed employer-authored responsibility evidence. In parallel resolve Avisa's internship access/native requirements. Then inspect Carbon's fresh Python JD. Promote only surviving candidates to the minimum Iran application package; do not broaden the market batch yet.**
+> **Resolve the three highest-value Iranian access candidates first: Viuna, Avisa, and Gostaresh Fanavari Novin Junior Software Programmer. Verify current-open state and only the employer-stated private/access gates needed for a decision. Then recover Carbon's Python JD. In the next employer-driven detail group, inspect Mahak software support, Parmis financial-software testing, and Didar software implementation before broadening the search again.**
 
-After Viuna/Avisa/Carbon, continue the sequence through Fara Samaneh → Tabansoft → Novo Nordisk Pars → Digify, using the native-detail update as the latest operational evidence.
+Promote only surviving candidates to the minimum Iran application package.
+
+Continue the older Fara Samaneh → Tabansoft → Novo Nordisk Pars → Digify holds when they remain current and decision-relevant.
 
 Do not spend the current Career market lane on international candidates unless Ali explicitly changes the focus.
 
@@ -318,6 +380,7 @@ Return to Career at the earliest of:
 - a high-information Iranian technical screen or practical task exposes a capability gap;
 - repeated Iran-specific access gates materially change role targeting;
 - the current Iran candidate sequence resolves with too few viable applications and needs a second bounded search;
+- employer-watch evidence reveals a materially better current entry route;
 - UpgradePilot evidence materially changes modification/diagnosis/transfer ownership;
 - SQL/Git evidence materially widens role bands;
 - E2 is resumed or completed;
