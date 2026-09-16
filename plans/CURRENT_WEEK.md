@@ -13,7 +13,19 @@ Translate the current Career state into the smallest immediate work package.
 
 The active market lane is **Iran only**. This is an operational focus, not a strategy/identity change. International candidates and evidence remain preserved but deferred until Ali changes the focus.
 
-This file does not own capability scores, long-term strategy, portfolio roles, or project technical continuation. Canonical owners win.
+Iran acquisition now has two complementary lanes:
+
+```text
+VACANCY-FIRST
+current jobs across Jobinja + JobVision + IranTalent + e-estekhdam
+
+EMPLOYER-WATCH
+company rankings/directories + company job pages + recurring role families
+```
+
+Employer popularity, ranking, hiring volume or employee score never creates an automatic application. A specific current vacancy still needs native-duty, access and evidence-fit review.
+
+This file does not own capability scores, long-term strategy, portfolio roles or project technical continuation. Canonical owners win.
 
 ## 2. Protect the flagship
 
@@ -24,7 +36,7 @@ Keep the cycle allocation:
 15–25%  Iran market/application + bounded Career/SQL/Git/positioning work combined
 ```
 
-UpgradePilot remains the sole capability-building flagship. Career wants legitimate project work to create stronger evidence around executable proof, source/test understanding, meaningful modification, causal diagnosis, changed-context transfer, and concise technical explanation.
+UpgradePilot remains the sole capability-building flagship. Career wants legitimate project work to create stronger evidence around executable proof, source/test understanding, meaningful modification, causal diagnosis, changed-context transfer and concise technical explanation.
 
 These are Career-facing evidence classes, not a project implementation plan.
 
@@ -35,66 +47,77 @@ Current research/execution artifacts:
 - [`../tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`](../tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md)
 - [`../tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`](../tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md)
 - [`../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`](../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md)
+- [`../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`](../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md)
+- [`../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`](../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md)
 
-The native-detail update is the newest operational evidence when its ranking differs from the first sequence.
+Use the newest stronger evidence when rankings differ. `CAREER_STATE.md` owns the exact current order.
 
-## 4. Current candidate order
+## 4. Immediate resolution order
 
-Resolve in this order unless a vacancy expires first:
+Resolve these first:
 
 1. **Viuna — `کارشناس پشتیبانی فنی نرم‌افزار`**  
-   Strongest current detailed responsibility match. Employer evidence explicitly includes ticketing, logs/error analysis, SQL/database concepts, APIs, coordination with development, documentation and reporting. Resolve remaining native IranTalent/access details. Current decision: **APPLY IF ACCESS PASSES**.
+   High-information technical support/product diagnosis role. Current decision: **APPLY IF ACCESS PASSES**.
 
 2. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**  
-   Strongest explicit entry-level Python route in the current evidence. Resolve native technical/access details. Current decision: **HOLD → APPLY IF ACCESS PASSES**.
+   Strong explicit Python internship route. Current decision: **HOLD → APPLY IF ACCESS PASSES**.
 
-3. **Carbon Internship Development Center — `برنامه نویس پایتون`**  
-   Fresh JobVision urgent-feed evidence in Tehran. Do not assume the role is an internship merely because of the employer's name. Recover native JD/seniority. Current decision: **HOLD**.
+3. **Gostaresh Fanavari Novin — `برنامه‌نویس نرم‌افزار – سطح Junior`**  
+   Employer explicitly accepts no prior experience, basic Python, senior guidance and training. Resolve open state plus education/field, age, military-service and English gates. Current decision: **APPLY IF ACCESS PASSES**.
 
-4. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار ERP`**  
-   Strong implementation/support shape. Recover current degree/experience/ERP/SQL/customer-site gates. Current decision: **HOLD → APPLY IF ACCESS PASSES**.
+Then:
 
-5. **Tabansoft — `کارشناس پشتیبان نرم افزار`**  
-   Very fresh JobVision evidence. Determine whether it is genuinely technical/product-diagnostic rather than generic customer support. Current decision: **HOLD**.
+4. **Carbon — `برنامه نویس پایتون`** — recover native JD/seniority.
+5. **Mahak — current software-support / technical-support roles** — recover JD/access.
+6. **Fara Samaneh / Hamkaran System — ERP implementation/support** — recover current access/experience gates.
+7. **Parmis IT — financial-software testing** — recover native QA requirements/access.
+8. **Didar CRM — software implementation** — recover native JD/access.
 
-6. **Novo Nordisk Pars — ERP Functional Support, then ERP Technical Support**  
-   Current IranTalent title evidence; native details still unavailable. Functional role first because the process/stakeholder blend may fit better. Current decision: **HOLD**.
+Continue Tabansoft, Novo Nordisk Pars, Digify and the Carbon testing opportunity only while they remain current and decision-relevant.
 
-7. **Digify — `Technical Support`**  
-   Current/recent employer + Jobinja existence evidence, but exact JD remains unresolved. Current decision: **HOLD**.
+Do **not** collect another large undifferentiated Iran batch before resolving this set.
 
-8. **Carbon software-test opportunity**  
-   Strong conditional QA responsibility shape, but explicit education and military-service/access gates require private verification. Current decision: **HOLD FOR ACCESS**.
+## 5. Employer-watch set
 
-Use **Dio Pars** and **Atra Vision** as strong ERP responsibility-shape evidence and vacancy candidates only when their current explicit access gates are feasible. Dio Pars explicitly asks for prior Rahkaran experience.
+Revisit these employers because current or recurring hiring intersects with Career's target bands:
 
-Do **not** search another large Iranian batch while this sequence remains unresolved.
+- Didar CRM;
+- Asiatech;
+- Parmis IT;
+- Mahak Software Group;
+- Fanavaran;
+- System Group / Hamkaran ecosystem;
+- Mobinhost;
+- Gostaresh Fanavari Novin;
+- Golrang System.
 
-International September-14 candidates are **deferred, not rejected**.
+Use companies such as Digikala, Bime Bazar, Snapp ecosystem, Mohaymen, ParsPack, PART AI, AbrNOC and Payam Pardaz mainly as market/capability benchmarks unless a genuinely suitable current role appears.
 
-## 5. Platform-specific acquisition rules
+The watchlist is not a company-quality ranking and does not authorize cold applications without a vacancy.
+
+## 6. Platform-specific employer signals
 
 ### Jobinja
 
-Use direct current listings and Persian + English searches. Treat result counts as discovery only, never market prevalence. Open native details before final application decisions.
+Use its 90-day Top-50 as a secondary employer-discovery signal together with company pages, current roles and expired history for recurrence. Do not interpret rank or active-job count as Ali fit.
 
 ### JobVision
 
-Use current official/native listing evidence, current indexed detail surfaces and official publication feeds as discovery support. Because query-result extraction is unreliable, do not infer absence from an empty crawler result.
+Use company ratings, resume responsiveness, interview experience and current/closed vacancy history. Native vacancy requirements outrank the company score.
 
 ### IranTalent
 
-Use current root/category listings and direct native/employer job evidence. Where the native page cannot be retrieved, employer-authored current postings can establish responsibility shape, but final access gates remain unresolved.
+Use current company opportunity counts and employee reviews/ratings. Treat the employer-branding report as historical culture/attractiveness evidence, not current hiring truth.
 
 ### e-estekhdam
 
-Use strict freshness validation. Recent crawl date does **not** establish recent vacancy publication. Do not promote a vacancy unless its actual publication/open state is defensible.
+Use company/industry discovery and hiring-performance signals only with strict freshness re-verification. Cached company/vacancy pages may be stale.
 
-No e-estekhdam technical vacancy is currently in the active sequence.
+Never merge scores from these platforms into one numeric employer score; their methods, populations and time horizons differ.
 
-## 6. Candidate decision sequence
+## 7. Candidate decision sequence
 
-For each vacancy:
+For every vacancy:
 
 ```text
 CURRENT / OPEN?
@@ -119,11 +142,13 @@ DECISION
 APPLY / APPLY IF ACCESS PASSES / HOLD / REJECT
 ```
 
+Employer intelligence can change watch priority and information value. It cannot rescue a vacancy whose access or responsibility requirements do not fit.
+
 Never convert education, military-service, age, gender, location, schedule, language, prior-domain-experience or other access failures into technical-learning gaps.
 
 Do not infer private facts that Career does not record.
 
-## 7. Iran-specific access checks
+## 8. Iran-specific access checks
 
 Inspect only employer-stated conditions relevant to the vacancy:
 
@@ -142,7 +167,7 @@ Inspect only employer-stated conditions relevant to the vacancy:
 
 `UNRESOLVED` is valid until the fact is known.
 
-## 8. Application-material rule
+## 9. Application-material rule
 
 The Career repository currently has no canonical role-tailored Iranian CV/resume artifact.
 
@@ -158,7 +183,7 @@ When the first candidate(s) survive native-detail + access review:
 6. run the final claim check;
 7. submit privately.
 
-## 9. Current role-band boundary
+## 10. Role-band boundary
 
 ### Primary
 
@@ -181,20 +206,18 @@ When the first candidate(s) survive native-detail + access review:
 - deep SRE/DevOps/infrastructure;
 - roles whose core requirements would require claim inflation.
 
-**Serita Junior Software Developer** remains a benchmark but is rejected from the first Iran batch because its combined Python/FastAPI + frontend JavaScript + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
-
-## 10. E2 remains deferred
+## 11. E2 remains deferred
 
 Do not:
 
 - mark E2 complete;
-- reopen the already-completed repository-side positioning work;
+- reopen already-completed repository-side positioning work;
 - let E2 globally block Iran vacancy verification;
 - forget that a specific application may still require a small public-claim correction.
 
 Resume E2 later when Ali chooses or a concrete application makes it materially necessary.
 
-## 11. Feedback rule
+## 12. Feedback rule
 
 Once real Iranian applications begin, classify feedback as:
 
@@ -208,14 +231,15 @@ Once real Iranian applications begin, classify feedback as:
 
 One unexplained rejection does not create a curriculum. Repeated patterns or a high-information technical signal can justify bounded Career correction.
 
-## 12. Stop lines
+## 13. Stop lines
 
 Do not:
 
 - broaden back to international searching during this Iran-only focus;
 - collect another large Iran batch before resolving the current one;
-- treat keyword counts as prevalence;
-- apply based on title alone;
+- treat company ranking, brand, vacancy count or keyword count as application fit;
+- merge unlike platform scores into a fake company ranking;
+- apply based on title/company prestige alone;
 - invent private access facts;
 - create public detailed application/recruiter records;
 - mass-generate CV variants;
@@ -223,7 +247,7 @@ Do not:
 - start another flagship;
 - treat repository sophistication or AI-generated work as Ali ownership.
 
-## 13. Return-to-Career triggers
+## 14. Return-to-Career triggers
 
 Return to formal Career assessment/review at the earliest of:
 
@@ -231,6 +255,7 @@ Return to formal Career assessment/review at the earliest of:
 - a high-information practical/technical assessment exposes a gap;
 - repeated Iranian access gates materially change targeting;
 - the current candidate sequence resolves with too few viable opportunities;
+- employer-watch evidence exposes a materially better current entry route;
 - project evidence could change a capability/ownership conclusion;
 - SQL/Git evidence materially widens a role band;
 - E2 is resumed/completed;
