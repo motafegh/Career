@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-16 — Iranian market becomes the sole active market-calibration lane; first Iran vacancy sequence established  
+**Last updated:** 2026-09-16 — Iran-only native-detail pass refined the active candidate sequence; Viuna/Avisa are highest-priority resolutions  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -22,7 +22,7 @@
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
 | Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
-| Application state | Iran-only priority sequence established; native vacancy detail/access checks and minimum private application materials remain before first submission |
+| Application state | Iran-only native-detail sequence active; no submission yet because remaining vacancy-specific access checks and the minimum private Iran application package are unresolved |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -76,7 +76,7 @@ Material limits remain:
 - professional Git/pull-request/code-review collaboration evidence remains weak;
 - JobHunter and current Sentinel implementation remain AI-full-implementation and do not transfer automatically to Ali capability.
 
-The 2026-09-14 E3 review changed **no D-levels**. The 2026-09-16 Iran-market focus also changes no capability conclusion. Market demand is not capability evidence.
+The September E3/Iran market work changes **no D-levels**. Market demand is not capability evidence.
 
 ## 4. Project portfolio decision
 
@@ -139,24 +139,48 @@ Detailed evidence:
 - `tracking/research/2026-09-14_IRAN_PERSIAN_PLATFORM_ACQUISITION_AND_MARKET_RESEARCH_REPORT.md`
 - `tracking/research/2026-09-14_E3_FRESH_VACANCY_RESPONSIBILITY_EVIDENCE_SET.md`
 - `tracking/research/2026-09-14_E3_APPLICATION_READINESS_AND_ROLE_BAND_REVIEW.md`
-- `tracking/research/2026-09-14_E3_FIRST_CALIBRATION_VACANCY_SHORTLIST.md`
 - `tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`
 - `tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`
+- `tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`
 
-## 6. Iran-only current calibration sequence
+## 6. Iran-only active calibration sequence
 
 Ali explicitly selected the Iranian job market and the four requested Persian platforms as the only active market lane for the current step.
 
-International candidates from the September 14 shortlist are **deferred during this focus**, not rejected, downgraded, or erased.
+International candidates are **deferred during this focus**, not rejected, downgraded, or erased.
 
-### Current Iran priority order
+The native-detail pass supersedes the first-pass ranking where it found stronger evidence.
 
-1. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`** — very fresh JobVision entry-level evidence; native detail/access check first.
-2. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار (ERP)`** — strong implementation/support responsibility shape; verify current degree/experience/ERP/SQL/access gates.
-3. **Tabansoft — `کارشناس پشتیبان نرم افزار`** — very fresh; determine whether the role is genuinely technical/product-diagnostic rather than generic support.
-4. **Novo Nordisk Pars — ERP functional support, then ERP technical support** — same-day IranTalent evidence; recover current native duties and access requirements.
-5. **Digify — `Technical Support`** — active Jobinja evidence; recover exact technical support depth and access requirements.
-6. Inspect one or two fresh **QA/testing** roles only if the first five do not yield enough viable applications.
+### Current priority order
+
+1. **Viuna — `کارشناس پشتیبانی فنی نرم‌افزار`**  
+   Strongest current detailed responsibility match. Employer evidence explicitly includes ticketing, logs/error analysis, SQL/database concepts, APIs, coordination with developers, documentation and operational reporting. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF ACCESS PASSES** after remaining native/access verification.
+
+2. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**  
+   Strongest explicit entry-level Python route currently found. **Decision: HOLD for native access/detail → APPLY IF ACCESS PASSES.**
+
+3. **Carbon Internship Development Center — `برنامه نویس پایتون`**  
+   Fresh JobVision urgent-feed evidence in Tehran. Seniority/JD remains unresolved; do not assume internship status from employer identity. **Decision: HOLD for native JD.**
+
+4. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار ERP`**  
+   Strong implementation/support responsibility family; current exact gates remain unresolved. **Decision: HOLD → APPLY IF ACCESS PASSES.**
+
+5. **Tabansoft — `کارشناس پشتیبان نرم افزار`**  
+   Very fresh JobVision evidence; determine whether it is genuinely technical/product-diagnostic. **Decision: HOLD.**
+
+6. **Novo Nordisk Pars — ERP Functional Support, then ERP Technical Support**  
+   Current IranTalent title evidence; exact native duties/access remain unresolved. **Decision: HOLD.**
+
+7. **Digify — `Technical Support`**  
+   Current/recent employer + Jobinja evidence; exact support depth remains unavailable. **Decision: HOLD.**
+
+8. **Carbon software-test opportunity**  
+   Strong conditional QA shape with explicit education and military-service/access requirements. **Decision: HOLD FOR ACCESS.**
+
+### Supporting ERP evidence
+
+- **Dio Pars** provides very fresh evidence for ERP support/configuration/testing/customer-needs/training work, but explicitly asks for prior Rahkaran experience; treat as conditional unless that gate passes.
+- **Atra Vision** independently validates the ERP support/implementation responsibility bundle; exact vacancy freshness/access must be checked before application.
 
 ### Current benchmark / reject
 
@@ -164,7 +188,7 @@ International candidates from the September 14 shortlist are **deferred during t
 
 ### e-estekhdam
 
-No e-estekhdam technical vacancy is currently promoted into the active sequence because the accessible targeted results repeatedly exposed stale historical publication dates despite fresh crawl dates.
+No e-estekhdam technical vacancy is currently promoted into the active sequence because targeted accessible results again exposed stale historical publication dates despite fresh crawl dates.
 
 This is an **acquisition limitation**, not evidence that e-estekhdam or the Iranian market lacks relevant technical jobs.
 
@@ -214,7 +238,7 @@ The broad September 14 review establishes:
 
 It does **not** establish broad junior software/data/ML readiness.
 
-The Iran-only focus does not require a new readiness score. It applies the existing E3 decision to a specific market evidence stream.
+The Iran-only focus applies that existing decision to a specific market evidence stream; it does not create a new readiness score.
 
 E2 incompleteness still matters vacancy by vacancy when a specific application would expose a misleading or weak public surface.
 
@@ -245,7 +269,7 @@ Also confirm the minimum required private application/contact materials for that
 
 The Career repository contains no canonical role-tailored Iranian CV/resume artifact.
 
-Therefore do **not** create many speculative CV variants now. Once the first one or more Iranian vacancies survive native-detail and access screening, create one minimal claim-bounded Iran-appropriate CV package and tailor only what the actual surviving vacancy requires.
+Therefore do **not** create many speculative CV variants now. Once the first Iranian vacancy survives native-detail and access screening, create one minimal claim-bounded Iran-appropriate CV package and tailor only what the actual surviving vacancy requires.
 
 Do not create a public detailed application tracker containing private employer correspondence, contact details, compensation discussions or sensitive information.
 
@@ -276,11 +300,13 @@ Do not let vacancy research or application administration consume the flagship w
 
 ## 12. Exact next Career action
 
-> **Resolve the Iran-only candidate sequence in order: Avisa Python/Django internship → Fara Samaneh ERP implementation/support → Tabansoft software support → Novo Nordisk Pars ERP functional/technical support → Digify Technical Support. For each, verify current-open/native job detail and only the actual employer access gates; then apply the responsibility/evidence filter. Once the first candidate(s) survive, create one minimal claim-bounded Iran-appropriate private CV/application package, run the final claim check, and submit.**
+> **Resolve Viuna first: verify its current native listing/access gates while preserving the detailed employer-authored responsibility evidence. In parallel resolve Avisa's internship access/native requirements. Then inspect Carbon's fresh Python JD. Promote only surviving candidates to the minimum Iran application package; do not broaden the market batch yet.**
+
+After Viuna/Avisa/Carbon, continue the sequence through Fara Samaneh → Tabansoft → Novo Nordisk Pars → Digify, using the native-detail update as the latest operational evidence.
 
 Do not spend the current Career market lane on international candidates unless Ali explicitly changes the focus.
 
-Do not broaden to another large Iran batch until these candidates are resolved/expired or fewer than roughly 2–3 credible application candidates survive.
+Once the first candidate(s) survive, create one minimal claim-bounded Iran-appropriate private CV/application package, run the final claim check, and submit.
 
 E2 remains deferred in parallel; UpgradePilot remains the dominant technical responsibility.
 
