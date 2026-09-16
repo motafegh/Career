@@ -11,7 +11,7 @@
 
 Translate the current Career state into the smallest immediate work package.
 
-The active market lane is now **Iran only**. This is an operational focus, not a strategy/identity change. International candidates and evidence remain preserved but deferred until Ali changes the focus.
+The active market lane is **Iran only**. This is an operational focus, not a strategy/identity change. International candidates and evidence remain preserved but deferred until Ali changes the focus.
 
 This file does not own capability scores, long-term strategy, portfolio roles, or project technical continuation. Canonical owners win.
 
@@ -24,38 +24,55 @@ Keep the cycle allocation:
 15–25%  Iran market/application + bounded Career/SQL/Git/positioning work combined
 ```
 
-UpgradePilot remains the sole capability-building flagship. Career wants legitimate project work to create stronger evidence around:
+UpgradePilot remains the sole capability-building flagship. Career wants legitimate project work to create stronger evidence around executable proof, source/test understanding, meaningful modification, causal diagnosis, changed-context transfer, and concise technical explanation.
 
-- executable proof;
-- current source/test understanding;
-- meaningful modification;
-- causal diagnosis;
-- changed-context transfer;
-- concise technical explanation.
+These are Career-facing evidence classes, not a project implementation plan.
 
-These are Career-facing outcome/evidence classes, not a project implementation plan.
+## 3. Iran evidence owners
 
-## 3. Iran-only vacancy sequence
-
-Controlling evidence/work package:
+Current research/execution artifacts:
 
 - [`../tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`](../tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md)
 - [`../tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`](../tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md)
+- [`../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`](../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md)
 
-Resolve in this order unless a listing expires first:
+The native-detail update is the newest operational evidence when its ranking differs from the first sequence.
 
-1. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**.
-2. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار (ERP)`**.
-3. **Tabansoft — `کارشناس پشتیبان نرم افزار`**.
-4. **Novo Nordisk Pars — ERP functional support, then ERP technical support**.
-5. **Digify — `Technical Support`**.
-6. One or two fresh QA/testing vacancies only if the first five do not yield enough viable candidates.
+## 4. Current candidate order
 
-Do **not** search another large Iranian batch while these remain unresolved.
+Resolve in this order unless a vacancy expires first:
+
+1. **Viuna — `کارشناس پشتیبانی فنی نرم‌افزار`**  
+   Strongest current detailed responsibility match. Employer evidence explicitly includes ticketing, logs/error analysis, SQL/database concepts, APIs, coordination with development, documentation and reporting. Resolve remaining native IranTalent/access details. Current decision: **APPLY IF ACCESS PASSES**.
+
+2. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**  
+   Strongest explicit entry-level Python route in the current evidence. Resolve native technical/access details. Current decision: **HOLD → APPLY IF ACCESS PASSES**.
+
+3. **Carbon Internship Development Center — `برنامه نویس پایتون`**  
+   Fresh JobVision urgent-feed evidence in Tehran. Do not assume the role is an internship merely because of the employer's name. Recover native JD/seniority. Current decision: **HOLD**.
+
+4. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار ERP`**  
+   Strong implementation/support shape. Recover current degree/experience/ERP/SQL/customer-site gates. Current decision: **HOLD → APPLY IF ACCESS PASSES**.
+
+5. **Tabansoft — `کارشناس پشتیبان نرم افزار`**  
+   Very fresh JobVision evidence. Determine whether it is genuinely technical/product-diagnostic rather than generic customer support. Current decision: **HOLD**.
+
+6. **Novo Nordisk Pars — ERP Functional Support, then ERP Technical Support**  
+   Current IranTalent title evidence; native details still unavailable. Functional role first because the process/stakeholder blend may fit better. Current decision: **HOLD**.
+
+7. **Digify — `Technical Support`**  
+   Current/recent employer + Jobinja existence evidence, but exact JD remains unresolved. Current decision: **HOLD**.
+
+8. **Carbon software-test opportunity**  
+   Strong conditional QA responsibility shape, but explicit education and military-service/access gates require private verification. Current decision: **HOLD FOR ACCESS**.
+
+Use **Dio Pars** and **Atra Vision** as strong ERP responsibility-shape evidence and vacancy candidates only when their current explicit access gates are feasible. Dio Pars explicitly asks for prior Rahkaran experience.
+
+Do **not** search another large Iranian batch while this sequence remains unresolved.
 
 International September-14 candidates are **deferred, not rejected**.
 
-## 4. Platform-specific acquisition rules
+## 5. Platform-specific acquisition rules
 
 ### Jobinja
 
@@ -67,23 +84,23 @@ Use current official/native listing evidence, current indexed detail surfaces an
 
 ### IranTalent
 
-Use current root/category listings and direct native job pages. The current ERP functional/technical support family is high priority, but root-title evidence alone is not enough for an APPLY decision.
+Use current root/category listings and direct native/employer job evidence. Where the native page cannot be retrieved, employer-authored current postings can establish responsibility shape, but final access gates remain unresolved.
 
 ### e-estekhdam
 
-Use strict freshness validation. Recent crawl date does **not** establish recent vacancy publication. Do not promote a vacancy unless its actual current publication/open state is defensible.
+Use strict freshness validation. Recent crawl date does **not** establish recent vacancy publication. Do not promote a vacancy unless its actual publication/open state is defensible.
 
-No e-estekhdam technical vacancy is currently in the active candidate sequence.
+No e-estekhdam technical vacancy is currently in the active sequence.
 
-## 5. Candidate decision sequence
+## 6. Candidate decision sequence
 
-For each vacancy, resolve only the minimum facts needed:
+For each vacancy:
 
 ```text
 CURRENT / OPEN?
 CONFIRMED / LIKELY CURRENT / UNRESOLVED / CLOSED-STALE
 
-EXACT NATIVE DUTIES?
+EXACT NATIVE / EMPLOYER DUTIES?
 what work is actually owned
 
 ACCESS GATE?
@@ -102,11 +119,11 @@ DECISION
 APPLY / APPLY IF ACCESS PASSES / HOLD / REJECT
 ```
 
-Never convert degree, age, gender, military-service, location, schedule, language, or other access failures into technical-learning gaps.
+Never convert education, military-service, age, gender, location, schedule, language, prior-domain-experience or other access failures into technical-learning gaps.
 
 Do not infer private facts that Career does not record.
 
-## 6. Iran-specific access checks
+## 7. Iran-specific access checks
 
 Inspect only employer-stated conditions relevant to the vacancy:
 
@@ -123,9 +140,9 @@ Inspect only employer-stated conditions relevant to the vacancy:
 - work/internship schedule;
 - other hard eligibility conditions.
 
-`UNRESOLVED` is a valid state until the fact is known.
+`UNRESOLVED` is valid until the fact is known.
 
-## 7. Application-material rule
+## 8. Application-material rule
 
 The Career repository currently has no canonical role-tailored Iranian CV/resume artifact.
 
@@ -141,19 +158,19 @@ When the first candidate(s) survive native-detail + access review:
 6. run the final claim check;
 7. submit privately.
 
-## 8. Current role-band boundary
+## 9. Current role-band boundary
 
 ### Primary
 
+- technical software/product support with real logs/API/data/troubleshooting responsibility;
 - technical implementation / integration;
 - ERP/software implementation and support with genuine technical/process responsibility;
-- technical product/application/software support with real diagnosis/integrations;
 - bounded AI automation/solutions where current evidence fits.
 
 ### Conditional
 
 - Python/software internships and strongly mentored junior development;
-- QA/testing/evaluation with manual/API/defect-reproduction/product-quality responsibility;
+- QA/testing/evaluation with test-case/defect/product-quality responsibility;
 - genuinely junior Applied-AI implementation.
 
 ### Gated / low priority
@@ -164,9 +181,9 @@ When the first candidate(s) survive native-detail + access review:
 - deep SRE/DevOps/infrastructure;
 - roles whose core requirements would require claim inflation.
 
-**Serita Junior Software Developer** remains a useful benchmark but is rejected from this first Iran batch because its combined Python/FastAPI + frontend JavaScript + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
+**Serita Junior Software Developer** remains a benchmark but is rejected from the first Iran batch because its combined Python/FastAPI + frontend JavaScript + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
 
-## 9. E2 remains deferred
+## 10. E2 remains deferred
 
 Do not:
 
@@ -177,7 +194,7 @@ Do not:
 
 Resume E2 later when Ali chooses or a concrete application makes it materially necessary.
 
-## 10. Feedback rule
+## 11. Feedback rule
 
 Once real Iranian applications begin, classify feedback as:
 
@@ -191,14 +208,14 @@ Once real Iranian applications begin, classify feedback as:
 
 One unexplained rejection does not create a curriculum. Repeated patterns or a high-information technical signal can justify bounded Career correction.
 
-## 11. Stop lines
+## 12. Stop lines
 
 Do not:
 
 - broaden back to international searching during this Iran-only focus;
 - collect another large Iran batch before resolving the current one;
 - treat keyword counts as prevalence;
-- apply to a role based on title alone;
+- apply based on title alone;
 - invent private access facts;
 - create public detailed application/recruiter records;
 - mass-generate CV variants;
@@ -206,7 +223,7 @@ Do not:
 - start another flagship;
 - treat repository sophistication or AI-generated work as Ali ownership.
 
-## 12. Return-to-Career triggers
+## 13. Return-to-Career triggers
 
 Return to formal Career assessment/review at the earliest of:
 
