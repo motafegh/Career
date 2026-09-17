@@ -12,7 +12,7 @@ Do not operate UpgradePilot, JobHunter, Sentinel, or any other technical project
 
 When instructions conflict, use:
 
-1. safety, legal, privacy, credential, financial, health, cost, and platform constraints;
+1. safety, legal, privacy, authentication/security credential, financial, health, cost, and platform constraints;
 2. Ali's explicit current instruction;
 3. [`CAREER_CHARTER.md`](CAREER_CHARTER.md);
 4. [`governance/CAREER_OPERATING_CONTRACT.md`](governance/CAREER_OPERATING_CONTRACT.md);
@@ -50,7 +50,9 @@ Do not put UpgradePilot, JobHunter, Sentinel, or another project's technical nex
 |---|---|
 | Durable Career mission and repository boundary | `CAREER_CHARTER.md` |
 | Current career position and next Career action | `CAREER_STATE.md` |
-| Public-safe facts about Ali | `profile/CAREER_PROFILE.md` |
+| Concise stable public-safe facts about Ali | `profile/CAREER_PROFILE.md` |
+| Detailed public-safe personal/professional context when materially needed | `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md` |
+| Profile-area routing and evidence-class rules | `profile/README.md` |
 | Direction, roles, priorities, geography, and change logic | `strategy/CAREER_STRATEGY.md` |
 | Workload, reviews, allocation, and anti-diversion rules | `governance/CAREER_OPERATING_CONTRACT.md` |
 | Current bounded career-cycle outcomes | `plans/CURRENT_CAREER_CYCLE.md` |
@@ -66,6 +68,20 @@ Do not put UpgradePilot, JobHunter, Sentinel, or another project's technical nex
 | Sentinel current technical continuation and implementation | `motafegh/sentinel-` source, tests, plans, evidence, runtime artifacts, and project-local docs |
 
 One kind of truth should have one normal owner. Link rather than duplicate.
+
+### Profile-context routing rule
+
+Use `profile/CAREER_PROFILE.md` for ordinary stable profile facts and orientation. Load the comprehensive profile only when a decision materially depends on deeper education, professional-history, management, communication, work-preference, technical-origin, or similar context.
+
+Keep these dimensions separate when profile context matters:
+
+```text
+professional maturity
+!= technical context
+!= technical ownership
+```
+
+Professional biography may materially improve role-fit reasoning, market interpretation, behavioral evidence, or positioning. It may not override the Capability Ledger or convert prior authority, education, exposure, AI-assisted project sophistication, or self-report into demonstrated technical ownership.
 
 ## Career Agent Skills and operation routing
 
@@ -242,6 +258,8 @@ Do not:
 
 Use representative samples, identify common requirements, map evidence and gaps, and update strategy only from material patterns or feedback.
 
+When comparing Ali with a role, use both the relevant profile context and the Capability Ledger. Transferable professional maturity may strengthen fit for responsibilities involving stakeholders, implementation, support, investigation, coordination, or ambiguity; it does not erase technical requirements or establish unproven technical ownership.
+
 When JobHunter is used, follow [`market/jobhunter/CAREER_INTEGRATION_AND_USE.md`](market/jobhunter/CAREER_INTEGRATION_AND_USE.md): preserve source/sample context, distinguish employer evidence from translation/model/taxonomy output, and use Career-approved personal capability evidence for Ali-specific comparisons.
 
 For current laws, job-market conditions, role requirements, companies, salaries, visa rules, or hiring practices, verify current public information before making decisions.
@@ -274,7 +292,8 @@ Use Git history as the default archive. Do not keep compatibility pointers or hi
 ## Security and privacy
 
 - Keep all Career records public-safe.
-- Do not expose medical, medication, legal, financial, credential, address, phone, private family, or private routine details.
+- Public-safe education, degrees, certifications, professional titles, generalized work history, languages, and responsibilities may be recorded when useful.
+- Do not expose medical or medication details, private legal matters, private financial details, authentication credentials/secrets, private credential documents, addresses, phone numbers, private family identities, or unnecessary private routines.
 - Do not store confidential applications, recruiter messages, or employer correspondence in the public repository.
 - Do not publish personal contact details merely for portfolio completeness.
 - Sanitize linked project evidence and market records.
