@@ -1,289 +1,395 @@
-# Ali Rajabi — Public-Safe Career Profile
+# Career Profile — Concise Stable Summary
 
 **Owner:** Ali Rajabi  
 **Status:** Approved active Career profile  
-**Last reviewed:** 2026-09-12 — governance/alignment remediation; mutable role/project state delegated to canonical owners  
-**Responsibility:** Public-safe stable facts, evidence context, preferences, constraints, strengths, gaps, and reassessment needs that materially affect Career decisions
+**Last reviewed:** 2026-09-17 — reconciled with the comprehensive personal/professional profile  
+**Responsibility:** Canonical concise summary of stable public-safe personal/professional facts, durable preferences, strengths, limits, and profile-level context that materially affect Career decisions  
+**Detailed supporting context:** [`COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`](COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md)
 
-## 1. Interpretation rules
+## 1. Interpretation and authority
 
 This profile distinguishes:
 
 - **Fact** — directly stated and stable enough to record.
-- **Preserved evidence** — supported by inspectable project or work evidence.
+- **Professional-history context** — reported prior responsibility/history useful for Career reasoning but not a technical capability score.
+- **Preserved evidence** — supported by inspectable project/work evidence.
 - **Observed pattern** — repeated behavior seen across work and discussions.
-- **Preference** — Ali's stated preferred way of learning or working.
+- **Preference** — stated preferred way of learning or working.
 - **Working assessment** — cautious current interpretation that may change with evidence.
-- **Unassessed** — insufficient reliable evidence.
+- **Unassessed / unresolved** — insufficient reliable detail.
 
-This is not a promotional biography. It intentionally records limits and uncertainty.
+This is a concise governance-facing profile, not a CV or promotional biography.
 
-Sensitive medical, medication, legal, financial, family, credential, address, and private-routine information is excluded.
+Use the comprehensive profile when deeper context is needed around education, prior businesses, management responsibility, communication, technical origin, AI-assisted working style, learning patterns, or unresolved personal/professional questions.
 
-Current target-role ordering belongs to `strategy/CAREER_STRATEGY.md`. Current project roles belong to `portfolio/PROJECT_PORTFOLIO.md`. Current capability depth belongs to `tracking/CAPABILITY_EVIDENCE_LEDGER.md`. Current Career position belongs to `CAREER_STATE.md`.
+This file does **not** own:
+
+- current capability depth — `../tracking/CAPABILITY_EVIDENCE_LEDGER.md`;
+- current project roles — `../portfolio/PROJECT_PORTFOLIO.md`;
+- current role/geography strategy — `../strategy/CAREER_STRATEGY.md`;
+- live Career position / exact next action — `../CAREER_STATE.md`.
+
+Detailed biography may inform role fit and professional positioning. It may not override capability evidence.
 
 ## 2. Current professional situation
 
-### Facts
+### Stable facts
 
-- Ali is currently not employed and is focused on transitioning into a technical career.
-- He has approximately six to seven years of experience in a former family manufacturing business.
-- His responsibilities included management, sales, purchasing/buying, coordination, and operational decision-making.
-- The family business is closed and is not his current employment.
-- He has not yet worked in a technology company.
-- He can commit substantial weekly time to structured learning and project work; current planning capacity is governed by the Operating Contract and current cycle rather than duplicated here as a live schedule.
+- Not currently employed; focused on transition into a technical career.
+- No prior employment in a technology/software company.
+- Prior professional experience spans **three materially different family-connected businesses / groups**, not one manufacturing company.
+- Prior work included domestic purchasing, operational coordination, management, asset responsibility, personnel decisions, sales/customer exposure, executive responsibility, and cross-department work.
+- Entry into the prior businesses was materially enabled by family relationship / owner trust rather than pre-existing domain specialization.
+- Responsibility increased over time despite that entry condition.
+- Current focused-work capacity is governed by the Operating Contract and current cycle rather than duplicated here.
 
-### Transferable professional experience
+### Professional-history shape
 
-The family-business background may support evidence in:
+The recurring pattern across prior work is:
+
+```text
+trusted access / observation
+→ coordination in unfamiliar environments
+→ increasing operational authority
+→ wider responsibility over people, assets, departments, or difficult assignments
+```
+
+This supports transferable professional context around responsibility, ambiguity, prioritization, stakeholder handling, and operational judgment.
+
+It does **not** establish technical-company collaboration, software delivery, code review, engineering-team experience, or technical seniority.
+
+## 3. Prior professional experience — concise record
+
+### Trading / procurement company
+
+Approximate duration: ~3 years.
+
+Responsibilities included:
+
+- domestic raw-material purchasing;
+- supplier communication;
+- coordination with finance, factory, drivers, and storage;
+- participation in senior meetings and observation of broader operations;
+- increasing office / cross-department coordination authority over time.
+
+No claim of international purchasing ownership or highest-level strategic purchasing authority.
+
+### Large holding / cross-company operations
+
+Approximate duration: ~3 years.  
+Formal title: **Project Manager**.
+
+Actual responsibility extended beyond a conventional single construction/project-management role and included:
+
+- a standing team of approximately 7–10 people;
+- temporary authority over other teams / companies for specific assignments;
+- management of vehicles, properties, repairs, and non-core operational work;
+- asset inventory / disposal;
+- selected financial-record review during closures;
+- workforce reduction / company-shutdown assignments;
+- execution of difficult owner-directed operational missions.
+
+The holding's core steel / iron production domain was **not** a domain of deep operating expertise.
+
+### Sauce-production company
+
+Approximate tenure: ~1.5 years.  
+Formal role: **Chief Executive Officer (CEO)**.  
+Organization size: approximately 100 people overall.
+
+Responsibility / interaction spanned:
+
+- finance;
+- sales;
+- purchasing;
+- production / factory operations;
+- human resources;
+- management coordination;
+- selected customer/supplier work;
+- restructuring / commercial-improvement attempts.
+
+The company was already financially weak and operated under substantial owner/family constraints. Closure should not be represented as either a personal success or a failure caused exclusively by external factors.
+
+## 4. Transferable professional strengths
+
+Professional history supports cautious evidence for:
 
 - responsibility and follow-through;
-- commercial judgment;
+- operating under ambiguity and pressure;
+- delegation and situational management;
+- coordination across departments / occupational levels;
 - purchasing and supplier interaction;
-- customer communication and sales;
-- coordination and prioritization;
-- operating under practical constraints;
-- ownership of outcomes beyond a narrow task.
+- selected sales / customer interaction;
+- asset / money-flow responsibility without claiming accounting expertise;
+- difficult personnel and shutdown decisions;
+- stakeholder conflict and upward communication;
+- commercial / operational judgment;
+- willingness to challenge senior authority when consequences appear material;
+- investigative persistence when operational clues or inconsistencies appear important.
 
-These transferable strengths do not establish technical-company collaboration, software delivery, code review, or engineering-team experience.
+The last item is currently best treated as a **self-reported / repeatedly observed tendency**, not as formal audit, fraud-investigation, security-investigation, or forensic capability.
 
-### Education
+## 5. Education and academic technical origin
 
-Formal education and credentials are not currently recorded as active Career evidence. Do not infer or invent degrees, certificates, institutions, or dates.
+### Stable education facts
 
-## 3. Technical exposure
+- **Master's degree — Petroleum Engineering — University of Tehran.**
+- **Bachelor's degree — Petroleum Engineering.**
+- Master's study occurred during the COVID-19 period.
+
+Bachelor's institution and exact degree dates remain unresolved in the current profile and must not be invented.
+
+### Master's thesis
+
+Theme:
+
+> detection and analysis of pores from 3D rock-core imagery, using neural-network methods to predict permeability and porosity.
+
+This establishes an academic bridge from petroleum engineering into programming / machine-learning context.
+
+It does **not** yet establish a strong personal implementation claim because exact thesis code ownership, libraries, dataset source, model-design responsibility, and publication history have not been reconstructed.
+
+### Certifications
+
+No meaningful formal certification inventory currently recorded. Current preference is to prioritize real capability / project evidence over collecting certificates for their own sake.
+
+## 6. Languages and work flexibility
+
+### Languages
+
+Self-reported stable facts:
+
+- Persian / Farsi — fluent;
+- English — fluent.
+
+Formal language-test scores and interview-specific language performance are not currently recorded.
+
+### First-role flexibility
+
+Current durable preference:
+
+- strong technical fit, learning value, and future relevance matter more than ideal work mode;
+- on-site / hybrid / remote preferences are flexible for a strong first technical opportunity;
+- initial compensation is currently lower priority than role quality, learning, alignment, and entry into the technical industry.
+
+Exact relocation / commute / access constraints remain vacancy-specific until clarified.
+
+## 7. Technical exposure
 
 ### Preserved or strongly supported exposure
 
-Ali has encountered and worked with:
+Experience / exposure includes:
 
 - Python applications and larger source trees;
-- machine-learning experiments and model training;
+- machine-learning experimentation and model training;
 - data acquisition, preprocessing, and dataset-quality problems;
 - Visual Studio Code;
 - Linux terminal workflows and commands;
 - Git and GitHub repositories;
 - tests, debugging, configuration, and project documentation;
 - Large Language Model and AI coding assistants;
-- Solidity and blockchain concepts;
-- Docker, graphs, agents, MLOps, and security concepts at mixed exposure levels;
-- real public APIs, repositories, package data, and external technical evidence.
+- external APIs and public technical evidence;
+- Solidity / blockchain concepts;
+- Docker, graphs, agents, MLOps, networking, and security concepts at mixed exposure levels.
 
-These are exposure/context statements, not unrestricted capability claims. Current demonstrated depth is owned by the Capability Ledger.
+These are exposure/context statements, not unrestricted capability claims. Current demonstrated depth belongs to the Capability Ledger.
 
-### Project evidence context
+### Current implementation pattern
 
-Ali has substantial evidence history across multiple AI-assisted projects. Current project role and claim boundaries must be read from `portfolio/PROJECT_PORTFOLIO.md` and the relevant project Career record rather than duplicated here.
+A stable current distinction is:
 
-The stable profile-level lesson is:
+> code reading / comprehension is materially stronger than blank-page writing; AI-assisted implementation ability is broader than independently demonstrated implementation ownership.
 
-> Large or sophisticated AI-assisted repositories can create valuable learning, portfolio, and decision evidence, but repository capability must remain separate from Ali's demonstrated personal capability and ownership.
+That distinction should inform learning and role calibration without becoming either self-erasure or capability inflation.
 
-## 4. Working strengths and limitations
+## 8. Working strengths and limitations
 
 ### Working strengths
 
-- Can engage deeply with a persistent technical mission.
+- Can engage deeply with a persistent meaningful mission.
 - Asks causal questions about why systems, data, models, or evidence behave as they do.
 - Values honest limitations and challenges unsupported conclusions.
 - Has growing comfort with Linux terminal use and AI-assisted technical workflows.
 - Can read and explain meaningful portions of AI-assisted code when taught and reviewed.
-- Has real experience with long-running experimentation and failure, including dataset and model-quality problems.
-- Can direct AI work, question plans, and identify when a project or document has drifted from its purpose.
-- Shows recurring interest in evidence, provenance, uncertainty, trust boundaries, and why a result does or does not justify a stronger claim.
+- Has real experience with long-running experimentation and data/model-quality problems.
+- Can direct AI work, question plans, and identify drift from project purpose.
+- Shows recurring interest in evidence, provenance, uncertainty, trust boundaries, and proof limits.
+- Historical professional experience suggests adaptability across unfamiliar operational domains.
 
 ### Important stable limitations / reassessment needs
 
-Reliable independent breadth is not automatically established by prior exposure or project stacks. Areas that require responsibility-specific evidence before strong external claims include, depending on the role:
+Responsibility-specific evidence is still required before strong external claims around:
 
-- Python implementation and modification across changed contexts;
+- Python implementation / modification across changed contexts;
 - test design and failure reasoning;
-- debugging and causal diagnosis;
+- debugging / causal diagnosis;
 - packaging and dependency-management ownership;
-- SQL and relational data modeling;
+- SQL / relational data modeling;
 - production-oriented data pipelines;
 - secure engineering implementation;
-- Docker and CI diagnosis;
-- backend/API design;
-- ML evaluation and model-selection ownership;
+- Docker / CI diagnosis;
+- backend / API design;
+- ML evaluation / model-selection ownership;
 - advanced AI/agent/cloud/distributed/MLOps responsibilities;
-- professional team workflows, pull-request review, and software-delivery collaboration.
+- professional pull-request review and software-team collaboration.
 
-Some of these may already have guided or bounded evidence. The exact current conclusion must come from the Capability Ledger rather than this stable profile.
+The comprehensive professional history does not weaken these evidence requirements.
 
-## 5. Career interests and ambition
+## 9. Career interests and ambition
 
-### Facts and preferences
-
-Ali is strongly interested in combinations of:
+Strong interests include combinations of:
 
 - Python;
 - data and machine learning;
 - applied AI and AI-assisted engineering;
-- cybersecurity and secure engineering;
-- backend and automation systems;
-- blockchain and Solidity as prior interests;
-- cloud, distributed systems, agents, and MLOps as areas to understand and evaluate.
+- cybersecurity / secure engineering;
+- backend / automation systems;
+- blockchain / Solidity as prior interests;
+- cloud, distributed systems, agents, and MLOps as areas to evaluate when justified.
 
-### Long-term ambition
+Long-term preference is adaptability rather than attachment to one static job title: continuously learn, update, and remain useful as tools and engineering practices change.
 
-Ali wants to become a hybrid engineer rather than remain in one narrow technology label.
+Current working identity and role-family ordering remain controlled by Strategy and Career State rather than this profile.
 
-The ambition is valid as a long-term direction. The Career system must convert it into staged, evidence-backed capability rather than claim simultaneous professional depth across all areas.
+## 10. Preferred learning and working method
 
-Current role-family priorities and working identity are controlled by `strategy/CAREER_STRATEGY.md` and `CAREER_STATE.md`.
+### Learning by building
 
-## 6. Preferred learning and working method
-
-### Strong preference: learning by building
-
-Ali prefers:
+Preferred loop:
 
 ```text
-learn the minimum needed for a real responsibility
-→ attempt the responsibility
-→ inspect actual behavior or failure
-→ learn the next blocking concept
-→ modify, test, or diagnose
-→ continue the same mission
+real responsibility
+→ attempt
+→ actual output or failure
+→ blocking concept
+→ focused learning
+→ modification / test / diagnosis
+→ continuation of the same mission
 ```
 
-He does not prefer a long detached prerequisite course before touching a real system.
+Strong preferences:
 
-### Mission continuity
+- real repositories / APIs / datasets / logs;
+- visible output;
+- authentic failures and imperfect inputs;
+- session-based work rather than rigid day labels;
+- exact terminology and explicit depth boundaries;
+- real-case code flows over detached file-by-file tours.
 
-Ali sustains engagement better when each session continues one meaningful objective. Technology should appear as a means to move the product or investigation forward, not as a disconnected syllabus.
+## 11. AI-assisted engineering philosophy
 
-### Real inputs and causal feedback
+Effective AI-assisted construction is treated as an important modern engineering capability.
 
-Preferred work includes:
-
-- real public repositories, APIs, packages, datasets, logs, or evidence;
-- visible end-to-end output early;
-- authentic missing, malformed, conflicting, or poor-quality inputs;
-- changes whose consequences can be inspected;
-- failures that create a specific next engineering question.
-
-### Sessions rather than rigid days
-
-Ali prefers work organized into sessions and bounded responsibilities. A session may be shorter or longer depending on the actual task and capacity. Daily labels should not imply artificial uniformity.
-
-### Technical teaching standard
-
-For important new terms, explanations should normally include:
-
-- full form and abbreviation;
-- practical meaning;
-- why the name makes sense where useful;
-- relationship to the current project;
-- depth required now;
-- deeper detail intentionally deferred;
-- one observable example when needed.
-
-Oversimplification should not hide useful commands, labels, protocols, boundaries, or failure distinctions.
-
-## 7. AI-assisted engineering philosophy
-
-Ali considers effective AI-assisted construction an important engineering capability.
-
-The Career system therefore does not demand that all work be performed without AI. It requires accurate separation of:
+Career does not demand AI avoidance. It requires accurate separation among:
 
 - AI-generated work;
-- AI-assisted Ali work;
-- Ali-directed decisions;
-- Ali-verified behavior;
-- Ali-modified implementation;
-- Ali-diagnosed failures;
-- Ali-owned responsibilities.
+- AI-assisted work;
+- directed decisions;
+- verified behavior;
+- personally modified implementation;
+- diagnosed failures;
+- owned responsibilities.
 
-AI should teach, scaffold, inspect, review, and accelerate. It must not silently replace the central reasoning, verification, modification, testing, diagnosis, or accountability that a capability claim is meant to establish.
-
-The intended progression is not “stop using AI.” It is:
+Desired progression:
 
 ```text
 better problem direction
-+ better AI use
++ stronger AI use
 + stronger verification
-+ increasing modification and diagnosis
-+ decreasing opaque/unverified dependence
-+ defensible human ownership
++ increasing modification / diagnosis
++ decreasing opaque dependence
++ defensible human accountability
 ```
 
-## 8. Motivation and execution patterns
+## 12. Motivation and execution patterns
 
-### Observed positive conditions
+### Positive conditions
 
-Ali is more engaged when:
+Higher engagement when:
 
-- the mission feels meaningful and career-relevant;
-- the system changes visibly;
-- real evidence or failure creates curiosity;
-- the work is technically ambitious but bounded;
-- there is continuity across sessions;
-- AI assistance produces understanding rather than only artifacts;
-- progress can be connected to a future professional identity.
+- the mission is meaningful and career-relevant;
+- system behavior changes visibly;
+- a real unresolved problem exists;
+- work is ambitious but bounded;
+- sessions preserve continuity;
+- AI increases understanding rather than only artifact volume.
 
-### Observed risks
+### Stable risks
 
-- Large, interesting projects can expand into many technologies and modules.
-- Documentation and governance can become a substitute for visible product progress.
-- AI can produce architecture and code faster than Ali can understand and own it.
-- A broad hybrid identity can create pressure to learn everything simultaneously.
-- Work may remain in preparation or capability-building while market calibration is repeatedly postponed.
+- inconsistent execution / weak discipline;
+- broad curiosity creating scope expansion;
+- documentation/governance replacing executable work;
+- AI output outrunning personal understanding;
+- over-research before applications;
+- architecture/design displacing hands-on modification/debugging;
+- waiting for mastery instead of collecting market feedback.
 
-The appropriate correction is scope and ownership control, not reducing ambition to trivial tutorials.
+The correction is bounded execution and ownership growth, not trivializing the technical ambition.
 
-## 9. Role and work preferences
+## 13. Role / environment preferences
 
-Ali generally prefers roles and environments where:
+Generally favorable environments include:
 
-- Python/data/applied-AI responsibilities are substantive rather than purely cosmetic;
-- mentorship, review, or structured collaboration exists at the early-career stage;
-- AI tools can be used productively while human verification and accountability remain important;
-- technical work connects to real users, evidence, business processes, or operational outcomes;
-- hybrid technical/business strengths can become useful rather than hidden.
+- substantive Python/data/applied-AI responsibility;
+- mentorship, review, or structured collaboration at the early technical-career stage;
+- productive AI-tool use with human verification/accountability;
+- work connected to real users, business processes, evidence, or operations;
+- roles where prior business/operational maturity can complement rather than replace technical growth;
+- investigation / troubleshooting / implementation work where clue-following and diagnosis are meaningful.
 
-Exact active role families, geographic priorities, and work-mode ordering are strategy decisions and should be read from `strategy/CAREER_STRATEGY.md` rather than maintained as a second mutable list here.
+Exact active role families and market focus belong to Strategy / Career State.
 
-## 10. Portfolio context
+## 14. Main career risks
 
-Ali's public portfolio should present only selected projects with explicit assistance and ownership boundaries.
+1. No established technical-company employment history.
+2. Direct technical ownership can lag behind project sophistication and high-level reasoning.
+3. Some employment-critical foundations still need stronger responsibility-specific evidence.
+4. Professional maturity may be mistaken for technical seniority if not separated carefully.
+5. Advanced interests can fragment attention.
+6. Market entry can be delayed by open-ended preparation.
+7. Portfolio wording can either overstate technical ownership or understate transferable professional responsibility.
+8. Variable execution consistency requires a flexible but accountable system.
 
-The current project list, role classification, ordering, and claim boundaries are owned by `portfolio/PROJECT_PORTFOLIO.md` and its project records. This profile intentionally does not duplicate that mutable classification.
+## 15. Current non-claims
 
-## 11. Main career risks
+No current claim of being:
 
-1. No established technical employment history.
-2. Independent ownership can lag behind the sophistication of AI-assisted repositories.
-3. Some employment-critical foundations still require stronger responsibility-specific evidence.
-4. Advanced interests may fragment attention.
-5. Market calibration and applications may begin too late if preparation becomes open-ended.
-6. Portfolio presentation can overstate project sophistication or understate transferable business experience.
-7. Variable execution capacity requires a flexible but accountable operating system.
-
-Exact current blockers and priorities belong to the live state/cycle/Capability Ledger.
-
-## 12. Current non-claims
-
-This profile does not claim that Ali is currently:
-
-- a senior or mid-level engineer;
+- a mid-level or senior software engineer;
+- an independent production Python engineer;
 - an independent ML engineer;
 - a cybersecurity engineer;
-- a production-ready systems engineer;
-- an expert in Python, SQL, cloud, Kubernetes, agents, blockchain, or MLOps;
-- able to reconstruct large AI-assisted projects independently from a blank repository;
-- ready for every target role.
+- a backend / data / DevOps / SRE specialist;
+- an expert in SQL, cloud, Kubernetes, agents, blockchain, or MLOps;
+- independently responsible for all code / architecture in AI-assisted repositories;
+- an experienced professional software-team contributor merely because of prior management experience.
 
-## 13. Reassessment triggers
+## 16. Important unresolved profile items
+
+Current unresolved areas include:
+
+- bachelor's institution and exact education dates;
+- detailed master's-thesis implementation ownership / software stack / data source / publication status;
+- historical Excel / ERP / accounting / CRM / reporting-tool depth;
+- exact hiring/interview/onboarding responsibility;
+- detailed investigation examples from prior businesses;
+- reaction to technical feedback / being proven wrong;
+- adaptation to being technically junior after prior executive responsibility;
+- current independent Python / CS-fundamentals / SQL / networking baselines;
+- detailed relocation / commute constraints;
+- precise compensation trade-offs.
+
+Unresolved means **not yet established**, not false.
+
+## 17. Reassessment triggers
 
 Review this profile when:
 
-- a stable public-safe personal fact changes;
-- a formal capability assessment changes a long-lived profile-level conclusion rather than only one current capability record;
-- technical employment, education, certification, or major experience changes;
+- a stable public-safe personal/professional fact changes or is corrected;
+- unresolved professional history is reconstructed strongly enough to matter;
+- a formal capability assessment changes a durable profile-level conclusion;
+- technical employment, education, certification, or major professional experience changes;
 - long-term interests or learning/work preferences change materially;
-- target geography/work-mode preferences change durably;
-- a new career cycle reveals that a stable profile assumption is no longer accurate.
+- geography/work-mode preferences change durably;
+- a new Career cycle reveals that a stable profile assumption is no longer accurate.
 
 Do not update this profile after every project session, capability checkpoint, portfolio-role change, or application decision. Mutable current truth belongs to its canonical owner.
