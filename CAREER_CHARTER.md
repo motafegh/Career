@@ -53,7 +53,7 @@ Projects are major capability-building and portfolio vehicles, but Career is abo
 
 Career owns:
 
-- the current public-safe career profile;
+- the current public-safe career profile and its durable supporting context;
 - long-term direction and current working identity;
 - target role families, geography, and work-mode preferences;
 - current career-cycle outcomes and capacity commitments;
@@ -86,7 +86,8 @@ Career must not recreate a project tracker or technical continuation file.
 
 Career conclusions must distinguish:
 
-- exposure from demonstrated capability;
+- professional maturity and prior responsibility from technical capability / ownership;
+- technical context and exposure from demonstrated capability;
 - guided application from independent application;
 - project progress from Ali capability;
 - AI generation from Ali direction, verification, modification, diagnosis, and ownership;
@@ -94,18 +95,22 @@ Career conclusions must distinguish:
 - a production-oriented project from a production-ready system;
 - current evidence from stale or non-transferable evidence.
 
+Career may use education, professional history, management responsibility, communication breadth, or other public-safe profile context to reason about role fit, behavioral evidence, positioning, and transferable responsibility. Those facts must not silently establish technical depth, software seniority, or ownership.
+
 Career must not infer capability from:
 
 - documentation volume;
 - repository size or architectural sophistication;
 - technology names;
+- education or job title alone;
+- prior organizational authority alone;
 - successful command execution;
 - immediate repetition of an explanation;
 - AI-generated implementation;
 - passing AI-generated tests;
 - project completion alone.
 
-Strong claims require specific responsibility, evidence, assistance, recency, confidence, and transfer limits.
+Strong technical claims require specific responsibility, evidence, assistance, recency, confidence, and transfer limits.
 
 ## 7. Learning and project philosophy
 
@@ -158,6 +163,7 @@ Role readiness is assessed through:
 
 - representative job-description requirements;
 - specific capability evidence;
+- transferable professional/profile evidence where relevant;
 - portfolio artifacts and explanations;
 - assistance and ownership boundaries;
 - practical setup, testing, debugging, and delivery ability;
@@ -169,7 +175,9 @@ Applications should not wait for imaginary completeness, but they should begin t
 
 This repository is public.
 
-It may contain public-safe professional facts, generalized constraints, portfolio evidence, and career decisions. It must not contain medical details, medication information, private legal matters, financial details, credentials, addresses, private contacts, confidential applications, or unnecessary personal routines.
+It may contain public-safe professional facts, including education, degrees, certifications when useful, professional titles, generalized work history, languages, responsibilities, generalized constraints, portfolio evidence, and career decisions.
+
+It must not contain medical details, medication information, private legal matters, private financial details, authentication credentials or secrets, private credential/identity documents, addresses, private contacts, confidential applications, or unnecessary personal routines.
 
 Sensitive context may inform private reasoning but may not be copied into the repository.
 
@@ -192,7 +200,7 @@ A career cycle may end with success, partial success, a changed direction, or a 
 
 The normal Career authority order is:
 
-1. safety, legality, privacy, credentials, cost, health, and platform constraints;
+1. safety, legality, privacy, authentication/security credentials, cost, health, and platform constraints;
 2. Ali's explicit current instruction;
 3. this charter;
 4. `governance/CAREER_OPERATING_CONTRACT.md`;
@@ -202,4 +210,4 @@ The normal Career authority order is:
 8. capability, portfolio, market, and review records within their responsibilities;
 9. AI recommendations.
 
-Change this charter only when the durable Career mission, repository boundary, truth doctrine, portfolio doctrine, employability doctrine, or long-term success definition changes.
+Change this charter only when the durable Career mission, repository boundary, truth doctrine, portfolio doctrine, employability doctrine, public/private boundary, or long-term success definition changes.
