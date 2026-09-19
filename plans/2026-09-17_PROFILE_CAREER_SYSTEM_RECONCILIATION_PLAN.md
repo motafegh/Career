@@ -1,10 +1,20 @@
 # Profile and Career-System Reconciliation Plan
 
 **Date:** 2026-09-17  
-**Status:** Proposed execution plan  
+**Status:** Active execution plan — Phases 0–3 complete; Phase 4 next  
 **Scope:** Reconcile Career governance, profile truth, strategy, employability logic, procedural skills, cycle state, and employer-facing materials with the newly reconstructed comprehensive personal/professional profile.  
 **Primary evidence source:** `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`  
 **Live-state owner:** `CAREER_STATE.md`
+
+---
+
+## Progress
+
+- **Phase 0 — COMPLETE:** evidence classes and unresolved boundaries frozen.
+- **Phase 1 — COMPLETE:** concise profile and profile authority corrected.
+- **Phase 2 — COMPLETE:** governance/truth routing and public-safety wording reconciled.
+- **Phase 3 — COMPLETE:** formal strategy reinterpretation completed; working identity/D-levels/flagship retained; responsibility-first role direction and flexible geography/first-role criteria adopted.
+- **Phase 4 — NEXT:** employability and market-method refinement.
 
 ---
 
