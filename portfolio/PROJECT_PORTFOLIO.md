@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling Career project-portfolio record  
-**Last reviewed:** 2026-09-12 — governance/alignment remediation; current project roles reconciled  
+**Last reviewed:** 2026-09-19 — profile-driven portfolio-boundary review; project roles retained  
 **Responsibility:** Current project list, Career roles, allocation class, durable contribution, claim boundaries, and review triggers
 
 ## 1. Portfolio purpose
@@ -27,7 +27,7 @@ This file owns **current project roles**, not fast-changing capability scores, e
 |---|---|---|---|---|
 | UpgradePilot | Sole primary capability/ownership flagship | Active independently | Current Python/evidence/testing capability vehicle and main ownership-growth project | `motafegh/UpgradePilot` |
 | JobHunter | AI-full-implementation applied-AI product + Career market-intelligence infrastructure + portfolio asset | Active independently | Applied-AI reliability/product narrative and current market observation; not automatic Ali implementation evidence | `motafegh/jobhunter` |
-| Sentinel | AI-full-implementation ML/data/security research asset + portfolio case-study source | Active independently | Historical Ali-involved ML/data evidence plus current AI-led research/evaluation narrative; not automatic current Ali implementation evidence | `motafegh/sentinel-` |
+| Sentinel | AI-full-implementation ML/data/security research asset + portfolio case-study source | Active independently | Historical Ali-involved ML/data evidence, now contextualized by an earlier academic ML/image-analysis thread, plus current AI-led research/evaluation narrative; not automatic current Ali implementation evidence | `motafegh/sentinel-` |
 | AegisLab | Historical evidence | Inactive | Security-engineering direction, safe-lab thinking, deliberate failure, evidence, and learning-system lessons | Project repository/Git history where available |
 
 No supporting learning project or separate experimental learning project is currently authorized.
@@ -38,7 +38,7 @@ UpgradePilot remains the **only primary learning/capability project**. JobHunter
 
 The intended professional story is:
 
-> Ali is transitioning from substantial non-technical business responsibility into Python/data/AI engineering through mission-driven projects using real evidence and AI assistance. UpgradePilot is the current effort to convert conceptual exposure into narrower, tested, reproducible, and increasingly owned engineering capability. JobHunter adds an AI-directed applied-AI product and semantic-reliability story. Sentinel adds historical ML/data experience plus a current AI-led research case in which bad data, leakage, or inadequate evaluation evidence can stop stronger training or quality claims. Repository sophistication is not treated as Ali capability automatically.
+> Ali is transitioning from substantial prior operational/executive responsibility and an engineering background that already included an academic ML/image-analysis thesis into Python/data/AI engineering through mission-driven projects using real evidence and AI assistance. UpgradePilot is the current effort to convert broad technical context into narrower, tested, reproducible, and increasingly owned engineering capability. JobHunter adds an AI-directed applied-AI product and semantic-reliability story. Sentinel extends a longer ML/data thread: the earlier academic 3D rock-core/neural-network work provides historical context, while later Sentinel work adds hands-on model/data-quality experience and a current AI-led research case in which bad data, leakage, or inadequate evaluation evidence can stop stronger training or quality claims. Repository sophistication, academic exposure, and historical project context are not treated as current Ali capability automatically.
 
 This story must remain evidence-backed. It does not claim that all code or architecture was independently produced by Ali.
 
