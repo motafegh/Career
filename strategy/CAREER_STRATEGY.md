@@ -3,12 +3,27 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling Career strategy  
 **Activated:** 2026-07-27  
-**Last reviewed:** 2026-09-12 — governance/alignment remediation after AI-era resilience audit  
+**Last reviewed:** 2026-09-19 — formal profile-driven strategy reinterpretation after professional-history reconstruction  
 **Responsibility:** Long-term direction, working identity, role targets, capability priorities, portfolio strategy, geography, market-entry logic, and strategy change criteria
 
 ## 1. Strategic objective
 
-The objective is to move Ali from a non-technical employment history and mixed AI-assisted technical exposure into a credible first technical role supported by demonstrable capability, a defensible portfolio, and honest ownership evidence.
+The objective is to move Ali from substantial prior operational/executive responsibility, engineering education, historical ML/image-analysis exposure, and mixed AI-assisted technical experience — but no prior technology-company employment and still-developing direct software-engineering ownership — into a credible first technical role supported by demonstrable capability, a defensible portfolio, and honest ownership evidence.
+
+Career should reason about the profile across three independent dimensions:
+
+```text
+PROFESSIONAL MATURITY
+→ prior responsibility, people, operations, ambiguity, stakeholders, assets, decisions
+
+TECHNICAL CONTEXT
+→ engineering education, ML thesis, technical exposure, projects, AI-assisted engineering context
+
+TECHNICAL OWNERSHIP
+→ only what current capability evidence shows can be understood, modified, tested, diagnosed, transferred, and defended
+```
+
+High professional maturity or broad technical context may improve role fit and positioning. Neither may silently raise technical ownership, engineering seniority, or D-levels.
 
 The strategy must optimize for:
 
@@ -31,6 +46,8 @@ Ali's long-term direction is hybrid engineering across:
 
 This is a direction of travel, not a requirement to establish professional depth in every area simultaneously.
 
+The long-term objective is not attachment to one frozen job title. Strategy should preserve the ability to keep learning, updating, and adapting as AI, software practice, and market responsibility boundaries change.
+
 ## 3. Current working identity
 
 > **AI-augmented Python/data/ML engineer developing secure engineering capability.**
@@ -47,52 +64,73 @@ It means:
 
 Change the working identity only through a formal strategy review supported by capability and market evidence.
 
-## 4. Primary role direction
+## 4. Role direction — responsibility first
 
-Current primary role families:
+Career should target **responsibility shapes**, not treat job titles as the main truth.
 
-1. Junior Python Developer.
-2. Python Data or Automation Engineer.
-3. Junior Data Engineer.
-4. Applied AI or AI Application Engineer.
-5. AI Implementation Engineer.
-6. Junior Backend Engineer with data-heavy responsibilities.
-7. Technical Implementation or Solutions Engineer using Python.
-8. Data Analyst with meaningful Python and SQL engineering.
-9. ML engineering trainee, internship, or junior role.
+The strongest current transition bands are:
 
-These role families share a common foundation:
+1. **Technical Implementation / Integration** — junior, associate, trainee, or mentored roles involving APIs, data exchange, software configuration, validation, onboarding, troubleshooting, documentation, and stakeholder/process translation.
+2. **AI Automation / AI Solutions / Internal Tools** — bounded roles combining process discovery, AI tools/agents, APIs or scripting, evaluation, iteration, and business/stakeholder responsibility.
+3. **Technical Product / Application / Software Support** — roles with real diagnosis through logs, data flows, APIs, integrations, defect reproduction, product feedback, and coordination with engineering; generic nontechnical help desk is not the target.
+4. **Junior Applied AI / AI Application / AI Implementation** — selectively, where the role is genuinely junior/mentored and centered on integration, evaluation, reliability, or product application rather than independent production ML/backend ownership.
+5. **Junior Python / Automation / Application Engineering** — selectively, where scope and mentorship fit current ownership evidence.
 
-- Python application work;
-- data handling;
-- testing and debugging;
+These bands use the same technical substrate:
+
+- Python/application fluency;
+- data handling and increasingly SQL/relational competence;
+- testing, debugging, and causal diagnosis;
 - APIs and external systems;
-- clear technical explanation;
 - Git and collaborative delivery;
-- increasingly independent implementation.
+- clear technical explanation;
+- increasingly independent implementation and verification.
 
-### Current calibration emphasis
+The first three bands receive stronger strategic attention because they can use both developing technical capability and established professional maturity around ambiguity, process, stakeholders, coordination, responsibility, and difficult decisions.
 
-For current applications and market calibration, treat these two responsibility families with **equal strategic seriousness** when access requirements and actual duties fit:
+### Investigation / diagnosis hypothesis
 
-1. **Applied AI / AI Application / AI Implementation** — especially roles that combine software/data integration, evaluation, reliability, grounding, tool/agent behavior, and bounded human oversight.
-2. **Technical Implementation / AI Solutions / Automation** — especially roles that combine business/process discovery, Python/APIs, integration, troubleshooting, acceptance criteria, AI use, and stakeholder responsibility.
+A recurring profile pattern suggests possible fit with work centered on:
 
-This does not change the working identity or remove the broader role universe. It recognizes that Ali's prior business/operational responsibility may transfer particularly well into implementation/solutions work when supported by enough technical ownership.
+- clue-following;
+- anomaly recognition;
+- defect reproduction;
+- evidence gathering;
+- root-cause investigation;
+- validation and acceptance reasoning;
+- reliability / support / security-style investigation.
 
-## 5. Secondary exploration
+Treat this as a **role-fit hypothesis to test**, not as a current claim of professional debugging, support, QA, security, or forensic capability.
 
-Secondary role families may be explored when evidence supports them:
+### First-role selection standard
 
-- Security Automation Engineer;
-- QA or Test Automation Engineer;
-- developer tooling or internal automation engineer;
-- MLOps trainee;
-- cloud or platform trainee;
-- distributed/backend infrastructure trainee;
-- AI agent-system implementation engineer.
+For the first technical role, optimize primarily for:
 
-Secondary exploration must not fragment the current core or become a new title from brief exposure.
+1. real technical responsibility aligned with the long-term direction;
+2. strong engineers, mentorship, code review, and technical feedback;
+3. high learning density and exposure to professional delivery;
+4. responsibility quality and opportunity to grow ownership;
+5. use of prior process/stakeholder maturity where genuinely relevant;
+6. sustainable environment and realistic access.
+
+Initial compensation, prestige, and ideal work mode are secondary when the opportunity materially improves technical development and long-term trajectory.
+
+Prior executive/management experience does not justify engineering-management targeting now. Technical credibility and ownership should come first.
+
+## 5. Conditional and later role families
+
+Review these when vacancy-specific evidence and capability fit support them:
+
+- **QA / testing / evaluation** — particularly manual/API/product-quality/evidence work; automation-heavy SDET ownership remains a higher bar.
+- **Junior backend / data-heavy application work** — when implementation scope and mentorship are appropriate.
+- **Data analyst / BI / junior data engineering** — currently constrained where SQL/relational competence is central.
+- **ML trainee / internship / junior ML** — supported by historical context but not current broad independent ML ownership.
+- **Security automation / security investigation** — longer-term or bounded opportunities where current technical depth fits.
+- developer tooling / internal automation;
+- MLOps, cloud, platform, distributed/backend infrastructure trainee roles;
+- AI agent-system implementation.
+
+Conditional exploration must not fragment the Python/data/applied-AI anchor or become a new identity from brief exposure.
 
 ## 6. Capability priority stack
 
@@ -317,14 +355,18 @@ later reassessed Ali capability
 
 ## 11. Geographic and work-mode strategy
 
-Current priority order:
+There is no durable fixed geography hierarchy.
 
-1. English-language roles in the United Arab Emirates and broader Asia region.
-2. Hybrid or on-site roles with real engineering mentorship.
-3. Structured remote roles with code review and supervision.
-4. Fully remote unsupervised roles only when the responsibilities closely match demonstrated capability.
+The strategic preference is **opportunity quality and access over location**. The active operating market lane at any moment belongs to `CAREER_STATE.md`; a temporary Iran-only, international, or other geographic focus does not permanently redefine this strategy.
 
-Geographic strategy must be reviewed against current visa, hiring, compensation, language, and market evidence before applications are activated.
+For a strong first technical opportunity:
+
+- on-site, hybrid, and remote arrangements are all acceptable;
+- mentorship, technical review, learning density, responsibility fit, and growth matter more than an ideal work mode;
+- relocation / commute / country-specific feasibility should be checked when a concrete opportunity makes the question consequential;
+- fully remote unsupervised roles should still be treated cautiously when their expected independent ownership exceeds current evidence.
+
+Current work authorization, military/eligibility, visa, location, compensation, and other access constraints must be verified only when relevant to the actual vacancy. Access failure is a targeting constraint, not a technical capability gap.
 
 ## 12. Market-entry strategy
 
@@ -426,7 +468,8 @@ Also review strategy when:
 - geography or work-mode feasibility changes;
 - a career cycle ends;
 - Ali explicitly requests a strategy review;
-- a new primary project is proposed.
+- a new primary project is proposed;
+- a materially reconstructed personal/professional profile changes prior role-fit, geography, or first-role assumptions.
 
 Do not create a standing AI-doom-monitoring lane. External AI/labor evidence should be checked at scheduled reviews, when Ali brings a materially relevant source, when a major empirical result directly challenges a controlling assumption, or when real market feedback creates a specific question.
 
