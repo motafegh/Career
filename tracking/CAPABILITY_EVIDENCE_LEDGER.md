@@ -352,7 +352,7 @@ Next reassessment: One legitimate current modification and one real failure/diag
 | Packaging and configuration | Guided setup evidence; ownership unestablished | UpgradePilot | Clean setup, dependency/config change, and packaging failure diagnosis |
 | Git/GitHub collaboration | Guided ordinary use; professional review/collaboration weak | Multiple repositories | Independent bounded branch/review/conflict case |
 | Deterministic analysis/evaluation | Guided conceptual reasoning improving | UpgradePilot | Build/change one deterministic evaluator or baseline and analyze errors |
-| ML experimentation | Historical broad exposure; current Sentinel R4 work is AI-full-implementation | Sentinel | Reassess only a bounded ML/evaluation responsibility when Career explicitly selects it |
+| ML experimentation | Historical broad exposure across academic thesis + later Sentinel work; exact thesis implementation ownership remains unreconstructed; current Sentinel R4 work is AI-full-implementation | Master's thesis context + Sentinel | Reassess only a bounded ML/evaluation responsibility when Career explicitly selects it and inspect underlying ownership evidence |
 | Grounded AI/LLM evaluation | Strong trust-boundary understanding; implementation/evaluation ownership unestablished | UpgradePilot, JobHunter portfolio evidence | Bounded semantic/evaluation responsibility with actual test/error analysis |
 | Secure engineering | Guided concepts and selected trust boundaries | AegisLab, UpgradePilot | Implement and diagnose one secure input/config/permission responsibility |
 | Docker/CI/operational reproducibility | Mixed exposure; ownership unestablished | Sentinel, UpgradePilot | Reproduce, modify, and diagnose a supported setup |
@@ -360,6 +360,27 @@ Next reassessment: One legitimate current modification and one real failure/diag
 | Technical communication | Stronger delayed explanation and uncertainty disclosure; market-facing concision still needs E2/project-defense use | Career/UpgradePilot | Concise technical/nontechnical project defense for a real vacancy |
 | AI-assisted technical critique / harness direction | Real recurring strength at D2 with provisional D3 signals in selected direction/challenge work | UpgradePilot/Career discussions | Carry one critique/harness decision through implementation/test/result verification and changed context |
 | Professional collaboration | Transferable business experience; technical-team evidence unestablished | Family business, future work | Code review, issue communication, planning, and feedback in real collaboration |
+
+## 9.1 Historical academic ML / image-analysis context
+
+The reconstructed profile adds a legitimate historical technical-context fact:
+
+- master's thesis in Petroleum Engineering at the University of Tehran;
+- pore detection / analysis from 3D rock-core imagery;
+- neural-network-based prediction of porosity and permeability.
+
+Current Career interpretation:
+
+```text
+historical technical / ML context
+≠ current ML-engineering ownership
+≠ verified thesis implementation ownership
+≠ current Python D-level promotion
+```
+
+Exact personal thesis contribution, code/tooling, model design, data preparation, evaluation responsibility, and publication status are not yet reconstructed sufficiently for a separate D-level capability record.
+
+Do **not** create or promote an ML/image-analysis capability record from the thesis until that ownership is explicitly reconstructed and assessed.
 
 ## 10. Claims permitted after the 2026-09-08 A7 review
 
