@@ -628,3 +628,75 @@ A new entry is appropriate when:
 ## 5. Maintenance
 
 Add entries chronologically. Do not rewrite old decisions to match current state; add a new review that supersedes or corrects them.
+
+---
+
+### 2026-09-19 — Profile-driven formal strategy reinterpretation
+
+**Trigger:** Execution of Phase 3 of the profile/Career-system reconciliation plan after the professional profile was reconstructed and profile/governance truth routing was corrected.
+
+**Career question:** Does the corrected profile materially change Career strategy around role direction, first-job selection, geography/work mode, or long-term framing without overstating technical ownership?
+
+**Evidence inspected:**
+
+- `profile/CAREER_PROFILE.md`;
+- `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`;
+- `strategy/CAREER_STRATEGY.md`;
+- `CAREER_STATE.md`;
+- `tracking/CAPABILITY_EVIDENCE_LEDGER.md`;
+- `tracking/research/2026-09-14_E3_APPLICATION_READINESS_AND_ROLE_BAND_REVIEW.md`;
+- current Career governance and profile-authority rules.
+
+**Profile conclusion:**
+
+The prior shorthand of a purely “non-technical employment history” is materially incomplete. The better model is:
+
+```text
+substantial professional / operational maturity
++ engineering education and historical ML/image-analysis context
++ broad AI-assisted technical context
++ still-developing direct software-engineering ownership
+```
+
+These dimensions must remain separate.
+
+**Strategy decision:**
+
+- Retain the working identity: **AI-augmented Python/data/ML engineer developing secure engineering capability**.
+- Retain the anchored-hybrid technical direction and Tier-1 capability substrate.
+- Replace title-first role ordering with responsibility-first bands.
+- Give strongest strategic attention to:
+  1. Technical Implementation / Integration;
+  2. AI Automation / AI Solutions / Internal Tools;
+  3. Technical Product / Application / Software Support with real diagnosis/integrations;
+  4. selective junior Applied-AI / AI Implementation;
+  5. selective junior Python / automation / application engineering.
+- Treat investigation/diagnosis-heavy work as a role-fit hypothesis to test, not a capability claim.
+- Keep QA/evaluation, backend, data/BI/data engineering, ML, security automation, cloud/platform/MLOps and similar bands conditional on vacancy and capability evidence.
+- First-role selection should optimize for technical responsibility, mentorship/code review, learning density, professional delivery exposure, and ownership growth ahead of prestige, ideal work mode, or initial compensation where feasible.
+- Prior CEO/management experience does not justify engineering-management targeting before technical credibility is established.
+- Remove the fixed UAE/Asia geography hierarchy. Durable strategy is geographically flexible; `CAREER_STATE.md` owns the current active market lane.
+- Preserve current caution around unsupervised remote roles whose expected ownership exceeds demonstrated capability.
+
+**Capability / ownership decision:**
+
+No D-level changes. Professional maturity and education do not establish broader Python, debugging, SQL, Git/review, backend, ML, security, or other technical ownership.
+
+**Portfolio / workload decision:**
+
+No change. UpgradePilot remains the sole capability-building flagship. JobHunter and Sentinel keep their existing portfolio/research roles. Workload model remains unchanged.
+
+**Live-state decision:**
+
+No `CAREER_STATE.md` change is required from this review. Its current Iran-only operating lane and narrow responsibility-based E3 bands are already consistent with the revised strategy.
+
+**What did not change:**
+
+- no senior/mid-level claim;
+- no new project;
+- no flagship change;
+- no capability promotion;
+- no broad application-readiness expansion;
+- no requirement to abandon Python/data/applied-AI technical depth.
+
+**Next trigger:** Reassess role weighting after meaningful Iranian application/interview feedback, a material capability change, a materially better adjacent responsibility band, a geography/access change, the Day-90 review, or Ali's explicit request.
