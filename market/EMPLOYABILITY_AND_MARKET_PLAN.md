@@ -69,9 +69,35 @@ For each active role family:
 
 Current market facts must be refreshed when decisions depend on them.
 
-## 4. Requirement-to-evidence map
+### 3.1 Vacancy-first and employer-centric acquisition
 
-Use this structure:
+Career may use two complementary discovery layers:
+
+```text
+VACANCY-FIRST
+→ current specific vacancy
+→ employer-authored duties
+→ current/open verification
+→ access
+→ fit
+
+EMPLOYER-CENTRIC
+→ current/recent company hiring signals
+→ recurring relevant responsibility families
+→ junior/intern/mentored history where available
+→ current specific vacancy
+→ same current/open + access + fit gate
+```
+
+Employer-centric intelligence is useful for discovering companies that repeatedly hire around implementation, support, QA, automation, data, AI, or adjacent responsibility families.
+
+It is **not** a substitute for a current vacancy. Popularity rankings, employer ratings, active-job counts, résumé responsiveness, hiring history, or brand reputation must not create an automatic application or synthetic “best employer” score.
+
+Use employer intelligence to improve discovery and prioritization; use the actual current vacancy to decide whether to apply.
+
+## 4. Requirement-to-evidence and vacancy-fit model
+
+Use this requirement map when comparing employer responsibilities with Career evidence:
 
 | Role responsibility | Market frequency | Required depth | Ali evidence | Assistance/transfer limit | Gap type | Career action |
 |---|---|---|---|---|---|---|
@@ -85,19 +111,77 @@ Gap types:
 - **Employer-specific:** should not reshape the whole Career plan.
 - **Unknown:** requires more market or capability evidence.
 
+For a serious vacancy, do not compress fit into one vague score. Evaluate at least these five independent dimensions:
+
+```text
+TECHNICAL SUBSTRATE FIT
+→ does current capability evidence support the required Python/data/API/test/debug/etc. responsibilities?
+
+PROFESSIONAL-RESPONSIBILITY TRANSFER
+→ do prior operational, stakeholder, process, customer/supplier, ambiguity, delegation, escalation, or investigation patterns materially help with this role?
+
+MENTORSHIP / ENTRY STRUCTURE
+→ is the role genuinely junior/associate/trainee/mentored, with review and room to grow ownership?
+
+ACCESS ELIGIBILITY
+→ do employer-stated education, location, work-authorization, military/eligibility, language, schedule, experience, or other gates pass?
+
+OWNERSHIP STRETCH
+→ how far does day-one expected independent technical ownership exceed current demonstrated evidence?
+```
+
+These dimensions may point in different directions.
+
+A role may have strong professional transfer but excessive technical ownership stretch. Another may have modest transferable-business use but excellent mentorship and technical growth. Do not force either into an automatic overall winner.
+
+When useful for vacancy decisions, also record:
+
+- current/open confidence;
+- exact employer-authored duties;
+- evidence/claim fit;
+- materials readiness;
+- first-role quality;
+- apply / hold / reject decision.
+
 ## 5. Current known strengths for positioning
 
-Potential strengths to validate and present honestly:
+Potential strengths to validate and present honestly should be interpreted across **professional maturity, technical context, and technical ownership** rather than collapsed into one skill level.
 
-- substantial prior management, sales, purchasing, and operational responsibility;
-- current full-time commitment to technical transition;
-- one active production-oriented Python flagship using real public evidence;
-- experience working with AI coding assistants critically rather than presenting generated output as unassisted;
+### Transferable professional evidence
+
+Current profile supports meaningful context around:
+
+- multi-company operational and executive responsibility;
+- operating in unfamiliar or ambiguous situations;
+- cross-functional coordination;
+- process / outcome ownership;
+- stakeholder conflict and upward communication;
+- delegation, escalation, and situational management;
+- customer / supplier / purchasing exposure;
+- asset and personnel responsibility;
+- difficult-decision execution;
+- pressure tolerance when consequences justify it;
+- investigation / anomaly-following tendency;
+- communication across owners, specialists, office staff, workers, buyers, and sellers.
+
+These strengths may materially improve fit for implementation, integration, solutions, technical product/support, troubleshooting, customer-technical, operational software, and similar responsibilities.
+
+They do **not** establish software implementation, debugging, SQL, API, Git/review, QA automation, security, or other technical capability by themselves.
+
+### Technical-transition evidence
+
+Additional positioning strengths include:
+
+- Petroleum Engineering education and a master's thesis involving 3D rock-core image analysis and neural-network prediction of porosity/permeability;
+- one active production-oriented Python capability flagship using real public evidence;
+- substantial AI-assisted Python/data/ML/project exposure;
+- experience using AI coding assistants critically rather than presenting generated output as unassisted;
 - real project exposure to external APIs, validation, tests, ML experiments, Linux, and failure investigation;
+- recurring evidence / uncertainty / proof-limit reasoning;
 - willingness to document limitations and rejected approaches;
-- ability to communicate commercial and technical considerations.
+- ability to connect commercial/process considerations with technical reasoning.
 
-Transferable business experience should not be hidden merely because it is non-technical. It should be connected to implementation, stakeholder, prioritization, and ownership roles where relevant.
+Transferable business experience should not be hidden merely because it is non-software. It should be used where the vacancy actually values process, customer, coordination, diagnosis, implementation, or accountable responsibility.
 
 ## 6. Current known employability gaps
 
@@ -165,6 +249,16 @@ Required:
 
 E3 does not require every gap to be closed.
 
+For this profile, E3 fit should not be interpreted as “can already operate as an independent software engineer.” A narrow application band may be defensible when:
+
+- the technical substrate is within or near current evidence;
+- the role is explicitly junior/mentored or the ownership stretch is bounded;
+- prior professional maturity materially transfers to the actual responsibilities;
+- unsupported technical claims are not required;
+- access gates pass;
+- the environment can provide useful technical feedback and ownership growth.
+
+
 ### E4 — Active market feedback
 
 Required:
@@ -180,26 +274,36 @@ Required:
 Evaluate:
 
 - offers or serious opportunities;
-- role responsibility and mentorship;
-- compensation and location privately;
-- growth path;
+- real day-to-day technical responsibility;
+- mentorship, code review, technical feedback, and access to strong engineers;
+- learning density and likely ownership growth;
+- professional-responsibility transfer;
+- technical ownership stretch and support available for that stretch;
+- progression path;
+- sustainability / work environment;
+- compensation, commute, relocation, and location privately;
 - evidence alignment;
 - whether the role advances the long-term direction.
+
+For the first technical role, compensation, prestige, and ideal work mode are secondary when a materially better learning/ownership environment is realistically available. This is a preference for opportunity quality, not a requirement to accept exploitative or unsustainable conditions.
 
 ## 8. Application-readiness decision
 
 A formal readiness review should answer:
 
-1. Which exact role families are active?
-2. Which current evidence is strongest?
-3. Which claims can be defended live?
-4. Which gaps are blocking versus acceptable?
-5. Is at least one project understandable to a reviewer?
-6. Can Ali perform representative practical work with the stated assistance level?
-7. Are resume, GitHub, privacy, and contact materials ready?
-8. Which roles are realistic calibration applications?
-9. What feedback will trigger correction?
-10. What application cadence is sustainable?
+1. Which exact responsibility bands are active?
+2. Which current technical evidence is strongest?
+3. Which transferable professional responsibilities genuinely apply to those bands?
+4. Which claims can be defended live?
+5. Which gaps are blocking versus acceptable?
+6. Is at least one project understandable to a reviewer?
+7. Can representative practical work be performed with the stated assistance level?
+8. Is the role's mentorship / entry structure compatible with current ownership depth?
+9. Do employer-stated access gates pass?
+10. Are resume, GitHub, privacy, and contact materials ready?
+11. Which roles are realistic calibration applications?
+12. What feedback will trigger correction?
+13. What application cadence is sustainable?
 
 Decision options:
 
@@ -280,6 +384,9 @@ First classify the outcome:
 - testing/debugging/diagnostic gap;
 - communication/project-defense gap;
 - role-fit mismatch;
+- mentorship / entry-structure mismatch;
+- excessive day-one ownership stretch;
+- poor first-role learning/feedback environment;
 - compensation or availability mismatch;
 - unknown.
 
