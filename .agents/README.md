@@ -26,6 +26,14 @@ Use the skill whose responsibility matches the **requested output**, not merely 
 
 Project implementation, project teaching, project technical planning, simple canonical lookups, and plain vacancy discovery are valid **no Career skill** cases.
 
+## Profile-source routing when a skill needs personal context
+
+- `profile/CAREER_PROFILE.md` is the canonical concise public-safe source for stable personal/professional facts.
+- Read only relevant passages in `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md` when a concrete claim, review, vacancy-fit comparison, or personal plan materially depends on deeper history, actual former responsibilities, education/thesis context, or durable preferences. Do not routinely load the whole biography.
+- `tracking/CAPABILITY_EVIDENCE_LEDGER.md` and underlying evidence alone control technical capability/depth/ownership; professional maturity, historical exposure, self-reported tendencies, and repo sophistication cannot upgrade a D-level.
+- `CAREER_STATE.md` alone owns the live position and exact next Career action; `strategy/CAREER_STRATEGY.md` controls role/geography direction; project repositories own technical continuation.
+- Treat public-safe self-reported history according to its evidentiary limits. Keep private access/medical/legal/financial/contact details out of the public repository, even when a private fact informs vacancy-specific decisions.
+
 Skills guide procedure only. They do not own live state, capability truth, market truth, review decisions, project state, or other canonical records. A conflict between a skill and higher Career authority is resolved in favor of the higher authority and should be treated as a defect in the skill/governance layer.
 
 Evaluation/support material lives under `.agents/evals/` and each skill's `evals/` directory. These are testing artifacts and are not normal operational context. The current routing matrix contains 28 cross-skill/no-skill cases.
