@@ -66,8 +66,9 @@ Normally inspect only what the personal plan needs:
 3. [`../../../governance/CAREER_OPERATING_CONTRACT.md`](../../../governance/CAREER_OPERATING_CONTRACT.md) — workload/capacity, Career-to-project boundary, anti-diversion, and proportionality.
 4. The active Career directive/plan only when it materially affects the requested horizon.
 5. Capability, market, portfolio, or claim records only when a current recorded conclusion is necessary to choose personal priorities.
+6. [`../../../profile/CAREER_PROFILE.md`](../../../profile/CAREER_PROFILE.md) only when a durable preference, background responsibility, or work-style constraint materially changes the proposed personal outcomes. If the relevant concise fact is insufficient, read only the needed passage in [`../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`](../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md). The detailed profile is not a capacity, capability, technical-route, or live-state authority. Do not infer fixed personal limitations from a self-reported pattern; treat current capacity and Ali's present instruction as controlling for the session.
 
-Do not reread the whole Career repository merely because planning is requested.
+Do not reread the whole Career repository or comprehensive biography merely because planning is requested.
 
 ## 3. Read the active project's continuation without taking ownership of it
 
@@ -109,7 +110,7 @@ which project-owned continuation it relies on, when applicable
 what nearby work should remain deferred
 ```
 
-Do not turn a Career capability gap into an artificial project exercise.
+Do not turn a Career capability gap into an artificial project exercise. Durable profile preferences may guide presentation or personal focus when relevant; they cannot dictate project-local implementation order.
 
 ## 5. Respect capacity rather than filling time
 
