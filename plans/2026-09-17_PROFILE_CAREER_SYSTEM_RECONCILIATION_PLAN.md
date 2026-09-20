@@ -1,7 +1,7 @@
 # Profile and Career-System Reconciliation Plan
 
 **Date:** 2026-09-17  
-**Status:** Active execution plan — Phases 0–5 complete; Phase 6 next  
+**Status:** Active execution plan — Phases 0–6 complete; Phase 7 next  
 **Scope:** Reconcile Career governance, profile truth, strategy, employability logic, procedural skills, cycle state, and employer-facing materials with the newly reconstructed comprehensive personal/professional profile.  
 **Primary evidence source:** `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`  
 **Live-state owner:** `CAREER_STATE.md`
@@ -16,7 +16,8 @@
 - **Phase 3 — COMPLETE:** formal strategy reinterpretation completed; working identity/D-levels/flagship retained; responsibility-first role direction and flexible geography/first-role criteria adopted.
 - **Phase 4 — COMPLETE:** employability model now separates technical substrate, transferable professional responsibility, mentorship/entry structure, access eligibility, ownership stretch, and first-role quality; employer-centric intelligence formalized as a supplement to vacancy-first discovery.
 - **Phase 5 — COMPLETE:** no D-level or project-role promotion; academic ML/image-analysis thesis recorded only as historical technical context with ownership unresolved; portfolio narrative updated to reflect the longer technical thread without inflating current capability.
-- **Phase 6 — NEXT:** Career Agent Skill routing updates.
+- **Phase 6 — COMPLETE:** claim-audit, Career-review, market-calibration, and personal-work-planning Skills now consult relevant detailed profile context conditionally; `.agents/README.md` records the routing and evidence boundaries. No capability, live-state, or project authority changed.
+- **Phase 7 — NEXT:** current-cycle and live-state reconciliation.
 
 ---
 
@@ -582,4 +583,4 @@ This reconciliation is complete when:
 
 # 10. Immediate next action
 
-> **Execute Phase 0 and Phase 1 first: classify the newly established profile facts and reconcile `CAREER_PROFILE.md`, the comprehensive profile, and `profile/README.md`. Do not begin strategy, capability, or CV changes until that profile foundation is coherent.**
+> **Execute Phase 7: reconcile the current Career cycle and current-week work package with the already-completed Iran market acquisition and active vacancy/employer-watch state. Preserve `CAREER_STATE.md` as the sole live-state owner and leave it unchanged unless a material current conclusion requires an update.**
