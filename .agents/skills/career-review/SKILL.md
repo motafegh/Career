@@ -22,8 +22,10 @@ A valid review may conclude **no material Career change**.
 3. Read [`../../../CAREER_STATE.md`](../../../CAREER_STATE.md) for the current live Career position and current review triggers.
 4. Read [`../../../plans/CURRENT_CAREER_CYCLE.md`](../../../plans/CURRENT_CAREER_CYCLE.md) when the review is scheduled, cycle-related, or may change current-cycle outcomes/allocation.
 5. Read the relevant portion of [`../../../tracking/CAREER_REVIEW_LOG.md`](../../../tracking/CAREER_REVIEW_LOG.md) when prior review conclusions or the review record format matter.
-6. Load only the domain owners required by the review question: capability ledger, market plan/evidence, portfolio record, strategy, profile, CV/claim records, or workload evidence as applicable.
+6. Load only the domain owners required by the review question: capability ledger, market plan/evidence, portfolio record, strategy, profile, CV/claim records, or workload evidence as applicable. For stable public-safe facts, use [`../../../profile/CAREER_PROFILE.md`](../../../profile/CAREER_PROFILE.md). When the decision materially depends on three-business history, education/thesis context, operational/executive responsibility, stakeholder experience, working patterns, durable preferences, or unresolved profile details, consult only the relevant parts of [`../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`](../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md). The latter is supporting context, not a second capability, strategy, project, or live-state owner.
 7. Inspect the minimum underlying project or external evidence needed to answer the Career question. Do not re-open a whole project repository when a registered handoff or exact evidence package is sufficient.
+
+Do not load the comprehensive biography for routine reviews that do not depend on it. Treat self-reported professional patterns as hypotheses/context and unresolved facts as unresolved; personal-history depth does not establish technical capability or engineering seniority.
 
 ## Review workflow
 
@@ -53,7 +55,8 @@ Distinguish:
 - project/product progress from Ali capability;
 - Career-facing evidence from project-local continuation;
 - market observation from Ali-specific evidence;
-- proposed claims from demonstrated ownership.
+- proposed claims from demonstrated ownership;
+- prior professional maturity and historical technical exposure from current technical ownership.
 
 Prefer the smallest sufficient evidence package over broad repository rereading.
 
@@ -88,7 +91,7 @@ For each review domain, explicitly classify:
 - no material change;
 - unresolved because evidence is insufficient.
 
-A review is not required to generate a new strategy, identity, project, plan, or document.
+A review is not required to generate a new strategy, identity, project, plan, or document. A richer biography may justify a role-fit or positioning correction without changing capability depth, flagship, or application readiness.
 
 ### 5. Choose the smallest justified Career correction
 
@@ -135,9 +138,9 @@ Typical owners include:
 - strategy only for material strategy changes;
 - current cycle only for current-cycle outcome/allocation/review changes.
 
-Link rather than duplicate.
+For a corrected stable public-safe biography, reconcile the concise `profile/CAREER_PROFILE.md`; retain the comprehensive profile as detailed supporting context. Do not copy its entire narrative into strategy or the capability ledger.
 
-Do not update files just to prove the review happened.
+Link rather than duplicate. Do not update files just to prove the review happened.
 
 ### 8. Record the review proportionately
 
@@ -167,6 +170,7 @@ Never use these shortcuts:
 - one interesting technology = new working identity;
 - capability gap = Career should design the project lesson;
 - stale state = rewrite every downstream file;
+- rich biography = stronger technical D-level;
 - no change = failed review.
 
 ## Output
@@ -199,7 +203,7 @@ Before finalizing, verify that:
 - only the minimum relevant evidence was loaded;
 - only relevant specialist procedures were loaded;
 - specialist evidence standards were respected rather than reinvented;
-- project progress was not converted into Ali capability;
+- project progress and professional-history context were not converted into Ali technical capability;
 - no-change was allowed where evidence supported no change;
 - any correction was the smallest justified one;
 - project-addressable gaps were handed off at macro level;
