@@ -20,6 +20,7 @@ This skill defines the market-calibration procedure. It does **not** own Career 
 3. When JobHunter evidence is involved, read the relevant sections of [`../../../market/jobhunter/CAREER_INTEGRATION_AND_USE.md`](../../../market/jobhunter/CAREER_INTEGRATION_AND_USE.md). Treat JobHunter as an evidence instrument, not an automatic Career authority.
 4. Read [`../../../CAREER_STATE.md`](../../../CAREER_STATE.md), [`../../../strategy/CAREER_STRATEGY.md`](../../../strategy/CAREER_STRATEGY.md), or a prior market baseline only when the market conclusion could change or compare against those Career-owned decisions.
 5. Inspect the smallest sufficient original or reviewed market evidence. For material or surprising conclusions, preserve a path back to representative employer-authored source evidence.
+6. Only when performing an Ali-specific vacancy/role-fit comparison, read the relevant stable personal/professional facts in [`../../../profile/CAREER_PROFILE.md`](../../../profile/CAREER_PROFILE.md). Consult the relevant portion of [`../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`](../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md) when the decision materially depends on detailed prior professional responsibility, education, stakeholder/process context, or work preferences. Use the [`../../../tracking/CAPABILITY_EVIDENCE_LEDGER.md`](../../../tracking/CAPABILITY_EVIDENCE_LEDGER.md) for technical capability/ownership, not the biography. Neither profile is needed for a market-only sampling/frequency question.
 
 For current laws, visa rules, salaries, hiring practices, active vacancies, or other time-sensitive market facts, verify current public information before deciding.
 
@@ -126,13 +127,21 @@ Bad:
 
 Do not claim population-level frequency from a convenience or targeted sample unless the sampling design supports it.
 
-### 9. Separate market evidence from Ali capability
+### 9. Separate market evidence, transferable professional context, and technical capability
 
 Market evidence answers what employers appear to want. It does not establish what Ali can currently defend.
 
-If an Ali-specific gap comparison is needed, use Career-approved capability evidence and assistance/transfer limits. Do not infer capability from GitHub ownership, project technology stacks, or JobHunter implementation.
+For an Ali-specific comparison, apply the employability plan's five independent dimensions where material:
 
-A common requirement may justify capability prioritization without becoming a demonstrated skill claim.
+1. **Technical substrate fit:** use the Capability Ledger and its assistance/transfer limits. Do not infer capability from GitHub ownership, project technology stacks, JobHunter implementation, or the comprehensive profile.
+2. **Professional-responsibility transfer:** use only the relevant prior operational, executive, cross-functional, stakeholder, procurement/customer, process, ambiguity, delegation, or investigation context recorded in the profiles. Distinguish formal title from actual responsibilities and self-reported patterns from independently demonstrated technical skills.
+3. **Mentorship / entry structure:** check whether the employer describes a junior, trainee, associate, or mentored role, review opportunities, and day-one responsibilities. Absence of evidence about mentorship is unknown, not proof it exists.
+4. **Access eligibility:** separately check only employer-stated, vacancy-relevant conditions; do not publish or invent personal legal/access details. A failed access gate is not a technical-learning gap.
+5. **Ownership stretch:** compare required independent implementation/diagnosis/delivery against current technical evidence without using professional maturity to erase the gap.
+
+Also consider the first technical role's learning density, feedback quality, real technical responsibility, progression, and sustainability where the employer evidence permits. Do not invent employer culture or mentorship from a brand/ranking.
+
+A common requirement may justify capability prioritization without becoming a demonstrated skill claim. Professional transfer can improve fit while technical ownership remains bounded; neither guarantees hiring or supplies an overall fit score.
 
 ### 10. Choose the smallest justified Career implication
 
@@ -183,6 +192,9 @@ Never use these shortcuts:
 - current bounded sample = universal labor market;
 - market demand = Ali capability;
 - market demand = automatic project/technology admission;
+- professional maturity = independent technical ownership;
+- self-reported investigative tendency = proven technical diagnosis;
+- role title or employer prestige = verified mentorship or first-role quality;
 - old posting = current market evidence;
 - large JobHunter corpus = automatic Career authority.
 
@@ -198,6 +210,7 @@ Keep the output proportional to the question. For a material market-calibration 
 - Required/preferred/contextual/inferred separation
 - Representative source evidence
 - Search-selection and data-quality limits
+- Ali-specific transferable-responsibility fit, technical evidence, mentorship, access and ownership stretch only when the question requires them
 - Career implication
 - What the evidence does not justify
 - Refresh/reassessment trigger
@@ -213,7 +226,7 @@ Before finalizing, verify that:
 - duplicate/repost and source concentration were considered where material;
 - search-selection bias was considered;
 - employer-explicit and model-derived evidence were not silently merged;
-- market evidence and Ali capability remained separate;
+- market evidence, transferable professional context, and technical capability remained separate;
 - time-sensitive facts are current enough for the decision;
 - the Career implication is the smallest one justified by the evidence;
 - a material final Career decision was routed to review rather than silently made by market calibration alone;
