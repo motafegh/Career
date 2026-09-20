@@ -18,7 +18,7 @@ The objective is the strongest defensible claim, not maximum caution and not max
 ## Load only the truth owners needed for the claim
 
 1. Follow [`../../../AGENTS.md`](../../../AGENTS.md) and the Career authority order.
-2. Use [`../../../profile/CAREER_PROFILE.md`](../../../profile/CAREER_PROFILE.md) for public-safe personal and professional facts.
+2. Use [`../../../profile/CAREER_PROFILE.md`](../../../profile/CAREER_PROFILE.md) for the canonical concise public-safe personal and professional facts. If a claim depends materially on exact education/thesis history, separate former employers, formal role versus actual responsibilities, management/people/asset scope, communication, or durable personal preferences, read only the relevant portion of [`../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`](../../../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md). It is supporting detail, not a second capability or live-state owner. Treat stated recollections, approximate figures, interpreted patterns, and unresolved particulars according to their evidence class; do not silently upgrade them to independently verified metrics or skills.
 3. Use [`../../../tracking/CAPABILITY_EVIDENCE_LEDGER.md`](../../../tracking/CAPABILITY_EVIDENCE_LEDGER.md) when a claim implies demonstrated capability, ownership, or skill depth.
 4. Use [`../../../portfolio/PROJECT_PORTFOLIO.md`](../../../portfolio/PROJECT_PORTFOLIO.md) and the relevant project-specific Career record when the claim concerns project role, Ali-versus-AI contribution, or portfolio positioning.
 5. Use [`../../../market/ALI_RAJABI_MASTER_CV.md`](../../../market/ALI_RAJABI_MASTER_CV.md) when auditing or changing the canonical CV wording.
@@ -75,7 +75,7 @@ Useful claim classes include:
 - **Metric/outcome** — counts, percentages, performance, revenue, scale, speed, quality, users, time saved, etc.
 - **Experience/seniority** — junior, senior, professional, years of technical experience, team experience, ownership level.
 
-Do not let evidence for one class silently support another.
+Do not let evidence for one class silently support another. In particular, substantial operational/executive responsibility, engineering education, and historical ML exposure are not interchangeable with professional software-team experience, verified current technical ownership, or engineering seniority.
 
 ### 4. Locate the canonical evidence
 
@@ -87,9 +87,11 @@ For each atomic claim, identify:
 - assistance or authorship boundary;
 - known uncertainty or transfer limit.
 
-If a capability proposition is not already settled, do not infer it from the project stack. Use the canonical Career capability evidence and, when necessary, require a proper capability reassessment rather than solving it through wording.
+If a capability proposition is not already settled, do not infer it from the project stack or the comprehensive biography. Use the canonical Career capability evidence and, when necessary, require a proper capability reassessment rather than solving it through wording.
 
 If a project behavior is uncertain, inspect project evidence rather than converting portfolio prose into technical proof.
+
+For professional-history claims, separate the formal job title, actual duties, estimated organization/team size, and personal contribution. Do not turn reported context or a team outcome into a personally verified individual metric. Exact institution names, dates, and thesis implementation details remain unresolved where the profile marks them so.
 
 ### 5. Separate subject from system
 
@@ -117,7 +119,7 @@ Distinguish:
 - demonstrated capability;
 - independent ownership.
 
-A project importing FastAPI or using SQLite does not by itself justify listing FastAPI/API design or SQL as demonstrated personal capability.
+A project importing FastAPI or using SQLite does not by itself justify listing FastAPI/API design or SQL as demonstrated personal capability. A thesis involving neural networks likewise does not establish independent model-design or current ML-engineering ownership without reconstructed personal evidence.
 
 ### 7. Audit status and readiness language
 
@@ -143,7 +145,7 @@ A numeric claim must have a traceable basis and correct denominator/scope.
 
 Do not invent or preserve unsupported metrics merely because they strengthen a CV bullet.
 
-When only a narrower count is supported, keep the count narrow. When the number is approximate, label it honestly if approximation is defensible and useful.
+When only a narrower count is supported, keep the count narrow. When the number is approximate or recalled, label it honestly if approximation is defensible and useful.
 
 ### 9. Assign a verdict to each atomic claim
 
@@ -198,6 +200,8 @@ Never use these shortcuts:
 - project is production-oriented = production-ready;
 - one supported fact = whole compound sentence supported;
 - approximate memory = verified metric;
+- professional job title = independent domain expertise;
+- self-reported investigative tendency = proven professional diagnostic capability;
 - stronger wording = better wording.
 
 ## Output
