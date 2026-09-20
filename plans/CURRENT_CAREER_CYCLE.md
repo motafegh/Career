@@ -3,18 +3,18 @@
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling current Career cycle  
 **Execution period:** 2026-07-20 through 2026-10-17  
-**Last reviewed:** 2026-09-14 — broad E3 responsibility-market readiness review completed; E2 UI remainder explicitly deferred  
-**Responsibility:** Bounded career outcomes, allocation, review points, and closure evidence for the current cycle
+**Last reviewed:** 2026-09-20 — P7 reconciliation of completed market intake, current Iran acquisition method, and live-state boundary  
+**Responsibility:** Bounded career outcomes, allocation, review points, and closure evidence for the current cycle. For exact current Career action and current vacancy ordering, use [`../CAREER_STATE.md`](../CAREER_STATE.md).
 
 ## 1. Cycle objective
 
-Convert Ali's broad AI-assisted technical exposure into stronger evidence for realistic entry-level Python/data/applied-AI work through one primary flagship, explicit ownership growth, market-facing positioning, and real market feedback.
+Convert broad AI-assisted technical exposure into stronger evidence for realistic entry-level Python/data/applied-AI work through one primary flagship, explicit ownership growth, market-facing positioning, and real market feedback. Prior operational/executive responsibility and engineering/ML academic context are meaningful transferable assets, but do not substitute for demonstrated technical ownership.
 
 The cycle must produce value across four connected lanes:
 
 ```text
 flagship product/proof
-+ Ali capability and ownership
++ personal capability and ownership
 + portfolio and explanation
 + employability and market feedback
 ```
@@ -41,7 +41,7 @@ Python/software engineering anchor
 + adjacent backend/cloud/CI/Linux/networking/operations breadth only when justified
 ```
 
-This does not authorize equal-depth study across all areas.
+The three profile dimensions — professional maturity, technical context, and technical ownership — remain separate. This cycle does not authorize equal-depth study across all areas.
 
 ## 3. Primary allocation
 
@@ -51,7 +51,7 @@ Career evaluates whether it produces:
 
 - a coherent real product responsibility;
 - executable/reproducible proof;
-- Ali-understood source and test behavior;
+- personally understood source and test behavior;
 - ownership-bearing modification and diagnosis where legitimate work creates them;
 - changed-context transfer;
 - concise reviewer-understandable explanation;
@@ -62,301 +62,149 @@ Two other repositories may continue technically without becoming competing learn
 - **JobHunter** — AI-full-implementation Applied-AI product, Career market-intelligence infrastructure, and portfolio asset;
 - **Sentinel** — AI-full-implementation ML/data/security research asset and portfolio case-study source.
 
-AegisLab remains historical evidence.
-
-Repository activity in JobHunter or Sentinel does not automatically become Ali capability evidence.
+AegisLab remains historical evidence. Repository activity in JobHunter or Sentinel does not automatically become personal capability evidence.
 
 ## 4. Cycle outcome lanes
 
 ### Lane A — Flagship contribution
 
-By cycle closure Career should be able to inspect a bounded, coherent UpgradePilot core or honest reclassified outcome with:
+By cycle closure, Career should be able to inspect a bounded, coherent UpgradePilot core or honest reclassified outcome with real public input, Python application behavior, tests/failure behavior, trustworthy evidence handling, human-facing output, reproducible operation, explicit limitations, and rejected/deferred advanced methods where relevant.
 
-- real public input;
-- Python application behavior;
-- tests/failure behavior;
-- trustworthy evidence handling;
-- human-facing output;
-- reproducible operation;
-- explicit limitations;
-- rejected/deferred advanced methods where relevant.
-
-Value **proof, ownership, diagnosis, demonstration and explanation** more than feature count or architectural sophistication.
+Value **proof, ownership, diagnosis, demonstration, and explanation** more than feature count or architectural sophistication.
 
 ### Lane B — Capability and ownership
 
-Current strongest evidence includes bounded D2 source-flow and representative-test reasoning, evidence/uncertainty reasoning, and recurring AI-assisted technical critique.
+The current capability owner is `../tracking/CAPABILITY_EVIDENCE_LEDGER.md`. This cycle seeks stronger evidence, not automatic D-level promotion from the richer biography or from AI-produced code.
 
-Highest-value remaining evidence classes are:
+High-value remaining evidence classes:
 
 - ownership-bearing source/test modification;
 - current causal failure diagnosis with reduced assistance;
 - changed-context transfer;
 - SQL/relational-data evidence where role bands require it;
 - bounded professional Git/review evidence;
-- continued AI-harness direction carried through verification rather than stopping at orchestration.
+- AI-harness direction carried through verification rather than stopping at orchestration.
 
-No broad D4 promise is imposed.
+No broad D4 promise is imposed. Exact project learning/implementation route remains project-local.
 
 ### Lane C — Portfolio / E2
 
 Repository-side E2 corrections completed earlier remain valid, including employer-facing first screens and assistance/attribution boundaries.
 
-Remaining GitHub UI/account actions are still required for eventual E2 closure:
+Remaining GitHub UI/account work includes the concise GitHub profile README/profile repository, approved descriptions/topics, curated pins, and a final short claim/material consistency check.
 
-- concise GitHub profile README/profile repository;
-- approved descriptions/topics;
-- curated pins;
-- short final claim/material consistency check.
+Ali explicitly deferred the remaining UI work on **2026-09-14** while authorizing post-E2 employability work. Therefore:
 
-**2026-09-14 sequence change:** Ali explicitly deferred these remaining UI actions and instructed Career to proceed to the post-E2 employability stage.
-
-Therefore:
-
-- E2 remains **incomplete and deferred**, not cancelled or marked complete;
-- E2 is no longer the global gate for E3 market-fit/readiness work or bounded vacancy intake during this cycle;
-- vacancy-specific applications still require claim/public-surface checks when the incomplete UI layer is materially relevant;
-- E2 should be resumed later and should be closed by cycle end unless a later Career review changes that requirement.
+- E2 remains **incomplete and deferred**, not cancelled or complete;
+- E2 is not a global gate for narrow E3 market-fit research or bounded vacancy intake;
+- a specific application still requires whatever public-claim/materials checks its actual audience and vacancy make necessary;
+- E2 should be revisited proportionately by cycle closure unless a later Career review changes that requirement.
 
 ### Lane D — Employability and market
 
-The September 14 broad market research now uses responsibility bundles rather than a narrow title universe.
+The September 14 responsibility-based research and subsequent Iran vacancy/employer work have **already established a narrow E3 calibration band and completed the initial vacancy discovery/shortlisting stage**. Do not restart the first 8–12 vacancy batch as if it were unperformed.
 
-The active market model is:
+Cycle-level target bands:
+
+- **Primary narrow:** junior/mentored Technical Implementation/Integration; bounded AI Automation/Solutions/Internal Tools; Technical Product/Application/Software Support involving real logs, APIs, data or integration diagnosis.
+- **Conditional:** QA/testing/evaluation with appropriate ownership scope; genuinely junior/mentored Applied-AI implementation; selected junior Python/application/backend roles where scope and guidance fit.
+- **Gated/low priority:** SQL-heavy data engineering/BI without relational evidence; independent production backend; senior/specialist AI/ML; deep SRE/DevOps/infrastructure ownership.
+
+The fit method distinguishes technical substrate, relevant prior professional-responsibility transfer, mentorship/entry structure, access eligibility, and day-one ownership stretch. Access failure is targeting information, not a technical-learning failure. Market demand is not personal capability evidence.
+
+**Active operating geography:** Iran only, as owned by `CAREER_STATE.md`; international evidence is deferred rather than rejected or erased. This is an operational selection, not a fixed long-term geography hierarchy.
+
+**Two acquisition lanes:**
 
 ```text
-recognizable technical substrate
-+ integration / testing / debugging / evaluation
-+ AI leverage where relevant
-+ process / customer / stakeholder responsibility
-+ accountable explanation
+VACANCY-FIRST
+current vacancy across the selected Persian platforms
+→ employer-authored/native duties
+→ current/open confirmation
+→ access + responsibility/evidence fit
+
+EMPLOYER-WATCH
+company pages/directories + recurring relevant hiring history
+→ current specific vacancy
+→ the same native-duty, currency, access, and fit gates
 ```
 
-Technical fit remains separate from entry-access fit such as education, degree/graduate status, nationality, language, work authorization, location and experience gates.
+Employer rankings, ratings, brand, or historical activity are discovery signals, not application authorization.
 
-The current E3 result is:
-
-> **narrow responsibility-based calibration readiness established; broad readiness not established.**
-
-Primary narrow calibration bands:
-
-1. Technical Implementation / Integration — junior/associate/mentored.
-2. AI Automation / AI Solutions / internal-tools implementation — bounded/junior.
-3. Technical Product / Application / Software Support with real diagnosis/integrations.
-
-Conditional bands:
-
-4. QA / testing / evaluation where independent automation ownership is not assumed.
-5. genuinely junior/mentored Applied-AI / AI Implementation roles centered on integration/evaluation/application.
-6. selected junior Python/application/backend roles where scope and mentorship fit current evidence.
-
-Gated/low-priority bands include SQL-heavy data engineering/BI, independent production backend, senior/specialist AI/ML, and operations/SRE roles requiring deeper operational ownership.
-
-For the exact current application state, use `CAREER_STATE.md`.
+The remaining cycle-level transition is to resolve the current candidate shortlist, check employer-stated access requirements and minimum private application materials, and obtain **actual application/interview feedback** where a specific vacancy passes. Exact candidate names, order, access status, and next Career action belong exclusively to `CAREER_STATE.md` and its referenced evidence, not this cycle file.
 
 ## 5. Workload and allocation
 
-### Standard capacity
+- Green mode: up to **24 focused hours/week**; ceiling, not quota.
+- Approximately **75–85%** of personal technical attention remains available to UpgradePilot.
+- Approximately **15–25%** remains for Career-owned market/application, E2, and bounded SQL/Git/gap work combined.
 
-- Green mode: up to **24 focused hours/week**.
-- The ceiling is not a quota.
-
-### Allocation principle
-
-Keep approximately:
-
-```text
-75–85%  UpgradePilot / flagship technical responsibility
-15–25%  Career-owned market/application / E2 / SQL / Git work combined
-```
-
-Within the non-flagship lane, current ordering is:
-
-1. build and evaluate the first bounded current-vacancy calibration batch;
-2. use real market feedback to identify whether targeting, claims, or capability priorities need correction;
-3. address SQL/Git or other role-widening gaps only where evidence shows material value;
-4. resume and close the deferred E2 UI remainder proportionately.
-
-Autonomous AI work in JobHunter/Sentinel does not count as Ali ownership evidence or focused learning time.
+Within non-flagship work, favor resolving existing current vacancies before undifferentiated new collection; make vacancy-specific materials/claim checks when access survives; classify actual feedback; address gaps proportionately; and revisit deferred E2 when material. Autonomous AI work in JobHunter/Sentinel does not count as personal ownership evidence or focused learning time.
 
 ## 6. SQL and relational-data decision
 
-SQL remains a material role-dependent gap.
+SQL remains a material role-dependent gap, not a universal blocker for approved narrow implementation/automation/support calibration.
 
-The existing authorization remains:
-
-> one **small bounded standalone relational-data intervention** during this cycle if no proportional existing-project responsibility emerges and current market evidence continues to justify it.
-
-It must not become a new project or detached curriculum.
-
-SQL is not a universal blocker for the approved narrow implementation/automation/support calibration lane.
+A **small bounded standalone relational-data intervention** is authorized during this cycle only if no proportional existing-project responsibility emerges and current market evidence continues to justify it. It must not become a new project or detached curriculum.
 
 ## 7. Formal review points
 
-### Refoundation review — 2026-07-27
+- **2026-07-27 refoundation review:** completed.
+- **2026-08-02 Day-14 calibration:** completed retrospectively on 2026-08-05.
+- **2026-08-18 Day-30 review:** completed, partial success with bounded ownership/application correction.
+- **2026-09-01 interim readiness reassessment:** completed; E2 correction and role-dependent rather than universal SQL gap recognized.
+- **2026-09-08 early Day-60 A7 review:** completed; identity, flagship, allocation retained; bounded D2 source/test reasoning recognized.
+- **2026-09-14 E3 responsibility-market/readiness review:** completed; narrow responsibility-based calibration readiness, not broad readiness; E2 remainder explicitly deferred; vacancy intake authorized.
+- **2026-09-16 Iran market refresh and employer-centric extension:** initial discovery, shortlisting and employer-watch evidence established; candidate-specific access/material checks still required.
+- **2026-09-17 checkpoint:** passed as a date; not an automatic duplicate formal review. The subsequent profile/strategy reconciliation is recorded in its own plan and review log.
+- **2026-10-17 Day-90 review:** required unless explicitly changed by the controlling Career review.
 
-Completed.
-
-### Day-14 calibration — scheduled 2026-08-02
-
-Completed retrospectively on 2026-08-05.
-
-### Day-30 review — 2026-08-18
-
-Completed. Result: partial success with bounded ownership/application correction.
-
-### Interim application-readiness reassessment — 2026-09-01
-
-Completed. Normal applications remained inactive; E2 became a direct Career-owned correction; SQL became role-dependent rather than a universal gate.
-
-### Early Day-60 A7 review — 2026-09-08
-
-Completed early at Ali's request. Retained identity/flagship/allocation, formalized the anchored-hybrid model, recognized bounded D2 source/test reasoning, and pre-authorized a narrow application band after E2 closure.
-
-### E3 responsibility-market / readiness review — 2026-09-14
-
-Completed after Ali explicitly deferred remaining E2 UI work and requested broad international + Iran/Persian research without title/keyword restriction.
-
-Main decisions:
-
-- preserve working identity, flagship, allocation and capability levels;
-- broaden calibration from title families to responsibility bundles;
-- establish narrow readiness for implementation/integration, AI automation/solutions and technical product/application support, with selected QA/Applied-AI roles conditional;
-- do not claim broad software/data/ML readiness;
-- separate access eligibility from technical fit;
-- allow vacancy intake/shortlisting now despite deferred E2;
-- require a minimal vacancy-specific access/claim/private-material check before actual submission;
-- keep E2 incomplete/deferred for later closure.
-
-Detailed record: `../tracking/research/2026-09-14_E3_APPLICATION_READINESS_AND_ROLE_BAND_REVIEW.md`.
-
-### 2026-09-17 checkpoint
-
-Now a bounded checkpoint, not an automatic duplicate formal review. Use it only if current vacancy intake, application-material readiness, E2 deferral, or other material evidence needs reassessment.
-
-### Day-90 review — 2026-10-17
-
-Required outputs:
-
-- cycle result and UpgradePilot Career contribution;
-- current capability/ownership evidence and assistance boundary;
-- E2/portfolio closure state and claim register;
-- application/market-feedback state;
-- role-band and geography interpretation;
-- workload-system performance;
-- next-cycle decision and working identity.
-
-Additional reviews occur on material triggers or Ali request.
+Day-90 outputs: cycle result and flagship contribution; current ownership evidence and assistance boundary; E2/portfolio closure status and claims; application/feedback status; role-band/geography interpretation; workload-system performance; next-cycle and identity decision. Earlier event-based review remains valid.
 
 ## 8. Application-readiness / market-feedback rule
 
-The current cycle rule is now:
+**Narrow E3 responsibility-based calibration readiness is established; broad readiness is not.** The initial 8–12-vacancy *discovery/shortlisting* exercise has already been performed. The current task is not another automatic batch; it is to resolve and, where justified, act on specific current vacancies.
 
-> **Narrow E3 responsibility-based calibration readiness is established. Begin current-vacancy intake now. Do not infer broad readiness. Before each actual submission, verify access eligibility, defensible evidence/claims/public surface, and the minimum required private application materials.**
-
-The first batch should be approximately **8–12 current vacancies** distributed across several responsibility families rather than one title:
+For each serious vacancy, verify:
 
 ```text
-2–3 Technical Implementation / Integration
-2–3 AI Automation / Solutions / internal tools
-2    Technical Product / Application Support
-1–2 QA / evaluation or genuinely junior Applied AI
+CURRENT / OPEN
+→ exact native/employer-authored duties
+→ employer-stated ACCESS GATE (PASS / FAIL / UNRESOLVED)
+→ responsibility/technical evidence and ownership-stretch fit
+→ mentorship/entry structure and relevant professional transfer
+→ defensible public claims + minimum private application materials
+→ vacancy-specific APPLY / HOLD / REJECT decision
 ```
 
-Classify each vacancy:
-
-```text
-ACCESS GATE
-PASS / FAIL / UNRESOLVED
-
-RESPONSIBILITY FIT
-STRONG / PLAUSIBLE / WEAK
-
-EVIDENCE / CLAIM FIT
-DEFENSIBLE / STRETCH / NOT DEFENSIBLE
-
-DECISION
-APPLY / HOLD FOR MISSING FACT / REJECT
-```
-
-A hard access failure is targeting evidence, not a technical-learning failure.
-
-Detailed application/contact/employer correspondence remains private by default.
+Do not infer missing private access facts. Do not apply or claim an application was submitted merely because the role is shortlisted. A hard access failure is a targeting result, not a curriculum request. Keep detailed application/contact/employer correspondence private.
 
 ## 9. Advanced-capability outcome
 
-The cycle preserves advanced interests but does not require additional framework or infrastructure expansion.
-
-A valid outcome may include:
-
-- bounded framework experiments already completed and deferred;
-- AI-full JobHunter/Sentinel research used honestly as portfolio evidence;
-- no new advanced pilot because proof/ownership/market feedback have higher value;
-- deeper advanced responsibility only if new project or market evidence justifies it.
+No additional framework or infrastructure expansion is required merely to complete this cycle. Valid outcomes include bounded experiments already completed/deferred, honest AI-full JobHunter/Sentinel portfolio use, or no new advanced pilot while proof, ownership and market feedback have higher value.
 
 ## 10. Cycle success classes
 
-### Strong success
+**Strong success:** meaningful flagship proof, increased selected ownership, E2 public positioning eventually closed or explicitly re-decided, narrow applications and usable feedback, role-targeted gap correction, realistic next cycle.
 
-- meaningful flagship core and proof;
-- clear increase in selected ownership responsibilities;
-- E2 public positioning eventually closed or explicitly re-decided with evidence;
-- narrow applications active with usable feedback;
-- role-targeted gap correction;
-- realistic next cycle.
+**Partial success:** substantial project/capability evidence exists while ownership, E2, applications or role widening remain incomplete, with exact gaps and no inflated claims.
 
-### Partial success
+**Strategic correction:** evidence supports a material change to flagship, role direction, workload, timeline or access strategy and preserves the basis for the next cycle.
 
-- substantial capability/project evidence exists but ownership, E2, applications, or role widening remain incomplete;
-- exact gaps and correction are known;
-- no inflated claim is made.
-
-### Strategic correction
-
-- evidence shows flagship, role direction, workload, timeline or access strategy needs material change and preserved evidence supports the next cycle.
-
-### Failure
-
-- AI/repository output substitutes for ownership;
-- no usable portfolio or market feedback emerges;
-- the system cannot explain why or what to change.
-
-A negative technical or market result is not failure when correctly interpreted.
+**Failure:** AI/repository output substitutes for ownership, no usable portfolio/market feedback emerges, and the system cannot explain what needs correction. A negative technical or market result is not failure when correctly interpreted.
 
 ## 11. Non-goals
 
-This cycle does not require:
-
-- senior or mid-level readiness;
-- mastery of all target technologies;
-- a new project;
-- production-scale deployment;
-- complete mastery of JobHunter/Sentinel;
-- SQL mastery before any application;
-- a fixed number of commits, technologies, applications or hours as a success metric;
-- mass applications before evidence from the first calibration batch is interpreted.
+No senior/mid-level readiness promise; no mastery of every technology; no new project by default; no production-scale deployment mandate; no JobHunter/Sentinel codebase mastery; no SQL mastery before every application; no fixed commit/technology/application/hour quota; no mass applications before interpreting the initial calibration feedback.
 
 ## 12. Closure evidence
 
-Day-90 closure should inspect:
-
-- `CAREER_STATE.md` and current profile;
-- current UpgradePilot source/tests/product/proof sufficient for Career conclusions;
-- Capability Ledger;
-- portfolio records and public presentation;
-- the September 14 market/readiness evidence;
-- representative actual application feedback if active;
-- workload/review history;
-- explicit limitations and next-cycle proposal.
+Day-90 closure should inspect `CAREER_STATE.md` and the current profile; sufficient current UpgradePilot product/source/test/proof evidence for Career conclusions; the Capability Ledger; portfolio claims/public presentation; representative September market/readiness evidence; actual application feedback when available; workload/review history; explicit limitations and a next-cycle proposal.
 
 ## 13. Live-state handoff
 
-This file owns the cycle's bounded outcomes, allocation ranges, gates, review points and closure evidence. It does **not** own the exact current Career action.
-
-For live Career position and exact next action use `../CAREER_STATE.md`. `CURRENT_WEEK.md` may translate State/Cycle into a short immediate work package without becoming another live-state owner.
+This file owns bounded cycle outcomes, allocation ranges, gates, review points, and closure evidence. It does **not** own the exact current Career action or an evolving vacancy order. For live Career position and exact next action use [`../CAREER_STATE.md`](../CAREER_STATE.md). [`CURRENT_WEEK.md`](CURRENT_WEEK.md) may translate State/Cycle into a short immediate work package without becoming another live-state owner.
 
 ## 14. Change control
 
-Change this cycle only when dates, primary allocation, required Career outcomes, review points, workload, market-entry rule or closure evidence changes materially.
-
-Ordinary project implementation changes do not require updates here.
+Change this cycle only when dates, primary allocation, required Career outcomes, review points, workload, market-entry rule, or closure evidence changes materially. Ordinary project implementation changes do not require updates here.
