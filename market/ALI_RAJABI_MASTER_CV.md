@@ -70,7 +70,7 @@ Repository: https://github.com/motafegh/jobhunter
 
 ### Sentinel — ML/Data/Security Research System
 
-**Historical hands-on ML/data work + current AI-led research continuation | 2026–Present**  
+**Historical hands-on ML/data work + current AI-led research continuation | Dates to verify**  
 Repository: https://github.com/motafegh/sentinel-
 
 - Historical work included training and comparing approximately 10–11 models locally on an NVIDIA RTX 3070 and confronting dataset-quality problems significant enough to drive a dedicated data/representation workstream.
