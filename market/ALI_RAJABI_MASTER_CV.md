@@ -2,9 +2,9 @@
 
 **Positioning:** Junior Software Engineer | Python, Data & Applied AI  
 **Status:** Working master CV — public-safe, evidence-bounded, and intended for role-specific tailoring  
-**Last updated:** 2026-08-18 — Day-30 portfolio/claim refresh
+**Last updated:** 2026-09-27 — reconstructed from the current Career profile, portfolio, and claim boundaries
 
-> This is the canonical Career-repository source for Ali's CV. Create a tailored application copy for each serious role rather than repeatedly weakening the master. Replace bracketed prompts only with verified facts.
+> This is the canonical Career-repository source for CV content. Create a tailored application copy only for a real vacancy. Do not turn unresolved dates, titles, access facts, or technical exposure into invented precision.
 
 ---
 
@@ -12,21 +12,35 @@
 
 **Junior Software Engineer | Python, Data & Applied AI**
 
-[Current city, country] | [Professional email — choose one actively monitored address] | [Phone — application copy only]  
-GitHub: https://github.com/motafegh | LinkedIn: [LinkedIn URL] | [Work authorization / relocation note when relevant]
+[Current city/country — private application copy] | [Professional email] | [Phone — private application copy]  
+GitHub: https://github.com/motafegh | [LinkedIn URL or omit]
 
 ## Professional Summary
 
-Junior software engineering candidate transitioning from approximately six to seven years of management, sales, purchasing, and operational responsibility in a family-owned manufacturing business. Uses AI-assisted project development to build practical experience across Python applications, public APIs, validation/provenance, dependency and CI evidence, applied LLM systems, data quality, and machine-learning research. Current primary capability-building project is UpgradePilot, while JobHunter and Sentinel provide complementary applied-AI and ML/data research portfolio evidence under explicit AI-assistance boundaries. Brings commercial judgment, stakeholder communication, persistence, and a strong bias toward evidence, uncertainty, and checking what technical results actually prove.
+Career-transition candidate combining substantial prior operational and executive responsibility with an engineering/ML academic background and current Python/data/applied-AI project work. Professional experience spans domestic procurement and cross-functional operations, owner-trusted cross-company project/asset responsibilities, and approximately 1.5 years as CEO of a sauce producer with roughly 100 people.
 
-## Technical Skills
+Holds a Master's degree in Petroleum Engineering from the University of Tehran; the thesis used 3D rock-core image analysis and neural-network methods to study pore structure and predict porosity/permeability. Current technical development is centered on Python applications, data/evidence handling, testing and debugging, APIs, AI-assisted engineering, and increasingly defensible ownership of technical work.
 
-**Programming:** Python  
-**Current engineering focus:** command-line applications, HTTP/REST APIs, JSON, input validation, explicit evidence/error states, Git/GitHub workflows, source reading, testing/debugging practice, package metadata, CI/workflow reasoning  
-**Data and AI exposure:** data acquisition, preprocessing, dataset-quality investigation, machine-learning experimentation/model training, grounded LLM application patterns, Retrieval-Augmented Generation, vector search, model-output validation  
-**Frameworks and tools exposure:** FastAPI, Pydantic, FAISS, Git, GitHub, Linux terminal workflows, Visual Studio Code, PyPI, Docker familiarity, GitHub Actions/CI familiarity
+Uses AI extensively for engineering and research while keeping authorship, verification, and capability boundaries explicit. Current portfolio includes UpgradePilot as the primary capability-building flagship, JobHunter as an AI-directed applied-AI product, and Sentinel as an ML/data/security research asset.
 
-> Do not add SQL to the demonstrated-skill list until Career records meaningful relational-data evidence.
+## Technical Capabilities and Exposure
+
+### Current technical focus
+
+- Python application structure, source reading, and bounded source-flow reasoning.
+- Testing semantics, proof limits, debugging practice, and failure investigation.
+- HTTP/REST APIs, JSON, external-source acquisition, validation, and provenance.
+- Git/GitHub workflows and Linux terminal use.
+- Data acquisition, preprocessing, dataset-quality investigation, and machine-learning experimentation.
+- Applied LLM/agent workflows, structured model outputs, grounding/evaluation, and deterministic validation around model-generated results.
+- Secure/trustworthy engineering concepts including evidence boundaries, permissions, provenance, and unsupported-claim control.
+
+### Current evidence boundary
+
+- Strongest current personal evidence is guided/bounded rather than broad independent application ownership.
+- Code reading/comprehension and AI-assisted technical direction are stronger than blank-page implementation.
+- SQL/relational-data ownership, broad independent debugging, professional pull-request/code-review collaboration, and broad backend/ML/security ownership are not currently claimed.
+- Repository technologies listed below describe project stacks/exposure unless personal ownership is separately supported.
 
 ## Selected Projects
 
@@ -35,12 +49,12 @@ Junior software engineering candidate transitioning from approximately six to se
 **Primary capability-building flagship | 2026–Present**  
 Repository: https://github.com/motafegh/UpgradePilot
 
-- Directing and learning through development of an installable Python command-line tool that helps maintainers investigate public Python dependency-update pull requests using read-only evidence from GitHub, CI workflows, PyPI, upstream releases, and target-project declarations.
-- The AI-assisted repository implements explicit evidence and uncertainty states across pull-request identity, dependency changes, upstream authority, release/changelog analysis, bounded semantic extraction, target relevance, and newer dependency-environment/CI-consumption reasoning.
-- Contributed materially through scope and evidence-boundary challenges, including questioning overly case-shaped implementation and requiring provenance/architecture choices to justify the exact failure or ambiguity they prevent.
-- Uses deterministic validation around model-generated semantic candidates so probabilistic interpretation is not treated as source authority, compatibility proof, or automatic merge/safety advice.
+- Directing and learning through development of an installable Python command-line tool for investigating public Python dependency-update pull requests using read-only evidence from GitHub, CI workflows, PyPI, upstream releases, and target-project declarations.
+- Participates materially in evidence-boundary, scope, and architecture challenges, including rejecting case-shaped logic and requiring uncertainty/provenance choices to map to concrete failure modes.
+- Current Career evidence supports bounded source-flow and representative-test understanding in selected UpgradePilot responsibilities; broader implementation ownership remains under active development.
+- The repository uses deterministic validation around model-generated semantic candidates so probabilistic interpretation is not treated as source authority, compatibility proof, or automatic merge/safety advice.
 
-**Selected technologies:** Python 3.12, HTTP APIs, GitHub, PyPI, CLI design, GitHub Actions/CI evidence, validation, provenance, local LLM integration.
+**Repository stack/exposure:** Python 3.12, HTTP APIs, GitHub, PyPI, CLI design, GitHub Actions/CI evidence, validation/provenance, local LLM integration.
 
 ### JobHunter — Local Career-Intelligence & Applied-AI Product
 
@@ -48,108 +62,132 @@ Repository: https://github.com/motafegh/UpgradePilot
 Repository: https://github.com/motafegh/jobhunter
 
 - Directing and evaluating AI-assisted development of a local-first career-intelligence product that acquires real job advertisements, preserves source provenance, and produces structured requirement/capability analysis for later Career review.
-- Uses Python application services, SQLite-backed runtime/history state, local LLM inference, deterministic source-truth validation, browser/CLI surfaces, and repository-safe public corpus projection; implementation is substantially AI-generated and is not presented as independent source ownership.
-- Established a fail-closed review model in which mechanically valid model output can still be rejected semantically before promotion or downstream use.
-- Recent heterogeneous-role validation exposed a deterministic depth-canonicalization defect in a Python vacancy; the candidate was rejected, the validator was corrected, and regression coverage was added before reuse.
+- Product behavior includes Python application services, SQLite-backed runtime/history state, local LLM inference, structured model outputs, deterministic source-truth validation, CLI/browser surfaces, and public-safe corpus projection.
+- Uses fail-closed semantic review so mechanically valid model output can still be rejected before promotion or downstream use.
+- Implementation is substantially AI-generated; the project is presented as evidence of product direction, review, evaluation, and AI-assisted engineering rather than independent ownership of the full source stack.
 
-**Selected technologies / repository stack:** Python, FastAPI, SQLite, local LLMs/LM Studio, structured model outputs, validation/provenance, CLI/browser UI, CI.
+**Repository stack/exposure:** Python, FastAPI, SQLite, local LLMs/LM Studio, structured outputs, validation/provenance, CLI/browser UI, CI.
 
-### Sentinel — Smart-Contract Security & ML/Data Research System
+### Sentinel — ML/Data/Security Research System
 
-**AI-assisted original project + current AI-led research continuation | [Start month/year]–Present**  
+**Historical hands-on ML/data work + current AI-led research continuation | 2026–Present**  
 Repository: https://github.com/motafegh/sentinel-
 
-- Originally worked through a large modular security-research project combining external-data pipelines, machine learning, graph/code analysis, agent-based auditing, and smart-contract integrations; trained and compared more than ten models on an NVIDIA RTX 3070 laptop GPU.
-- Identified dataset quality as a major constraint during the original work and expanded the data-handling pipeline rather than assuming additional model complexity would solve weak evidence.
-- Later directed an AI-led R4 research continuation focused on dataset integrity, leakage grouping, evidence-lineage coherence, and defensible model-evaluation boundaries.
-- Current R4 research keeps full retraining and stronger model-quality claims unauthorized while confirmed-negative/evaluation evidence remains insufficient, turning a negative result into an explicit ML/data-quality case study rather than hiding it.
+- Historical work included training and comparing approximately 10–11 models locally on an NVIDIA RTX 3070 and confronting dataset-quality problems significant enough to drive a dedicated data/representation workstream.
+- Broader project context combines ML/data research with graph/code analysis, agentic auditing, security-oriented analysis, and blockchain/zkML exploration.
+- Current AI-led continuation focuses on dataset integrity, leakage grouping, representation quality, evidence lineage, and defensible evaluation boundaries.
+- Current research explicitly withholds stronger training/model-quality claims when confirmed-negative or evaluation evidence is insufficient.
 
-**Selected technologies / exposure:** Python, machine learning, data preprocessing, graph-based analysis, Linux, PyTorch ecosystem, Solidity/blockchain exposure, agent-system exposure.
+**Project exposure:** Python, machine learning, data preprocessing/evaluation, graph analysis, Linux, PyTorch ecosystem, Solidity/blockchain concepts, agent-system concepts.
 
 ## Professional Experience
 
-### Operations, Sales & Purchasing
+### Chief Executive Officer (CEO) — Sauce Production Company
 
-**Family-Owned Sauce Manufacturing Business | [City, Country] | [Start month/year]–[End month/year]**
+**Approx. 1.5 years | Exact dates/location to verify for application copy**
 
-- Managed responsibilities across sales, purchasing, supplier coordination, customer communication, and day-to-day operational decisions.
-- Balanced customer requirements, supplier constraints, commercial priorities, and practical business limitations.
-- Took ownership of outcomes beyond a narrow task and adjusted priorities as operational conditions changed.
-- Developed transferable strengths in negotiation, prioritization, stakeholder communication, commercial judgment, and practical problem-solving.
-- [Add one verified scale or result: team size, supplier/customer volume, purchasing responsibility, sales responsibility, cost reduction, revenue contribution, or process improvement.]
+- Held executive responsibility across finance, sales, purchasing, production/factory operations, human resources, management coordination, and selected customer/supplier work in an organization of approximately 100 people.
+- Entered an already financially weak business with debt/cash-flow pressure, slow customer payment cycles, and substantial owner/family constraints on personnel and strategic decisions.
+- Worked on restructuring, production/cost/quality improvements, alternative sales channels, purchasing, and commercial problem solving while balancing operational and ownership constraints.
+- Managed communication and decisions across senior managers, factory staff, suppliers, customers, and owners.
+- Final company closure followed continued financial weakness and loss of owner funding; the experience is represented as a constrained turnaround/operations case rather than as either a clean success or a failure caused solely by external factors.
+
+### Project Manager — Large Holding / Cross-Company Operations
+
+**Approx. 3 years | Exact dates/location to verify for application copy**
+
+- Formal title: **Project Manager**; actual work functioned as an owner-trusted cross-company operational representative for special assignments outside the holding's core steel/iron production work.
+- Managed a standing team of approximately 7–10 people and received temporary authority over additional people/units for specific assignments.
+- Responsibilities included company vehicles/properties, repairs and maintenance, asset inventory and disposal, selected financial-record checks, personnel actions, and execution of difficult cross-company operational assignments.
+- Participated in shutdown/closure work for approximately 5–6 entities, including workforce communication, remaining-asset review/disposition, financial reconciliation, and transfer of proceeds back to the holding.
+- Built experience operating under ambiguity, handling unpopular decisions, communicating upward to owners, coordinating unfamiliar teams, and remaining accountable for completion.
+
+### Procurement / Operations — Trading Company
+
+**Approx. 3 years | Formal title, exact dates/location to verify for application copy**
+
+- Purchased domestic raw materials for a snack-production business and coordinated with suppliers, finance, factory operations, drivers, and storage.
+- Participated in senior meetings and learned broader commercial/operational workflows through direct observation and increasing responsibility.
+- Took on wider office and cross-department coordination over time.
+- Developed practical experience in supplier communication, purchasing, logistics coordination, money-sensitive operations, and cross-functional follow-through.
+
+> **Background integrity note for tailoring:** entry into these businesses was materially enabled by family/owner trust. The CV may describe the real responsibilities performed, but must not imply that the initial roles were won through conventional external competitive hiring or pre-existing domain specialization.
 
 ## Education
 
-**[Verified qualification or field of study]**  
-[Institution], [City, Country] | [Completion year or attendance dates]
+### Master's Degree — Petroleum Engineering
 
-[Add a second qualification, course, or certification only when verified and relevant. Remove this section when no appropriate verified education information is available.]
+**University of Tehran | Dates to verify**
+
+**Thesis:** 3D rock-core pore detection/analysis with neural-network methods for porosity and permeability prediction.
+
+- Provides the earliest documented bridge between petroleum engineering, Python/programming, image/data analysis, and machine learning.
+- Exact thesis code ownership, libraries, dataset source, model-design contribution, and publication status remain unresolved and must not be overstated.
+
+### Bachelor's Degree — Petroleum Engineering
+
+**Institution and dates to verify**
+
+Do not invent the bachelor's institution or dates until confirmed.
 
 ## Languages
 
-- Persian — [Verified level]
-- English — [Verified level]
-- German — [Verified level, when applicable]
-- [Additional language] — [Verified level]
+- Persian / Farsi — Fluent.
+- English — Fluent.
+
+No formal language-test score is currently recorded.
 
 ---
 
-## Master-CV Completion Prompts
+## Master-CV Tailoring Rules
 
-These prompts support maintenance and must be removed from application copies.
+These rules are maintenance guidance and should not appear in a submitted application copy.
 
-### Required before first application
+1. Tailor the headline, summary, project order, and experience emphasis to a real vacancy rather than producing speculative variants.
+2. Use the current Career profile for stable personal/professional facts and the Capability Ledger for technical ownership.
+3. Do not list SQL/relational-data expertise until meaningful personal evidence exists.
+4. Do not convert a repository technology stack into a personal skill claim automatically.
+5. Do not describe AI-generated architecture, code, tests, or current JobHunter/Sentinel implementation as independently authored.
+6. UpgradePilot carries the strongest current source/test/ownership-growth claims; JobHunter primarily supports applied-AI product direction/reliability; Sentinel primarily supports ML/data/evaluation research context.
+7. Use prior operational/executive experience where the vacancy values process ownership, stakeholder handling, implementation, integration, troubleshooting, customer work, ambiguity, or responsibility.
+8. Do not target engineering-management roles merely because of prior CEO/Project Manager titles; current technical seniority remains junior/transition level.
+9. Keep private phone numbers, addresses, access/eligibility facts, compensation, recruiter correspondence, and application history outside the public repository.
+10. Exact employment/education dates, the procurement role's formal title, current location, and application-specific access facts must be resolved before use where required.
+11. Family-connected entry should not erase legitimate responsibility, but neither should the CV imply conventional competitive selection if that distinction becomes material.
+12. Prefer concrete responsibilities and behaviors over unsupported metrics or promotional adjectives.
+13. For one-page application copies, normally keep the three strongest/relevant projects and compress older professional experience; two pages are acceptable when the target role benefits materially from the prior responsibility record.
 
-- Current city and country.
-- One professional email address that Ali actively monitors.
-- Phone number for the private application copy.
-- LinkedIn URL, or remove LinkedIn until a professional profile exists.
-- Work-authorization and relocation wording for the target country.
-- Exact family-business dates and location.
-- Exact Sentinel and other role-specific project dates.
-- Verified education information, or remove the section.
-- Verified language levels.
-- At least one concrete, truthful scale or result from the family business.
-- Review the public GitHub profile and pinned/repository presentation before normal application activation.
+## Current default tailoring emphasis
 
-### Current default project strategy
+**Technical Implementation / Integration / Product Support**
+- emphasize cross-functional responsibility, stakeholder communication, troubleshooting/evidence reasoning, APIs/integrations, and UpgradePilot;
+- JobHunter supports applied-AI/process translation;
+- retain enough prior professional history to show maturity without crowding out technical evidence.
 
-The broad master now uses:
+**AI Automation / AI Solutions / Applied AI**
+- emphasize JobHunter + UpgradePilot, AI-assisted evaluation/reliability, process translation, and evidence/uncertainty reasoning;
+- Sentinel may support ML/data context where relevant.
 
-1. UpgradePilot — primary engineering-ownership flagship;
-2. JobHunter — Applied-AI product/reliability portfolio asset;
-3. Sentinel — ML/data/evaluation/security research asset.
+**Junior Python / Automation / Application Engineering**
+- emphasize UpgradePilot first;
+- use JobHunter as product/stack context with explicit AI-assistance boundary;
+- keep implementation claims bounded to current evidence.
 
-Role-specific tailoring may change this order or replace one project. The Persian Financial RAG API remains available as a role-specific alternate for RAG/vector-search-heavy vacancies, rather than occupying a default slot in every application.
+**QA / Evaluation / Technical Diagnosis**
+- emphasize test/proof-limit reasoning, evidence boundaries, defect/failure investigation tendencies, and product-quality orientation;
+- avoid implying broad independent test-automation or production-debugging ownership.
 
-Suggested starting order by role family:
+**ML / Data trainee roles**
+- emphasize the master's thesis and Sentinel historical/current research context;
+- do not imply current professional ML-engineering or SQL/data-engineering ownership.
 
-- Junior Python/backend/automation: UpgradePilot + JobHunter; Sentinel optional.
-- Applied AI / AI Implementation: JobHunter + UpgradePilot + Sentinel or Persian Financial RAG when specifically relevant.
-- Junior data/data engineering: UpgradePilot + JobHunter; Sentinel as supporting data/evaluation evidence.
-- ML trainee/junior ML: Sentinel + UpgradePilot + JobHunter.
-- AI/security: Sentinel + UpgradePilot; JobHunter optional.
+## Remaining verification before a real application
 
-### GitHub-derived facts used
-
-- Public GitHub name: Ali Rajabi.
-- GitHub username: `motafegh`.
-- Public profile: https://github.com/motafegh.
-- Default broad-project repositories: UpgradePilot, JobHunter, Sentinel.
-- PersianLLM-API remains a role-specific alternate project.
-- AegisLab should normally be used only in security-focused variants or when its historical lab evidence is directly relevant.
-- Small Git/GitHub course or demonstration repositories should not be listed as major projects.
-
-### Claim rules
-
-1. Keep the broad master focused on closely related junior software, Python, data, automation, backend, implementation, and applied-AI roles.
-2. Tailor the headline, summary, skills order, and project selection for a real advertisement.
-3. Do not list SQL as a demonstrated skill until meaningful evidence exists.
-4. Do not call any project production-ready without operational evidence.
-5. Describe AI assistance honestly without repeating it mechanically in every sentence.
-6. Do not describe AI-generated architecture, code, tests, or current JobHunter/Sentinel implementation as independently authored without supporting ownership evidence.
-7. UpgradePilot should carry the strongest current claims about Ali's growing direct technical ownership; JobHunter and current Sentinel continuation primarily support product/research direction and portfolio claims unless separately reassessed.
-8. Prefer specific behavior and outcomes over internal project-governance terminology.
-9. Keep private phone numbers, application records, recruiter correspondence, and compensation outside the public repository.
-10. Keep application copies to one page where possible; two pages are acceptable only when verified experience warrants it.
-11. Review this master after material capability, portfolio, employment, education, or market-feedback changes.
+- exact dates for all three professional roles;
+- exact company names and locations if they will appear publicly;
+- procurement/trading role formal title;
+- bachelor's institution and education dates;
+- current city/country and role-specific relocation/work-authorization wording;
+- professional email / phone / LinkedIn for the private application copy;
+- any employer-specific access facts;
+- any quantitative business result only if the underlying number can be defended.
