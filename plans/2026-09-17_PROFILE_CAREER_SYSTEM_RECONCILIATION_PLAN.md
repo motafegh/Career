@@ -1,7 +1,7 @@
 # Profile and Career-System Reconciliation Plan
 
 **Date:** 2026-09-17  
-**Status:** Active execution plan — Phases 0–7 complete; Phase 8 next  
+**Status:** Active execution plan — Phases 0–8 complete; Phase 9 next  
 **Scope:** Reconcile Career profile truth, governance, strategy, employability, capability and portfolio boundaries, skills, cycle, and employer-facing materials.  
 **Profile detail:** `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`  
 **Canonical concise profile:** `profile/CAREER_PROFILE.md`  
@@ -19,8 +19,8 @@
 - **P5 — COMPLETE:** master's-thesis ML/image-analysis work recorded only as historical context while exact implementation ownership remains unresolved; portfolio story corrected without changing project roles or technical D-levels.
 - **P6 — COMPLETE:** claim-audit, Career-review, market-calibration and personal-work-planning skills conditionally consult deeper profile context. The skill index now records these evidence/authority boundaries.
 - **P7 — COMPLETE (2026-09-20):** `plans/CURRENT_CAREER_CYCLE.md` treats initial Iran vacancy discovery/shortlisting as completed and describes vacancy-first plus employer-watch acquisition, candidate-specific access/material review, and feedback as the remaining cycle outcomes. `plans/CURRENT_WEEK.md` now refers to `CAREER_STATE.md` for exact current candidate order rather than duplicating a dated shortlist. E2 remains deferred/incomplete and narrow E3 remains unchanged. `CAREER_STATE.md` was checked and intentionally left unchanged because P7 did not establish a new live decision.
-- **P8 — NEXT:** reconstruct the Master CV from corrected profile/strategy/claim evidence; do not generate multiple speculative role variants.
-- **P9 — PENDING:** repository-wide current-artifact consistency audit.
+- **P8 — COMPLETE (2026-09-27):** Master CV reconstructed from the corrected three-business professional history, verified education/language facts, current portfolio roles, and capability/AI-assistance boundaries. Unresolved dates/titles/location/access facts remain explicit instead of invented; no speculative role-specific variants were created.
+- **P9 — NEXT:** repository-wide current-artifact consistency audit.
 - **P10 — PENDING:** formal reconciliation closeout review and final plan status.
 
 ---
