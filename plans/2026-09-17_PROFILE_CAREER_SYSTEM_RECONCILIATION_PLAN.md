@@ -1,7 +1,7 @@
 # Profile and Career-System Reconciliation Plan
 
 **Date:** 2026-09-17  
-**Status:** Active execution plan — Phases 0–8 complete; Phase 9 next  
+**Status:** Active execution plan — Phases 0–9 complete; Phase 10 next  
 **Scope:** Reconcile Career profile truth, governance, strategy, employability, capability and portfolio boundaries, skills, cycle, and employer-facing materials.  
 **Profile detail:** `profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`  
 **Canonical concise profile:** `profile/CAREER_PROFILE.md`  
@@ -20,8 +20,8 @@
 - **P6 — COMPLETE:** claim-audit, Career-review, market-calibration and personal-work-planning skills conditionally consult deeper profile context. The skill index now records these evidence/authority boundaries.
 - **P7 — COMPLETE (2026-09-20):** `plans/CURRENT_CAREER_CYCLE.md` treats initial Iran vacancy discovery/shortlisting as completed and describes vacancy-first plus employer-watch acquisition, candidate-specific access/material review, and feedback as the remaining cycle outcomes. `plans/CURRENT_WEEK.md` now refers to `CAREER_STATE.md` for exact current candidate order rather than duplicating a dated shortlist. E2 remains deferred/incomplete and narrow E3 remains unchanged. `CAREER_STATE.md` was checked and intentionally left unchanged because P7 did not establish a new live decision.
 - **P8 — COMPLETE (2026-09-27):** Master CV reconstructed from the corrected three-business professional history, verified education/language facts, current portfolio roles, and capability/AI-assistance boundaries. Unresolved dates/titles/location/access facts remain explicit instead of invented; no speculative role-specific variants were created.
-- **P9 — NEXT:** repository-wide current-artifact consistency audit.
-- **P10 — PENDING:** formal reconciliation closeout review and final plan status.
+- **P9 — COMPLETE (2026-09-29):** audited current authoritative profile, governance, strategy, employability, cycle/week, CV, portfolio, capability, JobHunter-integration, and Career-skill artifacts. Historical research/review snapshots were preserved. Corrected the stale pre-P8 CV instruction in `CURRENT_WEEK.md`, clarified authentication/security-credential wording in the Operating Contract, and reconciled this plan's own stale phase markers. No material current artifact remains dependent on a known-stale one-company/education-unknown profile assumption.
+- **P10 — NEXT:** formal reconciliation closeout review and final plan status.
 
 ---
 
@@ -105,9 +105,9 @@ Load comprehensive profile only when a claim, review, vacancy fit or personal pl
 
 Treat the initial 8–12 vacancy discovery/shortlisting task as historical completion, **not the next unperformed action**. Cycle now describes bounded remaining outcomes: existing Iran shortlist verification, candidate-specific native duties/access/evidence/materials checks, actual submissions where justified, and meaningful feedback; both vacancy-first and employer-watch remain valid. Current Week points to State for exact live candidate order and translates it into an immediate, non-duplicating work package. E2 stays incomplete/deferred, narrow E3 calibration readiness remains, and an application is not reported as submitted before actual submission. No new current decision was found that required a State edit.
 
-### P8 — Master CV reconstruction — NEXT
+### P8 — Master CV reconstruction — COMPLETE
 
-**Target:** `market/ALI_RAJABI_MASTER_CV.md`. Begin only after P1–P7, which are now complete.
+**Result:** The Master CV was reconstructed on 2026-09-27 and audited on 2026-09-29 against the corrected profile, capability, portfolio, and claim boundaries. It now represents the three-business history, education/thesis, languages, transferable professional responsibility, AI-assistance boundaries, and unresolved dates/titles without unsupported precision. No speculative role variants were created.
 
 Required corrections:
 
@@ -120,15 +120,21 @@ Required corrections:
 
 **Acceptance:** the master contains the corrected history, education and evidence boundaries; no placeholders masquerade as confirmed facts; claim audit passes at the relevant scope.
 
-### P9 — Repository consistency audit — PENDING
+### P9 — Repository consistency audit — COMPLETE
 
-Search **current authoritative** files for stale “non-technical employment history,” one-family-manufacturing-business-only descriptions, unknown education, language placeholders, fixed UAE/Asia priority, unperformed first-batch sequencing, and source routing that ignores the detailed profile. Historical dated research/review snapshots may remain frozen when their date and role are unambiguous.
+**Audit performed:** 2026-09-29.
 
-Verify no duplicate live-state owner, no accidental capability promotion or project takeover, no unnecessary sensitive public detail, no misleading CV/project claims, and no unreviewed material role/readiness change. Fix only material current contradictions in their canonical owners.
+Current authoritative files were checked for stale “non-technical employment history,” one-company/family-manufacturing-only framing, unknown education, language placeholders, fixed UAE/Asia priority, obsolete first-batch sequencing, profile-routing gaps, biography-to-capability leakage, privacy ambiguity, and duplicate live-state ownership. Historical dated research/review snapshots were intentionally left unchanged when their historical status was clear.
 
-**Acceptance:** no current controlling Career artifact depends on a known-stale core-profile assumption.
+**Corrections made:**
 
-### P10 — Formal reconciliation closeout — PENDING
+- removed the pre-P8/stale-CV instruction from `plans/CURRENT_WEEK.md` and pointed it to the reconciled Master CV;
+- clarified remaining generic `credential` wording in the Operating Contract as authentication/security credentials where privacy/safety precedence is intended;
+- corrected this plan's own stale P8/P9/immediate-action markers.
+
+**Acceptance:** satisfied — no material current controlling Career artifact identified in the audit depends on a known-stale core-profile assumption.
+
+### P10 — Formal reconciliation closeout — NEXT
 
 Run one proportional final Career review. Record facts corrected; strategy and role-market implications; explicit capability and portfolio/flagship changes or no-change; live-state changes or no-change; unresolved profile details; next meaningful review trigger. Mark plan complete only after required phases are finished or explicitly deferred with reasons.
 
@@ -152,4 +158,4 @@ Every phase must preserve truth (no invented dates, institutions, metrics, owner
 
 ## 5. Immediate next action
 
-> **Execute P8: reconstruct and claim-audit the broad Master CV from the corrected profile, strategy, portfolio and capability owners. Do not publish private application details, assert uncertain education dates/metrics, or create role-specific CV variants before a verified vacancy requires them.**
+> **Execute P10: run one proportional final Career review over the completed P0–P9 reconciliation, record the resulting facts/strategy/market/capability/portfolio/live-state conclusions and unresolved profile items, set the next meaningful trigger, and mark this reconciliation complete only if the system remains internally consistent.**
