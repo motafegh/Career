@@ -700,3 +700,150 @@ No `CAREER_STATE.md` change is required from this review. Its current Iran-only 
 - no requirement to abandon Python/data/applied-AI technical depth.
 
 **Next trigger:** Reassess role weighting after meaningful Iranian application/interview feedback, a material capability change, a materially better adjacent responsibility band, a geography/access change, the Day-90 review, or Ali's explicit request.
+
+
+---
+
+### 2026-09-29 — Profile and Career-system reconciliation closeout
+
+**Trigger:** Completion of P0–P9 of `plans/2026-09-17_PROFILE_CAREER_SYSTEM_RECONCILIATION_PLAN.md` and Ali's explicit request to continue through the final closeout review.
+
+**Career question:** After reconciling the reconstructed professional/academic profile across governance, strategy, employability, capability/portfolio boundaries, procedural skills, current-cycle planning, and the Master CV, is the Career system internally coherent, and does any further material Career change follow from the reconciliation itself?
+
+**Evidence inspected:**
+
+- `plans/2026-09-17_PROFILE_CAREER_SYSTEM_RECONCILIATION_PLAN.md`;
+- `profile/CAREER_PROFILE.md` and relevant detailed profile context;
+- `strategy/CAREER_STRATEGY.md`;
+- `market/EMPLOYABILITY_AND_MARKET_PLAN.md`;
+- `tracking/CAPABILITY_EVIDENCE_LEDGER.md`;
+- `portfolio/PROJECT_PORTFOLIO.md`;
+- `CAREER_STATE.md`;
+- P9 consistency-audit results and the current Career-review procedure.
+
+**Facts / profile conclusion:**
+
+The Career system now consistently represents:
+
+- three materially different prior professional contexts rather than one manufacturing-company shorthand;
+- substantial operational/executive responsibility without converting that history into software-company experience or engineering seniority;
+- Petroleum Engineering bachelor's and master's background, with the master's thesis providing legitimate historical ML/image-analysis context;
+- fluent Persian/Farsi and English as self-reported stable facts;
+- durable flexibility around first-role work mode and stronger preference for learning quality, technical responsibility, mentorship, and long-term alignment over prestige or ideal format;
+- explicit unresolved boundaries for exact dates, bachelor's institution, thesis implementation ownership, some historical title/tool details, and vacancy-specific private access facts.
+
+**Strategy / role-market conclusion:**
+
+The profile-driven strategy correction remains justified and internally consistent:
+
+- use the three-axis lens of **professional maturity / technical context / technical ownership**;
+- target responsibility shapes rather than titles alone;
+- give strongest current strategic attention to Technical Implementation/Integration, AI Automation/Solutions/Internal Tools, and Technical Product/Application/Software Support, with selective junior Applied-AI and Python/application roles;
+- treat investigation/diagnosis-heavy work as a fit hypothesis, not a demonstrated technical capability;
+- optimize the first technical role for real technical responsibility, mentorship/code review, learning density, feedback quality, and ownership growth;
+- keep durable geography/work-mode strategy flexible while `CAREER_STATE.md` owns the active operating market lane.
+
+The employability model appropriately separates technical substrate fit, transferable professional responsibility, mentorship/entry structure, access eligibility, and ownership stretch.
+
+**Capability conclusion:**
+
+No new D-level or technical-ownership promotion follows from the reconciliation.
+
+Current limits remain materially unchanged:
+
+- no broad D3 Python/application ownership claim;
+- ownership-bearing source/test modification remains below the stronger Career threshold;
+- current unfamiliar causal diagnosis with reduced assistance remains insufficient;
+- SQL/relational-data evidence remains weak or unassessed;
+- professional Git/review collaboration evidence remains weak;
+- academic ML context and JobHunter/current Sentinel repository sophistication do not establish current independent ML/backend/AI implementation ownership.
+
+**Portfolio / allocation conclusion:**
+
+No change.
+
+- UpgradePilot remains the sole primary capability/ownership flagship.
+- JobHunter remains an AI-full-implementation applied-AI product / market-intelligence / portfolio asset.
+- Sentinel remains an AI-full-implementation ML/data/security research and portfolio asset with historical Ali-involved ML/data context distinguished from current AI-led implementation.
+- AegisLab remains historical evidence.
+- No new project is authorized by this reconciliation.
+
+**Workload conclusion:**
+
+No change. The current operating-contract capacity and cycle allocation remain controlling.
+
+**Application / live-state conclusion:**
+
+No new `CAREER_STATE.md` edit is required from this closeout review.
+
+The reconciliation does not itself change:
+
+- narrow E3 responsibility-based calibration readiness;
+- deferred/incomplete E2 state;
+- the Iran-only current operating focus;
+- application-submission status;
+- exact current vacancy/access sequence.
+
+Those remain live-state matters and require fresh vacancy/access evidence or another material Career event before change.
+
+**External-claim conclusion:**
+
+The reconstructed Master CV is now aligned with the profile and current technical claim boundaries. Tailored copies should be created only for real surviving vacancies and should continue to preserve AI-assistance, unresolved-detail, and capability boundaries.
+
+**What changed across the reconciliation:**
+
+- stable profile truth and source routing;
+- professional-history and academic representation;
+- privacy wording around authentication/security credentials;
+- strategy framing and role-family emphasis;
+- first-role quality criteria and durable geographic flexibility;
+- vacancy-fit / employability method;
+- historical academic ML context and portfolio narrative;
+- Career Agent Skill profile routing;
+- current-cycle/current-week sequencing after the initial Iran vacancy research;
+- Master CV accuracy;
+- repository-wide stale-profile consistency.
+
+**What explicitly did not change:**
+
+- working identity;
+- technical D-levels from biography alone;
+- sole-flagship allocation;
+- project technical authority;
+- workload ceiling/allocation;
+- broad application readiness;
+- E2 completion status;
+- current market lane or application status;
+- engineering seniority.
+
+**Remaining unresolved profile items:**
+
+- exact education dates and bachelor's institution;
+- exact thesis implementation/code/model/data ownership and publication status;
+- exact employment dates, company names/locations where externally needed, and the trading/procurement formal title;
+- historical business software/tool usage;
+- detailed hiring/interview/onboarding responsibility;
+- detailed investigation/anomaly cases suitable for external evidence;
+- technical-junior/team-feedback adaptation evidence;
+- vacancy-specific relocation/commute/access constraints and finer compensation trade-offs.
+
+These are not all immediate blockers; resolve them when an actual Career decision or application makes them material.
+
+**Closeout decision:**
+
+The profile/Career-system reconciliation is **complete**. No further architecture or broad rewrite is justified by this reconciliation alone.
+
+Return normal operation to the canonical live owners:
+
+```text
+CAREER_STATE.md
+→ exact live Career position and next Career action
+
+CURRENT_CAREER_CYCLE.md
+→ bounded cycle outcomes and allocation
+
+project repositories
+→ technical continuation and implementation
+```
+
+**Next review trigger:** Earliest material trigger among meaningful Iranian application/screening/interview feedback, a capability/ownership threshold change, E2 resumption/closure, a materially better or blocked role/access route, workload/geography/project-role change, the 2026-10-17 Day-90 review, or Ali's explicit request.
