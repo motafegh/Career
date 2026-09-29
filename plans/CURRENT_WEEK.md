@@ -74,7 +74,7 @@ The relevant profile authorities are [`../profile/CAREER_PROFILE.md`](../profile
 
 ## 6. Minimum application package, only when justified
 
-Do **not** mass-produce speculative CV variants. Once a specific current vacancy survives native-detail and access review, prepare the smallest defensible Iran-appropriate application package for that vacancy. Use the corrected master CV as its claim source **after the profile-reconciliation plan's CV phase is complete**; until then, do not reuse its stale one-company/education-placeholder wording uncritically.
+Do **not** mass-produce speculative CV variants. Once a specific current vacancy survives native-detail and access review, prepare the smallest defensible Iran-appropriate application package for that vacancy. Use the reconciled `../market/ALI_RAJABI_MASTER_CV.md` as the canonical CV claim source. P8 has already audited it against the corrected profile, capability, and portfolio boundaries; tailor it only for a real surviving vacancy rather than recreating the old one-company/education-placeholder framing.
 
 Prior professional responsibility may be presented accurately when relevant, without turning the former CEO/project-management titles into software seniority. Distinguish AI-directed portfolio work from personally demonstrated implementation; do not list SQL or other skills as proven merely because the repositories use them. Keep contact, private eligibility, compensation, and correspondence outside the public Career repository. Run a short final vacancy-specific public-surface/claim check before any private submission.
 
