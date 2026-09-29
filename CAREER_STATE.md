@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-16 — Iran employer-centric layer added; Gostaresh Fanavari Novin joins Viuna/Avisa for immediate access resolution  
+**Last updated:** 2026-09-29 — Viuna reverified current/open from fresh employer evidence; remaining Viuna gate narrowed to full-time on-site Tehran feasibility  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -23,7 +23,7 @@
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
 | Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
 | Iran acquisition mode | **Two lanes:** current-vacancy search across the four requested platforms + bounded employer-watch intelligence across platform/company pages |
-| Application state | Viuna, Avisa, and Gostaresh Fanavari Novin now form the highest-value access-resolution set; no submission yet because vacancy-specific access checks and the minimum private Iran application package are unresolved |
+| Application state | Viuna is freshly confirmed current/open; employer evidence establishes a full-time on-site Tehran role and the remaining Viuna decision is private access feasibility. Avisa and Gostaresh Fanavari Novin remain the next access-resolution candidates. No submission yet. |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -177,7 +177,7 @@ Employer popularity, ranking, active-job count, employee rating, résumé respon
 ### Highest-value current access-resolution set
 
 1. **Viuna — `کارشناس پشتیبانی فنی نرم‌افزار`**  
-   Strongest current detailed responsibility match. Employer evidence explicitly includes ticketing, logs/error analysis, SQL/database concepts, APIs, coordination with developers, documentation and operational reporting. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF ACCESS PASSES** after remaining native/access verification.
+   Fresh 2026-09-29 employer-authored evidence confirms the vacancy is **CURRENT / OPEN**. Responsibilities include ticketing/user guidance, log/error analysis, SQL/database concepts, APIs, developer coordination, documentation and operational reporting. Public employer evidence also establishes **full-time, on-site work in Tehran**; no reliable current public degree/age/gender/military/years-of-experience gate was recovered, but platform-only gates must not be assumed absent. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF full-time on-site Tehran access passes.** Detailed refresh: `tracking/research/2026-09-29_IRAN_VIUNA_CURRENT_RESOLUTION.md`.
 
 2. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**  
    Strongest explicit Python internship route currently found. **Decision: HOLD for native access/detail → APPLY IF ACCESS PASSES.**
@@ -360,7 +360,7 @@ Do not let vacancy or employer research/application administration consume the f
 
 ## 12. Exact next Career action
 
-> **Resolve the three highest-value Iranian access candidates first: Viuna, Avisa, and Gostaresh Fanavari Novin Junior Software Programmer. Verify current-open state and only the employer-stated private/access gates needed for a decision. Then recover Carbon's Python JD. In the next employer-driven detail group, inspect Mahak software support, Parmis financial-software testing, and Didar software implementation before broadening the search again.**
+> **Resolve Viuna's remaining private access gate first: is full-time on-site work in Tehran feasible? If yes, move Viuna directly to the minimum Iran application package + final claim check. If no, reject it for access only. If unresolved, keep it on hold and continue with Avisa, then Gostaresh Fanavari Novin. After those, recover Carbon's Python JD; then inspect Mahak software support, Parmis financial-software testing, and Didar software implementation before broadening the search again.**
 
 Promote only surviving candidates to the minimum Iran application package.
 
