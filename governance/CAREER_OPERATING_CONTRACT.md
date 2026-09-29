@@ -64,7 +64,7 @@ Career must not duplicate or control project-local source-study plans, tests, co
 - Resume later without compensatory overwork.
 - A Red day reduces the adjusted weekly target rather than creating a backlog obligation.
 
-Health, safety, legality, privacy, credentials, cost, and platform limits override workload targets.
+Health, safety, legality, privacy, authentication/security credentials, cost, and platform limits override workload targets.
 
 ## 3. Time and output discipline
 
@@ -245,7 +245,7 @@ Valid triggers include:
 - repeated evidence of project-career misalignment;
 - sustained workload mismatch;
 - market evidence that materially changes target-role feasibility;
-- safety, legal, privacy, credential, or cost constraints;
+- safety, legal, privacy, authentication/security credential, or cost constraints;
 - a completed cycle;
 - Ali's explicit formal strategy review.
 
