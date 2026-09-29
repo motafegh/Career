@@ -13,7 +13,7 @@ Translate the current Career state into the **smallest immediately useful work p
 
 The current operational market focus is **Iran only**, as selected in State. This is not a permanent geography/identity restriction: international candidates are deferred, not rejected. Do not restart an international search unless that selection changes.
 
-The September Iran **initial vacancy discovery and shortlisting have already been performed**. Do not restart an arbitrary first 8–12-vacancy batch, collect another undifferentiated catalog, or repeat accepted research merely to show activity.
+The September Iran **initial vacancy discovery and shortlisting have already been performed**. The current operating method is now a bounded **parallel 8–12-candidate active pool**: resolve, apply, reject/stale, and refill continuously across several responsibility families. This is not permission for undifferentiated collection or mass application.
 
 ## 2. Protect the primary flagship
 
@@ -31,7 +31,7 @@ Follow the **exact current shortlist and its order in `CAREER_STATE.md`** rather
 - [`../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`](../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md)
 - [`../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`](../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md)
 
-Resolve the top State-owned candidates before expanding discovery. For each one, recheck actual current/open status; obtain native employer-authored duties and hard access requirements; identify only the unknown private access facts material to that vacancy; assess responsibility fit, transferable professional context, demonstrated technical substrate, mentorship, and day-one ownership stretch; then decide **apply, hold, or reject** at that vacancy's scope.
+Maintain the State-owned parallel pool rather than serially blocking on its first candidate. Progress several candidates concurrently: recheck current/open status, obtain native employer-authored duties and hard access requirements, identify only the unknown private access facts material to each vacancy, assess responsibility fit, transferable professional context, demonstrated technical substrate, mentorship, and day-one ownership stretch, then decide **apply, hold, or reject** independently. Refill slots that close, fail access, or become weak/stale so the pool stays around 8–12 useful current opportunities.
 
 Do not treat a source's historical posting date, recent crawl date, employer ranking, or prior review as proof that a vacancy is open now. Employer/company history is supporting discovery evidence only.
 
@@ -92,7 +92,7 @@ E2 remains **incomplete and explicitly deferred**. Do not mark it complete, reop
 
 Once real applications occur, classify feedback into access/eligibility, role targeting, positioning/claim, technical knowledge, implementation/diagnosis, communication/project defense, mentorship/entry mismatch, or low-information silence. One unexplained rejection does not create a new curriculum or project. Use strong direct feedback or repeated patterns for a proportional Career reassessment.
 
-Do not broaden research while the current shortlist remains unresolved, create a new flagship, force vacancy technologies into UpgradePilot, or treat AI-produced code and green CI as personally owned engineering by default.
+Do not expand into an unbounded catalog beyond the active pool, create a new flagship, force vacancy technologies into UpgradePilot, or treat AI-produced code and green CI as personally owned engineering by default. Bounded refill of rejected/stale pool slots is explicitly allowed.
 
 ## 9. Return-to-Career triggers
 
