@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-29 — Viuna reverified current/open from fresh employer evidence; remaining Viuna gate narrowed to full-time on-site Tehran feasibility  
+**Last updated:** 2026-09-29 — parallel Iran candidate-pool method adopted; Viuna access resolved privately and broader fresh shortlist activated  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -23,7 +23,7 @@
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
 | Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
 | Iran acquisition mode | **Two lanes:** current-vacancy search across the four requested platforms + bounded employer-watch intelligence across platform/company pages |
-| Application state | Viuna is freshly confirmed current/open; employer evidence establishes a full-time on-site Tehran role and the remaining Viuna decision is private access feasibility. Avisa and Gostaresh Fanavari Novin remain the next access-resolution candidates. No submission yet. |
+| Application state | Parallel 8–12-candidate Iran pool is now the operating method. Viuna is current/open and its vacancy-specific access feasibility has been resolved privately, so it is ready for the minimum application package/final claim check. Fresh parallel candidates include Serita Junior Software Developer, Avisa Python/Django internship, Yektanet Junior Python/Django, Avatar Web Junior Backend, Mahak support internship, Fara Samaneh ERP implementation/support, Carbon Python, Setapp Sharif Python Backend, and Aban Python/IoT; each remains subject to its own current/native-duty/access/ownership gate. No submission yet. |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -360,7 +360,7 @@ Do not let vacancy or employer research/application administration consume the f
 
 ## 12. Exact next Career action
 
-> **Resolve Viuna's remaining private access gate first: is full-time on-site work in Tehran feasible? If yes, move Viuna directly to the minimum Iran application package + final claim check. If no, reject it for access only. If unresolved, keep it on hold and continue with Avisa, then Gostaresh Fanavari Novin. After those, recover Carbon's Python JD; then inspect Mahak software support, Parmis financial-software testing, and Didar software implementation before broadening the search again.**
+> **Operate a bounded parallel Iran candidate portfolio of roughly 8–12 fresh opportunities. Move Viuna to its minimum application package/final claim check now, while in parallel resolving native duties/access/ownership stretch for Serita, Avisa, Yektanet Junior Python/Django, Avatar Web Junior Backend, Mahak support internship and Fara Samaneh ERP implementation/support. Resolve Carbon, Setapp Sharif and Aban enough to keep or replace them. Refill rejected/stale slots proportionately so the active pool stays healthy; do not serially block the whole search on one vacancy and do not mass-apply without vacancy-specific claim checks.**
 
 Promote only surviving candidates to the minimum Iran application package.
 
