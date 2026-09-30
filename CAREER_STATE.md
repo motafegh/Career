@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-29 — parallel Iran candidate-pool method adopted; Viuna access resolved privately and broader fresh shortlist activated  
+**Last updated:** 2026-09-30 — parallel Iran pool freshness tightened; Serita QA promoted, stale/unverified Serita Junior + Yektanet removed from fresh slots  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -23,7 +23,7 @@
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
 | Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
 | Iran acquisition mode | **Two lanes:** current-vacancy search across the four requested platforms + bounded employer-watch intelligence across platform/company pages |
-| Application state | Parallel 8–12-candidate Iran pool is now the operating method. Viuna is current/open and its vacancy-specific access feasibility has been resolved privately, so it is ready for the minimum application package/final claim check. Fresh parallel candidates include Serita Junior Software Developer, Avisa Python/Django internship, Yektanet Junior Python/Django, Avatar Web Junior Backend, Mahak support internship, Fara Samaneh ERP implementation/support, Carbon Python, Setapp Sharif Python Backend, and Aban Python/IoT; each remains subject to its own current/native-duty/access/ownership gate. No submission yet. |
+| Application state | Parallel 8–12-candidate Iran pool remains active. Viuna is ready for the minimum application package/final claim check. Serita QA is newly promoted as a fresh high-information QA/testing candidate. Avisa, Fara Samaneh ERP, Avatar Web Junior Backend, Mahak support, Aseman Express Junior Django, Carbon Python, Setapp Sharif Python Backend, and Aban Python/IoT remain active at varying verification depth. The older Serita Junior Python post and Yektanet Junior Python/Django are removed from fresh slots until reverified. No submission yet. |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -174,40 +174,35 @@ platform/company ranking and directory signals
 
 Employer popularity, ranking, active-job count, employee rating, résumé responsiveness or historical employer-brand signal never creates an automatic application. A specific current vacancy must still survive the ordinary gate.
 
-### Highest-value current access-resolution set
+### Active parallel pool — 2026-09-30
 
-1. **Viuna — `کارشناس پشتیبانی فنی نرم‌افزار`**  
-   Fresh 2026-09-29 employer-authored evidence confirms the vacancy is **CURRENT / OPEN**. Responsibilities include ticketing/user guidance, log/error analysis, SQL/database concepts, APIs, developer coordination, documentation and operational reporting. Public employer evidence also establishes **full-time, on-site work in Tehran**; no reliable current public degree/age/gender/military/years-of-experience gate was recovered, but platform-only gates must not be assumed absent. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF full-time on-site Tehran access passes.** Detailed refresh: `tracking/research/2026-09-29_IRAN_VIUNA_CURRENT_RESOLUTION.md`.
+The live market method is a bounded **8–12 candidate parallel pool**. Feed freshness alone is not proof of vacancy freshness; native/employer verification outranks recent crawl timestamps.
 
-2. **Data Mining Energy Avisa — `کارآموز توسعه نرم‌افزار (Python/Django)`**  
-   Strongest explicit Python internship route currently found. **Decision: HOLD for native access/detail → APPLY IF ACCESS PASSES.**
+1. **Viuna — Technical Software Support** — current/open confirmed; access feasibility resolved privately; **MOVE TO MINIMUM APPLICATION PACKAGE + FINAL CLAIM CHECK**.
+2. **Serita — QA Engineer** — fresh employer-associated post; Manual Testing, Test Case design, Postman/API testing, SQL, Regression/Exploratory testing, Linear; **STRONG conditional-band fit / DEFENSIBLE STRETCH; resolve experience/access wording and prepare if no stronger gate appears**.
+3. **Avisa — Python/Django Software Development Intern** — recent listing; **HOLD FOR NATIVE DUTIES / ACCESS**.
+4. **Fara Samaneh / Hamkaran System — ERP Implementation & Support** — recent repeated listing; **HIGH-VALUE HOLD FOR NATIVE JD / ACCESS**.
+5. **Avatar Web — Junior Back-end Developer** — current feed says Tehran/full-time/Junior; stack unresolved and company profile emphasizes PHP/Laravel; **HOLD FOR NATIVE JD; do not assume Python**.
+6. **Mahak Software — Support Intern / Support** — fresh entry route; **KEEP ACTIVE, LOWER PRIORITY until technical/product-diagnostic depth is confirmed**.
+7. **Aseman Express — Junior Django Developer** — current feed discovery; native page not yet verified; **HOLD FOR NATIVE CURRENT/JD CHECK**.
+8. **Carbon — Python Programmer** — **HOLD FOR NATIVE JD**.
+9. **Setapp Sharif — Python Backend Developer** — **HOLD FOR NATIVE JD / SENIORITY**.
+10. **Aban Cognitive Enhancement — Python & IoT Developer** — **HOLD FOR NATIVE JD / OWNERSHIP DEPTH**.
 
-3. **Gostaresh Fanavari Novin — `برنامه‌نویس نرم‌افزار – سطح Junior`**  
-   JobVision employer-centric discovery. Employer explicitly says prior work experience is not required, Python basics are sufficient, implementation occurs under senior guidance, and specialist training/ongoing learning is provided. Hard gates include education/field, age, military-service status and English. **Responsibility fit: STRONG. Evidence fit: DEFENSIBLE STRETCH. Decision: APPLY IF ACCESS PASSES and the vacancy is still open.**
+Removed from fresh slots until reverified:
 
-### Next vacancy-resolution group
+- **Serita Junior Software Developer (Python/FastAPI)** — useful employer-watch lead, but current activity shows the post is approximately two months old.
+- **Yektanet Junior Python/Django** — current native/employer evidence was not recovered during the 2026-09-30 pass.
 
-4. **Carbon Internship Development Center — `برنامه نویس پایتون`**  
-   Fresh JobVision urgent-feed evidence in Tehran. Seniority/JD remains unresolved; do not assume internship status from employer identity. **Decision: HOLD for native JD.**
+Detailed resolution: `tracking/research/2026-09-30_IRAN_PARALLEL_POOL_RESOLUTION.md`.
 
-5. **Mahak Software Group — current `کارشناس پشتیبان نرم‌افزار` / technical-support roles**  
-   Employer-centric Jobinja evidence shows very fresh recurring software-support vacancies. **Decision: HOLD for native JD/access.**
+### Platform-freshness correction
 
-6. **Fara Samaneh / Hamkaran System — `کارشناس استقرار و پشتیبانی نرم افزار ERP`**  
-   Strong implementation/support responsibility family; current exact gates remain unresolved. **Decision: HOLD → APPLY IF ACCESS PASSES.**
+A recent-feed Quera entry was followed to a native page dated 2022 and explicitly closed. Therefore:
 
-7. **Parmis IT — `کارشناس تست نرم‌افزار مالی`**  
-   Strong employer/family signal for the conditional QA band. **Decision: HOLD for native requirements/access.**
-
-8. **Didar CRM — `کارشناس استقرار نرم‌افزار`**  
-   Current/recent implementation vacancy inside a company where implementation/support/customer-technical responsibility recurs. **Decision: HOLD for native JD/access.**
-
-### Existing holds
-
-- **Tabansoft — `کارشناس پشتیبان نرم افزار`** — very fresh JobVision evidence; determine whether it is genuinely technical/product-diagnostic. **HOLD.**
-- **Novo Nordisk Pars — ERP Functional Support, then ERP Technical Support** — current IranTalent title evidence; exact native duties/access unresolved. **HOLD.**
-- **Digify — `Technical Support`** — current/recent employer + Jobinja existence evidence; exact support depth unavailable. **HOLD.**
-- **Carbon software-test opportunity** — strong conditional QA shape with explicit education and military-service/access requirements. **HOLD FOR ACCESS.**
+- aggregator / Telegram recency is discovery evidence only;
+- native/employer current-open confirmation is required before application;
+- stale feed redirects should be removed from the fresh pool rather than retained to preserve count.
 
 ### Employer-watch set
 
@@ -360,7 +355,7 @@ Do not let vacancy or employer research/application administration consume the f
 
 ## 12. Exact next Career action
 
-> **Operate a bounded parallel Iran candidate portfolio of roughly 8–12 fresh opportunities. Move Viuna to its minimum application package/final claim check now, while in parallel resolving native duties/access/ownership stretch for Serita, Avisa, Yektanet Junior Python/Django, Avatar Web Junior Backend, Mahak support internship and Fara Samaneh ERP implementation/support. Resolve Carbon, Setapp Sharif and Aban enough to keep or replace them. Refill rejected/stale slots proportionately so the active pool stays healthy; do not serially block the whole search on one vacancy and do not mass-apply without vacancy-specific claim checks.**
+> **Run two tracks in parallel: (1) prepare Viuna's minimum application package/final claim check and resolve Serita QA far enough to decide whether it can join the application track immediately; (2) resolve native current/JD/access for Avisa, Fara Samaneh ERP, Avatar Web, Mahak and Aseman Express, then Carbon/Setapp/Aban. Remove stale or unverified slots rather than preserving names for count, and refill only enough to keep a healthy 8–12 candidate pool.**
 
 Promote only surviving candidates to the minimum Iran application package.
 
