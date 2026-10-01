@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-09-30 — parallel Iran pool freshness tightened; Serita QA promoted, stale/unverified Serita Junior + Yektanet removed from fresh slots  
+**Last updated:** 2026-10-01 — Viuna application track confirmed; Serita QA assessed as application-worthy claim-bounded stretch; parallel pool continues  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -179,7 +179,7 @@ Employer popularity, ranking, active-job count, employee rating, résumé respon
 The live market method is a bounded **8–12 candidate parallel pool**. Feed freshness alone is not proof of vacancy freshness; native/employer verification outranks recent crawl timestamps.
 
 1. **Viuna — Technical Software Support** — current/open confirmed; access feasibility resolved privately; **MOVE TO MINIMUM APPLICATION PACKAGE + FINAL CLAIM CHECK**.
-2. **Serita — QA Engineer** — fresh employer-associated post; Manual Testing, Test Case design, Postman/API testing, SQL, Regression/Exploratory testing, Linear; **STRONG conditional-band fit / DEFENSIBLE STRETCH; resolve experience/access wording and prepare if no stronger gate appears**.
+2. **Serita — QA Engineer** — fresh employer-associated post; Manual Testing, Test Case design, Postman/API testing, SQL, Regression/Exploratory testing, Linear; no explicit years/degree/age/military gate recovered from accessible employer text. **STRONG conditional-band fit / DEFENSIBLE STRETCH; APPLICATION-WORTHY only with explicit project-based testing/evaluation claims and no claim of professional QA experience.**
 3. **Avisa — Python/Django Software Development Intern** — recent listing; **HOLD FOR NATIVE DUTIES / ACCESS**.
 4. **Fara Samaneh / Hamkaran System — ERP Implementation & Support** — recent repeated listing; **HIGH-VALUE HOLD FOR NATIVE JD / ACCESS**.
 5. **Avatar Web — Junior Back-end Developer** — current feed says Tehran/full-time/Junior; stack unresolved and company profile emphasizes PHP/Laravel; **HOLD FOR NATIVE JD; do not assume Python**.
@@ -355,7 +355,7 @@ Do not let vacancy or employer research/application administration consume the f
 
 ## 12. Exact next Career action
 
-> **Run two tracks in parallel: (1) prepare Viuna's minimum application package/final claim check and resolve Serita QA far enough to decide whether it can join the application track immediately; (2) resolve native current/JD/access for Avisa, Fara Samaneh ERP, Avatar Web, Mahak and Aseman Express, then Carbon/Setapp/Aban. Remove stale or unverified slots rather than preserving names for count, and refill only enough to keep a healthy 8–12 candidate pool.**
+> **Run two tracks in parallel: (1) move Viuna through its vacancy-tailored CV/final claim check and prepare a separate claim-bounded Serita QA application package; (2) continue native current/JD/access resolution for Avisa, Fara Samaneh ERP, Avatar Web, Mahak and Aseman Express, then Carbon/Setapp/Aban. Keep 8–12 useful candidates active by replacing stale/rejected slots without turning the search into mass application.**
 
 Promote only surviving candidates to the minimum Iran application package.
 
