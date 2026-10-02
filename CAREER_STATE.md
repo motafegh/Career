@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-01 — Viuna application track confirmed; Serita QA assessed as application-worthy claim-bounded stretch; parallel pool continues  
+**Last updated:** 2026-10-02 — Viuna and Serita QA claim audits complete; vacancy-tailored application packages authorized while parallel pool resolution continues  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -355,7 +355,7 @@ Do not let vacancy or employer research/application administration consume the f
 
 ## 12. Exact next Career action
 
-> **Run two tracks in parallel: (1) move Viuna through its vacancy-tailored CV/final claim check and prepare a separate claim-bounded Serita QA application package; (2) continue native current/JD/access resolution for Avisa, Fara Samaneh ERP, Avatar Web, Mahak and Aseman Express, then Carbon/Setapp/Aban. Keep 8–12 useful candidates active by replacing stale/rejected slots without turning the search into mass application.**
+> **Run two tracks in parallel: (1) finalize the claim-audited vacancy-tailored CV/application message for Viuna and a separate QA-oriented package for Serita, then submit privately when required contact/date fields are filled and the vacancy remains current; (2) continue native current/JD/access resolution for Avisa, Fara Samaneh ERP, Avatar Web, Mahak and Aseman Express, then Carbon/Setapp/Aban. Keep 8–12 useful candidates active by replacing stale/rejected slots without mass application.**
 
 Promote only surviving candidates to the minimum Iran application package.
 
