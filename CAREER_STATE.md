@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-02 — Viuna and Serita QA claim audits complete; vacancy-tailored application packages authorized while parallel pool resolution continues  
+**Last updated:** 2026-10-05 — new Iran discovery/refill narrowed to Jobinja + direct Jabama careers; broader keyword surface and fresh Jobinja candidates added  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -22,8 +22,8 @@
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
 | Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
-| Iran acquisition mode | **Two lanes:** current-vacancy search across the four requested platforms + bounded employer-watch intelligence across platform/company pages |
-| Application state | Parallel 8–12-candidate Iran pool remains active. Viuna is ready for the minimum application package/final claim check. Serita QA is newly promoted as a fresh high-information QA/testing candidate. Avisa, Fara Samaneh ERP, Avatar Web Junior Backend, Mahak support, Aseman Express Junior Django, Carbon Python, Setapp Sharif Python Backend, and Aban Python/IoT remain active at varying verification depth. The older Serita Junior Python post and Yektanet Junior Python/Django are removed from fresh slots until reverified. No submission yet. |
+| Iran acquisition mode | **Current new discovery/refill sources: Jobinja + direct Jabama careers only.** Jobinja provides broad vacancy discovery; Jabama is direct employer-careers watch. Previously recorded evidence from other sources remains historical but is not used to add new candidates during this phase. |
+| Application state | Parallel 8–12-candidate Iran pool remains active. Viuna and Serita QA remain application-track candidates. Fresh Jobinja discovery on 2026-10-05 adds Hamyan Python Programmer, RIRA Software Testing Intern (ERP), RIRA Back-End .NET Core Intern (ERP), Senobar software support/sales, Asiatech IT Quality, and Behin Rahkar SOC Tier 1 for native-JD/access review. Jabama careers could not be directly loaded during the pass, so no Jabama vacancy is admitted without direct verification. No submission yet. |
 | Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
 | Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
 | Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
@@ -145,101 +145,80 @@ Detailed evidence:
 - `tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`
 - `tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`
 - `tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`
+- `tracking/research/2026-10-05_JOBINJA_JABAMA_BROAD_SEARCH_REFRESH.md`
 
 ## 6. Iran-only active calibration sequence
 
-Ali explicitly selected the Iranian job market and the four requested Persian platforms as the only active market lane for the current step.
+Ali explicitly selected the Iranian job market and, for the current discovery/refill phase, **Jobinja + Jabama careers only** as the active new-vacancy sources.
 
-International candidates are **deferred during this focus**, not rejected, downgraded, or erased.
+International candidates are **deferred during this focus**, not rejected, downgraded, or erased. Previously recorded evidence from JobVision, IranTalent, e-estekhdam, Quera, aggregators or other sources remains historical evidence but is not used to add new candidates during this phase.
 
-The Iran acquisition system now uses two complementary lanes:
+The current acquisition model is:
 
 ```text
-LANE 1 — vacancy-first
-Jobinja + JobVision + IranTalent + e-estekhdam
-→ Persian + English responsibility search
-→ current/open verification
+LANE 1 — JOBINJA vacancy-first
+expanded Persian + English responsibility keywords
+→ current/open listing
 → native duties
 → access
 → fit
 
-LANE 2 — employer-watch
-platform/company ranking and directory signals
-→ company job pages
-→ recurring relevant responsibility families
-→ junior/intern history
-→ current specific vacancy
+LANE 2 — JABAMA direct employer-watch
+careers.jabama.com
+→ current specific vacancy when directly available
 → same native-duty/access/fit gate
 ```
 
-Employer popularity, ranking, active-job count, employee rating, résumé responsiveness or historical employer-brand signal never creates an automatic application. A specific current vacancy must still survive the ordinary gate.
+Jabama is a direct company-careers source, not a general job board. If its direct careers surface is unavailable, do not substitute third-party mirrors.
 
-### Active parallel pool — 2026-09-30
+Broader keyword discovery now includes:
 
-The live market method is a bounded **8–12 candidate parallel pool**. Feed freshness alone is not proof of vacancy freshness; native/employer verification outranks recent crawl timestamps.
+- Python / backend / software developer / junior / trainee / internship;
+- QA / manual testing / API testing / software tester / test case;
+- technical support / application support / software support / help desk;
+- implementation / ERP / onboarding / integration;
+- AI automation / LLM / RAG / AI agents;
+- entry-tier SOC / IT operations / IT quality;
+- technical/product operations and technical customer-success terms;
+- bounded data-quality/data-validation terms.
 
-1. **Viuna — Technical Software Support** — current/open confirmed; access feasibility resolved privately; **MOVE TO MINIMUM APPLICATION PACKAGE + FINAL CLAIM CHECK**.
-2. **Serita — QA Engineer** — fresh employer-associated post; Manual Testing, Test Case design, Postman/API testing, SQL, Regression/Exploratory testing, Linear; no explicit years/degree/age/military gate recovered from accessible employer text. **STRONG conditional-band fit / DEFENSIBLE STRETCH; APPLICATION-WORTHY only with explicit project-based testing/evaluation claims and no claim of professional QA experience.**
-3. **Avisa — Python/Django Software Development Intern** — recent listing; **HOLD FOR NATIVE DUTIES / ACCESS**.
-4. **Fara Samaneh / Hamkaran System — ERP Implementation & Support** — recent repeated listing; **HIGH-VALUE HOLD FOR NATIVE JD / ACCESS**.
-5. **Avatar Web — Junior Back-end Developer** — current feed says Tehran/full-time/Junior; stack unresolved and company profile emphasizes PHP/Laravel; **HOLD FOR NATIVE JD; do not assume Python**.
-6. **Mahak Software — Support Intern / Support** — fresh entry route; **KEEP ACTIVE, LOWER PRIORITY until technical/product-diagnostic depth is confirmed**.
-7. **Aseman Express — Junior Django Developer** — current feed discovery; native page not yet verified; **HOLD FOR NATIVE CURRENT/JD CHECK**.
-8. **Carbon — Python Programmer** — **HOLD FOR NATIVE JD**.
-9. **Setapp Sharif — Python Backend Developer** — **HOLD FOR NATIVE JD / SENIORITY**.
-10. **Aban Cognitive Enhancement — Python & IoT Developer** — **HOLD FOR NATIVE JD / OWNERSHIP DEPTH**.
+These are discovery terms, not capability claims or automatic application decisions.
 
-Removed from fresh slots until reverified:
+### Active parallel pool — 2026-10-05
 
-- **Serita Junior Software Developer (Python/FastAPI)** — useful employer-watch lead, but current activity shows the post is approximately two months old.
-- **Yektanet Junior Python/Django** — current native/employer evidence was not recovered during the 2026-09-30 pass.
+The live market method remains a bounded **8–12 candidate parallel pool**. Current/native evidence outranks title attractiveness.
 
-Detailed resolution: `tracking/research/2026-09-30_IRAN_PARALLEL_POOL_RESOLUTION.md`.
+**Application-track survivors:**
 
-### Platform-freshness correction
+1. **Viuna — Technical Software Support** — current/open previously confirmed; access feasibility resolved privately; claim-audited application package authorized.
+2. **Serita — QA Engineer** — previously assessed as application-worthy only with explicit project-based testing/evaluation claims and no professional-QA claim.
 
-A recent-feed Quera entry was followed to a native page dated 2022 and explicitly closed. Therefore:
+**Fresh Jobinja discovery/refill candidates:**
 
-- aggregator / Telegram recency is discovery evidence only;
-- native/employer current-open confirmation is required before application;
-- stale feed redirects should be removed from the fresh pool rather than retained to preserve count.
+3. **RIRA — Software Testing Intern (ERP)** — Jobinja labels it **today**, Tehran/full-time. **HIGH PRIORITY NATIVE-JD/ACCESS REVIEW.**
+4. **Hamyan — Python Programmer** — Jobinja labels it **today**, Tehran/remote. **HIGH PRIORITY SENIORITY/STACK/OWNERSHIP REVIEW.**
+5. **RIRA — Back-End .NET Core Intern (ERP)** — Jobinja labels it **today**, Tehran/full-time. **STRONG ADJACENT ENTRY ROUTE; review mentoring and duties despite non-Python stack.**
+6. **Senobar IT — Software Support & Sales Specialist** — Jobinja labels it **today**, Bumehen/full-time. **Review technical-diagnostic depth and location practicality.**
+7. **Asiatech — IT Quality Specialist** — Jobinja labels it **today**, Tehran/full-time. **Review whether responsibility is software/product QA versus infrastructure/process quality.**
+8. **Behin Rahkar — SOC Tier 1** — Jobinja labels it **today**, Tehran/full-time. **Conditional security-entry candidate; inspect prerequisites and ownership stretch.**
 
-### Employer-watch set
+**Current Jobinja hold/watch:**
 
-High-value application-watch employers from the current employer-centric evidence include:
+9. **Digify — Technical Support** — current Jobinja scan shows the posting at about 14 days; native technical depth remains worth resolving.
+10. **AI Software Engineer / AI agents & RAG / Speech AI Engineer titles** — fresh Jobinja discovery, but remain **benchmark/conditional** until a JD proves a genuinely junior/application-oriented shape rather than specialist ownership.
 
-- Didar CRM;
-- Asiatech;
-- Parmis IT;
-- Mahak Software Group;
-- Fanavaran;
-- System Group / Hamkaran ecosystem;
-- Mobinhost;
-- Gostaresh Fanavari Novin;
-- Golrang System.
+Older candidates from excluded discovery sources remain historical holds and can be reconsidered only if Ali later reopens those sources or direct employer evidence independently establishes a current vacancy.
 
-Use mature/specialist employers such as Digikala, Bime Bazar, Snapp ecosystem, Mohaymen, ParsPack, PART AI, AbrNOC and Payam Pardaz mainly as market/capability benchmarks unless a genuinely suitable current vacancy appears.
+### Jabama direct-careers status
 
-Jobinja Top-50, JobVision company ratings, IranTalent employee/employer-brand signals and e-estekhdam company rankings use different methodologies and time horizons. **Do not merge them into one synthetic company score.**
+Jabama's own website exposes a `فرصت‌های شغلی` link to `careers.jabama.com`, but the direct careers endpoint timed out during the 2026-10-05 pass. Therefore no Jabama vacancy is promoted into the active pool from third-party mirrors.
 
-### Supporting ERP evidence
+### Freshness rule
 
-- **Dio Pars** provides very fresh evidence for ERP support/configuration/testing/customer-needs/training work, but explicitly asks for prior Rahkaran experience; treat as conditional unless that gate passes.
-- **Atra Vision** independently validates the ERP support/implementation responsibility bundle; exact vacancy freshness/access must be checked before application.
-- **Asiatech ERP Support** is a strong current responsibility benchmark, but its native JD asks for 3–6 years, bachelor's degree, military-service completion/exemption and Rahkaran/SQL/BPMN familiarity; do not treat it as a current first-batch fit.
-
-### Current benchmarks / rejects
-
-- **Serita — Junior Software Developer** remains a useful Iranian junior-software benchmark but is rejected from the first Iran application batch because its combined Python/FastAPI + JavaScript/frontend + PostgreSQL + REST/Git implementation scope currently exceeds the strongest defensible ownership evidence.
-- **Didar Technical Customer Success Specialist** is a useful technical-customer benchmark; native detail shows materially deeper software/integration/debugging responsibility than the title alone suggests.
-
-### e-estekhdam
-
-No e-estekhdam technical vacancy is currently promoted into the active sequence because targeted accessible results repeatedly exposed stale historical publication dates despite fresh crawl dates.
-
-The employer-ranking surface remains useful for company discovery and cross-source confirmation, but its accessible cached state must be refreshed before consequential current-vacancy use.
-
-This is an **acquisition limitation**, not evidence that e-estekhdam or the Iranian market lacks relevant technical jobs.
+- native Jobinja listing/current platform label is discovery/current evidence;
+- direct Jabama careers evidence is required for Jabama candidates;
+- historical/third-party mirrors do not override the active source restriction;
+- every candidate still needs native duties/access/ownership-stretch review before application.
 
 ## 7. Access-gate rule
 
@@ -287,7 +266,7 @@ The broad September 14 review establishes:
 
 It does **not** establish broad junior software/data/ML readiness.
 
-The Iran-only focus and employer-centric extension apply that existing decision to a richer market evidence stream; they do not create a new readiness score.
+The Iran-only focus applies that existing decision to a richer market evidence stream; it does not create a new readiness score.
 
 E2 incompleteness still matters vacancy by vacancy when a specific application would expose a misleading or weak public surface.
 
@@ -324,7 +303,7 @@ Employer evidence is an additional information layer, not a replacement for thes
 
 The Career repository contains no canonical role-tailored Iranian CV/resume artifact.
 
-Therefore do **not** create many speculative CV variants now. Once the first Iranian vacancy survives native-detail and access screening, create one minimal claim-bounded Iran-appropriate CV package and tailor only what the actual surviving vacancy requires.
+Therefore do **not** create many speculative CV variants now. Once a specific current vacancy survives native-detail and access screening, create one minimal claim-bounded Iran-appropriate CV package and tailor only what the actual surviving vacancy requires.
 
 Do not create a public detailed application tracker containing private employer correspondence, contact details, compensation discussions or sensitive information.
 
@@ -355,15 +334,11 @@ Do not let vacancy or employer research/application administration consume the f
 
 ## 12. Exact next Career action
 
-> **Run two tracks in parallel: (1) finalize the claim-audited vacancy-tailored CV/application message for Viuna and a separate QA-oriented package for Serita, then submit privately when required contact/date fields are filled and the vacancy remains current; (2) continue native current/JD/access resolution for Avisa, Fara Samaneh ERP, Avatar Web, Mahak and Aseman Express, then Carbon/Setapp/Aban. Keep 8–12 useful candidates active by replacing stale/rejected slots without mass application.**
+> **For now, prioritize broader Jobinja/Jabama discovery so the active funnel contains more plausible positions before narrowing again. Use the expanded keyword families to refill the 8–12-candidate pool from Jobinja, while rechecking Jabama only through its direct careers surface. Resolve the two strongest fresh Jobinja leads first — RIRA Software Testing Intern and Hamyan Python Programmer — then RIRA Back-End .NET Core Intern, Asiatech IT Quality, Senobar software support/sales, and Behin Rahkar SOC Tier 1. Keep Viuna and Serita QA application packages ready, but do not let application preparation stop the broader discovery pass.**
 
 Promote only surviving candidates to the minimum Iran application package.
 
-Continue the older Fara Samaneh → Tabansoft → Novo Nordisk Pars → Digify holds when they remain current and decision-relevant.
-
 Do not spend the current Career market lane on international candidates unless Ali explicitly changes the focus.
-
-Once the first candidate(s) survive, create one minimal claim-bounded Iran-appropriate private CV/application package, run the final claim check, and submit.
 
 E2 remains deferred in parallel; UpgradePilot remains the dominant technical responsibility.
 
@@ -374,8 +349,8 @@ Return to Career at the earliest of:
 - the first Iranian applications produce a meaningful response/screen/interview/rejection pattern;
 - a high-information Iranian technical screen or practical task exposes a capability gap;
 - repeated Iran-specific access gates materially change role targeting;
-- the current Iran candidate sequence resolves with too few viable applications and needs a second bounded search;
-- employer-watch evidence reveals a materially better current entry route;
+- the current Iran candidate sequence resolves with too few viable applications and needs another bounded search/refill;
+- direct Jobinja/Jabama evidence reveals a materially better current entry route;
 - UpgradePilot evidence materially changes modification/diagnosis/transfer ownership;
 - SQL/Git evidence materially widens role bands;
 - E2 is resumed or completed;
