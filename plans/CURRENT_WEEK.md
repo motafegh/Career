@@ -13,6 +13,10 @@ Translate the current Career state into the **smallest immediately useful work p
 
 The current operational market focus is **Iran only**, as selected in State. This is not a permanent geography/identity restriction: international candidates are deferred, not rejected. Do not restart an international search unless that selection changes.
 
+For the **current vacancy-discovery/refill phase**, Ali has explicitly narrowed new sourcing to **Jobinja + Jabama careers only**. Do not use JobVision, IranTalent, e-estekhdam, Quera, Telegram/aggregators, LinkedIn, or other platforms to add new candidates during this phase. Previously recorded evidence from those sources remains historical Career evidence; it is not erased.
+
+Jabama is a direct company-careers source rather than a broad job board. Its own website links to `careers.jabama.com`; if that direct careers surface is unavailable, do not substitute third-party mirrors to invent current Jabama vacancies.
+
 The September Iran **initial vacancy discovery and shortlisting have already been performed**. The current operating method is now a bounded **parallel 8–12-candidate active pool**: resolve, apply, reject/stale, and refill continuously across several responsibility families. This is not permission for undifferentiated collection or mass application.
 
 ## 2. Protect the primary flagship
@@ -30,27 +34,32 @@ Follow the **exact current shortlist and its order in `CAREER_STATE.md`** rather
 - [`../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`](../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md)
 - [`../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`](../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md)
 - [`../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`](../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md)
+- [`../tracking/research/2026-10-05_JOBINJA_JABAMA_BROAD_SEARCH_REFRESH.md`](../tracking/research/2026-10-05_JOBINJA_JABAMA_BROAD_SEARCH_REFRESH.md)
 
 Maintain the State-owned parallel pool rather than serially blocking on its first candidate. Progress several candidates concurrently: recheck current/open status, obtain native employer-authored duties and hard access requirements, identify only the unknown private access facts material to each vacancy, assess responsibility fit, transferable professional context, demonstrated technical substrate, mentorship, and day-one ownership stretch, then decide **apply, hold, or reject** independently. Refill slots that close, fail access, or become weak/stale so the pool stays around 8–12 useful current opportunities.
 
+The refill search is now deliberately broader. Search not only exact Python/support titles but also junior/trainee/intern software roles, QA/manual/API testing, ERP implementation/support, help desk/application support, technical/product operations, AI automation/LLM application, IT quality, and entry-tier SOC/IT operations. The controlling keyword families and boundaries are recorded in the 2026-10-05 Jobinja/Jabama refresh.
+
 Do not treat a source's historical posting date, recent crawl date, employer ranking, or prior review as proof that a vacancy is open now. Employer/company history is supporting discovery evidence only.
 
-## 4. Two complementary acquisition lanes
+## 4. Current acquisition lanes
 
 ```text
-VACANCY-FIRST
-selected Iranian platforms + employer's own current listing
-→ current/open verification
+JOBINJA — broad vacancy-first discovery/refill
+expanded Persian + English responsibility keywords
+→ current/open listing
 → native duties
 → access / responsibility / evidence fit
 
-EMPLOYER-WATCH
-company pages/directories + recurring relevant role families
-→ current specific vacancy
-→ the same current/open, native-duty, access and fit checks
+JABAMA CAREERS — direct employer-watch only
+careers.jabama.com
+→ current specific vacancy when directly available
+→ the same native-duty/access/fit checks
 ```
 
-The active search-platform and employer-watch details belong in State and the cited evidence. Do not infer fit from brand, platform score, total active jobs, employee reviews, or a synthetic cross-platform employer ranking. Prefer current vacancy-specific evidence over old watch signals.
+Do not use third-party Jabama mirrors when the direct Jabama careers surface cannot be verified. Do not infer fit from brand, popularity, total active jobs, employee reviews, or a synthetic employer ranking. Prefer current vacancy-specific evidence.
+
+Broader keyword discovery must still respect the current Career bands. Senior/specialist ML/AI, deep infrastructure/SRE, SQL-heavy data engineering, and other excessive-ownership roles may be retained as benchmarks but do not enter the application pool without a genuinely bounded junior/mentored responsibility shape.
 
 ## 5. Vacancy-specific evidence and access gate
 
