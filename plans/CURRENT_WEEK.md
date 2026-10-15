@@ -1,110 +1,172 @@
 # Current Career Directive
 
 **Owner:** Ali Rajabi  
-**Status:** Active bounded Career directive; refresh from live State before execution  
-**Period:** From 2026-09-20 until the next material Career reassessment trigger  
+**Status:** Active bounded Career directive; derived from `CAREER_STATE.md`  
+**Refreshed:** 2026-10-15 after pre-Day-90 Career / UpgradePilot alignment  
 **Live-state owner:** [`../CAREER_STATE.md`](../CAREER_STATE.md)  
 **Cycle owner:** [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
-**Project execution authority:** Each technical project repository and its own governance/session system
+**Project execution authority:** each technical project repository and its own governance/session system
 
-## 1. Purpose and source priority
+## 1. Immediate purpose
 
-Translate the current Career state into the **smallest immediately useful work package**, without becoming a second live-state owner. Read `CAREER_STATE.md` for the exact active market, ordered candidate set, current decisions, application status, and next Career action; consult the referenced employer/vacancy evidence for specific claims and dates. If those differ from an older directive, the live state and fresher verified evidence prevail.
+Return to Career-owned job-market/application work without reopening the completed 2026-10-15 alignment analysis.
 
-The current operational market focus is **Iran only**, as selected in State. This is not a permanent geography/identity restriction: international candidates are deferred, not rejected. Do not restart an international search unless that selection changes.
+The current Career cycle still ends on **2026-10-17**. The formal Day-90 closeout remains required, but the 2026-10-15 explicit review already reconciled the material UpgradePilot, capability and market changes. Unless something material changes, the 2026-10-17 review should confirm/close the cycle and choose the next cycle rather than repeat the same investigation.
 
-For the **current vacancy-discovery/refill phase**, Ali has explicitly narrowed new sourcing to **Jobinja + Jabama careers only**. Do not use JobVision, IranTalent, e-estekhdam, Quera, Telegram/aggregators, LinkedIn, or other platforms to add new candidates during this phase. Previously recorded evidence from those sources remains historical Career evidence; it is not erased.
+## 2. Protect the flagship
 
-Jabama is a direct company-careers source rather than a broad job board. Its own website links to `careers.jabama.com`; if that direct careers surface is unavailable, do not substitute third-party mirrors to invent current Jabama vacancies.
+UpgradePilot remains the sole primary capability/ownership flagship.
 
-The September Iran **initial vacancy discovery and shortlisting have already been performed**. The current operating method is now a bounded **parallel 8–12-candidate active pool**: resolve, apply, reject/stale, and refill continuously across several responsibility families. This is not permission for undifferentiated collection or mass application.
+Current project-local position relevant to Career:
 
-## 2. Protect the primary flagship
+- Stage 3 engineering integration GREEN and engineering handoff closed;
+- common Investigator native-input/source-interface preparation at **A0/A1 DONE, A2 CURRENT at pre-B understanding gate; Build/Verification pending**;
+- project-local Stage 3 learning D1–D3 sufficiently learned; D4 open;
+- new project evidence strengthens future Career reassessment but creates **no automatic Career D-level promotion**.
 
-Use the cycle's capacity/allocation principle: up to 24 focused hours/week (ceiling, not quota); approximately 75–85% of personal technical attention reserved for UpgradePilot and 15–25% for bounded Career/market/application/E2/SQL/Git work combined.
+Career must not interrupt the current UpgradePilot sequence to manufacture vacancy-specific features or synthetic capability evidence.
 
-UpgradePilot remains the sole capability-building flagship. Career may identify evidence classes worth noticing — executable proof, source/test understanding, meaningful modification, causal diagnosis, changed-case transfer, concise explanation — but project-local governance owns the implementation and learning route. JobHunter/Sentinel AI-full-implementation does not create personal ownership evidence automatically.
+Allocation remains approximately:
 
-## 3. Current Iran work package
+- **75–85%** of personal technical attention available to UpgradePilot;
+- **15–25%** for Career/market/application/E2/targeted gaps combined;
+- Green ceiling up to **24 focused hours/week**, not a quota.
 
-Follow the **exact current shortlist and its order in `CAREER_STATE.md`** rather than copying the full candidate list into this rolling directive. The current evidence owners include:
+## 3. Active market source boundary
 
-- [`../tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`](../tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md)
-- [`../tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`](../tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md)
-- [`../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`](../tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md)
-- [`../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`](../tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md)
-- [`../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`](../tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md)
-- [`../tracking/research/2026-10-05_JOBINJA_JABAMA_BROAD_SEARCH_REFRESH.md`](../tracking/research/2026-10-05_JOBINJA_JABAMA_BROAD_SEARCH_REFRESH.md)
-
-Maintain the State-owned parallel pool rather than serially blocking on its first candidate. Progress several candidates concurrently: recheck current/open status, obtain native employer-authored duties and hard access requirements, identify only the unknown private access facts material to each vacancy, assess responsibility fit, transferable professional context, demonstrated technical substrate, mentorship, and day-one ownership stretch, then decide **apply, hold, or reject** independently. Refill slots that close, fail access, or become weak/stale so the pool stays around 8–12 useful current opportunities.
-
-The refill search is now deliberately broader. Search not only exact Python/support titles but also junior/trainee/intern software roles, QA/manual/API testing, ERP implementation/support, help desk/application support, technical/product operations, AI automation/LLM application, IT quality, and entry-tier SOC/IT operations. The controlling keyword families and boundaries are recorded in the 2026-10-05 Jobinja/Jabama refresh.
-
-Do not treat a source's historical posting date, recent crawl date, employer ranking, or prior review as proof that a vacancy is open now. Employer/company history is supporting discovery evidence only.
-
-## 4. Current acquisition lanes
+Current new-discovery/refill sources are only:
 
 ```text
-JOBINJA — broad vacancy-first discovery/refill
-expanded Persian + English responsibility keywords
-→ current/open listing
+JOBINJA
+bilingual Persian + English vacancy discovery
+→ current/open
 → native duties
-→ access / responsibility / evidence fit
+→ access
+→ responsibility/technical fit
 
-JABAMA CAREERS — direct employer-watch only
-careers.jabama.com
-→ current specific vacancy when directly available
-→ the same native-duty/access/fit checks
+JABAMA CAREERS
+only direct employer careers evidence
+→ same gate
 ```
 
-Do not use third-party Jabama mirrors when the direct Jabama careers surface cannot be verified. Do not infer fit from brand, popularity, total active jobs, employee reviews, or a synthetic employer ranking. Prefer current vacancy-specific evidence.
+Do not add new candidates from JobVision, IranTalent, e-estekhdam, Quera, LinkedIn, Telegram/aggregators or other platforms during this phase unless Ali changes the source instruction. Earlier evidence from those sources remains historical evidence.
 
-Broader keyword discovery must still respect the current Career bands. Senior/specialist ML/AI, deep infrastructure/SRE, SQL-heavy data engineering, and other excessive-ownership roles may be retained as benchmarks but do not enter the application pool without a genuinely bounded junior/mentored responsibility shape.
+Do not substitute third-party mirrors for Jabama when direct Jabama careers cannot be verified.
 
-## 5. Vacancy-specific evidence and access gate
+## 4. Discovery families
 
-For an actual candidate, keep distinct:
+Keep the funnel broad. Search both English and Persian across:
+
+- AI / Applied AI / AI Automation / AI Integration;
+- LLM / RAG / GenAI / AI Agent / Agentic AI;
+- Machine Learning / Deep Learning / NLP / Speech AI / Computer Vision / Image Processing;
+- `هوش مصنوعی`, `مدل زبانی`, `عامل هوشمند`, `یادگیری ماشین`, `یادگیری عمیق`, `پردازش زبان طبیعی`, `هوش مصنوعی گفتار`, `بینایی ماشین`, `پردازش تصویر` and related Persian forms;
+- Python / backend / software developer / junior / trainee / internship;
+- QA / manual testing / API testing / software testing / evaluation;
+- technical support / application support / software support;
+- implementation / integration / ERP / onboarding;
+- technical/product operations, IT quality and bounded entry-security/SOC roles where duties fit.
+
+Discovery is deliberately broader than current capability. Filter **after** native-JD inspection, not before search.
+
+## 5. Current application lane
+
+### Priority 1 — Rahyab Baryar Sana, AI Specialist
+
+Career decision: **APPLICATION TRACK**.
+
+Why it is high-value:
+
+- no prior-work-experience gate in the reviewed JD;
+- AI tools/LLMs, automation, agents/chatbots and AI APIs;
+- business-process analysis and cross-functional adoption;
+- Python is an advantage rather than an expert gate;
+- strong transfer from Ali's prior operational/process responsibility;
+- technical stretch is real but bounded enough to defend honestly.
+
+Use the existing vacancy-specific claim audit. Do not claim professional AI-engineer employment, production agent deployment, professional n8n/Make/Zapier ownership, broad backend/CRM integration ownership, production ML engineering or independent LLM infrastructure ownership.
+
+### Parallel application candidates
+
+**Viuna — Technical Software Support**  
+Retain; recheck current/open status immediately before submission.
+
+**Serita — QA Engineer**  
+Retain only with project-based testing/evaluation claims; do not claim professional QA experience. Recheck freshness before submission.
+
+## 6. AI JD-resolution lane
+
+Resolve, in order when accessible:
+
+1. **Karno — AI Specialist**
+2. **Homina Darman — AI Specialist**
+3. **Farineh Fanavar — AI Engineer**
+4. **Manzoumeh Hooshmand Pars — Speech AI Engineer**
+
+Do not classify them from titles alone. Require native duties, access gates, expected ownership depth and mentoring/entry structure where stated.
+
+Keep **Armaghan Atlas — AI / Automation / Business Development** as a high bounded-stretch candidate.
+
+**Diaco AI Programming Intern** stays rejected for access only because of the employer under-25 gate; do not convert it into a technical-learning gap.
+
+## 7. Vacancy gate
+
+For every serious candidate:
 
 ```text
-CURRENT / OPEN?        confirmed / likely / unresolved / closed-stale
-NATIVE EMPLOYER DUTIES? exact responsibility, not title alone
-ACCESS?                pass / fail / unresolved
-TECHNICAL SUBSTRATE?   demonstrated / bounded stretch / unsupported
-PROFESSIONAL TRANSFER? genuinely relevant / limited / unassessed
-MENTORSHIP / ENTRY?    documented / inferred / unresolved
-OWNERSHIP STRETCH?     bounded / excessive / unresolved
-CLAIMS + MATERIALS?    ready / incomplete / unresolved
-VACANCY DECISION?      apply / apply if access passes / hold / reject
+CURRENT / OPEN?
+→ native employer duties
+→ ACCESS: pass / fail / unresolved
+→ technical substrate
+→ professional-transfer relevance
+→ mentorship / entry structure
+→ day-one ownership stretch
+→ defensible claims + materials
+→ APPLY / HOLD / REJECT
 ```
 
-Inspect only employer-stated relevant eligibility (for example location/on-site, degree/field, graduation/student status, experience, military-service requirements where applicable, language, schedule, travel, or other explicit gates). Do not invent private facts. `UNRESOLVED` is valid. Access-gate failure does not create a technical-learning gap.
+Do not infer private facts. `UNRESOLVED` is valid.
 
-The relevant profile authorities are [`../profile/CAREER_PROFILE.md`](../profile/CAREER_PROFILE.md) for concise stable facts and the pertinent portions of [`../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md`](../profile/COMPREHENSIVE_PERSONAL_AND_PROFESSIONAL_PROFILE.md) when the vacancy depends on prior work or education detail. Technical capability remains governed by the Capability Ledger, not biography.
+Access failure is targeting evidence, not a curriculum request.
 
-## 6. Minimum application package, only when justified
+## 8. Application materials
 
-Do **not** mass-produce speculative CV variants. Once a specific current vacancy survives native-detail and access review, prepare the smallest defensible Iran-appropriate application package for that vacancy. Use the reconciled `../market/ALI_RAJABI_MASTER_CV.md` as the canonical CV claim source. P8 has already audited it against the corrected profile, capability, and portfolio boundaries; tailor it only for a real surviving vacancy rather than recreating the old one-company/education-placeholder framing.
+Use `../market/ALI_RAJABI_MASTER_CV.md` as the canonical claim source.
 
-Prior professional responsibility may be presented accurately when relevant, without turning the former CEO/project-management titles into software seniority. Distinguish AI-directed portfolio work from personally demonstrated implementation; do not list SQL or other skills as proven merely because the repositories use them. Keep contact, private eligibility, compensation, and correspondence outside the public Career repository. Run a short final vacancy-specific public-surface/claim check before any private submission.
+Tailor only for a real surviving vacancy. Keep private contact, eligibility, compensation and correspondence outside the public repository.
 
-No application is considered submitted until actually submitted and evidenced privately.
+Project boundaries remain mandatory:
 
-## 7. Role-fit and first-job quality
+- UpgradePilot carries the strongest current capability/ownership-growth evidence, still bounded;
+- JobHunter is an AI-directed applied-AI product, not independent full-stack ownership;
+- current Sentinel is AI-led research/implementation, not automatic personal ML-engineering ownership.
 
-Use the responsibility-first strategy and current narrow E3 band. Technical implementation/integration, bounded AI automation/solutions, and technical product/application support with real API/data/log/diagnosis work are primary narrow calibration families; junior QA/evaluation, selected Python/application and junior Applied-AI roles remain conditional on actual responsibilities, mentorship, and ownership requirements.
+No application counts as submitted until actually submitted and evidenced privately.
 
-For a first technical role, inspect actual engineering mentorship, code review, technical feedback, learning density, day-to-day implementation/diagnosis responsibility, professional delivery exposure, growth opportunity, sustainability, and realistic access. Do not mistake a prestigious title or employer for those properties, or assume past management experience eliminates the need for technical supervision.
+## 9. What not to do now
 
-## 8. E2 / feedback / stopping rules
+Do not:
 
-E2 remains **incomplete and explicitly deferred**. Do not mark it complete, reopen already accepted repository-side positioning work, or let remaining GitHub UI/account actions globally block vacancy verification. Resume it when Ali chooses, an actual application makes a bounded public-claim correction necessary, or a later Career review changes its scheduling.
+- reopen the 2026-10-15 alignment review;
+- create a new flagship/project;
+- force job-ad technologies into UpgradePilot;
+- mass-apply with a generic CV;
+- search only conventional Python roles and suppress AI/LLM/ML discovery;
+- search only AI roles and abandon QA/support/integration/Python lanes;
+- let a single vacancy block the parallel pool;
+- infer stronger technical ownership from repository sophistication or project-local learning labels.
 
-Once real applications occur, classify feedback into access/eligibility, role targeting, positioning/claim, technical knowledge, implementation/diagnosis, communication/project defense, mentorship/entry mismatch, or low-information silence. One unexplained rejection does not create a new curriculum or project. Use strong direct feedback or repeated patterns for a proportional Career reassessment.
+## 10. Exact immediate action
 
-Do not expand into an unbounded catalog beyond the active pool, create a new flagship, force vacancy technologies into UpgradePilot, or treat AI-produced code and green CI as personally owned engineering by default. Bounded refill of rejected/stale pool slots is explicitly allowed.
+> **Resume the job workflow now: keep Rahyab first in the AI/application lane; recheck Viuna and Serita QA for parallel application; resolve Karno → Homina → Farineh → Speech AI native JDs; continue bilingual Jobinja discovery/refill across AI/LLM/ML/RAG/agents plus Python/QA/support/integration; keep direct Jabama careers on watch.**
 
-## 9. Return-to-Career triggers
+## 11. Return-to-Career triggers
 
-Return for a bounded or formal Career review when meaningful application/interview evidence arrives, repeated access failures change targeting, the current shortlist resolves without viable opportunities, a new role family materially improves entry fit, legitimate project evidence could change a capability conclusion, E2 is resumed/completed, workload/geography/portfolio assumptions change, or the **2026-10-17 Day-90 review** is due. Ali's explicit review request is also a trigger.
+Return for formal/bounded review at the earliest of:
 
-For the exact **current** Career action, always use [`../CAREER_STATE.md`](../CAREER_STATE.md), not this directive.
+- **2026-10-17 Day-90 formal cycle closeout**;
+- meaningful application/screen/interview/rejection evidence;
+- a capability-changing UpgradePilot ownership/diagnosis/transfer result;
+- repeated access failures that materially change targeting;
+- material workload/geography/portfolio/strategy change;
+- Ali explicit request.
