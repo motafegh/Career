@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-05 — new Iran discovery/refill narrowed to Jobinja + direct Jabama careers; broader keyword surface and fresh Jobinja candidates added  
+**Last updated:** 2026-10-15 — pre-Day-90 Career/UpgradePilot alignment completed; current market/application state reconciled  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -12,351 +12,200 @@
 | Long-term direction | Anchored-hybrid Python/data/applied-AI engineering with secure/trustworthy engineering as a cross-cutting responsibility and evidence-led adjacent breadth |
 | Working identity | **AI-augmented Python/data/ML engineer developing secure engineering capability** |
 | Public broad headline | **Junior Software Engineer \| Python, Data & Applied AI** |
-| Current career cycle | 2026-07-20 through 2026-10-17 capability, flagship, portfolio, and employability cycle |
-| Primary capability-building flagship | UpgradePilot |
+| Current career cycle | **2026-07-20 through 2026-10-17** capability, flagship, portfolio and employability cycle |
+| Primary capability-building flagship | **UpgradePilot** |
 | Flagship operating authority | `motafegh/UpgradePilot` |
 | Active portfolio/support asset | JobHunter: AI-full-implementation Applied-AI product + Career market-intelligence infrastructure + portfolio asset; not automatic Ali implementation evidence |
-| Active portfolio/research asset | Sentinel: AI-full-implementation ML/data/security research + portfolio case-study source; original Ali evidence and current AI implementation remain distinct |
+| Active portfolio/research asset | Sentinel: AI-full-implementation ML/data/security research + portfolio case-study source; historical Ali evidence and current AI implementation remain distinct |
 | Historical project | AegisLab: historical security-learning/design evidence |
-| Current capability interpretation | Selected current UpgradePilot source-flow and representative-test reasoning support bounded D2 guided understanding; ownership-bearing modification, current causal diagnosis, SQL/relational work, and professional Git/review evidence remain materially weaker |
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
-| E2 / portfolio-positioning state | Repository-side correction materially complete; remaining GitHub UI/account work is **incomplete and explicitly deferred by Ali**, not cancelled or treated as complete |
-| Active market lane | **Iran only for the current operating focus**; international candidates remain deferred, not rejected |
-| Iran acquisition mode | **Current new discovery/refill sources: Jobinja + direct Jabama careers only.** Jobinja provides broad vacancy discovery; Jabama is direct employer-careers watch. Previously recorded evidence from other sources remains historical but is not used to add new candidates during this phase. |
-| Application state | Parallel 8–12-candidate Iran pool remains active. Viuna and Serita QA remain application-track candidates. Fresh Jobinja discovery on 2026-10-05 adds Hamyan Python Programmer, RIRA Software Testing Intern (ERP), RIRA Back-End .NET Core Intern (ERP), Senobar software support/sales, Asiatech IT Quality, and Behin Rahkar SOC Tier 1 for native-JD/access review. Jabama careers could not be directly loaded during the pass, so no Jabama vacancy is admitted without direct verification. No submission yet. |
-| Standard workload | Green ceiling up to 24 focused hours/week; keep roughly 75–85% of personal technical attention available to UpgradePilot and use the remainder for bounded Career/market/gap work |
-| Next scheduled checkpoint | 2026-10-17 Day-90 formal review; earlier event-based review if Iranian application evidence becomes material |
-| Career operating mode | Macro governance, directives, assessment, market/portfolio decisions, and review; project learning/implementation remains project-local |
+| E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and explicitly deferred**, not cancelled or treated as complete |
+| Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
+| Current new-discovery sources | **Jobinja + direct Jabama careers only** |
+| Application state | **Rahyab AI Specialist is application-track. Viuna Technical Software Support and Serita QA remain parallel application-track candidates subject to freshness recheck.** Karno, Homina, Farineh and Speech AI remain active native-JD resolution targets. No submission is recorded yet. |
+| Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** personal technical attention available to UpgradePilot, remainder for bounded Career/market/application/gap work |
+| Current alignment | **2026-10-15 pre-Day-90 alignment complete**; no strategic reset required before the scheduled closeout |
+| Next scheduled checkpoint | **2026-10-17 Day-90 formal cycle closeout**; expected to be confirmatory unless material evidence changes |
 
-## 2. Controlling depth / ownership interpretation
+## 2. Capability / ownership interpretation
 
-The current strategy remains **anchored hybrid / T-shaped**:
+Career continues to separate:
 
 ```text
-ANCHOR 1 — Python / software engineering substrate
-ANCHOR 2 — data / evidence / relational foundations
-DIFFERENTIATOR — applied AI / LLM / agent systems
-CROSS-CUTTING — secure, trustworthy, evaluative engineering
-ADJACENT BREADTH — backend / cloud / CI / Linux / networking / operations / security as real responsibilities require
+professional maturity
+!= technical context
+!= technical ownership
 ```
 
-Career does not use unaided blank-page coding as the sole ownership proxy and does not treat AI-produced repository output as Ali ownership.
-
-For important responsibilities, AI-era ownership is judged through the relevant combination of:
-
-- intent/problem control;
-- mental-model/system understanding;
-- AI/harness direction;
-- verification/evaluation;
-- meaningful modification;
-- causal diagnosis;
-- changed-context transfer;
-- risk/accountability judgment;
-- concise technical explanation.
-
-The D0–D5 Capability Ledger remains the capability authority.
-
-## 3. Current capability conclusion
-
-Strongest current personal evidence remains concentrated in:
+Current strongest personal evidence includes:
 
 - D2 guided evidence/uncertainty/claim-boundary reasoning;
-- bounded D2 current UpgradePilot source-flow understanding;
-- bounded representative-test semantics and proof-limit reasoning;
-- recurring technical challenge of overengineering, unsupported evidence strength, hardcoding/special-case pressure, and architecture assumptions;
-- AI-agent/harness direction at D2 with meaningful provisional D3 signals for selected direction/critique responsibilities;
-- selected API/provider/trust-boundary and static-versus-runtime reasoning;
+- bounded D2 UpgradePilot source-flow and representative-test reasoning in selected scopes;
+- stronger current mental-model reasoning around Workspace lifecycle, native/domain authority, retained material, model proposals, stopping/adequacy/action distinctions and evidence-strength limits;
+- recurring AI-assisted technical critique, anti-overengineering pressure and architecture/harness direction, with provisional D3 signals in selected direction responsibilities;
+- selected API/service, provenance, validation and static-versus-runtime reasoning;
 - substantial prior business/process responsibility and stakeholder judgment.
 
-Material limits remain:
+The October UpgradePilot progress materially strengthens the **basis for later reassessment**, but this alignment makes **no automatic Career D-level promotion**.
 
-- no broad D3 Python/application ownership claim;
-- ownership-bearing source/test modification remains insufficient at Career threshold;
-- no sufficiently current unfamiliar causal-debugging case with reduced assistance;
-- SQL/relational-data capability remains weak or unassessed;
-- professional Git/pull-request/code-review collaboration evidence remains weak;
-- JobHunter and current Sentinel implementation remain AI-full-implementation and do not transfer automatically to Ali capability.
+Still not established:
 
-The September E3/Iran market work changes **no D-levels**. Market demand is not capability evidence.
+- broad D3 Python/application ownership;
+- independent ownership of UpgradePilot's implementation/test architecture;
+- sufficiently current unfamiliar causal diagnosis with reduced assistance;
+- broad changed-context implementation transfer;
+- SQL/relational-data ownership;
+- professional Git/pull-request/code-review collaboration;
+- broad backend, ML, security, CI, cloud or agent-platform engineering ownership.
 
-## 4. Project portfolio decision
+UpgradePilot's own Stage-3 learning labels `D1/D2/D3/D4` are project-local learning steps and are **not Career D0–D5 levels**.
 
-### UpgradePilot
+Capability authority remains `tracking/CAPABILITY_EVIDENCE_LEDGER.md`.
 
-> **Sole primary capability / ownership flagship**
+## 3. UpgradePilot position relevant to Career
 
-Career directive remains outcome-level only:
+UpgradePilot remains the **sole primary capability / ownership flagship**.
 
-- protect dominant allocation;
-- favor legitimate work that increases executable proof, Ali ownership, diagnosis, transfer, demonstration and explanation;
-- avoid Career-driven sophistication for its own sake;
-- leave technical continuation, implementation, learning sequence, tests and debugging to UpgradePilot governance.
+Current project evidence inspected on 2026-10-15 establishes:
 
-### JobHunter
+- Stage 3 engineering integration GREEN with engineering handoff closed;
+- latest Stage 3 proof: **25 focused host tests, 875/875 checkout, 875/875 fresh noneditable installed, no skips, 92 installed/source hashes matching**, plus installation-origin, `pip check`, help-parity, interruption/restoration, historical-compatibility and native/material-validity controls;
+- common Investigator native-input/source-interface preparation at **A0/A1 DONE; A2 CURRENT at the pre-B understanding gate; Build/Verification pending**;
+- Stage 3 project-local learning D1–D3 sufficiently learned; D4 remains open;
+- no model/framework runtime, universal semantic competence, usefulness result, replay, exactly-once or other stronger product claim created by the current preparation cycle.
 
-> **Active AI-full-implementation Applied-AI product + Career market-intelligence infrastructure + portfolio asset**
+Career does not prescribe UpgradePilot implementation or learning sequence. Project-local continuation remains under UpgradePilot governance.
 
-Continue independently. Do not convert its implementation into Ali capability without explicit reassessment.
+Detailed Career reconciliation: `tracking/2026-10-15_PRE_DAY90_CAREER_UPGRADEPILOT_ALIGNMENT_REVIEW.md`.
 
-### Sentinel
+## 4. Role and market interpretation
 
-> **Active AI-full-implementation ML/data/security research asset + portfolio case-study source**
+### Primary narrow bands
 
-Continue independently without ordinary Ali learning allocation. Preserve the original-Ali versus later-AI implementation boundary.
+1. **Technical Implementation / Integration**
+2. **AI Automation / AI Solutions / Internal Tools**
+3. **Technical Product / Application / Software Support** with real API/data/log/integration diagnosis
 
-### AegisLab
+### Conditional bands
 
-Historical evidence only.
+4. QA / testing / evaluation
+5. junior/mentored Applied-AI implementation
+6. selective junior Python/application/backend
 
-## 5. Current market / E3 interpretation
+Titles remain secondary to actual responsibilities, mentorship, access and day-one ownership stretch.
 
-The September 14 broad responsibility-market review remains the controlling role-shape interpretation. The September 16 instruction narrows only the **active operational market lane** to Iran; it does not change Career identity or erase international evidence.
+### Current source policy
 
-### Primary narrow calibration bands
-
-1. **Technical Implementation / Integration** — junior, associate, trainee or explicitly mentored roles using APIs, data structures, integrations, validation, onboarding and documentation.
-2. **AI Automation / AI Solutions / Internal Tools** — bounded roles combining process understanding, AI tools/agents, APIs or scripting, evaluation and stakeholder translation.
-3. **Technical Product / Application / Software Support** — roles with real logs/data-flow/API/integration diagnosis and product feedback, not generic nontechnical help desk.
-
-### Conditional calibration bands
-
-4. **QA / testing / evaluation** — especially reasoning, API/manual validation, defect reproduction and product-quality work; automation-heavy SDET ownership remains more demanding.
-5. **Junior Applied-AI / AI Implementation** — only when genuinely junior/mentored and centered on integration/evaluation/application rather than independent production ML/backend ownership.
-6. **Junior Python/application/backend** — selective only where scope and mentorship fit current bounded implementation evidence.
-
-### Currently gated or low-priority bands
-
-- SQL-heavy data engineering / BI / analytics until relational evidence improves, except unusually light or strongly mentored cases;
-- independent production backend ownership;
-- senior/specialist ML/AI;
-- SRE/DevOps/infrastructure roles requiring deep operational ownership;
-- unsupervised remote roles clearly beyond current demonstrated ownership.
-
-Titles remain secondary to the actual responsibility shape.
-
-Detailed evidence:
-
-- `tracking/research/2026-09-14_E3_BROAD_RESPONSIBILITY_MARKET_RESEARCH_SYNTHESIS.md`
-- `tracking/research/2026-09-14_IRAN_PERSIAN_PLATFORM_ACQUISITION_AND_MARKET_RESEARCH_REPORT.md`
-- `tracking/research/2026-09-14_E3_FRESH_VACANCY_RESPONSIBILITY_EVIDENCE_SET.md`
-- `tracking/research/2026-09-14_E3_APPLICATION_READINESS_AND_ROLE_BAND_REVIEW.md`
-- `tracking/research/2026-09-16_IRAN_MARKET_CURRENT_VACANCY_REFRESH.md`
-- `tracking/research/2026-09-16_IRAN_FIRST_APPLICATION_SEQUENCE.md`
-- `tracking/research/2026-09-16_IRAN_NATIVE_DETAIL_RESOLUTION_UPDATE.md`
-- `tracking/research/2026-09-16_IRAN_EMPLOYER_CENTRIC_MARKET_LAYER.md`
-- `tracking/research/2026-09-16_IRAN_CROSS_PLATFORM_EMPLOYER_SIGNALS.md`
-- `tracking/research/2026-10-05_JOBINJA_JABAMA_BROAD_SEARCH_REFRESH.md`
-
-## 6. Iran-only active calibration sequence
-
-Ali explicitly selected the Iranian job market and, for the current discovery/refill phase, **Jobinja + Jabama careers only** as the active new-vacancy sources.
-
-International candidates are **deferred during this focus**, not rejected, downgraded, or erased. Previously recorded evidence from JobVision, IranTalent, e-estekhdam, Quera, aggregators or other sources remains historical evidence but is not used to add new candidates during this phase.
-
-The current acquisition model is:
+For new Iran discovery/refill:
 
 ```text
-LANE 1 — JOBINJA vacancy-first
-expanded Persian + English responsibility keywords
-→ current/open listing
-→ native duties
+JOBINJA
+bilingual Persian + English vacancy discovery
+→ current/open
+→ native JD/duties
 → access
 → fit
 
-LANE 2 — JABAMA direct employer-watch
-careers.jabama.com
-→ current specific vacancy when directly available
-→ same native-duty/access/fit gate
+JABAMA CAREERS
+only direct employer careers evidence
+→ same gate
 ```
 
-Jabama is a direct company-careers source, not a general job board. If its direct careers surface is unavailable, do not substitute third-party mirrors.
+Do not use other platforms to add new candidates during this phase unless Ali changes the source decision. Historical evidence from earlier sources remains valid history.
 
-Broader keyword discovery now includes:
+AI/LLM/ML is a **first-class bilingual discovery lane**. Search broadly first, then classify from the actual JD rather than rejecting by title.
 
-- Python / backend / software developer / junior / trainee / internship;
-- QA / manual testing / API testing / software tester / test case;
-- technical support / application support / software support / help desk;
-- implementation / ERP / onboarding / integration;
-- AI automation / LLM / RAG / AI agents;
-- entry-tier SOC / IT operations / IT quality;
-- technical/product operations and technical customer-success terms;
-- bounded data-quality/data-validation terms.
+Relevant vocabulary includes AI/Artificial Intelligence, Applied AI, AI Automation, AI Integration, LLM, RAG, GenAI, Agent/Agentic AI, ML, Deep Learning, NLP, Speech AI, Computer Vision/Image Processing and Persian equivalents such as `هوش مصنوعی`, `مدل زبانی`, `عامل هوشمند`, `یادگیری ماشین`, `پردازش زبان طبیعی`, `بینایی ماشین` and related terms.
 
-These are discovery terms, not capability claims or automatic application decisions.
+## 5. Current candidate priorities
 
-### Active parallel pool — 2026-10-05
+### Application track
 
-The live market method remains a bounded **8–12 candidate parallel pool**. Current/native evidence outranks title attractiveness.
+1. **Rahyab Baryar Sana — AI Specialist**
+   - responsibility fit: STRONG
+   - professional transfer: STRONG
+   - technical/claim fit: DEFENSIBLE STRETCH
+   - ownership stretch: BOUNDED / PLAUSIBLE
+   - current decision: **APPLICATION TRACK**
+   - especially relevant intersection: AI tools/LLMs + automation/agents/APIs + business-process analysis + cross-functional adoption
 
-**Application-track survivors:**
+2. **Viuna — Technical Software Support**
+   - previously current/open and claim-audited
+   - technical support / logs / APIs / database concepts / developer coordination
+   - recheck freshness at submission
 
-1. **Viuna — Technical Software Support** — current/open previously confirmed; access feasibility resolved privately; claim-audited application package authorized.
-2. **Serita — QA Engineer** — previously assessed as application-worthy only with explicit project-based testing/evaluation claims and no professional-QA claim.
+3. **Serita — QA Engineer**
+   - application-worthy only with project-based testing/evaluation claims
+   - do not claim professional QA experience
+   - recheck freshness at submission
 
-**Fresh Jobinja discovery/refill candidates:**
+### Active AI JD-resolution targets
 
-3. **RIRA — Software Testing Intern (ERP)** — Jobinja labels it **today**, Tehran/full-time. **HIGH PRIORITY NATIVE-JD/ACCESS REVIEW.**
-4. **Hamyan — Python Programmer** — Jobinja labels it **today**, Tehran/remote. **HIGH PRIORITY SENIORITY/STACK/OWNERSHIP REVIEW.**
-5. **RIRA — Back-End .NET Core Intern (ERP)** — Jobinja labels it **today**, Tehran/full-time. **STRONG ADJACENT ENTRY ROUTE; review mentoring and duties despite non-Python stack.**
-6. **Senobar IT — Software Support & Sales Specialist** — Jobinja labels it **today**, Bumehen/full-time. **Review technical-diagnostic depth and location practicality.**
-7. **Asiatech — IT Quality Specialist** — Jobinja labels it **today**, Tehran/full-time. **Review whether responsibility is software/product QA versus infrastructure/process quality.**
-8. **Behin Rahkar — SOC Tier 1** — Jobinja labels it **today**, Tehran/full-time. **Conditional security-entry candidate; inspect prerequisites and ownership stretch.**
+- **Karno — AI Specialist**
+- **Homina Darman — AI Specialist**
+- **Farineh Fanavar — AI Engineer**
+- **Manzoumeh Hooshmand Pars — Speech AI Engineer** — likely higher stretch, but do not reject from title alone
+- **Armaghan Atlas — AI / Automation / Business Development** — high bounded stretch
 
-**Current Jobinja hold/watch:**
+### Access-only rejection
 
-9. **Digify — Technical Support** — current Jobinja scan shows the posting at about 14 days; native technical depth remains worth resolving.
-10. **AI Software Engineer / AI agents & RAG / Speech AI Engineer titles** — fresh Jobinja discovery, but remain **benchmark/conditional** until a JD proves a genuinely junior/application-oriented shape rather than specialist ownership.
+- **Diaco — AI Programming Intern** — rejected because of employer under-25 gate; this is not a technical-capability failure.
 
-Older candidates from excluded discovery sources remain historical holds and can be reconsidered only if Ali later reopens those sources or direct employer evidence independently establishes a current vacancy.
+Maintain a bounded parallel pool rather than serially blocking on one vacancy. Python/backend, QA/testing, technical support/integration, ERP/onboarding, IT-quality/SOC-entry and other relevant role families remain eligible for refill alongside AI roles.
 
-### Jabama direct-careers status
+## 6. Application / claim boundary
 
-Jabama's own website exposes a `فرصت‌های شغلی` link to `careers.jabama.com`, but the direct careers endpoint timed out during the 2026-10-05 pass. Therefore no Jabama vacancy is promoted into the active pool from third-party mirrors.
-
-### Freshness rule
-
-- native Jobinja listing/current platform label is discovery/current evidence;
-- direct Jabama careers evidence is required for Jabama candidates;
-- historical/third-party mirrors do not override the active source restriction;
-- every candidate still needs native duties/access/ownership-stretch review before application.
-
-## 7. Access-gate rule
-
-Technical/responsibility fit and access eligibility are separate.
-
-Every serious Iranian vacancy must verify, only where employer-stated and relevant:
-
-- current-open state;
-- city / on-site requirement;
-- education and field;
-- internship student/recent-graduate status;
-- years and type of experience;
-- prior software/ERP/support experience;
-- military-service status;
-- gender/age constraints;
-- language requirements;
-- travel/customer-site expectations;
-- schedule or internship-duration requirements;
-- other employer-specific eligibility conditions.
-
-Career does not infer missing private facts. `UNRESOLVED` is valid until the relevant fact is known.
-
-Do not convert an access-gate failure into a technical-learning gap.
-
-## 8. E2 and E3 decision
-
-### E2
-
-E2 remains **incomplete and deferred** by Ali's explicit sequencing decision.
-
-Repository-side first-screen/attribution work completed earlier remains valid. Outstanding GitHub UI/account actions remain backlog work for later:
-
-- profile repository/README;
-- approved repository descriptions/topics;
-- profile pins;
-- final short claim/material consistency check.
-
-Do not describe E2 as complete.
-
-### E3
-
-The broad September 14 review establishes:
-
-> **narrow responsibility-based calibration readiness**
-
-It does **not** establish broad junior software/data/ML readiness.
-
-The Iran-only focus applies that existing decision to a richer market evidence stream; it does not create a new readiness score.
-
-E2 incompleteness still matters vacancy by vacancy when a specific application would expose a misleading or weak public surface.
-
-## 9. Application / E4 boundary
-
-Before actual submission, classify each vacancy:
+Before submission, each vacancy must still pass:
 
 ```text
 CURRENT / OPEN
-CONFIRMED / LIKELY CURRENT / UNRESOLVED / CLOSED-STALE
-
-EXACT NATIVE / EMPLOYER DUTIES
-what work is actually owned
-
-ACCESS GATE
-PASS / FAIL / UNRESOLVED
-
-RESPONSIBILITY FIT
-STRONG / PLAUSIBLE / WEAK
-
-EVIDENCE / CLAIM FIT
-DEFENSIBLE / STRETCH / NOT DEFENSIBLE
-
-MATERIALS READY
-YES / NO
-
-DECISION
-APPLY / APPLY IF ACCESS PASSES / HOLD / REJECT
+→ native employer duties
+→ access gate
+→ responsibility / technical fit
+→ mentorship / ownership stretch
+→ defensible claims + materials
+→ APPLY / HOLD / REJECT
 ```
 
-Employer evidence is an additional information layer, not a replacement for these gates.
+Keep contact details, private eligibility, compensation and employer correspondence outside the public Career repository.
 
-### Current material state
+Do not infer implementation ownership from repository technologies. JobHunter/current Sentinel remain AI-full implementation assets; UpgradePilot repository sophistication does not automatically establish Ali ownership.
 
-The Career repository contains no canonical role-tailored Iranian CV/resume artifact.
+No application is considered submitted until actually submitted and evidenced privately.
 
-Therefore do **not** create many speculative CV variants now. Once a specific current vacancy survives native-detail and access screening, create one minimal claim-bounded Iran-appropriate CV package and tailor only what the actual surviving vacancy requires.
+## 7. Cycle and workload disposition
 
-Do not create a public detailed application tracker containing private employer correspondence, contact details, compensation discussions or sensitive information.
+The cycle is **not yet closed** on 2026-10-15. Its controlling end date remains **2026-10-17**.
 
-## 10. SQL, Git and ownership gaps
+The 2026-10-15 explicit review completed the substantive reconciliation required before closeout:
 
-### SQL / relational data
+- current UpgradePilot progress reconciled;
+- ownership/assistance boundaries reconciled;
+- no unsupported capability promotion;
+- current market/source policy reconciled;
+- AI/LLM/ML discovery lane reconciled;
+- current application candidates reconciled;
+- workload/allocation retained.
 
-Remains a material role-band widening gap, not a universal blocker. Do not force it into UpgradePilot. The current cycle still permits a small bounded relational-data intervention if no proportional existing-project route emerges and market evidence continues to justify it.
+Unless material evidence changes, the 2026-10-17 review should formally close the cycle and select the next cycle rather than repeat this analysis.
 
-### Git / review collaboration
+Workload remains:
 
-Remains material but not a universal pre-calibration blocker. Prefer real branch/PR/review opportunities over synthetic ceremony.
+- up to **24 focused hours/week**, ceiling not quota;
+- approximately **75–85%** technical attention available to UpgradePilot;
+- approximately **15–25%** for Career/market/application/E2/targeted gaps combined.
 
-### Modification / causal diagnosis
+## 8. Exact next Career action
 
-These remain among the highest-value ownership evidence classes for strengthening broader engineering readiness while applications/calibration proceed in parallel.
+> **Return to job-market/application execution now. Keep Rahyab first in the AI/application lane; keep Viuna and Serita QA as parallel application-track candidates subject to freshness checks; resolve Karno → Homina → Farineh → Speech AI native JDs; continue bilingual Jobinja discovery across AI/LLM/ML/RAG/agents and Python/QA/support/integration families; keep Jabama on direct-careers watch only. UpgradePilot continues independently at its current A2/pre-B project-local gate. Do not create a new project or force vacancy technologies into UpgradePilot.**
 
-## 11. Workload / allocation
+## 9. Next review triggers
 
-Retain Green mode:
+Return for Career review at the earliest of:
 
-- up to **24 focused hours/week** as a ceiling, not a quota;
-- approximately **75–85%** of personal technical attention remains available to UpgradePilot;
-- approximately **15–25%** covers the Iran market/application lane plus bounded SQL/Git/positioning work combined;
-- JobHunter/Sentinel autonomous AI work does not become Ali ownership evidence.
-
-Do not let vacancy or employer research/application administration consume the flagship week.
-
-## 12. Exact next Career action
-
-> **For now, prioritize broader Jobinja/Jabama discovery so the active funnel contains more plausible positions before narrowing again. Use the expanded keyword families to refill the 8–12-candidate pool from Jobinja, while rechecking Jabama only through its direct careers surface. Resolve the two strongest fresh Jobinja leads first — RIRA Software Testing Intern and Hamyan Python Programmer — then RIRA Back-End .NET Core Intern, Asiatech IT Quality, Senobar software support/sales, and Behin Rahkar SOC Tier 1. Keep Viuna and Serita QA application packages ready, but do not let application preparation stop the broader discovery pass.**
-
-Promote only surviving candidates to the minimum Iran application package.
-
-Do not spend the current Career market lane on international candidates unless Ali explicitly changes the focus.
-
-E2 remains deferred in parallel; UpgradePilot remains the dominant technical responsibility.
-
-## 13. Next review triggers
-
-Return to Career at the earliest of:
-
-- the first Iranian applications produce a meaningful response/screen/interview/rejection pattern;
-- a high-information Iranian technical screen or practical task exposes a capability gap;
-- repeated Iran-specific access gates materially change role targeting;
-- the current Iran candidate sequence resolves with too few viable applications and needs another bounded search/refill;
-- direct Jobinja/Jabama evidence reveals a materially better current entry route;
-- UpgradePilot evidence materially changes modification/diagnosis/transfer ownership;
-- SQL/Git evidence materially widens role bands;
-- E2 is resumed or completed;
-- a specific vacancy requires a consequential readiness/eligibility decision;
-- workload, geography or project fit changes materially;
-- **2026-10-17 Day-90 formal review**;
+- **2026-10-17 Day-90 formal cycle closeout**;
+- meaningful application/screen/interview/rejection evidence;
+- a capability-changing ownership/diagnosis/transfer result;
+- repeated access failures that materially change targeting;
+- a material workload/geography/portfolio/strategy change;
 - Ali explicitly requests review.
-
-Ordinary project commits, tests, learning chunks and implementation decisions do not require Career updates.
