@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Active bounded Career directive; derived from `CAREER_STATE.md`  
-**Refreshed:** 2026-10-17 after Day-90 closeout and fresh UpgradePilot / Jobinja reconciliation  
+**Refreshed:** 2026-10-17 after Day-90 closeout and post-closeout Jobinja execution refresh  
 **Live-state owner:** [`../CAREER_STATE.md`](../CAREER_STATE.md)  
 **Cycle owner:** [`CURRENT_CAREER_CYCLE.md`](CURRENT_CAREER_CYCLE.md)  
 **Project execution authority:** each technical project repository and its own governance/session system
@@ -74,29 +74,41 @@ Search broadly first. Filter after native-JD inspection.
 
 ## 5. Fresh priority queue — 2026-10-17
 
+Detailed fresh evidence:
+
+`../tracking/research/2026-10-17_POST_DAY90_JOBINJA_EXECUTION_REFRESH.md`
+
 ### Application first
 
 **Rahyab Baryar Sana — AI Specialist**
 
 - still visible as active on Jobinja;
+- current listing still exposes an `ارسال رزومه` action;
 - previously passed the detailed Career fit/claim audit;
-- next action is a final current/open check and then actual application preparation/submission, not another broad conceptual review.
+- current/open listing-level recheck passed on 2026-10-17;
+- next action is **private final submission preparation + actual submission**, not another broad conceptual review.
 
-### Fresh Jobinja resolution
+### Fresh high-priority resolution
 
 1. **Karno — AI Specialist** — listed today
 2. **Manzoumeh Hooshmand Pars — Speech AI Engineer** — listed today
 3. **Homina Darman — AI Specialist** — listed one day ago
-4. **Farineh Fanavar — AI Engineer** — listed two days ago
-5. **Hamyan — Python Programmer** — visible as listed today
-6. **Armaghan Atlas — AI / Automation / Business Development** — retained bounded stretch
+4. **Farineh Fanavar — AI Engineer** — fresh current AI-lane target
+5. **Goldiran Asayesh — Software QA Specialist** — listed today
+6. **Hamyan — Python Programmer** — listed today, remote
+7. **WSNI — Technical Software Support** — listed about six days ago
+8. **Hummers Group — Python Developer** — listed about six days ago
+9. **Respina Radyn IT — Python / Django Programmer** — listed about seven days ago
 
-For Karno/Homina/Farineh/Speech AI, current listing evidence is real but native detail retrieval remains unreliable through the available research interface. Do not invent requirements from titles.
+Native detail retrieval remains unreliable for several current Jobinja postings. Do not invent requirements from titles. Move around inaccessible pages and continue the parallel queue.
 
-### Historical parallel application tracks
+### Reserve / replacement candidates
 
-- Viuna — Technical Software Support — freshness recheck before action
-- Serita — QA Engineer — project-based QA/evaluation claims only; freshness recheck
+- Armaghan Atlas — AI / Automation / Business Development — bounded stretch
+- AtiSun — Software Documentation Specialist — adjacent reserve
+- Pal / Parto Bita / Smart Innovators Simagar QA roles — reserve replacements
+- Viuna — Technical Software Support — historical application candidate; freshness recheck required
+- Serita — QA Engineer — project-based QA/evaluation claims only; freshness recheck required
 
 ### Rejected for access only
 
@@ -149,7 +161,7 @@ Do not:
 
 ## 9. Exact immediate action
 
-> **Return to job execution: perform Rahyab's final freshness/application check, then resolve Karno → Speech AI → Homina → Farineh and Hamyan in parallel with continued bilingual Jobinja discovery. Keep the selected second source on direct-careers watch only. Record actual application feedback as soon as it exists.**
+> **Move Rahyab to private final submission preparation and actual submission. In parallel, resolve Karno → Speech AI → Homina → Farineh, then Goldiran QA → Hamyan Python → WSNI Technical Software Support. Keep Hummers and Respina as fresh Python alternatives, continue bilingual Jobinja discovery across AI/LLM/ML/RAG/agents plus Python/QA/support/integration, and keep the selected second source on direct-careers watch only. Record actual application feedback as soon as it exists.**
 
 ## 10. Review trigger
 
