@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-17 — Day-90 cycle formally closed; fresh UpgradePilot and Jobinja state reconciled; 30-day conversion cycle selected  
+**Last updated:** 2026-10-17 — post-Day-90 Jobinja execution refresh completed; fresh 10-role pool activated and Rahyab moved to submission preparation  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -20,7 +20,7 @@
 | E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and deferred**, to be addressed when materially useful |
 | Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
 | New-discovery sources | **Jobinja + the previously selected Jobama/Jabama direct-careers lane only; do not add candidates from other platforms without Ali changing the source decision** |
-| Application state | **Rahyab AI Specialist remains application-track.** Viuna Technical Software Support and Serita QA remain historical parallel application-track candidates subject to freshness recheck. Karno, Homina, Farineh and Speech AI are active Jobinja native-JD resolution targets. Hamyan Python Programmer is a fresh refill target. No submission is recorded yet. |
+| Application state | **Rahyab AI Specialist remains the primary application-track candidate and passed a fresh listing-level current/open recheck on 2026-10-17.** Fresh resolution pool now includes Karno AI Specialist, Speech AI Engineer, Homina AI Specialist, Farineh AI Engineer, Goldiran QA, Hamyan Python, WSNI Technical Software Support, Hummers Python and Respina Python/Django. Viuna and Serita QA remain historical parallel candidates subject to freshness recheck. No submission is recorded yet. |
 | Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** technical attention available to UpgradePilot and **15–25%** for Career/market/application/E2/targeted gaps |
 | Next scheduled checkpoint | **2026-11-17 cycle closeout**; optional 2026-10-31 midpoint only if enough new evidence exists |
 
@@ -120,22 +120,30 @@ Titles remain secondary to responsibilities, mentorship, access and day-one owne
 
 ## 6. Current market refresh — 2026-10-17
 
-Jobinja remains active and the AI lane remains high-signal.
+The post-Day-90 refresh is recorded in:
+
+`tracking/research/2026-10-17_POST_DAY90_JOBINJA_EXECUTION_REFRESH.md`
+
+Jobinja remains active and the market pool now has same-day representation across several responsibility families.
 
 Fresh/current visible candidates include:
 
 - **Karno — AI Specialist — listed today**;
 - **Manzoumeh Hooshmand Pars — Speech AI Engineer — listed today**;
 - **Homina Darman — AI Specialist — listed one day ago**;
-- **Farineh Fanavar — AI Engineer — listed two days ago**;
+- **Farineh Fanavar — AI Engineer — fresh current AI-lane target**;
 - **Rahyab Baryar Sana — AI Specialist — still active, about fourteen days old**;
-- **Hamyan — Python Programmer — visible as listed today**.
+- **Goldiran Asayesh — Software QA Specialist — listed today**;
+- **Hamyan — Python Programmer — listed today, remote**;
+- **WSNI — Technical Software Support — listed about six days ago**;
+- **Hummers Group — Python Developer — listed about six days ago**;
+- **Respina Radyn IT — Python / Django Programmer — listed about seven days ago**.
 
 Several Jobinja detail pages remain inaccessible through the current research interface. Therefore current listing/title evidence is **not** promoted into invented JD requirements.
 
 The selected second-source careers surface remains unreliable from the current interface; no third-party mirror is substituted.
 
-AI/LLM/ML remains a **first-class bilingual discovery lane**. Search broadly first, then classify from the actual JD.
+AI/LLM/ML remains a **first-class bilingual discovery lane**, while Python, QA, support and implementation remain active in parallel.
 
 ## 7. Candidate priorities
 
@@ -145,28 +153,35 @@ AI/LLM/ML remains a **first-class bilingual discovery lane**. Search broadly fir
    - responsibility fit: STRONG
    - professional transfer: STRONG
    - technical/claim fit: DEFENSIBLE STRETCH
+   - fresh listing-level current/open recheck: PASSED 2026-10-17
    - current decision: **APPLICATION TRACK**
-   - next: recheck that the listing remains open, then move to actual submission package rather than more abstract analysis
+   - next: prepare the private final submission copy and actually submit; do not repeat broad fit analysis
 
-### Fresh Jobinja resolution queue
+### Fresh native-JD / fit-resolution queue
 
 2. **Karno — AI Specialist** — fresh today; native JD required
 3. **Manzoumeh Hooshmand Pars — Speech AI Engineer** — fresh today; likely higher stretch, native JD required
 4. **Homina Darman — AI Specialist** — fresh one day; native JD required
-5. **Farineh Fanavar — AI Engineer** — fresh two days; native JD required
-6. **Hamyan — Python Programmer** — fresh today; native JD/seniority/ownership review required
-7. **Armaghan Atlas — AI / Automation / Business Development** — high bounded stretch
+5. **Farineh Fanavar — AI Engineer** — fresh AI-lane target; native JD required
+6. **Goldiran Asayesh — Software QA Specialist** — fresh today; conditional QA/evaluation band, native JD required
+7. **Hamyan — Python Programmer** — fresh today/remote; native JD, seniority and ownership review required
+8. **WSNI — Technical Software Support** — recent; primary-band candidate if native duties show real technical diagnosis/integration
+9. **Hummers Group — Python Developer** — recent; native seniority/ownership review required
+10. **Respina Radyn IT — Python / Django Programmer** — recent; native seniority/ownership review required
 
-### Historical parallel application candidates
+### Reserve / watch
 
-- **Viuna — Technical Software Support** — recheck freshness before any action
-- **Serita — QA Engineer** — use only project-based testing/evaluation claims; recheck freshness
+- **Armaghan Atlas — AI / Automation / Business Development** — high bounded stretch
+- **AtiSun — Software Documentation Specialist** — adjacent reserve
+- **Pal / Parto Bita / Smart Innovators Simagar QA roles** — replacement QA options
+- **Viuna — Technical Software Support** — historical application candidate; recheck freshness before action
+- **Serita — QA Engineer** — historical application candidate; project-based QA/evaluation claims only and freshness recheck required
 
 ### Access-only rejection
 
 - **Diaco — AI Programming Intern** — rejected because of employer under-25 gate; not a capability failure.
 
-Keep a bounded parallel pool. Do not serially block on one JD.
+Keep a bounded parallel pool. Do not serially block on one JD and do not expand into an unbounded catalog.
 
 ## 8. Application / claim boundary
 
@@ -191,7 +206,7 @@ No application is considered submitted until actually submitted and privately ev
 
 ## 9. Exact next Career action
 
-> **Resume job execution now. First move Rahyab from analysis toward a real submission after a final current/open check. In parallel, resolve the fresh Jobinja AI queue (Karno → Speech AI → Homina → Farineh), inspect Hamyan Python, and continue bilingual discovery across AI/LLM/ML/RAG/agents plus Python/QA/support/integration. Keep the second selected source on direct-careers watch only. Do not reopen broad career strategy unless new evidence actually changes it.**
+> **Move Rahyab from analysis to actual submission preparation now. In parallel, resolve Karno → Speech AI → Homina → Farineh, then Goldiran QA → Hamyan Python → WSNI Technical Software Support, with Hummers and Respina retained as fresh Python alternatives. Continue bilingual Jobinja discovery across AI/LLM/ML/RAG/agents plus Python/QA/support/integration, and keep the selected second source on direct-careers watch only. Record real application feedback immediately when it exists.**
 
 ## 10. Next review triggers
 
