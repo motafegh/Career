@@ -60,22 +60,29 @@ CURRENT / OPEN
 
 ### B — Market discovery
 
-Current new-discovery sources remain:
+Current primary public discovery sources are:
 
 - **Jobinja**;
-- **direct Jabama careers only**.
+- **e-estekhdam**;
+- **IranEstekhdam**;
+- **JobVision**.
+
+The previously selected **direct Jabama careers** lane remains a supplementary direct-employer watch rather than the sole permitted second source.
 
 Search bilingually across:
 
 - AI / Applied AI / AI Automation / AI Integration;
 - LLM / RAG / GenAI / Agent / Agentic AI;
 - ML / Deep Learning / NLP / Speech AI / Computer Vision / Image Processing;
-- Persian equivalents including `هوش مصنوعی`, `مدل زبانی`, `عامل هوشمند`, `یادگیری ماشین`, `پردازش زبان طبیعی`, `بینایی ماشین` and related forms;
-- Python/backend/junior/trainee/internship;
-- QA/testing/evaluation;
-- technical/application/software support;
-- implementation/integration/ERP/onboarding;
+- Persian equivalents including `هوش مصنوعی`, `مدل زبانی`, `عامل هوشمند`, `یادگیری ماشین`, `پردازش زبان طبیعی`, `بینایی ماشین`, `پردازش تصویر`, `اتوماسیون` and related forms;
+- Python / `پایتون` / backend / FastAPI / Django / junior / trainee / internship;
+- QA / testing / evaluation / `تست نرم افزار` / `تضمین کیفیت`;
+- technical/application/software support / `پشتیبانی فنی` / `پشتیبانی نرم افزار`;
+- implementation / integration / ERP / onboarding / `پیاده سازی` / `استقرار` / `یکپارچه سازی`;
+- automation/workflow terms including n8n / Make / Zapier where useful;
 - technical operations / IT quality / bounded entry-security roles where duties genuinely fit.
+
+Use each platform according to the strength of evidence actually accessible. Do not promote a title/snippet into a vacancy-fit conclusion when the current/open state or native employer duties cannot be verified.
 
 Discovery remains broader than current capability. Filter after the JD, not before search.
 
@@ -149,6 +156,8 @@ Fresh refill candidate at cycle entry:
 
 - Hamyan — Python Programmer — Jobinja surface currently shows a fresh posting; native JD/seniority/ownership review required.
 
+The 2026-10-18 expanded-source refresh added **Helman — AI / Software Development & AI Automation** and **Tejarat Hooshmand Sharif — AI & Software Engineering Intern** as new high-priority application-track candidates after native-JD review. Current live ordering belongs to `../CAREER_STATE.md`.
+
 Keep a bounded parallel pool. Replace stale/rejected candidates rather than preserving count artificially.
 
 ## 6. Workload
@@ -186,4 +195,4 @@ Event-based review triggers:
 
 ## 9. Exact cycle-level direction
 
-> **Convert the existing positioning into real market feedback while UpgradePilot remains the technical flagship. Search Jobinja broadly in Persian and English, keep direct Jabama careers on watch, prioritize Rahyab and other surviving high-fit roles, and reassess capability only when real personal evidence appears. Do not start a new project or force vacancy technologies into UpgradePilot.**
+> **Convert the existing positioning into real market feedback while UpgradePilot remains the technical flagship. Search Jobinja, e-estekhdam, IranEstekhdam and JobVision broadly in Persian and English, retain direct Jabama careers as supplementary watch, prioritize Rahyab and other surviving high-fit roles, and reassess capability only when real personal evidence appears. Do not start a new project or force vacancy technologies into UpgradePilot.**
