@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-18 — Iran discovery expanded to four public job platforms; Helman and Tejarat Hooshmand Sharif internship promoted after native-JD review  
+**Last updated:** 2026-10-18 — Iran discovery expanded to four public job platforms; Rahyab, Helman and Tejarat Hooshmand Sharif now have claim-bounded submission templates  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -20,7 +20,7 @@
 | E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and deferred**, to be addressed when materially useful |
 | Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
 | New-discovery sources | **Jobinja + e-estekhdam + IranEstekhdam + JobVision** as current primary public discovery sources; direct Jabama careers retained as supplementary direct-employer watch |
-| Application state | **Rahyab AI Specialist remains submission-preparation priority. Helman AI / Software Development & AI Automation and Tejarat Hooshmand Sharif AI & Software Engineering Intern are now additional application-track candidates after native-JD review.** No actual submission is recorded yet. |
+| Application state | **Rahyab AI Specialist, Helman AI / Software Development & AI Automation, and Tejarat Hooshmand Sharif AI & Software Engineering Intern have claim-bounded submission-ready public-safe templates.** Actual submission still requires private application fields/surface; no submission is recorded yet. |
 | Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** technical attention available to UpgradePilot and **15–25%** for Career/market/application/E2/targeted gaps |
 | Next scheduled checkpoint | **2026-11-17 cycle closeout**; optional 2026-10-31 midpoint only if enough new evidence exists |
 
@@ -145,6 +145,8 @@ The expanded Jobinja pass produced two materially important candidates:
 - **Helman — AI / Software Development & AI Automation** — unusually strong responsibility match with permissive formal experience gating, explicit AI-assisted-development orientation and explicit requirement to understand/review/modify AI-generated code;
 - **Tejarat Hooshmand Sharif — AI & Software Engineering Intern** — explicit entry structure, real technical/R&D project work, continuous feedback, Python/software/AI exposure and potential post-internship employment.
 
+Both now have vacancy-specific claim audits and submission-ready public-safe application templates.
+
 It also produced useful negative/hold evidence:
 
 - Fideco AI Automation Specialist — current ownership/portfolio requirements too high;
@@ -159,7 +161,7 @@ No capability level changes follow from this market refresh.
 
 ## 7. Candidate priorities
 
-### Application / preparation track
+### Submission-ready application track
 
 1. **Rahyab Baryar Sana — AI Specialist**
    - responsibility fit: STRONG
@@ -167,7 +169,7 @@ No capability level changes follow from this market refresh.
    - technical/claim fit: DEFENSIBLE STRETCH
    - submission-ready public-safe tailored template exists
    - current decision: **APPLICATION TRACK**
-   - next: complete private submission fields and actually submit; do not repeat broad fit analysis
+   - next: complete private submission fields and actually submit
 
 2. **Helman — AI / Software Development & AI Automation**
    - responsibility fit: VERY STRONG
@@ -175,15 +177,19 @@ No capability level changes follow from this market refresh.
    - AI-assisted-engineering/process fit: VERY STRONG
    - technical substrate: DEFENSIBLE STRETCH, especially database/full-stack/deployment/n8n ownership
    - employer explicitly does not require years of programming experience and explicitly values code understanding/modification around AI-assisted development
+   - claim audit: complete
+   - submission-ready public-safe tailored template: complete
    - current decision: **APPLICATION TRACK**
-   - next: vacancy-specific claim audit and tailored application package
+   - next: complete private application fields and submit while the vacancy remains current
 
 3. **Tejarat Hooshmand Sharif — AI & Software Engineering Intern**
    - technical substrate: STRONG for the stated entry level
-   - mentorship/feedback structure: STRONG
+   - mentorship/feedback structure: VERY STRONG
    - first-role learning / ownership-growth value: VERY STRONG
-   - current decision: **APPLICATION TRACK**, subject only to private schedule/compensation feasibility
-   - next: bounded claim/fit audit and tailored internship application
+   - claim/fit audit: complete
+   - submission-ready public-safe tailored template: complete
+   - current decision: **APPLICATION TRACK**, subject to private schedule/compensation feasibility
+   - next: resolve private feasibility and submit if acceptable
 
 ### Native-JD resolution / active hold queue
 
@@ -238,7 +244,7 @@ No application is considered submitted until actually submitted and privately ev
 
 ## 9. Exact next Career action
 
-> **Finish and submit Rahyab through the private application surface. In parallel, run the vacancy-specific claim audit and tailored application preparation for Helman, then the bounded application audit/package for the Tejarat Hooshmand Sharif AI & Software Engineering internship. Continue bilingual discovery through Jobinja, e-estekhdam, IranEstekhdam and JobVision, with direct Jabama careers as supplementary watch; promote only current/open vacancies with enough native evidence. Keep Karno/Homina/Speech AI/Goldiran/Hamyan/WSNI in bounded resolution rather than allowing inaccessible pages to block the stronger ready candidates. Record real application feedback immediately when it exists.**
+> **Convert the three prepared candidates into actual applications: Rahyab first, Helman immediately after, and the Tejarat Hooshmand Sharif internship when private schedule/compensation feasibility passes. In parallel, continue bilingual discovery through Jobinja, e-estekhdam, IranEstekhdam and JobVision, with direct Jabama careers as supplementary watch; promote only current/open vacancies with enough native evidence. Keep Karno/Homina/Speech AI/Goldiran/Hamyan/WSNI in bounded resolution and replace stale/rejected slots rather than growing an unbounded catalog. Record each real submission and any employer feedback immediately when it exists.**
 
 ## 10. Next review triggers
 
