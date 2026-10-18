@@ -1,9 +1,10 @@
 # Rahyab Baryar Sana — AI Specialist Application Package
 
 **Prepared:** 2026-10-17  
+**Refined:** 2026-10-18  
 **Vacancy:** AI Specialist / کارشناس هوش مصنوعی  
 **Source:** Jobinja  
-**Status:** Public-safe tailored application package; private contact fields must be completed outside the public Career repository before submission  
+**Status:** Submission-ready public-safe tailored template; private contact/application fields must be completed outside the public Career repository before actual submission  
 **Claim authority:** `ALI_RAJABI_MASTER_CV.md` + `../tracking/research/2026-10-10_RAHYAB_AI_SPECIALIST_CLAIM_AUDIT.md`
 
 ---
@@ -36,8 +37,6 @@ Particularly interested in applying AI to real organizational workflows through 
 - Linux terminal and Git/GitHub workflows
 - Technical documentation and structured problem solving
 
-**Current boundary:** professional n8n / Make / Zapier production ownership, broad CRM/backend integration ownership, production ML engineering, advanced SQL/data engineering, and independent production agent-platform ownership are not claimed.
-
 ## Selected Projects
 
 ### JobHunter — Local Applied-AI Career Intelligence Product
@@ -49,7 +48,7 @@ Repository: https://github.com/motafegh/jobhunter
 - Work extensively with LLM behavior, structured outputs, semantic validation, source truth, and failure handling.
 - Guide product requirements and evaluation around when model-generated conclusions should be accepted, rejected, or kept unresolved.
 - Project exposure includes Python, APIs, SQLite-backed state, local LLMs, browser/CLI interfaces, and deterministic validation.
-- Implementation is substantially AI-generated and is presented as evidence of product direction, AI-system evaluation, and assisted engineering rather than independent ownership of the full source stack.
+- Implementation is substantially AI-generated; the project is presented as evidence of product direction, AI-system evaluation, and assisted engineering rather than independent ownership of the full source stack.
 
 ### UpgradePilot — Python Dependency-Update Evidence Tool
 
@@ -59,7 +58,7 @@ Repository: https://github.com/motafegh/UpgradePilot
 - Work with an installable Python system that investigates dependency-update changes using evidence from GitHub, CI workflows, PyPI, upstream releases, and project declarations.
 - Participate materially in evidence-boundary, architecture, AI-integration, scope, and trust decisions.
 - Regularly challenge unsupported conclusions, special-case logic, and assumptions that available evidence proves more than it actually does.
-- Current Career evidence supports bounded source-flow, representative-test, API/service, validation, lifecycle/evidence, and model-interface reasoning while broader implementation ownership remains under development.
+- Can explain selected current source/test responsibilities and important proof and uncertainty boundaries while broader implementation ownership remains under development.
 
 ### Sentinel — ML / Data Research System
 
@@ -106,7 +105,7 @@ Thesis involved 3D rock-core image analysis and neural-network methods for poros
 
 ### Bachelor's Degree — Petroleum Engineering
 
-[Institution / dates to verify before use if required]
+Institution and dates should be added only in the private submission copy after verification if the application form or employer requires them.
 
 ## Languages
 
@@ -140,11 +139,11 @@ Keep these facts outside the public repository and fill them only in the actual 
 - phone number;
 - current city/location wording;
 - LinkedIn URL if used;
-- exact education/employment dates only if required and verified;
+- verified bachelor's institution and any exact education/employment dates required by the application;
 - any Jobinja account/profile fields;
 - any private eligibility/compensation information.
 
-## Final claim check
+## Internal claim guardrails — do not paste into the submitted CV
 
 Do **not** add the following unless new evidence exists before submission:
 
