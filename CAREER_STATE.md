@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-17 — post-Day-90 Jobinja execution refresh completed; fresh 10-role pool activated and Rahyab moved to submission preparation  
+**Last updated:** 2026-10-18 — Iran discovery expanded to four public job platforms; Helman and Tejarat Hooshmand Sharif internship promoted after native-JD review  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -19,8 +19,8 @@
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and deferred**, to be addressed when materially useful |
 | Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
-| New-discovery sources | **Jobinja + the previously selected Jobama/Jabama direct-careers lane only; do not add candidates from other platforms without Ali changing the source decision** |
-| Application state | **Rahyab AI Specialist remains the primary application-track candidate and passed a fresh listing-level current/open recheck on 2026-10-17.** Fresh resolution pool now includes Karno AI Specialist, Speech AI Engineer, Homina AI Specialist, Farineh AI Engineer, Goldiran QA, Hamyan Python, WSNI Technical Software Support, Hummers Python and Respina Python/Django. Viuna and Serita QA remain historical parallel candidates subject to freshness recheck. No submission is recorded yet. |
+| New-discovery sources | **Jobinja + e-estekhdam + IranEstekhdam + JobVision** as current primary public discovery sources; direct Jabama careers retained as supplementary direct-employer watch |
+| Application state | **Rahyab AI Specialist remains submission-preparation priority. Helman AI / Software Development & AI Automation and Tejarat Hooshmand Sharif AI & Software Engineering Intern are now additional application-track candidates after native-JD review.** No actual submission is recorded yet. |
 | Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** technical attention available to UpgradePilot and **15–25%** for Career/market/application/E2/targeted gaps |
 | Next scheduled checkpoint | **2026-11-17 cycle closeout**; optional 2026-10-31 midpoint only if enough new evidence exists |
 
@@ -67,7 +67,7 @@ Current strongest personal evidence includes:
 - increasing applied-AI/LLM system context through the current local-model/interface qualification work;
 - substantial prior business/process responsibility and stakeholder judgment.
 
-The latest UpgradePilot work strengthens the **basis for later reassessment**, but this Day-90 review makes **no automatic broad Career D-level promotion**.
+The latest UpgradePilot work strengthens the **basis for later reassessment**, but no automatic broad Career D-level promotion follows from project or market progress.
 
 Still not established:
 
@@ -118,70 +118,102 @@ Career does not prescribe UpgradePilot implementation sequence. Do not force vac
 
 Titles remain secondary to responsibilities, mentorship, access and day-one ownership stretch.
 
-## 6. Current market refresh — 2026-10-17
+## 6. Current market refresh — 2026-10-18
 
-The post-Day-90 refresh is recorded in:
+The controlling fresh market-execution evidence is:
+
+`tracking/research/2026-10-18_EXPANDED_IRAN_JOB_SOURCE_REFRESH.md`
+
+The previous Jobinja-only execution refresh remains historical evidence:
 
 `tracking/research/2026-10-17_POST_DAY90_JOBINJA_EXECUTION_REFRESH.md`
 
-Jobinja remains active and the market pool now has same-day representation across several responsibility families.
+Current source policy now permits broad bilingual discovery through:
 
-Fresh/current visible candidates include:
+- Jobinja;
+- e-estekhdam;
+- IranEstekhdam;
+- JobVision;
+- direct Jabama careers as supplementary direct-employer watch.
 
-- **Karno — AI Specialist — listed today**;
-- **Manzoumeh Hooshmand Pars — Speech AI Engineer — listed today**;
-- **Homina Darman — AI Specialist — listed one day ago**;
-- **Farineh Fanavar — AI Engineer — fresh current AI-lane target**;
-- **Rahyab Baryar Sana — AI Specialist — still active, about fourteen days old**;
-- **Goldiran Asayesh — Software QA Specialist — listed today**;
-- **Hamyan — Python Programmer — listed today, remote**;
-- **WSNI — Technical Software Support — listed about six days ago**;
-- **Hummers Group — Python Developer — listed about six days ago**;
-- **Respina Radyn IT — Python / Django Programmer — listed about seven days ago**.
+Search coverage includes AI/applied-AI/automation/integration; LLM/RAG/GenAI/agents; ML/NLP/speech/vision; Python/backend; QA/testing/evaluation; technical/software support; implementation/integration/deployment; and relevant Persian equivalents.
 
-Several Jobinja detail pages remain inaccessible through the current research interface. Therefore current listing/title evidence is **not** promoted into invented JD requirements.
+Current interface quality differs by source. Jobinja yielded the strongest usable native JDs in this pass. JobVision, IranEstekhdam and e-estekhdam remain approved sources but did not yield enough reliable current native-JD evidence through the current research interface to promote a candidate during this pass. Do not infer current vacancy requirements from stale pages, generic search results or snippets.
 
-The selected second-source careers surface remains unreliable from the current interface; no third-party mirror is substituted.
+The expanded Jobinja pass produced two materially important candidates:
 
-AI/LLM/ML remains a **first-class bilingual discovery lane**, while Python, QA, support and implementation remain active in parallel.
+- **Helman — AI / Software Development & AI Automation** — unusually strong responsibility match with permissive formal experience gating, explicit AI-assisted-development orientation and explicit requirement to understand/review/modify AI-generated code;
+- **Tejarat Hooshmand Sharif — AI & Software Engineering Intern** — explicit entry structure, real technical/R&D project work, continuous feedback, Python/software/AI exposure and potential post-internship employment.
+
+It also produced useful negative/hold evidence:
+
+- Fideco AI Automation Specialist — current ownership/portfolio requirements too high;
+- Artificial Intelligence Rayvarz LLM Specialist — explicit doctorate gate;
+- Yektaz AI-Backend Python — 3–6 years plus broad backend ownership;
+- DORNICA Python/FastAPI — senior/production backend scope;
+- Sanay Python/Data — permissive formal experience metadata but a broad required data/backend stack;
+- Jooyeshgar Pardis Eram AI Engineer — strong thematic overlap but high day-one implementation breadth;
+- WebRamz hosting support — support-band relevance but hosting-specific substrate mismatch.
+
+No capability level changes follow from this market refresh.
 
 ## 7. Candidate priorities
 
-### Application track
+### Application / preparation track
 
 1. **Rahyab Baryar Sana — AI Specialist**
    - responsibility fit: STRONG
    - professional transfer: STRONG
    - technical/claim fit: DEFENSIBLE STRETCH
-   - fresh listing-level current/open recheck: PASSED 2026-10-17
+   - submission-ready public-safe tailored template exists
    - current decision: **APPLICATION TRACK**
-   - next: prepare the private final submission copy and actually submit; do not repeat broad fit analysis
+   - next: complete private submission fields and actually submit; do not repeat broad fit analysis
 
-### Fresh native-JD / fit-resolution queue
+2. **Helman — AI / Software Development & AI Automation**
+   - responsibility fit: VERY STRONG
+   - professional transfer: VERY STRONG
+   - AI-assisted-engineering/process fit: VERY STRONG
+   - technical substrate: DEFENSIBLE STRETCH, especially database/full-stack/deployment/n8n ownership
+   - employer explicitly does not require years of programming experience and explicitly values code understanding/modification around AI-assisted development
+   - current decision: **APPLICATION TRACK**
+   - next: vacancy-specific claim audit and tailored application package
 
-2. **Karno — AI Specialist** — fresh today; native JD required
-3. **Manzoumeh Hooshmand Pars — Speech AI Engineer** — fresh today; likely higher stretch, native JD required
-4. **Homina Darman — AI Specialist** — fresh one day; native JD required
-5. **Farineh Fanavar — AI Engineer** — fresh AI-lane target; native JD required
-6. **Goldiran Asayesh — Software QA Specialist** — fresh today; conditional QA/evaluation band, native JD required
-7. **Hamyan — Python Programmer** — fresh today/remote; native JD, seniority and ownership review required
-8. **WSNI — Technical Software Support** — recent; primary-band candidate if native duties show real technical diagnosis/integration
-9. **Hummers Group — Python Developer** — recent; native seniority/ownership review required
-10. **Respina Radyn IT — Python / Django Programmer** — recent; native seniority/ownership review required
+3. **Tejarat Hooshmand Sharif — AI & Software Engineering Intern**
+   - technical substrate: STRONG for the stated entry level
+   - mentorship/feedback structure: STRONG
+   - first-role learning / ownership-growth value: VERY STRONG
+   - current decision: **APPLICATION TRACK**, subject only to private schedule/compensation feasibility
+   - next: bounded claim/fit audit and tailored internship application
+
+### Native-JD resolution / active hold queue
+
+4. **Karno — AI Specialist** — native JD still required
+5. **Homina Darman — AI Specialist** — native JD still required
+6. **Manzoumeh Hooshmand Pars — Speech AI Engineer** — native JD still required; likely higher stretch
+7. **Goldiran Asayesh — Software QA Specialist** — native JD still useful
+8. **Hamyan — Python Programmer** — native JD/seniority still useful
+9. **WSNI — Technical Software Support** — native duties still useful
+10. **Jooyeshgar Pardis Eram — AI Engineer** — native JD known; **HIGH-STRETCH HOLD** because day-one implementation breadth exceeds current ownership evidence
 
 ### Reserve / watch
 
+- **WebRamz — Technical Hosting Support** — lower-priority support reserve; hosting-specific depth mismatch
+- **Farineh Fanavar — AI / Agent role** — retain only with a fresh current/open recheck and native-JD review
 - **Armaghan Atlas — AI / Automation / Business Development** — high bounded stretch
 - **AtiSun — Software Documentation Specialist** — adjacent reserve
-- **Pal / Parto Bita / Smart Innovators Simagar QA roles** — replacement QA options
-- **Viuna — Technical Software Support** — historical application candidate; recheck freshness before action
-- **Serita — QA Engineer** — historical application candidate; project-based QA/evaluation claims only and freshness recheck required
+- **Hummers / Respina Python roles** — refill/comparison candidates if higher-priority slots close
+- **Viuna / Serita QA** — historical application candidates; freshness recheck required before action
 
-### Access-only rejection
+### Reject / benchmark
 
-- **Diaco — AI Programming Intern** — rejected because of employer under-25 gate; not a capability failure.
+- **Fideco — AI Automation Specialist** — real automation-project and n8n/Make/Zapier/API/agent ownership expected; current ownership mismatch
+- **Artificial Intelligence Rayvarz — LLM Specialist** — doctorate access gate
+- **Yektaz Cyclet Kavir — AI-Backend Python Developer** — 3–6 years plus broad backend ownership
+- **DORNICA — Python/FastAPI** — senior production-backend responsibilities
+- **Sanay System Development — Python/Data** — current required stack materially exceeds present relational/backend evidence
+- **Diaco — AI Programming Intern** — historical employer under-25 gate; access-only rejection
 
-Keep a bounded parallel pool. Do not serially block on one JD and do not expand into an unbounded catalog.
+Keep a bounded parallel pool. Reject and replace rather than preserving stale candidates or expanding into an unbounded catalog.
 
 ## 8. Application / claim boundary
 
@@ -206,7 +238,7 @@ No application is considered submitted until actually submitted and privately ev
 
 ## 9. Exact next Career action
 
-> **Move Rahyab from analysis to actual submission preparation now. In parallel, resolve Karno → Speech AI → Homina → Farineh, then Goldiran QA → Hamyan Python → WSNI Technical Software Support, with Hummers and Respina retained as fresh Python alternatives. Continue bilingual Jobinja discovery across AI/LLM/ML/RAG/agents plus Python/QA/support/integration, and keep the selected second source on direct-careers watch only. Record real application feedback immediately when it exists.**
+> **Finish and submit Rahyab through the private application surface. In parallel, run the vacancy-specific claim audit and tailored application preparation for Helman, then the bounded application audit/package for the Tejarat Hooshmand Sharif AI & Software Engineering internship. Continue bilingual discovery through Jobinja, e-estekhdam, IranEstekhdam and JobVision, with direct Jabama careers as supplementary watch; promote only current/open vacancies with enough native evidence. Keep Karno/Homina/Speech AI/Goldiran/Hamyan/WSNI in bounded resolution rather than allowing inaccessible pages to block the stronger ready candidates. Record real application feedback immediately when it exists.**
 
 ## 10. Next review triggers
 
