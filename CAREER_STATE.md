@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-18 — Iran discovery expanded to four public job platforms; Rahyab, Helman and Tejarat Hooshmand Sharif now have claim-bounded submission templates  
+**Last updated:** 2026-10-19 — IranEstekhdam produced a newly promoted serious candidate; Basalam Product Builder now has a direct-employer-verified claim audit, canonical job record and submission-ready public-safe package  
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -20,7 +20,7 @@
 | E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and deferred**, to be addressed when materially useful |
 | Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
 | New-discovery sources | **Jobinja + e-estekhdam + IranEstekhdam + JobVision** as current primary public discovery sources; direct Jabama careers retained as supplementary direct-employer watch |
-| Application state | **Rahyab AI Specialist, Helman AI / Software Development & AI Automation, and Tejarat Hooshmand Sharif AI & Software Engineering Intern have claim-bounded submission-ready public-safe templates.** Actual submission still requires private application fields/surface; no submission is recorded yet. |
+| Application state | **Rahyab AI Specialist, Helman AI / Software Development & AI Automation, Tejarat Hooshmand Sharif AI & Software Engineering Intern, and Basalam Product Builder have claim-bounded submission-ready public-safe templates.** Basalam and Tejarat still require private practical-feasibility resolution; all actual submissions require private application fields/surface. No submission is recorded yet. |
 | Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** technical attention available to UpgradePilot and **15–25%** for Career/market/application/E2/targeted gaps |
 | Next scheduled checkpoint | **2026-11-17 cycle closeout**; optional 2026-10-31 midpoint only if enough new evidence exists |
 
@@ -118,17 +118,18 @@ Career does not prescribe UpgradePilot implementation sequence. Do not force vac
 
 Titles remain secondary to responsibilities, mentorship, access and day-one ownership stretch.
 
-## 6. Current market refresh — 2026-10-18
+## 6. Current market refresh — 2026-10-19
 
 The controlling fresh market-execution evidence is:
 
-`tracking/research/2026-10-18_EXPANDED_IRAN_JOB_SOURCE_REFRESH.md`
+`tracking/research/2026-10-19_EXPANDED_IRAN_JOB_REFRESH.md`
 
-The previous Jobinja-only execution refresh remains historical evidence:
+Earlier refreshes remain historical evidence:
 
-`tracking/research/2026-10-17_POST_DAY90_JOBINJA_EXECUTION_REFRESH.md`
+- `tracking/research/2026-10-18_EXPANDED_IRAN_JOB_SOURCE_REFRESH.md`
+- `tracking/research/2026-10-17_POST_DAY90_JOBINJA_EXECUTION_REFRESH.md`
 
-Current source policy now permits broad bilingual discovery through:
+Current source policy remains:
 
 - Jobinja;
 - e-estekhdam;
@@ -136,28 +137,30 @@ Current source policy now permits broad bilingual discovery through:
 - JobVision;
 - direct Jabama careers as supplementary direct-employer watch.
 
-Search coverage includes AI/applied-AI/automation/integration; LLM/RAG/GenAI/agents; ML/NLP/speech/vision; Python/backend; QA/testing/evaluation; technical/software support; implementation/integration/deployment; and relevant Persian equivalents.
+Search coverage includes AI/applied-AI/automation/integration; LLM/RAG/GenAI/agents; ML/NLP/speech/vision; Python/backend; QA/testing/evaluation; technical/software support; implementation/integration/deployment; technical-product/product-builder roles; and relevant Persian equivalents.
 
-Current interface quality differs by source. Jobinja yielded the strongest usable native JDs in this pass. JobVision, IranEstekhdam and e-estekhdam remain approved sources but did not yield enough reliable current native-JD evidence through the current research interface to promote a candidate during this pass. Do not infer current vacancy requirements from stale pages, generic search results or snippets.
+The 2026-10-19 pass materially improved IranEstekhdam usefulness: its fresh listing surface exposed current technical roles and a direct Basalam careers link. Direct employer verification then promoted **Basalam / SalamPay — Product Builder Intern** into the application track.
 
-The expanded Jobinja pass produced two materially important candidates:
+Basalam's employer-authored role is unusually aligned with current Career evidence because it combines product/business thinking, Git/API/system literacy, technical-feasibility reasoning, root-cause analysis, data-driven problem solving, cross-functional collaboration, documentation and ownership without making broad independent software implementation the central entry gate.
 
-- **Helman — AI / Software Development & AI Automation** — unusually strong responsibility match with permissive formal experience gating, explicit AI-assisted-development orientation and explicit requirement to understand/review/modify AI-generated code;
-- **Tejarat Hooshmand Sharif — AI & Software Engineering Intern** — explicit entry structure, real technical/R&D project work, continuous feedback, Python/software/AI exposure and potential post-internship employment.
+Basalam now has:
 
-Both now have vacancy-specific claim audits and submission-ready public-safe application templates.
+- canonical serious-vacancy record: `market/jobs/BASALAM_PRODUCT_BUILDER_INTERNSHIP.md`;
+- vacancy-specific claim audit: `tracking/research/2026-10-19_BASALAM_PRODUCT_BUILDER_INTERNSHIP_CLAIM_AUDIT.md`;
+- submission-ready public-safe application package: `market/2026-10-19_BASALAM_PRODUCT_BUILDER_APPLICATION_PACKAGE.md`.
 
-It also produced useful negative/hold evidence:
+The same pass produced useful negative evidence:
 
-- Fideco AI Automation Specialist — current ownership/portfolio requirements too high;
-- Artificial Intelligence Rayvarz LLM Specialist — explicit doctorate gate;
-- Yektaz AI-Backend Python — 3–6 years plus broad backend ownership;
-- DORNICA Python/FastAPI — senior/production backend scope;
-- Sanay Python/Data — permissive formal experience metadata but a broad required data/backend stack;
-- Jooyeshgar Pardis Eram AI Engineer — strong thematic overlap but high day-one implementation breadth;
-- WebRamz hosting support — support-band relevance but hosting-specific substrate mismatch.
+- **Tapsell — AI Engineer** — strong thematic overlap but explicit 3-year, Python/FastAPI, agent/MCP/RAG/platform and enterprise implementation ownership; reject/benchmark for current cycle;
+- **Crouse — AI Software Engineer** — relevant-degree/experience plus real-world AI/ML development/deployment requirements; reject for current cycle;
+- **Web Pooyan Ariana — Deployment & Support** — relevant support responsibility family but explicit female/Yazd access constraints plus SQL/C# substrate mismatch; reject;
+- **Kasp-o-Kar Razavi — Software Engineer** — substantial production backend/operations/database/Linux/deployment/observability ownership; reject/benchmark.
 
-No capability level changes follow from this market refresh.
+JobVision and e-estekhdam remain approved primary sources even when a given search pass does not yield a promotable current native vacancy. Do not interpret search-interface absence as market absence.
+
+No capability level changes follow from these market refreshes.
+
+The durable serious-vacancy layer is `market/jobs/`: application-track, serious-hold and later interview-stage roles receive their own canonical record; ordinary discovery/reject/weak-hold results remain in dated refresh evidence.
 
 ## 7. Candidate priorities
 
@@ -168,6 +171,7 @@ No capability level changes follow from this market refresh.
    - professional transfer: STRONG
    - technical/claim fit: DEFENSIBLE STRETCH
    - submission-ready public-safe tailored template exists
+   - canonical job record exists
    - current decision: **APPLICATION TRACK**
    - next: complete private submission fields and actually submit
 
@@ -179,6 +183,7 @@ No capability level changes follow from this market refresh.
    - employer explicitly does not require years of programming experience and explicitly values code understanding/modification around AI-assisted development
    - claim audit: complete
    - submission-ready public-safe tailored template: complete
+   - canonical job record exists
    - current decision: **APPLICATION TRACK**
    - next: complete private application fields and submit while the vacancy remains current
 
@@ -188,18 +193,30 @@ No capability level changes follow from this market refresh.
    - first-role learning / ownership-growth value: VERY STRONG
    - claim/fit audit: complete
    - submission-ready public-safe tailored template: complete
+   - canonical job record exists
    - current decision: **APPLICATION TRACK**, subject to private schedule/compensation feasibility
    - next: resolve private feasibility and submit if acceptable
 
+4. **Basalam / SalamPay — Product Builder Intern**
+   - professional-responsibility transfer: VERY STRONG
+   - product/problem-solving fit: VERY STRONG
+   - technical-literacy fit: STRONG / DEFENSIBLE
+   - broad independent implementation ownership is not the central public gate
+   - claim/fit audit: complete
+   - submission-ready public-safe tailored template: complete
+   - canonical job record exists
+   - current decision: **APPLICATION TRACK**, subject to private onsite/Qom feasibility
+   - next: resolve private practical feasibility and submit if acceptable
+
 ### Native-JD resolution / active hold queue
 
-4. **Karno — AI Specialist** — native JD still required
-5. **Homina Darman — AI Specialist** — native JD still required
-6. **Manzoumeh Hooshmand Pars — Speech AI Engineer** — native JD still required; likely higher stretch
-7. **Goldiran Asayesh — Software QA Specialist** — native JD still useful
-8. **Hamyan — Python Programmer** — native JD/seniority still useful
-9. **WSNI — Technical Software Support** — native duties still useful
-10. **Jooyeshgar Pardis Eram — AI Engineer** — native JD known; **HIGH-STRETCH HOLD** because day-one implementation breadth exceeds current ownership evidence
+5. **Karno — AI Specialist** — native JD still required
+6. **Homina Darman — AI Specialist** — native JD still required
+7. **Manzoumeh Hooshmand Pars — Speech AI Engineer** — native JD still required; likely higher stretch
+8. **Goldiran Asayesh — Software QA Specialist** — native JD still useful
+9. **Hamyan — Python Programmer** — native JD/seniority still useful
+10. **WSNI — Technical Software Support** — native duties still useful
+11. **Jooyeshgar Pardis Eram — AI Engineer** — canonical serious-hold record exists; **HIGH-STRETCH HOLD** because day-one implementation breadth exceeds current ownership evidence
 
 ### Reserve / watch
 
@@ -212,6 +229,10 @@ No capability level changes follow from this market refresh.
 
 ### Reject / benchmark
 
+- **Tapsell — AI Engineer** — 3-year plus broad agent/MCP/RAG/platform implementation ownership mismatch
+- **Crouse — AI Software Engineer** — degree/access plus real-world AI/ML implementation/deployment ownership mismatch
+- **Web Pooyan Ariana — Deployment & Support Specialist** — access plus SQL/C# substrate mismatch
+- **Kasp-o-Kar Razavi — Software Engineer** — production backend/operations ownership mismatch
 - **Fideco — AI Automation Specialist** — real automation-project and n8n/Make/Zapier/API/agent ownership expected; current ownership mismatch
 - **Artificial Intelligence Rayvarz — LLM Specialist** — doctorate access gate
 - **Yektaz Cyclet Kavir — AI-Backend Python Developer** — 3–6 years plus broad backend ownership
@@ -244,7 +265,7 @@ No application is considered submitted until actually submitted and privately ev
 
 ## 9. Exact next Career action
 
-> **Convert the three prepared candidates into actual applications: Rahyab first, Helman immediately after, and the Tejarat Hooshmand Sharif internship when private schedule/compensation feasibility passes. In parallel, continue bilingual discovery through Jobinja, e-estekhdam, IranEstekhdam and JobVision, with direct Jabama careers as supplementary watch; promote only current/open vacancies with enough native evidence. Keep Karno/Homina/Speech AI/Goldiran/Hamyan/WSNI in bounded resolution and replace stale/rejected slots rather than growing an unbounded catalog. Record each real submission and any employer feedback immediately when it exists.**
+> **Convert the prepared candidates into actual applications rather than doing more broad analysis: Rahyab first, Helman immediately after, Tejarat Hooshmand Sharif when private schedule/compensation feasibility passes, and Basalam when private onsite/Qom feasibility passes. Continue bilingual discovery through Jobinja, e-estekhdam, IranEstekhdam and JobVision in parallel, with direct employer pages preferred for final vacancy authority. Keep Karno/Homina/Speech AI/Goldiran/Hamyan/WSNI in bounded resolution, preserve Jooyeshgar as a serious high-stretch hold, and replace stale/rejected slots rather than growing an unbounded catalog. Record each real submission and employer feedback immediately when it exists.**
 
 ## 10. Next review triggers
 
