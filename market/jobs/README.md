@@ -70,6 +70,12 @@ STALE_OR_CLOSED
 
 Do not mark `SUBMITTED` until actual submission is privately evidenced.
 
+## November 2026 freshness rule
+
+The latest market revalidation is `../../tracking/research/2026-11-06_IRAN_JOB_MARKET_REVALIDATION.md`. The original October records below remain **materials/evidence records**, not confirmed-open November vacancies. A failed or blocked attempt to retrieve a job does **not** establish it is closed. Check a current native employer/application surface before an APPLY or SUBMITTED transition.
+
+A title-only lead such as Sahab Junior Python Developer must remain in dated market research until its employer-authored JD and fit/access gates are resolved. Do not create a serious-job file merely because its listing is recent.
+
 ## Current admitted records
 
 - `RAHYAB_AI_SPECIALIST.md` — APPLICATION_READY
