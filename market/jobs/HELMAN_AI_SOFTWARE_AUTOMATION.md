@@ -60,3 +60,11 @@ Update this record when:
 - the employer clarifies role structure/mentorship in a way that changes the fit decision.
 
 Private contact fields, schedule/location feasibility, compensation and correspondence remain outside this repository.
+
+## 2026-11-06 vacancy revalidation
+
+- **Original October evidence remains valid as a dated historical review**, not proof of an open November vacancy.
+- **November current/open status: UNVERIFIED.** Attempts to retrieve a current native listing through the accessible research interface did not establish availability. This is **not a closure finding**.
+- Preserve existing fit/claim analysis and any tailored package as reusable materials. Do **not** mark `SUBMITTED`, `REJECTED` or `STALE_OR_CLOSED` from retrieval failure.
+- Before action, re-open the actual source/application page, confirm it is accepting applications, recheck any changed requirements and private feasibility; record an actual submission only after evidence.
+- November market evidence: `../../tracking/research/2026-11-06_IRAN_JOB_MARKET_REVALIDATION.md`.
