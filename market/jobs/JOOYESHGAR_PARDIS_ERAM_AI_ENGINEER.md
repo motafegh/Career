@@ -58,3 +58,11 @@ Reassess this vacancy or a materially similar successor when at least one of the
 - real employer feedback from closer-fit applications suggests this ownership stretch is more acceptable than current evidence indicates.
 
 Do not create a curriculum or force these technologies into UpgradePilot merely to fit this one vacancy.
+
+## 2026-11-06 vacancy revalidation
+
+- **Original October evidence remains valid as a dated historical review**, not proof of an open November vacancy.
+- **November current/open status: UNVERIFIED.** Attempts to retrieve a current native listing through the accessible research interface did not establish availability. This is **not a closure finding**.
+- Preserve existing fit/claim analysis and any tailored package as reusable materials. Do **not** mark `SUBMITTED`, `REJECTED` or `STALE_OR_CLOSED` from retrieval failure.
+- Before action, re-open the actual source/application page, confirm it is accepting applications, recheck any changed requirements and private feasibility; record an actual submission only after evidence.
+- November market evidence: `../../tracking/research/2026-11-06_IRAN_JOB_MARKET_REVALIDATION.md`.
