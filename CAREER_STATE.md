@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-10-19 — IranEstekhdam produced a newly promoted serious candidate; Basalam Product Builder now has a direct-employer-verified claim audit, canonical job record and submission-ready public-safe package  
+**Last updated:** 2026-11-06 — November revalidation preserved October applications as materials-ready but current/open unverified; new Sahab junior Python lead requires native-JD resolution
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -20,7 +20,7 @@
 | E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and deferred**, to be addressed when materially useful |
 | Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
 | New-discovery sources | **Jobinja + e-estekhdam + IranEstekhdam + JobVision** as current primary public discovery sources; direct Jabama careers retained as supplementary direct-employer watch |
-| Application state | **Rahyab AI Specialist, Helman AI / Software Development & AI Automation, Tejarat Hooshmand Sharif AI & Software Engineering Intern, and Basalam Product Builder have claim-bounded submission-ready public-safe templates.** Basalam and Tejarat still require private practical-feasibility resolution; all actual submissions require private application fields/surface. No submission is recorded yet. |
+| Application state | **Four claim-bounded application packages remain prepared** (Rahyab, Helman, Tejarat Hooshmand Sharif, Basalam), but **none was confirmed open in the November 6 recheck**; their October current/open evidence is historical. Zero actual submissions are evidenced in Career. Fresh November lead: Sahab Junior Python Developer (Sahabino), announcement 2026-11-05, **native JD still required**. |
 | Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** technical attention available to UpgradePilot and **15–25%** for Career/market/application/E2/targeted gaps |
 | Next scheduled checkpoint | **2026-11-17 cycle closeout**; optional 2026-10-31 midpoint only if enough new evidence exists |
 
@@ -118,9 +118,17 @@ Career does not prescribe UpgradePilot implementation sequence. Do not force vac
 
 Titles remain secondary to responsibilities, mentorship, access and day-one ownership stretch.
 
-## 6. Current market refresh — 2026-10-19
+## 6. Current market evidence — 2026-11-06
 
-The controlling fresh market-execution evidence is:
+**Latest dated revalidation:** `tracking/research/2026-11-06_IRAN_JOB_MARKET_REVALIDATION.md`.
+
+The November 6 pass attempted fresh Persian/English discovery through the four approved platforms. Public generic pages were accessible but job detail access and freshness were unreliable (some pages reflected August 2026 crawls). **No new role was promoted to APPLICATION_TRACK from title-only or cached evidence.** The one strong new dated lead is **Sahab — Junior Python Developer (Sahabino)**, announced November 5 through IranEstekhdam's Tehran channel; native JD and application status must still be resolved. BennuAi AI Internship is a lower-confidence title-only signal whose purported freshness could not be trusted.
+
+**All four October application packages are reusable, not November-open verified.** Preserve submitted/not-submitted distinctions; failed page retrieval is not proof the job closed. Actual employer-side submission remains the priority before the November 17 cycle closeout.
+
+### Earlier October market refresh — historical context
+
+The October 19 market-execution evidence was:
 
 `tracking/research/2026-10-19_EXPANDED_IRAN_JOB_REFRESH.md`
 
@@ -163,6 +171,8 @@ No capability level changes follow from these market refreshes.
 The durable serious-vacancy layer is `market/jobs/`: application-track, serious-hold and later interview-stage roles receive their own canonical record; ordinary discovery/reject/weak-hold results remain in dated refresh evidence.
 
 ## 7. Candidate priorities
+
+**November 6 qualification:** The four APPLICATION_TRACK records below describe claim-bounded *prepared materials*, not verified currently open applications. Check native current/open status again before submitting. All other October roles need the same freshness discipline; Sahab Junior Python is a new LEAD_ONLY, not an admitted serious-job record.
 
 ### Submission-ready application track
 
@@ -265,7 +275,7 @@ No application is considered submitted until actually submitted and privately ev
 
 ## 9. Exact next Career action
 
-> **Convert the prepared candidates into actual applications rather than doing more broad analysis: Rahyab first, Helman immediately after, Tejarat Hooshmand Sharif when private schedule/compensation feasibility passes, and Basalam when private onsite/Qom feasibility passes. Continue bilingual discovery through Jobinja, e-estekhdam, IranEstekhdam and JobVision in parallel, with direct employer pages preferred for final vacancy authority. Keep Karno/Homina/Speech AI/Goldiran/Hamyan/WSNI in bounded resolution, preserve Jooyeshgar as a serious high-stretch hold, and replace stale/rejected slots rather than growing an unbounded catalog. Record each real submission and employer feedback immediately when it exists.**
+> **Revalidate Rahyab, Helman, Tejarat Hooshmand Sharif and Basalam on their authentic application surfaces, then submit those still open and privately feasible using existing claim-bounded packages; record actual evidence before marking SUBMITTED. In parallel obtain the native employer-authored JD and current application route for the fresh Sahab Junior Python Developer (Sahabino) lead announced 2026-11-05, then apply the existing fit/ownership/access gate. Resolve BennuAi only if a verifiable current native JobVision vacancy can be found. Continue bounded bilingual discovery across Jobinja, e-estekhdam, IranEstekhdam and JobVision. The current cycle closes 2026-11-17; conversion outranks creating more unsubmitted CV variants.**
 
 ## 10. Next review triggers
 
