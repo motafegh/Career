@@ -280,6 +280,8 @@ This does not claim that these responsibilities are permanently immune to automa
 
 ## 9. Current portfolio strategy
 
+> **2026-11-26 transition notice:** The portfolio allocation described below reflects the last approved strategy, not the current execution facts. AegisLab was reactivated by the owner on November 22. The October–November cycle is closed, and [Career reconciliation](../plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md) will decide permanent roles, allocation and strategy at R2–R4/R6. For the live position use [CAREER_STATE](../CAREER_STATE.md) and [portfolio](../portfolio/PROJECT_PORTFOLIO.md). No new long-term specialization or current professional title is adopted by this notice.
+
 ### Primary capability-building flagship
 
 UpgradePilot remains the main current vehicle for:
