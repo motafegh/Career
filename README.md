@@ -39,12 +39,12 @@ This is a direction of travel, not a claim of professional depth in every listed
 
 ## Current project portfolio
 
-- **[UpgradePilot](https://github.com/motafegh/UpgradePilot)** — sole primary capability/ownership flagship.
+- **[UpgradePilot](https://github.com/motafegh/UpgradePilot)** — last approved primary capability/ownership flagship; personal allocation under review.
 - **[JobHunter](https://github.com/motafegh/jobhunter)** — AI-full-implementation applied-AI product, Career market-intelligence infrastructure, and portfolio asset; repository capability is not automatic Ali implementation evidence.
 - **[Sentinel](https://github.com/motafegh/sentinel-)** — original Ali-involved AI-assisted ML/data/security work plus a later AI-led R4 research continuation; the two eras remain explicitly distinct.
-- **AegisLab** — historical security-learning/design evidence, not an active route.
+- **[AegisLab](https://github.com/motafegh/AegisLab)** — reactivated defensive-security and applied-AI learning project; formal primary/support role under review.
 
-The intended employer-facing portfolio path is **UpgradePilot → JobHunter → Sentinel**. This Career repository should not be treated as the primary recruiter destination.
+The prior employer-facing portfolio path was **UpgradePilot → JobHunter → Sentinel**; ordering will be reassessed during the current reconciliation. This Career repository should not be treated as the primary recruiter destination.
 
 ## Live state
 
@@ -67,7 +67,7 @@ For current technical truth, use the relevant project repository and its own aut
 1. [`CAREER_STATE.md`](CAREER_STATE.md) — current live Career position and exact next action.
 2. [`CAREER_CHARTER.md`](CAREER_CHARTER.md) — durable mission, boundaries, and evidence doctrine.
 3. [`strategy/CAREER_STRATEGY.md`](strategy/CAREER_STRATEGY.md) — long-term direction, role families, and capability priorities.
-4. [`plans/CURRENT_CAREER_CYCLE.md`](plans/CURRENT_CAREER_CYCLE.md) — current bounded cycle and required outcomes.
+4. [November reconciliation program](plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md) — active transition; [previous cycle](plans/CURRENT_CAREER_CYCLE.md) is closed pending successor.
 5. [`portfolio/PROJECT_PORTFOLIO.md`](portfolio/PROJECT_PORTFOLIO.md) — project roles and Career contribution.
 6. [`tracking/CAPABILITY_EVIDENCE_LEDGER.md`](tracking/CAPABILITY_EVIDENCE_LEDGER.md) — cross-project capability evidence and claim limits.
 7. [`market/EMPLOYABILITY_AND_MARKET_PLAN.md`](market/EMPLOYABILITY_AND_MARKET_PLAN.md) — transition from market calibration to applications.
