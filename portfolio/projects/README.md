@@ -6,10 +6,10 @@ This directory gives each portfolio project its own bounded Career area without 
 
 ## Current project areas
 
-- [`upgradepilot/`](upgradepilot/) — active primary flagship and main current capability-building vehicle.
+- [`upgradepilot/`](upgradepilot/) — last approved primary flagship; personal allocation under review.
 - [`jobhunter/`](jobhunter/) — active AI-full-implementation applied-AI product, market-intelligence infrastructure, and portfolio asset; not a learning flagship or automatic capability evidence.
 - [`sentinel/`](sentinel/) — active AI-full-implementation ML/data/security research and portfolio asset; not a learning flagship or automatic current ML capability evidence.
-- [`aegislab/`](aegislab/) — historical security-learning and project-design evidence.
+- [`aegislab/`](aegislab/) — reactivated Core v2 security-learning project; primary-learning candidate, formal role under review.
 
 JobHunter still has its Career-side market-integration authority under [`../../market/jobhunter/`](../../market/jobhunter/). Its presence here records its additional portfolio role and does not transfer market authority into the portfolio area.
 
