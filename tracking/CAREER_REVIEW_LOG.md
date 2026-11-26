@@ -847,3 +847,15 @@ project repositories
 ```
 
 **Next review trigger:** Earliest material trigger among meaningful Iranian application/screening/interview feedback, a capability/ownership threshold change, E2 resumption/closure, a materially better or blocked role/access route, workload/geography/project-role change, the 2026-10-17 Day-90 review, or Ali's explicit request.
+
+---
+
+### 2026-11-26 — Expired conversion cycle and cross-project reconciliation activation
+
+**Trigger:** Owner requested a comprehensive review after a gap in Career operation, including AegisLab reactivation and the other projects, then authorized necessary reconciliation.
+
+**Evidence:** Published Career main at `39ec2c83e2`, original cycle criteria, November 6 market revalidation, five serious job records, capability ledger and Master CV dates, and the published project states/learning records and main heads enumerated in [the reconciliation program](../plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md). Local-only changes, private employer activity and actual hours not independently verified.
+
+**Decision:** Close the October 18–November 17 cycle; its recorded market-conversion target was unsuccessful, while technical progress and application preparation remain valuable. See [closeout](../tracking/2026-11-26_CONVERSION_CYCLE_CLOSEOUT.md). Do not infer that no private submission occurred. Recognize AegisLab as active under the November 22 owner decision. Permanent primary learning route, allocation and identity remain open pending R2–R4 and market calibration; retain the 24-hour focused ceiling, not expired percentages. No new project or second permanent primary route. No change to capability depth, external seniority claims, or project-local implementation authority. Preserve historical vacancy evidence; current feasible applications may proceed in parallel after fresh verification.
+
+**Next trigger:** R2 capability/learning evidence review, then R3 project-role/allocation decision; provisional program review December 3, 2026. Live next action in CAREER_STATE.
