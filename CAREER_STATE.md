@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Sole owner of live Career position  
-**Last updated:** 2026-11-06 — November revalidation preserved October applications as materials-ready but current/open unverified; new Sahab junior Python lead requires native-JD resolution
+**Last updated:** 2026-11-26 — overdue conversion cycle closed; portfolio facts reconciled; bounded Career and Portfolio Reconciliation Program active
 **Update rule:** Change only after a material career event, formal review, or explicit durable Career decision
 
 ## 1. Current position
@@ -12,19 +12,23 @@
 | Long-term direction | Anchored-hybrid Python/data/applied-AI engineering with secure/trustworthy engineering as a cross-cutting responsibility and evidence-led adjacent breadth |
 | Working identity | **AI-augmented Python/data/ML engineer developing secure engineering capability** |
 | Public broad headline | **Junior Software Engineer \| Python, Data & Applied AI** |
-| Previous cycle | **2026-07-20 through 2026-10-17 — CLOSED as materially positive PARTIAL SUCCESS** |
-| Current cycle | **2026-10-18 through 2026-11-17 — 30-day conversion / feedback / ownership-evidence cycle** |
-| Primary capability-building flagship | **UpgradePilot** |
-| Flagship operating authority | `motafegh/UpgradePilot` |
+| Previous cycle | **2026-10-18 through 2026-11-17 — CLOSED; conversion objective unsuccessful on available record; strategic correction required** |
+| Current cycle | **No new execution cycle adopted. Interim reconciliation:** [November program](plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md); successor at R9. |
+| Primary capability-building flagship | **UpgradePilot was the last approved primary route; AegisLab is owner-reactivated and a candidate for primary learning. Permanent role and allocation under R2/R3 review.** |
+| Project operating authority | Each project owns its own technical continuation, including `motafegh/UpgradePilot` and `motafegh/AegisLab`. |
 | Employability phase | **E3 — narrow responsibility-based calibration readiness established; broad readiness not established** |
 | E2 / positioning state | Repository-side correction materially complete; remaining GitHub UI/account work **incomplete and deferred**, to be addressed when materially useful |
 | Active market lane | **Iran only for current operating focus**; international routes remain deferred, not rejected |
 | New-discovery sources | **Jobinja + e-estekhdam + IranEstekhdam + JobVision** as current primary public discovery sources; direct Jabama careers retained as supplementary direct-employer watch |
-| Application state | **Four claim-bounded application packages remain prepared** (Rahyab, Helman, Tejarat Hooshmand Sharif, Basalam), but **none was confirmed open in the November 6 recheck**; their October current/open evidence is historical. Zero actual submissions are evidenced in Career. Fresh November lead: Sahab Junior Python Developer (Sahabino), announcement 2026-11-05, **native JD still required**. |
-| Workload | Green ceiling up to **24 focused hours/week**; roughly **75–85%** technical attention available to UpgradePilot and **15–25%** for Career/market/application/E2/targeted gaps |
-| Next scheduled checkpoint | **2026-11-17 cycle closeout**; optional 2026-10-31 midpoint only if enough new evidence exists |
+| Application state | Four October packages preserved; November 6 checks did not confirm open status. No confirmed submissions or employer feedback in Career; actual private outcomes unknown. November 5 Sahab lead and other leads require fresh verification. |
+| Workload | Green ceiling up to **24 focused hours/week** retained; expired cycle percentages not renewed. During bounded reconciliation, no second permanent personal flagship or new project; preserve meaningful personal work and application opportunity. Durable allocation at R3/R9. |
+| Next scheduled checkpoint | **2026-12-03 provisional reconciliation review** or earlier material decision/evidence. |
 
-## 2. Day-90 closeout
+## 2. Cycle closeouts
+
+**October 18–November 17 conversion cycle:** [formal closeout](tracking/2026-11-26_CONVERSION_CYCLE_CLOSEOUT.md), reviewed November 26. Market conversion target not achieved on the public record; meaningful market preparation and technical progress preserved. Actual private submissions/feedback are unknown. No automatic capability promotion. New execution cycle pending R9.
+
+### Earlier Day-90 closeout
 
 The first 90-day cycle is formally closed.
 
@@ -46,7 +50,7 @@ Why not `Strong success`:
 - SQL and professional Git/review remain weak;
 - most importantly, no actual application/interview/rejection feedback loop is yet recorded.
 
-The next phase therefore focuses on **conversion**, not another broad career-direction exploration.
+The following conversion cycle is now closed. The active reconciliation is bounded to correcting material assumptions; real applications may proceed in parallel.
 
 ## 3. Capability / ownership interpretation
 
@@ -84,25 +88,16 @@ UpgradePilot project-local `D` learning labels are not Career D0–D5 levels.
 
 Capability authority remains `tracking/CAPABILITY_EVIDENCE_LEDGER.md`; update it only when a specific evidence-based reassessment changes a conclusion.
 
-## 4. UpgradePilot position relevant to Career — 2026-10-17
+## 4. Portfolio position relevant to Career — 2026-11-26
 
-UpgradePilot remains the sole primary capability / ownership flagship.
+The published project comparison and evidence limits are recorded in the [reconciliation program](plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md). Project-local continuation stays in the respective repositories.
 
-Current project-local state materially advanced after the October 15 alignment:
+- UpgradePilot has substantial implemented dependency-investigation/reporting behavior; independent usefulness and personal broad ownership remain unestablished.
+- AegisLab is active under the owner's November 22 evolution decision; early synthetic detection and experimental local AI are implemented, but live telemetry, useful semantic investigation and independent practical ownership remain open. Career primary/support classification is under review, not historical-only.
+- JobHunter and Sentinel continue as applied-AI and specialized research/product assets. Their repository progress does not raise personal capability automatically.
+- EdgePilot is a personal early research project; projects-learning is existing learning infrastructure. No additional flagship is authorized by this factual reconciliation.
 
-- common Investigator native-input/source-interface preparation is **CLOSED through E**;
-- adapter/mechanical qualification is **CLOSED through E**;
-- active successor is **deployment and model-interface qualification**;
-- A0/A1/A2 are complete and source/retention B work is delivered;
-- runtime Verification remains **WITHHELD / IN PROGRESS**;
-- six local-model candidates are frozen for qualification under explicit request/configuration/accounting boundaries;
-- complete stateless request/result retention and model-visible input handling were strengthened after actual run failures;
-- later semantic paired comparison remains separately gated and **not activated**;
-- independent usefulness remains unestablished.
-
-Career does not prescribe UpgradePilot implementation sequence. Do not force vacancy technologies into it.
-
-## 5. Current role bands
+## 5. Last approved role bands — pending R4/R6 review
 
 ### Primary
 
@@ -118,13 +113,13 @@ Career does not prescribe UpgradePilot implementation sequence. Do not force vac
 
 Titles remain secondary to responsibilities, mentorship, access and day-one ownership stretch.
 
-## 6. Current market evidence — 2026-11-06
+## 6. Historical market evidence — last refresh 2026-11-06
 
 **Latest dated revalidation:** `tracking/research/2026-11-06_IRAN_JOB_MARKET_REVALIDATION.md`.
 
 The November 6 pass attempted fresh Persian/English discovery through the four approved platforms. Public generic pages were accessible but job detail access and freshness were unreliable (some pages reflected August 2026 crawls). **No new role was promoted to APPLICATION_TRACK from title-only or cached evidence.** The one strong new dated lead is **Sahab — Junior Python Developer (Sahabino)**, announced November 5 through IranEstekhdam's Tehran channel; native JD and application status must still be resolved. BennuAi AI Internship is a lower-confidence title-only signal whose purported freshness could not be trusted.
 
-**All four October application packages are reusable, not November-open verified.** Preserve submitted/not-submitted distinctions; failed page retrieval is not proof the job closed. Actual employer-side submission remains the priority before the November 17 cycle closeout.
+**All four October application packages are reusable, not November-open verified.** Preserve submitted/not-submitted distinctions; failed page retrieval is not proof the job closed. The November 17 cycle has closed; actual employer-side submission remains a priority during reconciliation.
 
 ### Earlier October market refresh — historical context
 
@@ -170,7 +165,7 @@ No capability level changes follow from these market refreshes.
 
 The durable serious-vacancy layer is `market/jobs/`: application-track, serious-hold and later interview-stage roles receive their own canonical record; ordinary discovery/reject/weak-hold results remain in dated refresh evidence.
 
-## 7. Candidate priorities
+## 7. Historical candidate priorities — fresh checks required
 
 **November 6 qualification:** The four APPLICATION_TRACK records below describe claim-bounded *prepared materials*, not verified currently open applications. Check native current/open status again before submitting. All other October roles need the same freshness discipline; Sahab Junior Python is a new LEAD_ONLY, not an admitted serious-job record.
 
@@ -275,15 +270,14 @@ No application is considered submitted until actually submitted and privately ev
 
 ## 9. Exact next Career action
 
-> **Revalidate Rahyab, Helman, Tejarat Hooshmand Sharif and Basalam on their authentic application surfaces, then submit those still open and privately feasible using existing claim-bounded packages; record actual evidence before marking SUBMITTED. In parallel obtain the native employer-authored JD and current application route for the fresh Sahab Junior Python Developer (Sahabino) lead announced 2026-11-05, then apply the existing fit/ownership/access gate. Resolve BennuAi only if a verifiable current native JobVision vacancy can be found. Continue bounded bilingual discovery across Jobinja, e-estekhdam, IranEstekhdam and JobVision. The current cycle closes 2026-11-17; conversion outranks creating more unsubmitted CV variants.**
+> **Execute R2 of the [Career and Portfolio Reconciliation Program](plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md): reassess specific personal learning and ownership evidence across UpgradePilot and AegisLab with bounded checks, and inspect relevant JobHunter/Sentinel direction evidence without equating AI implementation to personal mastery. Then make the R3 portfolio/allocation decision. In parallel, actual feasible applications may proceed from freshly verified native vacancies; reconcile private outcomes if supplied. Do not activate a new execution cycle or final identity before the program's decision gates.**
 
 ## 10. Next review triggers
 
-Return for Career review at the earliest of:
+Return at the earliest of:
 
+- R2 personal evidence and R3 allocation decision;
 - meaningful application/screen/interview/rejection evidence;
-- a capability-changing ownership/diagnosis/transfer result;
-- repeated access failures that materially change targeting;
-- a material workload/geography/portfolio/strategy change;
-- **2026-11-17 cycle closeout**;
-- Ali explicitly requests review.
+- material portfolio, workload, geography, role, or capability evidence;
+- **2026-12-03 provisional reconciliation review** (close or explicitly re-scope);
+- owner request.
