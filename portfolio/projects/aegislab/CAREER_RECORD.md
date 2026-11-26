@@ -1,11 +1,13 @@
 # AegisLab — Career Project Record
 
 **Owner:** Ali Rajabi  
-**Career role:** Historical evidence  
-**Status:** Inactive; no current continuation authorized  
-**Last reviewed:** 2026-07-27
+**Career role:** Reactivated project — primary learning candidate; formal Career classification pending R3  
+**Status:** Active under owner-authorized Core v2 evolution; project-local authority controls execution  
+**Last reviewed:** 2026-11-26 (published-state reconciliation; capability review pending)
 
-## 1. Project significance
+> **November reconciliation:** AegisLab resumed under the owner's [November 22 evolution decision](https://github.com/motafegh/AegisLab/blob/main/docs/proposals/2026-11-22-ai-first-aegislab-evolution-plan.md). The old inactive classification is superseded. See the [Career reconciliation program](../../../plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md). The historical evidence below is retained; current personal ownership is not inferred from new implementation.
+
+## 1. Historical project significance
 
 AegisLab was designed as a long-running modular security-learning flagship focused on an AI Security Automation Engineer direction with network-defense, detection, and security-platform foundations.
 
@@ -56,7 +58,11 @@ environment and mechanism first
 
 The retained lesson is to teach infrastructure and security mechanisms around a visible product or investigation responsibility rather than making the mechanism itself the entire mission.
 
-## 4. Repository / Ali / AI distinction
+## 4. Current repository / Ali / AI distinction
+
+The November 26 published state reports a deterministic SSH event-analysis CLI on synthetic evidence, bounded local model inference and validation, inference supervision/fallback, Sigma semantics comparison and 55 tests. The LLM output remains experimental, with semantic usefulness, fresh telemetry and actual operational integration unestablished. The learner has demonstrated guided changed-case reasoning and interpretation; personally running/modifying a case, diagnosing failures and delayed recall remain open. Review [project state](https://github.com/motafegh/AegisLab/blob/main/PROJECT_STATE.md) and [learning ledger](https://github.com/motafegh/AegisLab/blob/main/docs/learning/LEARNING_LEDGER.md) for underlying evidence. This is a candidate for R2, not a D-level decision.
+
+### Historical evidence and claim boundary
 
 ### Repository/project design
 
@@ -92,32 +98,10 @@ Specific technical claims require inspection of the preserved evidence and curre
 
 ## 6. Current Career role
 
-AegisLab is historical evidence, not an active project.
+AegisLab is active; its project-local Core v2 route replaces the deferred July roadmap. Its formal Career role and durable personal allocation will be decided in R3 after reassessing capability evidence and comparing marginal learning value with UpgradePilot. Do not interpret this record as authorization of two permanent personal flagships.
 
-Permitted future uses:
+Career-level candidate value: real defensive operations, network/Linux foundations, Python security pipelines, reliable local AI and evaluated agent tooling. Require personal operation, changed-case modification, diagnosis, transfer and useful outcomes before stronger capability or external claims. Safety and scope remain governed in AegisLab; Career does not select its next technical action.
 
-- extract one bounded security or network case for reassessment;
-- reuse evidence and safety principles in current work;
-- create a concise portfolio case study about diagnosis or project-design correction;
-- inform future security-specialization decisions;
-- compare project-led versus mechanism-led learning.
+## 7. Review trigger
 
-Not permitted without a new Career decision:
-
-- resume the old roadmap;
-- execute deferred sessions;
-- transfer its architecture into UpgradePilot;
-- treat the proposed module map as current scope;
-- make it a competing flagship.
-
-## 7. Reactivation trigger
-
-A bounded AegisLab review may be authorized when:
-
-- a target security-automation role becomes a serious application target;
-- the current portfolio needs one specific defensive lab or diagnosis demonstration;
-- Ali's secure-engineering direction requires evidence not available in UpgradePilot;
-- a future project needs a verified reusable lab method;
-- a Career review considers a stronger security specialization.
-
-The default remains historical evidence.
+R2 personal evidence reassessment and R3 portfolio decision, or an earlier material evidence change. Preserve historical guided work and assistance limits. No automatic independent security-engineering claim.
