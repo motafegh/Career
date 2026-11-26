@@ -1,11 +1,13 @@
 # Current Career Cycle
 
 **Owner:** Ali Rajabi  
-**Status:** Approved and controlling current Career cycle  
+**Status:** CLOSED — execution ended 2026-11-17; reviewed 2026-11-26; retained historical plan pending successor at R9  
 **Execution period:** 2026-10-18 through 2026-11-17  
 **Cycle type:** 30-day conversion / feedback / ownership-evidence cycle  
 **Previous cycle:** 2026-07-20 through 2026-10-17 — formally closed in `../tracking/2026-10-17_DAY90_CAREER_CYCLE_CLOSEOUT.md`  
 **Responsibility:** Bounded Career outcomes, allocation, review points and closure evidence. `../CAREER_STATE.md` owns the exact live position and next action.
+
+> **Closure notice:** See [cycle closeout](../tracking/2026-11-26_CONVERSION_CYCLE_CLOSEOUT.md). The original plan below is preserved as historical intent, not live instructions. The [reconciliation program](../plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md) now governs the transition; live next action remains in CAREER_STATE. No successor cycle is assumed approved.
 
 ## 1. Why this cycle is shorter
 
