@@ -2,7 +2,7 @@
 
 **Owner:** Ali Rajabi  
 **Status:** Approved and controlling Career project-portfolio record  
-**Last reviewed:** 2026-09-19 — profile-driven portfolio-boundary review; project roles retained  
+**Last reviewed:** 2026-11-26 — factual portfolio reconciliation; permanent learning roles pending R3
 **Responsibility:** Current project list, Career roles, allocation class, durable contribution, claim boundaries, and review triggers
 
 ## 1. Portfolio purpose
@@ -21,18 +21,18 @@ Technical continuation remains in each project repository.
 
 This file owns **current project roles**, not fast-changing capability scores, exact Career next actions, or project technical state. For those, use the Capability Ledger, `CAREER_STATE.md`, and the relevant project repository.
 
-## 2. Current allocation
+## 2. Portfolio status during reconciliation
+
+The [November reconciliation program](../plans/2026-11-26_CAREER_AND_PORTFOLIO_RECONCILIATION_PROGRAM.md) governs the review of personal learning allocation. The table preserves the last approved Career roles where unchanged; AegisLab is active, not historical-only. R3 will determine the permanent primary route and workload. The expired cycle percentages do not carry forward automatically.
 
 | Project | Career role | Execution state | Main Career contribution | Technical authority |
 |---|---|---|---|---|
-| UpgradePilot | Sole primary capability/ownership flagship | Active independently | Current Python/evidence/testing capability vehicle and main ownership-growth project | `motafegh/UpgradePilot` |
+| UpgradePilot | Last approved primary capability/ownership flagship; role under R3 review | Active independently | Current Python/evidence/testing capability vehicle and main ownership-growth project | `motafegh/UpgradePilot` |
 | JobHunter | AI-full-implementation applied-AI product + Career market-intelligence infrastructure + portfolio asset | Active independently | Applied-AI reliability/product narrative and current market observation; not automatic Ali implementation evidence | `motafegh/jobhunter` |
 | Sentinel | AI-full-implementation ML/data/security research asset + portfolio case-study source | Active independently | Historical Ali-involved ML/data evidence, now contextualized by an earlier academic ML/image-analysis thread, plus current AI-led research/evaluation narrative; not automatic current Ali implementation evidence | `motafegh/sentinel-` |
-| AegisLab | Historical evidence | Inactive | Security-engineering direction, safe-lab thinking, deliberate failure, evidence, and learning-system lessons | Project repository/Git history where available |
+| AegisLab | Reactivated primary-learning candidate; formal role pending R3 | Active under Core v2 | Defensive operations, evidence-centered security automation and bounded local AI learning; personal ownership still under assessment | `motafegh/AegisLab` |
 
-No supporting learning project or separate experimental learning project is currently authorized.
-
-UpgradePilot remains the **only primary learning/capability project**. JobHunter and Sentinel may continue technically without becoming parallel learning flagships.
+No additional project is admitted by this reconciliation. EdgePilot is separate personal research without protected Career allocation; projects-learning is existing learning infrastructure rather than a flagship. JobHunter and Sentinel may continue technically without becoming parallel personal learning flagships. Preserve the single-primary default; R3 decides the new allocation.
 
 ## 3. Portfolio narrative
 
@@ -56,7 +56,7 @@ This story must remain evidence-backed. It does not claim that all code or archi
 | Secure engineering | Product trust/evidence boundaries | Provenance/semantic fail-closed boundaries | Security-research context | Primary historical interest and guided evidence |
 | Linux and operational reasoning | Supporting environment work | Local-first operation | Historical exposure | Strong guided lab exposure |
 | Advanced systems | Evidence-led future pilots only | Do not add for fashion | Broad exposure without automatic current Ali ownership | Design-level exposure |
-| Portfolio explanation | Primary ownership-defense target | Selected asset | Selected case-study source | Historical optional |
+| Portfolio explanation | Primary ownership-defense target | Selected asset | Selected case-study source | Candidate under review |
 
 This table describes portfolio contribution, not current D-level capability. The canonical current capability conclusion is `tracking/CAPABILITY_EVIDENCE_LEDGER.md`.
 
@@ -87,7 +87,7 @@ Do not encode fast-changing capability checkpoints or exact E2/application statu
 
 ## 7. Portfolio rules
 
-- UpgradePilot remains the only active primary learning/capability project unless Career formally changes the role.
+- Maintain one primary personal learning route by default; UpgradePilot was the last formally approved primary, and AegisLab is now a candidate under review.
 - An active AI-full-implementation project may be a portfolio asset without becoming a capability-building route.
 - Historical projects must not receive Career learning tasks without a named Career purpose.
 - A repository is not automatically a portfolio item or a capability claim.
@@ -98,7 +98,7 @@ Do not encode fast-changing capability checkpoints or exact E2/application statu
 - A project should be shown through its problem, behavior, evidence, decisions, failures, and ownership—not only its README or diagram.
 - Do not attempt to learn all active repositories in parallel.
 
-## 8. Current portfolio priorities — owner-safe form
+## 8. Prior portfolio priorities — retained pending R3
 
 1. Keep UpgradePilot as the primary current capability/ownership source.
 2. Convert legitimate UpgradePilot work into stronger proof, source/test understanding, meaningful modification, diagnosis, transfer, and explanation where opportunities naturally occur.
@@ -110,7 +110,7 @@ Do not encode fast-changing capability checkpoints or exact E2/application statu
 
 Exact current E2/application priorities belong to `CAREER_STATE.md` and the current Career directive.
 
-## 9. Role-specific project ordering
+## 9. Role-specific project ordering — provisional pending R7
 
 Default starting points for later tailoring:
 
@@ -118,7 +118,7 @@ Default starting points for later tailoring:
 - **Applied AI / AI Implementation:** JobHunter + UpgradePilot + Sentinel or another verified role-specific AI artifact.
 - **Junior data / data engineering:** UpgradePilot + JobHunter; Sentinel as supporting data/evaluation evidence where useful.
 - **ML trainee/junior ML:** Sentinel + UpgradePilot + JobHunter.
-- **AI/security:** Sentinel + UpgradePilot; JobHunter optional.
+- **AI/security:** AegisLab is now a candidate alongside Sentinel and UpgradePilot; choose only verified role-relevant evidence. JobHunter optional.
 
 The actual vacancy controls final project selection and ordering.
 
